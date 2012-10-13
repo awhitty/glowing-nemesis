@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Picnic at Hanging Rock</title>
+    						<poster>http://www.filmaps.com/posters/0910183845000000</poster>
+    						<locations><location>
+    											<place>Marbury School, Stirling, South Australia, Australia</place>
+    										<scene>home of Colonel & Mrs. Fitzhubert (Marbury School)</scene>
+        									<coordinates>138.718,-35.0063</coordinates>
+        									</location></locations>
+						</movie></Document>

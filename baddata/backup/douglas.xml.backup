@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Chromophobia</title>
+    						<poster>http://www.filmaps.com/posters/0912275134000000</poster>
+    						<locations><location>
+    											<place>Douglas, Isle of Man, UK</place>
+    										<scene></scene>
+        									<coordinates>-4.48026,54.1541</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Wild Target</title>
+    						<poster>http://www.filmaps.com/posters/1011141848000000</poster>
+    						<locations><location>
+    											<place>Isle of Man</place>
+    										<scene></scene>
+        									<coordinates>-4.46852,54.1435</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Disappearance of Alice Creed</title>
+    						<poster>http://www.filmaps.com/posters/1011142024000000</poster>
+    						<locations><location>
+    											<place>Douglas, Isle of Man</place>
+    										<scene></scene>
+        									<coordinates>-4.48186,54.1672</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Me and Orson Welles</title>
+    						<poster>http://www.filmaps.com/posters/1011142136000000</poster>
+    						<locations><location>
+    											<place>Gaeity Theatre, Douglas, Isle of Man</place>
+    										<scene></scene>
+        									<coordinates>-4.48197,54.1671</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Albatross</title>
+    						<poster>http://www.filmaps.com/posters/1112285312000000.jpg</poster>
+    						<locations><location>
+    											<place>fort anne road, Douglas, IM1 5BN</place>
+    										<scene>historic house Ravenscliffe scene</scene>
+        									<coordinates>-4.46927,54.1431</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Chico & Rita</title>
+    						<poster>http://www.filmaps.com/posters/1202014313000000.jpg</poster>
+    						<locations><location>
+    											<place>Douglas, Isle of Man, United Kingdom</place>
+    										<scene>film made partly in the Isle of Man has won best in category at the European Film Academy awards</scene>
+        									<coordinates>-4.48096,54.1512</coordinates>
+        									</location></locations>
+						</movie></Document>

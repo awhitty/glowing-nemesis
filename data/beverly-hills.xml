@@ -4,7 +4,7 @@
     						<poster>http://www.filmaps.com/posters/0901113723000000</poster>
     						<locations><location>
     											<place>905 Loma Vista Drive, Beverly Hills, California, USA</place>
-    										<scene>Greystone Park & Mansion</scene>
+    										<scene>Greystone Park &amp; Mansion</scene>
         									<coordinates>-118.4,34.0923</coordinates>
         									</location></locations>
 						</movie><movie>
@@ -91,7 +91,7 @@
     						<title>El Gran Lebowski</title>
     						<poster>http://www.filmaps.com/posters/1201021457000000.jpg</poster>
     						<locations><location>
-    											<place>Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, Estados Unidos</place>
+    											<place>Greystone Park &amp; Mansion - 905 Loma Vista Drive, Beverly Hills, California, Estados Unidos</place>
     										<scene>Lebowski mansion</scene>
         									<coordinates>-118.401,34.0921</coordinates>
         									</location></locations>

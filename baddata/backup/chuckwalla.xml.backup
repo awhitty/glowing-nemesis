@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Fast & Furious 5</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Rice, California</place>
+    										<scene>Train Sequence</scene>
+        									<coordinates>-114.848,34.0743</coordinates>
+        									</location></locations>
+						</movie></Document>

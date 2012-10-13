@@ -44,7 +44,7 @@
     						<poster>http://www.filmaps.com/posters/0906133934000000</poster>
     						<locations><location>
     											<place>3321 South St., Long Beach, California</place>
-    										<scene> Cowboy Country bar was the mid-west C&W bar where the attempted rape that turns the adventure take palce here.</scene>
+    										<scene> Cowboy Country bar was the mid-west C&amp;W bar where the attempted rape that turns the adventure take palce here.</scene>
         									<coordinates>-118.152,33.8606</coordinates>
         									</location><location>
     											<place>long beach</place>
@@ -495,15 +495,15 @@
     						<title>Anger Management</title>
     						<poster>http://www.filmaps.com/posters/1003041021000000</poster>
     						<locations><location>
-    											<place>Bayshore & 64th Place, Long Beach, CA</place>
-    										<scene>date scene gone wrong between Adam Sandler & Heather Graham</scene>
+    											<place>Bayshore &amp; 64th Place, Long Beach, CA</place>
+    										<scene>date scene gone wrong between Adam Sandler &amp; Heather Graham</scene>
         									<coordinates>-118.121,33.7491</coordinates>
         									</location></locations>
 						</movie><movie>
     						<title>There Will Be Blood</title>
     						<poster>http://www.filmaps.com/posters/1003023056000000</poster>
     						<locations><location>
-    											<place>Spring & Orange, Long Beach, CA</place>
+    											<place>Spring &amp; Orange, Long Beach, CA</place>
     										<scene>Daniel Day-Lewis stakes his oil claim</scene>
         									<coordinates>-118.177,33.8113</coordinates>
         									</location></locations>
@@ -512,7 +512,7 @@
     						<poster>http://www.filmaps.com/posters/0906133934000000</poster>
     						<locations><location>
     											<place>3321 South St., Long Beach, California</place>
-    										<scene> Cowboy Country bar was the mid-west C&W bar where the attempted rape that turns the adventure take palce here.</scene>
+    										<scene> Cowboy Country bar was the mid-west C&amp;W bar where the attempted rape that turns the adventure take palce here.</scene>
         									<coordinates>-118.152,33.8606</coordinates>
         									</location><location>
     											<place>long beach</place>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>white palace</title>
+    						<poster>http://www.filmaps.com/posters/0911215907000000</poster>
+    						<locations><location>
+    											<place>Dogtown, St. Louis, MO</place>
+    										<scene>Susan Sarandon lives in blue collar neighborhood, James Spader in Ladue</scene>
+        									<coordinates>-90.3069,38.6201</coordinates>
+        									</location><location>
+    											<place>18th & Olive Streets, St. Louis, Missouri, USA</place>
+    										<scene>White Palace diner</scene>
+        									<coordinates>-90.2061,38.6315</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>white palace</title>
+    						<poster>http://www.filmaps.com/posters/0911215907000000</poster>
+    						<locations><location>
+    											<place>Dogtown, St. Louis, MO</place>
+    										<scene>Susan Sarandon lives in blue collar neighborhood, James Spader in Ladue</scene>
+        									<coordinates>-90.3069,38.6201</coordinates>
+        									</location><location>
+    											<place>18th & Olive Streets, St. Louis, Missouri, USA</place>
+    										<scene>White Palace diner</scene>
+        									<coordinates>-90.2061,38.6315</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Up In The Air</title>
+    						<poster>http://www.filmaps.com/posters/1001073809000000</poster>
+    						<locations><location>
+    											<place>Lambert International Airport, St. Louis, Missouri, USA</place>
+    										<scene></scene>
+        									<coordinates>-90.3657,38.7423</coordinates>
+        									</location></locations>
+						</movie></Document>

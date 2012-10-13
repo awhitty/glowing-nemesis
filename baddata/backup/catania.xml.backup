@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>la matassa</title>
+    						<poster>http://www.filmaps.com/posters/0910303311000000</poster>
+    						<locations><location>
+    											<place>catania largo paisiello</place>
+    										<scene>ficarra & picone</scene>
+        									<coordinates>15.083,37.509</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Divorzio all'italiana</title>
+    						<poster>http://www.filmaps.com/posters/1001294348000000</poster>
+    						<locations><location>
+    											<place>Catania, Sicily, Italy</place>
+    										<scene>escena en las calles de Catania</scene>
+        									<coordinates>15.0877,37.5024</coordinates>
+        									</location></locations>
+						</movie></Document>

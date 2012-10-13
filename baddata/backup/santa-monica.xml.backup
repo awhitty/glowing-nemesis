@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the sting</title>
+    						<poster>http://www.filmaps.com/posters/0901190115000000</poster>
+    						<locations><location>
+    											<place>Santa Monica Pier, Santa Monica, California, USA</place>
+    										<scene>The Chicago Carousel</scene>
+        									<coordinates>-118.497,34.0094</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>nixon</title>
+    						<poster>http://www.filmaps.com/posters/0903315458000000</poster>
+    						<locations><location>
+    											<place>1855 Main Street, Santa Monica, CA</place>
+    										<scene>Car showroom scene</scene>
+        									<coordinates>-118.49,34.0088</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>17 again</title>
+    						<poster>http://www.filmaps.com/posters/0905200639000000</poster>
+    						<locations><location>
+    											<place>601 Pico Boulevard, Santa Monica, CA, USA</place>
+    										<scene>Hayden High School</scene>
+        									<coordinates>-118.485,34.0109</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Speed</title>
+    						<poster>http://www.filmaps.com/posters/0905311613000000</poster>
+    						<locations><location>
+    											<place>Main Street & Ocean Park Boulevard, Santa Monica, California, USA</place>
+    										<scene>Annie's bus stop</scene>
+        									<coordinates>-118.484,34.0021</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Donnie Darko</title>
+    						<poster>http://www.filmaps.com/posters/0909080748000000</poster>
+    						<locations><location>
+    											<place>1328 Montana Avenue, Santa Monica, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.495,34.0321</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Los vigilantes de la playa (Baywatch)</title>
+    						<poster>http://www.filmaps.com/posters/0910250514000000</poster>
+    						<locations><location>
+    											<place>playa de Santa Monica, Santa Monica, CA</place>
+    										<scene>escenario principal de la serie Los vigilantes de la playa</scene>
+        									<coordinates>-118.501,34.0123</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ocean's Eleven</title>
+    						<poster>http://www.filmaps.com/posters/0901111243000000</poster>
+    						<locations><location>
+    											<place>Santa Monica, California, USA</place>
+    										<scene>Ocean and Ryan meeting at the beach park</scene>
+        									<coordinates>-118.497,34.0131</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fracture</title>
+    						<poster>http://www.filmaps.com/posters/1002062814000000</poster>
+    						<locations><location>
+    											<place>101 Wilshire Blvd, Santa Monica, California, USA</place>
+    										<scene>Hotel scene. Fairmont Miramar Hotel</scene>
+        									<coordinates>-118.502,34.0181</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Gran Lebowski</title>
+    						<poster>http://www.filmaps.com/posters/1201021457000000.jpg</poster>
+    						<locations><location>
+    											<place>Santa Monica Airport - 3223 Donald Douglas Loop S., Santa Monica, California, Estados Unidos</place>
+    										<scene>Empty hangar</scene>
+        									<coordinates>-118.453,34.0171</coordinates>
+        									</location></locations>
+						</movie></Document>

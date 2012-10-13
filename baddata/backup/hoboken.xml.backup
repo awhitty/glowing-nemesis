@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Julie & Julia</title>
+    						<poster>http://www.filmaps.com/posters/0908130920000000</poster>
+    						<locations><location>
+    											<place>Hoboken Railway Station, Hoboken, New Jersey</place>
+    										<scene></scene>
+        									<coordinates>-74.0277,40.7444</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>two lovers</title>
+    						<poster>http://www.filmaps.com/posters/0910045245000000</poster>
+    						<locations><location>
+    											<place>Hoboken, New Jersey</place>
+    										<scene>Clubb Scener</scene>
+        									<coordinates>-74.0273,40.7443</coordinates>
+        									</location></locations>
+						</movie></Document>

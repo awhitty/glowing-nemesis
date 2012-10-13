@@ -4,7 +4,7 @@
     						<poster>http://www.filmaps.com/posters/</poster>
     						<locations><location>
     											<place>Rutledge, Georgia, USA</place>
-    										<scene>Kemosabe casino & trading post</scene>
+    										<scene>Kemosabe casino &amp; trading post</scene>
         									<coordinates>-83.6124,33.626</coordinates>
         									</location></locations>
 						</movie></Document>

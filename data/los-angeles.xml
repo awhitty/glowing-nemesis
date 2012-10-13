@@ -7,7 +7,7 @@
     										<scene></scene>
         									<coordinates>-118.25,34.0448</coordinates>
         									</location><location>
-    											<place>3rd Street & Broadway, Downtown, Los Angeles</place>
+    											<place>3rd Street &amp; Broadway, Downtown, Los Angeles</place>
     										<scene>exteriors apartment</scene>
         									<coordinates>-118.248,34.0511</coordinates>
         									</location></locations>
@@ -627,7 +627,7 @@
     										<scene>final scene in Grauman's Chinese Theater</scene>
         									<coordinates>-118.341,34.1016</coordinates>
         									</location><location>
-    											<place>W. Pico Boulevard & West Boulevard, Los Angeles, California, USA</place>
+    											<place>W. Pico Boulevard &amp; West Boulevard, Los Angeles, California, USA</place>
     										<scene>Annie runs over baby carriage</scene>
         									<coordinates>-118.333,34.0486</coordinates>
         									</location></locations>
@@ -639,7 +639,7 @@
     										<scene>final scene in Grauman's Chinese Theater</scene>
         									<coordinates>-118.341,34.1016</coordinates>
         									</location><location>
-    											<place>W. Pico Boulevard & West Boulevard, Los Angeles, California, USA</place>
+    											<place>W. Pico Boulevard &amp; West Boulevard, Los Angeles, California, USA</place>
     										<scene>Annie runs over baby carriage</scene>
         									<coordinates>-118.333,34.0486</coordinates>
         									</location></locations>
@@ -1223,7 +1223,7 @@
     										<scene></scene>
         									<coordinates>-118.25,34.0448</coordinates>
         									</location><location>
-    											<place>3rd Street & Broadway, Downtown, Los Angeles</place>
+    											<place>3rd Street &amp; Broadway, Downtown, Los Angeles</place>
     										<scene>exteriors apartment</scene>
         									<coordinates>-118.248,34.0511</coordinates>
         									</location></locations>
@@ -1239,7 +1239,7 @@
     						<title>in good company</title>
     						<poster>http://www.filmaps.com/posters/1001084702000000</poster>
     						<locations><location>
-    											<place>7th & Hope Streets, Downtown, Los Angeles, CA, USA</place>
+    											<place>7th &amp; Hope Streets, Downtown, Los Angeles, CA, USA</place>
     										<scene></scene>
         									<coordinates>-118.258,34.0481</coordinates>
         									</location></locations>
@@ -1383,7 +1383,7 @@
     						<title>The Fighter</title>
     						<poster>http://www.filmaps.com/posters/1012193836000000</poster>
     						<locations><location>
-    											<place>S Anderson St & Artemus St, Los Angeles, California, USA</place>
+    											<place>S Anderson St &amp; Artemus St, Los Angeles, California, USA</place>
     										<scene></scene>
         									<coordinates>-118.226,34.0431</coordinates>
         									</location></locations>

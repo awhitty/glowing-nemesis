@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Man from Snowy River</title>
+    						<poster>http://www.filmaps.com/posters/0901282104000000</poster>
+    						<locations><location>
+    											<place>Mansfield, Victoria, Australia</place>
+    										<scene>Sigrid Thornton & Tom Burlinson in The Man from Snowy River</scene>
+        									<coordinates>146.088,-37.0522</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Shawshank redemption</title>
+    						<poster>http://www.filmaps.com/posters/0910124016000000</poster>
+    						<locations><location>
+    											<place>100 Reformatory Road, Mansfield, Ohio, USA</place>
+    										<scene>The prison that is used in the large panning scene, and used for the wardens office</scene>
+        									<coordinates>-82.5028,40.7841</coordinates>
+        									</location></locations>
+						</movie></Document>

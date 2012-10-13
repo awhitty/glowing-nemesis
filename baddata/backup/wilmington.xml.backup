@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sleeping with the Enemy</title>
+    						<poster>http://www.filmaps.com/posters/0903311715000000</poster>
+    						<locations><location>
+    											<place>Carolina Beach Road, Wilmington, North Carolina, USA</place>
+    										<scene>carnival scene</scene>
+        									<coordinates>-77.8997,34.126</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the crow</title>
+    						<poster>http://www.filmaps.com/posters/0905124115000000</poster>
+    						<locations><location>
+    											<place>Wilmington, North Carolina, USA</place>
+    										<scene></scene>
+        									<coordinates>-77.9254,34.2257</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>blue velvet</title>
+    						<poster>http://www.filmaps.com/posters/0906172315000000</poster>
+    						<locations><location>
+    											<place>Wilmington, NC</place>
+    										<scene>Isabella's Apartment</scene>
+        									<coordinates>-77.9436,34.2355</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the village</title>
+    						<poster>http://www.filmaps.com/posters/0908311248000000</poster>
+    						<locations><location>
+    											<place>Centerville, Delaware, USA</place>
+    										<scene>The News Journal, Wilmington</scene>
+        									<coordinates>-75.6159,39.8191</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fight Club</title>
+    						<poster>http://www.filmaps.com/posters/0902131157000000</poster>
+    						<locations><location>
+    											<place>Figueroa Street & Harry Bridges Blvd., Wilmington, California</place>
+    										<scene>"Lou's Tavern", the tacky neon bar where Tyler Durden (Brad Pitt) stages the fights and creates the rules of "Fight Club"</scene>
+        									<coordinates>-118.278,33.7701</coordinates>
+        									</location><location>
+    											<place>240 N. Neptune Ave., Wilmington, CA</place>
+    										<scene>Tyler's house</scene>
+        									<coordinates>-118.268,33.7727</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fight Club</title>
+    						<poster>http://www.filmaps.com/posters/0902131157000000</poster>
+    						<locations><location>
+    											<place>Figueroa Street & Harry Bridges Blvd., Wilmington, California</place>
+    										<scene>"Lou's Tavern", the tacky neon bar where Tyler Durden (Brad Pitt) stages the fights and creates the rules of "Fight Club"</scene>
+        									<coordinates>-118.278,33.7701</coordinates>
+        									</location><location>
+    											<place>240 N. Neptune Ave., Wilmington, CA</place>
+    										<scene>Tyler's house</scene>
+        									<coordinates>-118.268,33.7727</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dead Poets Society</title>
+    						<poster>http://www.filmaps.com/posters/1204143133000000.jpg</poster>
+    						<locations><location>
+    											<place>Westover Hills, New Castle, Delaware, USA</place>
+    										<scene>Leonard's father's house</scene>
+        									<coordinates>-75.5909,39.7631</coordinates>
+        									</location></locations>
+						</movie></Document>

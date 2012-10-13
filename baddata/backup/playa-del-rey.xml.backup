@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Speed</title>
+    						<poster>http://www.filmaps.com/posters/0905311613000000</poster>
+    						<locations><location>
+    											<place>Redlands Street & Trask Avenue, Playa del Rey, Los Angeles, USA</place>
+    										<scene>Howard Payne's house</scene>
+        									<coordinates>-118.444,33.9538</coordinates>
+        									</location></locations>
+						</movie></Document>

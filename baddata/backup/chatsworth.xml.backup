@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pride and Prejudice</title>
+    						<poster>http://www.filmaps.com/posters/0902091209000000</poster>
+    						<locations><location>
+    											<place>Chatsworth House Bakewell Derbyshire</place>
+    										<scene>Chatsworth House </scene>
+        									<coordinates>-1.61236,53.2272</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dark Justice</title>
+    						<poster>http://www.filmaps.com/posters/1001294146000000</poster>
+    						<locations><location>
+    											<place>Chatsworth, Los Angeles, California, USA</place>
+    										<scene>Season 2 and 3 (temporada 2 y 3)</scene>
+        									<coordinates>-118.601,34.2573</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Wolfman (2010)</title>
+    						<poster>http://www.filmaps.com/posters/1002142300000000</poster>
+    						<locations><location>
+    											<place>Chatsworth House, Edensor, Derbyshire, UK</place>
+    										<scene>many exteriors scenes</scene>
+        									<coordinates>-1.6103,53.2275</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bad teacher</title>
+    						<poster>http://www.filmaps.com/posters/1107091647000000</poster>
+    						<locations><location>
+    											<place>Plummer St & Oakdale Av, Los Angeles, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.567,34.2429</coordinates>
+        									</location></locations>
+						</movie></Document>

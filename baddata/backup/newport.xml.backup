@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Me, myself & Irene</title>
+    						<poster>http://www.filmaps.com/posters/0902161557000000</poster>
+    						<locations><location>
+    											<place>367 Bellevue Ave, newport rhode island</place>
+    										<scene>Opening Scenes</scene>
+        									<coordinates>-71.3076,41.4717</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Ring</title>
+    						<poster>http://www.filmaps.com/posters/0905011553000000</poster>
+    						<locations><location>
+    											<place>Newport, Oregon, USA</place>
+    										<scene>Moesko Island lighthouse</scene>
+        									<coordinates>-124.053,44.6513</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>dirty dancing</title>
+    						<poster>http://www.filmaps.com/posters/0908151938000000</poster>
+    						<locations><location>
+    											<place>115 Hotel Circle, Pembroke, Virginia, USA</place>
+    										<scene>Mountain Lake Resort</scene>
+        									<coordinates>-80.5368,37.3557</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fragile</title>
+    						<poster>http://www.filmaps.com/posters/0909250434000000</poster>
+    						<locations><location>
+    											<place>Isle of Wight, UK</place>
+    										<scene>many locations </scene>
+        									<coordinates>-1.31335,50.6883</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>27 Dresses</title>
+    						<poster>http://www.filmaps.com/posters/0911290921000000</poster>
+    						<locations><location>
+    											<place>596 Bellevue Avenue, Newport, Rhode Island, USA</place>
+    										<scene>Marble House</scene>
+        									<coordinates>-71.3037,41.4621</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the great gatsby</title>
+    						<poster>http://www.filmaps.com/posters/0912234659000000</poster>
+    						<locations><location>
+    											<place>596 Bellevue Avenue, Newport, Rhode Island, USA</place>
+    										<scene>Marble House scene</scene>
+        									<coordinates>-71.3038,41.4621</coordinates>
+        									</location><location>
+    											<place>548 Bellevue Avenue, Newport, Rhode Island, USA</place>
+    										<scene>Gatsby Mansion</scene>
+        									<coordinates>-71.3047,41.4652</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the great gatsby</title>
+    						<poster>http://www.filmaps.com/posters/0912234659000000</poster>
+    						<locations><location>
+    											<place>596 Bellevue Avenue, Newport, Rhode Island, USA</place>
+    										<scene>Marble House scene</scene>
+        									<coordinates>-71.3038,41.4621</coordinates>
+        									</location><location>
+    											<place>548 Bellevue Avenue, Newport, Rhode Island, USA</place>
+    										<scene>Gatsby Mansion</scene>
+        									<coordinates>-71.3047,41.4652</coordinates>
+        									</location></locations>
+						</movie></Document>

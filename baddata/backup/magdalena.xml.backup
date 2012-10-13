@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Fast & Furious</title>
+    						<poster>http://www.filmaps.com/posters/0906275853000000</poster>
+    						<locations><location>
+    											<place>Magdalena Sonora, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-110.963,30.6266</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>contact</title>
+    						<poster>http://www.filmaps.com/posters/0908203642000000</poster>
+    						<locations><location>
+    											<place>Magdalena, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-107.234,34.111</coordinates>
+        									</location><location>
+    											<place>Very Large Array, Socorro, New Mexico, USA</place>
+    										<scene>telescopes</scene>
+        									<coordinates>-107.618,34.079</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>contact</title>
+    						<poster>http://www.filmaps.com/posters/0908203642000000</poster>
+    						<locations><location>
+    											<place>Magdalena, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-107.234,34.111</coordinates>
+        									</location><location>
+    											<place>Very Large Array, Socorro, New Mexico, USA</place>
+    										<scene>telescopes</scene>
+        									<coordinates>-107.618,34.079</coordinates>
+        									</location></locations>
+						</movie></Document>

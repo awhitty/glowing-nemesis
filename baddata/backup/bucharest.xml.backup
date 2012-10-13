@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Youth without youth</title>
+    						<poster>http://www.filmaps.com/posters/0908130456000000</poster>
+    						<locations><location>
+    											<place>Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.123,44.4305</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Blood and chocolate</title>
+    						<poster>http://www.filmaps.com/posters/0908131432000000</poster>
+    						<locations><location>
+    											<place> Lipscani, Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1002,44.4317</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pulse</title>
+    						<poster>http://www.filmaps.com/posters/0908131521000000</poster>
+    						<locations><location>
+    											<place>Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1191,44.4284</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>JACQUOU LE CROQUANT</title>
+    						<poster>http://www.filmaps.com/posters/0908131743000000</poster>
+    						<locations><location>
+    											<place>Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1263,44.4317</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Amen</title>
+    						<poster>http://www.filmaps.com/posters/0908132032000000</poster>
+    						<locations><location>
+    											<place>Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1523,44.4455</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>4 months 3 weeks & 2 days</title>
+    						<poster>http://www.filmaps.com/posters/0912263045000000</poster>
+    						<locations><location>
+    											<place>Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1208,44.4308</coordinates>
+        									</location><location>
+    											<place>Hotel Astoria, Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1228,44.4304</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>4 months 3 weeks & 2 days</title>
+    						<poster>http://www.filmaps.com/posters/0912263045000000</poster>
+    						<locations><location>
+    											<place>Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1208,44.4308</coordinates>
+        									</location><location>
+    											<place>Hotel Astoria, Bucharest, Romania</place>
+    										<scene></scene>
+        									<coordinates>26.1228,44.4304</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Whistleblower</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Covaci Str., Bucharest</place>
+    										<scene>Rachel Weiss and Nikolaj Lie Kaas walking down the street</scene>
+        									<coordinates>26.1021,44.4306</coordinates>
+        									</location></locations>
+						</movie></Document>

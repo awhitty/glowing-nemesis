@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Me, myself & Irene</title>
+    						<poster>http://www.filmaps.com/posters/0902161557000000</poster>
+    						<locations><location>
+    											<place>Burlington, Vermont, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.2109,44.476</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sugar</title>
+    						<poster>http://www.filmaps.com/posters/0906091512000000</poster>
+    						<locations><location>
+    											<place>Burlington, Iowa, USA</place>
+    										<scene></scene>
+        									<coordinates>-91.1226,40.8079</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Xmen 2</title>
+    						<poster>http://www.filmaps.com/posters/0906270732000000</poster>
+    						<locations><location>
+    											<place>Spencer Smith Park Burlington Ontario</place>
+    										<scene>The final battle scene over the water to park breakwall</scene>
+        									<coordinates>-79.798,43.3223</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>what lies beneath</title>
+    						<poster>http://www.filmaps.com/posters/0904060729000000</poster>
+    						<locations><location>
+    											<place>University of Vermont, Burlington, Vermont, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.1967,44.4797</coordinates>
+        									</location></locations>
+						</movie></Document>

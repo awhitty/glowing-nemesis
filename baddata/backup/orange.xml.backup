@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Borat</title>
+    						<poster>http://www.filmaps.com/posters/0908130912000000</poster>
+    						<locations><location>
+    											<place>20 City Boulevard W., The Block at Orange, Orange, California, USA</place>
+    										<scene>sacking of Pamela Anderson</scene>
+        									<coordinates>-117.895,33.7795</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Entre fantasmas (Ghost whisperer)</title>
+    						<poster>http://www.filmaps.com/posters/1001243749000000</poster>
+    						<locations><location>
+    											<place>Chapman Ave. & Glassell Street, Orange, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-117.853,33.7879</coordinates>
+        									</location></locations>
+						</movie></Document>
