@@ -1,4 +1,5 @@
-import os;
+import os
+cwd = os.getcwd()
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -99,6 +100,7 @@ ROOT_URLCONF = 'glownem.urls'
 WSGI_APPLICATION = 'glownem.wsgi.application'
 
 TEMPLATE_DIRS = (
+    cwd + '/templates',
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.

@@ -6,7 +6,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'glownem.views.home', name='home'),
+    url(r'^$', 'views.home', name='home'),
     # url(r'^glownem/', include('glownem.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:
