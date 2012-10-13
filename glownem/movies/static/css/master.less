@@ -1,6 +1,41 @@
-#map_canvas {
-	position: relative;
-	height: 600px;
+.left {
+	position: absolute;
+	top: 0;
+	width: 360px;
+	bottom: 0;
+	left: 0;
+	padding: 10px 20px;
+
+	.logo {
+		border-bottom: 2px solid #ddd;
+	}
+
+	.big-icon {
+		font-size: 48px;
+		line-height: 48px;
+	}
+
+	ul {
+		// background: #000;
+		margin: 0;
+		list-style-type: none;
+		padding: 10px 0;
+
+		li {
+			border-bottom: 1px solid #eee;
+
+			&:last-of-type {
+				border: none;
+			}
+		}
+	}
+}
+.right {
+	position: absolute;
 	overflow:hidden;  
 	border-radius: 10px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 400px;
 }

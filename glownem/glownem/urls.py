@@ -11,6 +11,7 @@ admin.autodiscover()
 urlpatterns = patterns('',
     # Examples:
     url(r'^$', 'views.home', name='home'),
+    url(r'^get/$', 'views.get', name='ajax_get'),
     # url(r'^glownem/', include('glownem.foo.urls')),
 
 	url(r'^location/(?P<lat>-?\d+\.\d+),(?P<dx>\d+\.\d+)/(?P<long>-?\d+\.\d+),(?P<dy>\d+\.\d+)/$', 'movies.views.location'),
