@@ -1,0 +1,19 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "name": "The Blind Side",
+      "year": 2009
+    }
+  },
+  {
+    "model": "movies.location",
+    "pk": 1,
+    "fields": {
+      "movie": 1,
+      "latitude": 33.8331,
+      "longitude": -84.379
+    }
+  }
+]
