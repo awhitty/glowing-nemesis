@@ -1,0 +1,11 @@
+- model: glownem.movie
+  pk: 1
+  fields:
+    name: The Blind Side
+    year: 2009
+- model: glownem.location
+  pk: 1
+  fields:
+    movie: 1
+    latitude: 84.379
+    longitude: 33.8331
