@@ -7452,7 +7452,7 @@
     "model": "movies.movie",
     "pk": 133,
     "fields": {
-      "name": "	 SEE RANK Cattle Annie and Little Britches (1981)"
+      "name": "SEE RANK Cattle Annie and Little Britches (1981)"
     }
   },
   {
@@ -21387,7 +21387,7 @@
     "model": "movies.movie",
     "pk": 424,
     "fields": {
-      "name": ""The Man who fell to Earth""
+      "name": "The Man who fell to Earth"
     }
   },
   {
@@ -50020,7 +50020,7 @@
     "model": "movies.movie",
     "pk": 962,
     "fields": {
-      "name": " Il buono, il brutto, il cattivo"
+      "name": "Il buono, il brutto, il cattivo"
     }
   },
   {
@@ -106137,8 +106137,7 @@
     "model": "movies.movie",
     "pk": 1987,
     "fields": {
-      "name": "Cristiada (2011)
-"
+      "name": "Cristiada (2011)"
     }
   },
   {
