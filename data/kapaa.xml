@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Descendants</title>
+    						<poster>http://www.filmaps.com/posters/1201244720000000.jpg</poster>
+    						<locations><location>
+    											<place>Kaua'i, Hawaii, USA</place>
+    										<scene>another scenes</scene>
+        									<coordinates>-159.582,22.0936</coordinates>
+        									</location></locations>
+						</movie></Document>

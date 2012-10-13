@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dante's Peak</title>
+    						<poster>http://www.filmaps.com/posters/0908155142000000</poster>
+    						<locations><location>
+    											<place>Mount St. Helens, USA</place>
+    										<scene>many shots</scene>
+        									<coordinates>-122.25,46.2463</coordinates>
+        									</location></locations>
+						</movie></Document>

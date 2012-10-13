@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Atrapado en el tiempo</title>
+    						<poster>http://www.filmaps.com/posters/0901154911000000</poster>
+    						<locations><location>
+    											<place>Cary, Illinois, USA</place>
+    										<scene>interiors scenes</scene>
+        									<coordinates>-88.2482,42.213</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Groundhog Day (Ricomincio da capo)</title>
+    						<poster>http://www.filmaps.com/posters/0910255750000000</poster>
+    						<locations><location>
+    											<place>Cary, Illinois, USA</place>
+    										<scene>interiors</scene>
+        									<coordinates>-88.2393,42.2115</coordinates>
+        									</location></locations>
+						</movie></Document>

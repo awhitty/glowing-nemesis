@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>contact</title>
+    						<poster>http://www.filmaps.com/posters/0908203642000000</poster>
+    						<locations><location>
+    											<place>Herndon, Virginia, USA</place>
+    										<scene>young Ellie's home</scene>
+        									<coordinates>-77.3864,38.9699</coordinates>
+        									</location></locations>
+						</movie></Document>

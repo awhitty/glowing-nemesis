@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Stardust</title>
+    						<poster>http://www.filmaps.com/posters/0908043458000000</poster>
+    						<locations><location>
+    											<place>Castle Combe, Wiltshire, England, UK</place>
+    										<scene>street scenes in Wall</scene>
+        									<coordinates>-2.22018,51.4944</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Wolfman (2010)</title>
+    						<poster>http://www.filmaps.com/posters/1002142300000000</poster>
+    						<locations><location>
+    											<place>Castle Combe, Wiltshire, United Kingdom</place>
+    										<scene></scene>
+        									<coordinates>-2.22031,51.4946</coordinates>
+        									</location></locations>
+						</movie></Document>

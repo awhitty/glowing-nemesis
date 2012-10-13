@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Águila Roja</title>
+    						<poster>http://www.filmaps.com/posters/1011132328000000</poster>
+    						<locations><location>
+    											<place>monasterio san lorenzo del escorial madrid spain</place>
+    										<scene>monasterio monjes</scene>
+        									<coordinates>-4.14765,40.589</coordinates>
+        									</location></locations>
+						</movie></Document>

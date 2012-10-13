@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Octopussy</title>
+    						<poster>http://www.filmaps.com/posters/0901210725000000</poster>
+    						<locations><location>
+    											<place>Nene Valley Railway, Peterborough, England, UK</place>
+    										<scene>Train scenes</scene>
+        									<coordinates>-0.279824,52.56</coordinates>
+        									</location></locations>
+						</movie></Document>

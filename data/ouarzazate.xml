@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Kingdom of Heaven</title>
+    						<poster>http://www.filmaps.com/posters/0901201241000000</poster>
+    						<locations><location>
+    											<place>ouarzazate, morocco</place>
+    										<scene>Jerusalem</scene>
+        									<coordinates>-6.89345,30.92</coordinates>
+        									</location></locations>
+						</movie></Document>

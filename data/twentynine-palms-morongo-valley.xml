@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bagdad Cafe</title>
+    						<poster>http://www.filmaps.com/posters/0912271306000000</poster>
+    						<locations><location>
+    											<place>Bagdad, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.876,34.5827</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>TINTIN</title>
+    						<poster>http://www.filmaps.com/posters/1110283550000000.jpg</poster>
+    						<locations><location>
+    											<place>Castillo de Cheverny, Loira, France</place>
+    										<scene>Castillo de Cheverny que inspiró la fachada de la casa de Moulinsart, mansión del capitán Haddock.</scene>
+        									<coordinates>1.4579,47.4999</coordinates>
+        									</location></locations>
+						</movie></Document>

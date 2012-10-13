@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Vacanze a Ischia</title>
+    						<poster>http://www.filmaps.com/posters/0903230349000000</poster>
+    						<locations><location>
+    											<place>Ischia Island, Naples, Italy</place>
+    										<scene></scene>
+        									<coordinates>13.9106,40.7214</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Villa Amalia</title>
+    						<poster>http://www.filmaps.com/posters/0906120637000000</poster>
+    						<locations><location>
+    											<place>Ischia Island, Naples, Campania, Italy</place>
+    										<scene></scene>
+        									<coordinates>13.9293,40.734</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Crimson Pirate</title>
+    						<poster>http://www.filmaps.com/posters/0906120800000000</poster>
+    						<locations><location>
+    											<place>Ischia Island, Naples, Campania, Italy</place>
+    										<scene></scene>
+        									<coordinates>13.9283,40.7194</coordinates>
+        									</location></locations>
+						</movie></Document>

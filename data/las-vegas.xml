@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Friends</title>
+    						<poster>http://www.filmaps.com/posters/0901072106000000</poster>
+    						<locations><location>
+    											<place>las vegas</place>
+    										<scene></scene>
+        									<coordinates>-115.242,36.233</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ocean's Eleven</title>
+    						<poster>http://www.filmaps.com/posters/0901111243000000</poster>
+    						<locations><location>
+    											<place>3600 las vegas boulevard south, Las Vegas</place>
+    										<scene>Bellagio Hotel and Casino</scene>
+        									<coordinates>-115.176,36.1131</coordinates>
+        									</location><location>
+    											<place>667 Hollywood Boulevard, las vegas</place>
+    										<scene>Musso and Frank's Grill</scene>
+        									<coordinates>-115.026,36.1715</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ocean's Eleven</title>
+    						<poster>http://www.filmaps.com/posters/0901111243000000</poster>
+    						<locations><location>
+    											<place>3600 las vegas boulevard south, Las Vegas</place>
+    										<scene>Bellagio Hotel and Casino</scene>
+        									<coordinates>-115.176,36.1131</coordinates>
+        									</location><location>
+    											<place>667 Hollywood Boulevard, las vegas</place>
+    										<scene>Musso and Frank's Grill</scene>
+        									<coordinates>-115.026,36.1715</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>My Blueberry Nights</title>
+    						<poster>http://www.filmaps.com/posters/0901172327000000</poster>
+    						<locations><location>
+    											<place>Las Vegas</place>
+    										<scene></scene>
+        									<coordinates>-115.242,36.2333</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hangover</title>
+    						<poster>http://www.filmaps.com/posters/0907290323000000</poster>
+    						<locations><location>
+    											<place>Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.173,36.1073</coordinates>
+        									</location><location>
+    											<place>Bellagio, Las Vegas, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.174,36.1129</coordinates>
+        									</location><location>
+    											<place>Hospital, Las Vegas, Nevada</place>
+    										<scene></scene>
+        									<coordinates>-115.121,36.1156</coordinates>
+        									</location><location>
+    											<place>Cesars Palace, Las Vegas</place>
+    										<scene>scene at Caesars Palaces reception area</scene>
+        									<coordinates>-115.174,36.117</coordinates>
+        									</location><location>
+    											<place>Las Vegas, Nevada</place>
+    										<scene>Phil, Stu and Alan get attacked by a naked Asian guy they found in the trunk of the Mercedes.</scene>
+        									<coordinates>-115.168,36.0936</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hangover</title>
+    						<poster>http://www.filmaps.com/posters/0907290323000000</poster>
+    						<locations><location>
+    											<place>Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.173,36.1073</coordinates>
+        									</location><location>
+    											<place>Bellagio, Las Vegas, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.174,36.1129</coordinates>
+        									</location><location>
+    											<place>Hospital, Las Vegas, Nevada</place>
+    										<scene></scene>
+        									<coordinates>-115.121,36.1156</coordinates>
+        									</location><location>
+    											<place>Cesars Palace, Las Vegas</place>
+    										<scene>scene at Caesars Palaces reception area</scene>
+        									<coordinates>-115.174,36.117</coordinates>
+        									</location><location>
+    											<place>Las Vegas, Nevada</place>
+    										<scene>Phil, Stu and Alan get attacked by a naked Asian guy they found in the trunk of the Mercedes.</scene>
+        									<coordinates>-115.168,36.0936</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hangover</title>
+    						<poster>http://www.filmaps.com/posters/0907290323000000</poster>
+    						<locations><location>
+    											<place>Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.173,36.1073</coordinates>
+        									</location><location>
+    											<place>Bellagio, Las Vegas, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.174,36.1129</coordinates>
+        									</location><location>
+    											<place>Hospital, Las Vegas, Nevada</place>
+    										<scene></scene>
+        									<coordinates>-115.121,36.1156</coordinates>
+        									</location><location>
+    											<place>Cesars Palace, Las Vegas</place>
+    										<scene>scene at Caesars Palaces reception area</scene>
+        									<coordinates>-115.174,36.117</coordinates>
+        									</location><location>
+    											<place>Las Vegas, Nevada</place>
+    										<scene>Phil, Stu and Alan get attacked by a naked Asian guy they found in the trunk of the Mercedes.</scene>
+        									<coordinates>-115.168,36.0936</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hangover</title>
+    						<poster>http://www.filmaps.com/posters/0907290323000000</poster>
+    						<locations><location>
+    											<place>Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.173,36.1073</coordinates>
+        									</location><location>
+    											<place>Bellagio, Las Vegas, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.174,36.1129</coordinates>
+        									</location><location>
+    											<place>Hospital, Las Vegas, Nevada</place>
+    										<scene></scene>
+        									<coordinates>-115.121,36.1156</coordinates>
+        									</location><location>
+    											<place>Cesars Palace, Las Vegas</place>
+    										<scene>scene at Caesars Palaces reception area</scene>
+        									<coordinates>-115.174,36.117</coordinates>
+        									</location><location>
+    											<place>Las Vegas, Nevada</place>
+    										<scene>Phil, Stu and Alan get attacked by a naked Asian guy they found in the trunk of the Mercedes.</scene>
+        									<coordinates>-115.168,36.0936</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Las Vegas Story</title>
+    						<poster>http://www.filmaps.com/posters/0909063046000000</poster>
+    						<locations><location>
+    											<place>Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.174,36.1043</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the mexican</title>
+    						<poster>http://www.filmaps.com/posters/0910183329000000</poster>
+    						<locations><location>
+    											<place>Summerlin Parkway, Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.301,36.1831</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The O.C.</title>
+    						<poster>http://www.filmaps.com/posters/0907135016000000</poster>
+    						<locations><location>
+    											<place>Las vegas </place>
+    										<scene>viaje a las vegas de Ryan seth etc</scene>
+        									<coordinates>-115.173,36.0961</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Million Dollar Baby</title>
+    						<poster>http://www.filmaps.com/posters/0912261800000000</poster>
+    						<locations><location>
+    											<place>Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.173,36.1088</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>leaving las vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001105129000000</poster>
+    						<locations><location>
+    											<place>Excalibur Hotel, Las Vegas, Nevada</place>
+    										<scene>college boys proposition Sera</scene>
+        									<coordinates>-115.175,36.0988</coordinates>
+        									</location><location>
+    											<place>2880 Las Vegas Boulevard South, Las Vegas, Nevada, USA</place>
+    										<scene>Ben and Sera chat in front of the big clown</scene>
+        									<coordinates>-115.165,36.1381</coordinates>
+        									</location><location>
+    											<place>3645 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Sera discovers Ben crashed-out in Bally's Casino</scene>
+        									<coordinates>-115.169,36.114</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>leaving las vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001105129000000</poster>
+    						<locations><location>
+    											<place>Excalibur Hotel, Las Vegas, Nevada</place>
+    										<scene>college boys proposition Sera</scene>
+        									<coordinates>-115.175,36.0988</coordinates>
+        									</location><location>
+    											<place>2880 Las Vegas Boulevard South, Las Vegas, Nevada, USA</place>
+    										<scene>Ben and Sera chat in front of the big clown</scene>
+        									<coordinates>-115.165,36.1381</coordinates>
+        									</location><location>
+    											<place>3645 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Sera discovers Ben crashed-out in Bally's Casino</scene>
+        									<coordinates>-115.169,36.114</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>leaving las vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001105129000000</poster>
+    						<locations><location>
+    											<place>Excalibur Hotel, Las Vegas, Nevada</place>
+    										<scene>college boys proposition Sera</scene>
+        									<coordinates>-115.175,36.0988</coordinates>
+        									</location><location>
+    											<place>2880 Las Vegas Boulevard South, Las Vegas, Nevada, USA</place>
+    										<scene>Ben and Sera chat in front of the big clown</scene>
+        									<coordinates>-115.165,36.1381</coordinates>
+        									</location><location>
+    											<place>3645 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Sera discovers Ben crashed-out in Bally's Casino</scene>
+        									<coordinates>-115.169,36.114</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fear and Loathing in Las Vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001142829000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas, Nevada, USA</place>
+    										<scene>Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1355</coordinates>
+        									</location><location>
+    											<place>Red Rock Canyon, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.428,36.136</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fear and Loathing in Las Vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001142829000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas, Nevada, USA</place>
+    										<scene>Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1355</coordinates>
+        									</location><location>
+    											<place>Red Rock Canyon, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.428,36.136</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Up In The Air</title>
+    						<poster>http://www.filmaps.com/posters/1001073809000000</poster>
+    						<locations><location>
+    											<place>Luxor Hotel, Las Vegas</place>
+    										<scene>George Clooney took a photo near the hotel for his sister</scene>
+        									<coordinates>-115.176,36.0955</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Con Air</title>
+    						<poster>http://www.filmaps.com/posters/1002084609000000</poster>
+    						<locations><location>
+    											<place>Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>airplane crash in Las Vegas</scene>
+        									<coordinates>-115.173,36.0984</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>2901 Las Vegas Boulevard South, Las Vegas</place>
+    										<scene>Tangier Casino is Le Bistro Lounge, Riviera Hotel & Casino</scene>
+        									<coordinates>-115.159,36.1354</coordinates>
+        									</location><location>
+    											<place>3900 Paradise Road, Las Vegas, Nevada</place>
+    										<scene>Stone's death scene</scene>
+        									<coordinates>-115.154,36.1179</coordinates>
+        									</location><location>
+    											<place>Convention Center Drive and Paradise Road, Las Vegas</place>
+    										<scene>parking foyer scene</scene>
+        									<coordinates>-115.155,36.1322</coordinates>
+        									</location><location>
+    											<place>3515 Cochise Lane Las Vegas, NV</place>
+    										<scene>Lefty Rosenthal's house</scene>
+        									<coordinates>-115.124,36.126</coordinates>
+        									</location><location>
+    											<place>525 Park Paseo Las Vegas, NV 89104, private residence </place>
+    										<scene>Lefty Rosenthal gets award inside banquet hall with a pool</scene>
+        									<coordinates>-115.146,36.1574</coordinates>
+        									</location><location>
+    											<place>Main Street Station Casino parking lot 200 North Main Street, Las Vegas</place>
+    										<scene>Opening scene where car is blown up</scene>
+        									<coordinates>-115.145,36.1754</coordinates>
+        									</location><location>
+    											<place>1201 South Las Vegas Blvd Las Vegas, NV</place>
+    										<scene>Gold Rush store front</scene>
+        									<coordinates>-115.149,36.1568</coordinates>
+        									</location><location>
+    											<place>Regencey motel. 784 N. main Street, Las vegas, NV</place>
+    										<scene>James Woods pimp character gets beaten up in front of Ginger by Ace's goons.</scene>
+        									<coordinates>-115.141,36.1797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Diamonds are Forever</title>
+    						<poster>http://www.filmaps.com/posters/1011110813000000</poster>
+    						<locations><location>
+    											<place>3000 S. Paradise Road, Las Vegas, Nevada, USA</place>
+    										<scene>Las Vegas Hilton was Willard Whyte House</scene>
+        									<coordinates>-115.155,36.1361</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>21 blackjack</title>
+    						<poster>http://www.filmaps.com/posters/1111252553000000.jpg</poster>
+    						<locations><location>
+    											<place>4455 Paradise Road, Las Vegas, Nevada, USA</place>
+    										<scene>Hard Rock Hotel and Casino</scene>
+        									<coordinates>-115.154,36.1089</coordinates>
+        									</location><location>
+    											<place>Hard Rock Hotel and Casino - 4455 Paradise Road, Las Vegas, Nevada, USA</place>
+    										<scene>casino</scene>
+        									<coordinates>-115.173,36.1148</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>no es pais para viejos</title>
+    						<poster>http://www.filmaps.com/posters/0911210547000000</poster>
+    						<locations><location>
+    											<place>El Camino Motel & Restaurant - 1152 North Grand Avenue, Las Vegas, New Mexico, </place>
+    										<scene>motel</scene>
+        									<coordinates>-105.211,35.604</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>21 blackjack</title>
+    						<poster>http://www.filmaps.com/posters/1111252553000000.jpg</poster>
+    						<locations><location>
+    											<place>4455 Paradise Road, Las Vegas, Nevada, USA</place>
+    										<scene>Hard Rock Hotel and Casino</scene>
+        									<coordinates>-115.154,36.1089</coordinates>
+        									</location><location>
+    											<place>Hard Rock Hotel and Casino - 4455 Paradise Road, Las Vegas, Nevada, USA</place>
+    										<scene>casino</scene>
+        									<coordinates>-115.173,36.1148</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pale Rider</title>
+    						<poster>http://www.filmaps.com/posters/1107075819000000</poster>
+    						<locations><location>
+    											<place>Pale Rider</place>
+    										<scene>Pale Rider</scene>
+        									<coordinates>-115.208,36.3049</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hangover</title>
+    						<poster>http://www.filmaps.com/posters/0907290323000000</poster>
+    						<locations><location>
+    											<place>Las Vegas, Nevada, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.173,36.1073</coordinates>
+        									</location><location>
+    											<place>Bellagio, Las Vegas, USA</place>
+    										<scene></scene>
+        									<coordinates>-115.174,36.1129</coordinates>
+        									</location><location>
+    											<place>Hospital, Las Vegas, Nevada</place>
+    										<scene></scene>
+        									<coordinates>-115.121,36.1156</coordinates>
+        									</location><location>
+    											<place>Cesars Palace, Las Vegas</place>
+    										<scene>scene at Caesars Palaces reception area</scene>
+        									<coordinates>-115.174,36.117</coordinates>
+        									</location><location>
+    											<place>Las Vegas, Nevada</place>
+    										<scene>Phil, Stu and Alan get attacked by a naked Asian guy they found in the trunk of the Mercedes.</scene>
+        									<coordinates>-115.168,36.0936</coordinates>
+        									</location></locations>
+						</movie></Document>

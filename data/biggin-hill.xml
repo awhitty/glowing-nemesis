@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Da Vinci Code</title>
+    						<poster>http://www.filmaps.com/posters/0901134913000000</poster>
+    						<locations><location>
+    											<place>Biggin Hill Airport, Biggin Hill, Kent</place>
+    										<scene></scene>
+        									<coordinates>0.029198,51.3316</coordinates>
+        									</location></locations>
+						</movie></Document>

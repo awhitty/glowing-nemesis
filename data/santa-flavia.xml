@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>cinema paradiso</title>
+    						<poster>http://www.filmaps.com/posters/0901230832000000</poster>
+    						<locations><location>
+    											<place>Santa Flavia, Palermo</place>
+    										<scene></scene>
+        									<coordinates>13.5275,38.0824</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>nuovo cinema paradiso</title>
+    						<poster>http://www.filmaps.com/posters/1202044730000000.jpg</poster>
+    						<locations><location>
+    											<place>Tonnara di Solanto S.Flavia</place>
+    										<scene>qui è ambientato il discorso tra Salvatore ed Alfredo al ritorno dal militare</scene>
+        									<coordinates>13.5438,38.0755</coordinates>
+        									</location></locations>
+						</movie></Document>

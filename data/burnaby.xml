@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Juno</title>
+    						<poster>http://www.filmaps.com/posters/0901173313000000</poster>
+    						<locations><location>
+    											<place>Burnaby, CAnada</place>
+    										<scene></scene>
+        									<coordinates>-122.947,49.229</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Day the Earth Stood Still</title>
+    						<poster>http://www.filmaps.com/posters/0903073026000000</poster>
+    						<locations><location>
+    											<place>Simon Fraser University, Burnaby, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.917,49.279</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>2012</title>
+    						<poster>http://www.filmaps.com/posters/0910302858000000</poster>
+    						<locations><location>
+    											<place>Burnaby, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.949,49.2284</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>My life without me</title>
+    						<poster>http://www.filmaps.com/posters/1103200734000000</poster>
+    						<locations><location>
+    											<place>7852 6th St, Burnaby, BC</place>
+    										<scene>Ticky Poo Laundry Mat</scene>
+        									<coordinates>-122.928,49.22</coordinates>
+        									</location><location>
+    											<place>7956 11th AVE BURNABY</place>
+    										<scene>Ann's mother house</scene>
+        									<coordinates>-122.927,49.2205</coordinates>
+        									</location><location>
+    											<place>7641 Royal Oak Avenue Burnaby BC, V5J 4K3</place>
+    										<scene>Dancing in supermarket</scene>
+        									<coordinates>-122.988,49.2147</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>My life without me</title>
+    						<poster>http://www.filmaps.com/posters/1103200734000000</poster>
+    						<locations><location>
+    											<place>7852 6th St, Burnaby, BC</place>
+    										<scene>Ticky Poo Laundry Mat</scene>
+        									<coordinates>-122.928,49.22</coordinates>
+        									</location><location>
+    											<place>7956 11th AVE BURNABY</place>
+    										<scene>Ann's mother house</scene>
+        									<coordinates>-122.927,49.2205</coordinates>
+        									</location><location>
+    											<place>7641 Royal Oak Avenue Burnaby BC, V5J 4K3</place>
+    										<scene>Dancing in supermarket</scene>
+        									<coordinates>-122.988,49.2147</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>My life without me</title>
+    						<poster>http://www.filmaps.com/posters/1103200734000000</poster>
+    						<locations><location>
+    											<place>7852 6th St, Burnaby, BC</place>
+    										<scene>Ticky Poo Laundry Mat</scene>
+        									<coordinates>-122.928,49.22</coordinates>
+        									</location><location>
+    											<place>7956 11th AVE BURNABY</place>
+    										<scene>Ann's mother house</scene>
+        									<coordinates>-122.927,49.2205</coordinates>
+        									</location><location>
+    											<place>7641 Royal Oak Avenue Burnaby BC, V5J 4K3</place>
+    										<scene>Dancing in supermarket</scene>
+        									<coordinates>-122.988,49.2147</coordinates>
+        									</location></locations>
+						</movie></Document>

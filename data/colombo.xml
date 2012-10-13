@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Midnight's Children</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Colombo</place>
+    										<scene>Scenes depicting India, Pakistan and Bangladesh</scene>
+        									<coordinates>79.8612,6.92711</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Emden Men</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Colombo</place>
+    										<scene>Maradana Station for Agra Station</scene>
+        									<coordinates>79.8663,6.92986</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Water</title>
+    						<poster>http://www.filmaps.com/posters/1110015102000000.jpg</poster>
+    						<locations><location>
+    											<place>Colombo</place>
+    										<scene>Widows Home</scene>
+        									<coordinates>79.8573,6.94363</coordinates>
+        									</location><location>
+    											<place>Maradana Station</place>
+    										<scene>Indian Railyway Station</scene>
+        									<coordinates>79.8664,6.92973</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Water</title>
+    						<poster>http://www.filmaps.com/posters/1110015102000000.jpg</poster>
+    						<locations><location>
+    											<place>Colombo</place>
+    										<scene>Widows Home</scene>
+        									<coordinates>79.8573,6.94363</coordinates>
+        									</location><location>
+    											<place>Maradana Station</place>
+    										<scene>Indian Railyway Station</scene>
+        									<coordinates>79.8664,6.92973</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mother Teresa</title>
+    						<poster>http://www.filmaps.com/posters/1110015713000000.jpg</poster>
+    						<locations><location>
+    											<place>Colombo</place>
+    										<scene>Convent</scene>
+        									<coordinates>79.8722,6.918</coordinates>
+        									</location><location>
+    											<place>Colombo</place>
+    										<scene>Slums</scene>
+        									<coordinates>79.8798,6.97379</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mother Teresa</title>
+    						<poster>http://www.filmaps.com/posters/1110015713000000.jpg</poster>
+    						<locations><location>
+    											<place>Colombo</place>
+    										<scene>Convent</scene>
+        									<coordinates>79.8722,6.918</coordinates>
+        									</location><location>
+    											<place>Colombo</place>
+    										<scene>Slums</scene>
+        									<coordinates>79.8798,6.97379</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mother Teresa</title>
+    						<poster>http://www.filmaps.com/posters/1110010130000000.jpg</poster>
+    						<locations><location>
+    											<place>Colombo</place>
+    										<scene>Holy Family Convent</scene>
+        									<coordinates>79.856,6.88761</coordinates>
+        									</location></locations>
+						</movie></Document>

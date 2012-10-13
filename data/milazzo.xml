@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>L´Avventura</title>
+    						<poster>http://www.filmaps.com/posters/0910185111000000</poster>
+    						<locations><location>
+    											<place>Capo di Milazzo, Messina, Sicily, Italy</place>
+    										<scene></scene>
+        									<coordinates>15.2311,38.2704</coordinates>
+        									</location></locations>
+						</movie></Document>

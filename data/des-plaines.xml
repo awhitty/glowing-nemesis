@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>My best friend's wedding</title>
+    						<poster>http://www.filmaps.com/posters/0901073231000000</poster>
+    						<locations><location>
+    											<place>O'Hare Airport</place>
+    										<scene>Julia Robert arrives in Chicago</scene>
+        									<coordinates>-87.903,41.9789</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Home Alone</title>
+    						<poster>http://www.filmaps.com/posters/0901081136000000</poster>
+    						<locations><location>
+    											<place>O'Hare International Airport</place>
+    										<scene>in the airport scene</scene>
+        									<coordinates>-87.9053,41.9766</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Prison Break</title>
+    						<poster>http://www.filmaps.com/posters/0901210526000000</poster>
+    						<locations><location>
+    											<place>O'Hare International Airport, Chicag</place>
+    										<scene></scene>
+        									<coordinates>-87.9091,41.9818</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>chacal</title>
+    						<poster>http://www.filmaps.com/posters/0905264811000000</poster>
+    						<locations><location>
+    											<place>O'Hare International Airport, Chicago, USA</place>
+    										<scene></scene>
+        									<coordinates>-87.904,41.9775</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sleepless in Seattle</title>
+    						<poster>http://www.filmaps.com/posters/0908131939000000</poster>
+    						<locations><location>
+    											<place>O'Hare International Airport, Chicago</place>
+    										<scene></scene>
+        									<coordinates>-87.9019,41.9778</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Couples Retreat</title>
+    						<poster>http://www.filmaps.com/posters/0910271641000000</poster>
+    						<locations><location>
+    											<place>O'Hare International Airport, Chicago, Illinois, USA</place>
+    										<scene></scene>
+        									<coordinates>-87.9067,41.9797</coordinates>
+        									</location></locations>
+						</movie></Document>

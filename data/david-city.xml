@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>O Pioneers!</title>
+    						<poster>http://www.filmaps.com/posters/0910052611000000</poster>
+    						<locations><location>
+    											<place>david city, nebraska, USA</place>
+    										<scene>st francis parish hall</scene>
+        									<coordinates>-97.082,41.1883</coordinates>
+        									</location></locations>
+						</movie></Document>

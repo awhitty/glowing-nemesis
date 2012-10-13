@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gladiator</title>
+    						<poster>http://www.filmaps.com/posters/0901134132000000</poster>
+    						<locations><location>
+    											<place>san quirico d'orcia</place>
+    										<scene>Massimo home</scene>
+        									<coordinates>11.6094,43.0667</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>nostalghia</title>
+    						<poster>http://www.filmaps.com/posters/1012125123000000</poster>
+    						<locations><location>
+    											<place>bagno vignoni </place>
+    										<scene></scene>
+        									<coordinates>11.6181,43.0286</coordinates>
+        									</location></locations>
+						</movie></Document>

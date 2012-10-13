@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Juno</title>
+    						<poster>http://www.filmaps.com/posters/0901173313000000</poster>
+    						<locations><location>
+    											<place>Port Coquitlam, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.74,49.2713</coordinates>
+        									</location></locations>
+						</movie></Document>

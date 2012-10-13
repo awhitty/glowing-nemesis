@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title></title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>strathairlie sq macgregor</place>
+    										<scene>good</scene>
+        									<coordinates>153.07,-27.5569</coordinates>
+        									</location></locations>
+						</movie></Document>

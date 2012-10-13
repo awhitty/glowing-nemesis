@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Soul Men</title>
+    						<poster>http://www.filmaps.com/posters/0902275452000000</poster>
+    						<locations><location>
+    											<place>Louisiana, USA</place>
+    										<scene></scene>
+        									<coordinates>-92.1451,31.2449</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Cadillac Records</title>
+    						<poster>http://www.filmaps.com/posters/0906120031000000</poster>
+    						<locations><location>
+    											<place>Louisiana, Usa</place>
+    										<scene></scene>
+        									<coordinates>-92.1451,31.2449</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Road</title>
+    						<poster>http://www.filmaps.com/posters/1003080112000000</poster>
+    						<locations><location>
+    											<place>Louisiana</place>
+    										<scene>ciudad derrumbada</scene>
+        									<coordinates>-92.1449,31.2449</coordinates>
+        									</location></locations>
+						</movie></Document>

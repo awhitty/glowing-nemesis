@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Duel</title>
+    						<poster>http://www.filmaps.com/posters/1012075201000000</poster>
+    						<locations><location>
+    											<place>Antelope Valley, California, USA</place>
+    										<scene>opening scenes</scene>
+        									<coordinates>-121.322,38.7161</coordinates>
+        									</location></locations>
+						</movie></Document>

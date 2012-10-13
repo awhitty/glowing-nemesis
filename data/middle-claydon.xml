@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>emma</title>
+    						<poster>http://www.filmaps.com/posters/1001233229000000</poster>
+    						<locations><location>
+    											<place>Claydon House, Middle Claydon, Buckinghamshire, England, UK</place>
+    										<scene>Donwell Abbey and Crown ball scene</scene>
+        									<coordinates>-0.954636,51.9218</coordinates>
+        									</location></locations>
+						</movie></Document>

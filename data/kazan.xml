@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Quantum of Solace</title>
+    						<poster>http://www.filmaps.com/posters/0901084408000000</poster>
+    						<locations><location>
+    											<place>Kazan, Russia</place>
+    										<scene></scene>
+        									<coordinates>49.1082,55.7965</coordinates>
+        									</location></locations>
+						</movie></Document>

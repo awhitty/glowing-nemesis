@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Suspiria</title>
+    						<poster>http://www.filmaps.com/posters/0901152145000000</poster>
+    						<locations><location>
+    											<place>47° 59' 46.75" N 7° 51' 2.21" E</place>
+    										<scene>Tanz Academy</scene>
+        									<coordinates>7.85035,47.9966</coordinates>
+        									</location><location>
+    											<place>Freiburg im Breisgau, Baden-Württemberg, Germany</place>
+    										<scene>Tanzakademie exteriors</scene>
+        									<coordinates>7.85376,47.9972</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Suspiria</title>
+    						<poster>http://www.filmaps.com/posters/0901152145000000</poster>
+    						<locations><location>
+    											<place>47° 59' 46.75" N 7° 51' 2.21" E</place>
+    										<scene>Tanz Academy</scene>
+        									<coordinates>7.85035,47.9966</coordinates>
+        									</location><location>
+    											<place>Freiburg im Breisgau, Baden-Württemberg, Germany</place>
+    										<scene>Tanzakademie exteriors</scene>
+        									<coordinates>7.85376,47.9972</coordinates>
+        									</location></locations>
+						</movie></Document>

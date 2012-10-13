@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>los puentes de madison</title>
+    						<poster>http://www.filmaps.com/posters/0902154939000000</poster>
+    						<locations><location>
+    											<place>41.323056,-93.959579</place>
+    										<scene>los puentes de la peli</scene>
+        									<coordinates>-93.9596,41.3229</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Bridges of Madison County</title>
+    						<poster>http://www.filmaps.com/posters/0905093853000000</poster>
+    						<locations><location>
+    											<place>Roseman Bridge, Winterset, Iowa, USA</place>
+    										<scene>Clint Eastwood and Meryl Streep in a brigde scene</scene>
+        									<coordinates>-94.1499,41.2929</coordinates>
+        									</location><location>
+    											<place>Holliwell Bridge, Winterset, Iowa, USA</place>
+    										<scene>Another excelent location brigdes of this movie</scene>
+        									<coordinates>-93.9596,41.3229</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Bridges of Madison County</title>
+    						<poster>http://www.filmaps.com/posters/0905093853000000</poster>
+    						<locations><location>
+    											<place>Roseman Bridge, Winterset, Iowa, USA</place>
+    										<scene>Clint Eastwood and Meryl Streep in a brigde scene</scene>
+        									<coordinates>-94.1499,41.2929</coordinates>
+        									</location><location>
+    											<place>Holliwell Bridge, Winterset, Iowa, USA</place>
+    										<scene>Another excelent location brigdes of this movie</scene>
+        									<coordinates>-93.9596,41.3229</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Crazies</title>
+    						<poster>http://www.filmaps.com/posters/1008261850000000</poster>
+    						<locations><location>
+    											<place>Winterset, Iowa, USA</place>
+    										<scene></scene>
+        									<coordinates>-94.0154,41.3306</coordinates>
+        									</location></locations>
+						</movie></Document>

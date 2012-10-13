@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Frankenstein (1931)</title>
+    						<poster>http://www.filmaps.com/posters/0909183728000000</poster>
+    						<locations><location>
+    											<place>Lake Sherwood, California, USA</place>
+    										<scene>creature and young girl by the lake scene</scene>
+        									<coordinates>-118.87,34.1399</coordinates>
+        									</location></locations>
+						</movie></Document>

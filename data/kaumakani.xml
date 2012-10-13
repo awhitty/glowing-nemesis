@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jurassic Park</title>
+    						<poster>http://www.filmaps.com/posters/0901251016000000</poster>
+    						<locations><location>
+    											<place>Kauai island, Hawaii, usa</place>
+    										<scene>Dinosaurs island</scene>
+        									<coordinates>-159.615,21.9163</coordinates>
+        									</location></locations>
+						</movie></Document>

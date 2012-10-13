@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Grapes of Wrath</title>
+    						<poster>http://www.filmaps.com/posters/0903113528000000</poster>
+    						<locations><location>
+    											<place>Needles, California, USA</place>
+    										<scene>Joad's Truck can be seen passing the "Welcome To Needles" sign and Carty's Camp</scene>
+        									<coordinates>-114.607,34.8143</coordinates>
+        									</location></locations>
+						</movie></Document>

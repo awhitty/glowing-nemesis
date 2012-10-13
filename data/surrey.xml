@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>smallville</title>
+    						<poster>http://www.filmaps.com/posters/0910312656000000</poster>
+    						<locations><location>
+    											<place>Cloverdale, Surrey, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.726,49.1103</coordinates>
+        									</location></locations>
+						</movie></Document>

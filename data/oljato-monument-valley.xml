@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Once Apon A Time In The West</title>
+    						<poster>http://www.filmaps.com/posters/1011092018000000</poster>
+    						<locations><location>
+    											<place>Monument Valley</place>
+    										<scene></scene>
+        									<coordinates>-110.194,36.9914</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>2001: A Space Odyssey (1968)</title>
+    						<poster>http://www.filmaps.com/posters/1106043149000000</poster>
+    						<locations><location>
+    											<place>Monument Valley, Arizona</place>
+    										<scene></scene>
+        									<coordinates>-110.194,36.9912</coordinates>
+        									</location></locations>
+						</movie></Document>

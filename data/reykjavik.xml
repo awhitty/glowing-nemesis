@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mýrin</title>
+    						<poster>http://www.filmaps.com/posters/0909085343000000</poster>
+    						<locations><location>
+    											<place>Reykjavík, Iceland</place>
+    										<scene></scene>
+        									<coordinates>-21.8954,64.1352</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>101 Reykjavík</title>
+    						<poster>http://www.filmaps.com/posters/0909085531000000</poster>
+    						<locations><location>
+    											<place>Reykjavík, Iceland</place>
+    										<scene></scene>
+        									<coordinates>-21.9202,64.1453</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Children of Nature</title>
+    						<poster>http://www.filmaps.com/posters/1107105924000000</poster>
+    						<locations><location>
+    											<place>Reykjavík, Iceland</place>
+    										<scene></scene>
+        									<coordinates>-21.9303,64.1444</coordinates>
+        									</location></locations>
+						</movie></Document>

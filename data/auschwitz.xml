@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Schindler's List</title>
+    						<poster>http://www.filmaps.com/posters/0901153412000000</poster>
+    						<locations><location>
+    											<place>Auschwitz, Poland</place>
+    										<scene>mayoria de las escenas en campo de concentración</scene>
+        									<coordinates>19.35,50.0667</coordinates>
+        									</location></locations>
+						</movie></Document>

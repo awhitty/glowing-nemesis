@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Revolutionary road</title>
+    						<poster>http://www.filmaps.com/posters/0901295811000000</poster>
+    						<locations><location>
+    											<place>Darien, Connecticut</place>
+    										<scene>where were their houses located?</scene>
+        									<coordinates>-73.4692,41.0782</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The life before her eyes</title>
+    						<poster>http://www.filmaps.com/posters/0908194928000000</poster>
+    						<locations><location>
+    											<place>Darien, Connecticut</place>
+    										<scene></scene>
+        									<coordinates>-73.4698,41.0779</coordinates>
+        									</location></locations>
+						</movie></Document>

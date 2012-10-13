@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>993 N. 7th Street, Steubenville, Ohio, Estados Unidos</place>
+    										<scene>Scene outside Central Blast Furnance</scene>
+        									<coordinates>-80.6134,40.3735</coordinates>
+        									</location></locations>
+						</movie></Document>

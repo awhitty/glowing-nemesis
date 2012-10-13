@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Patriot</title>
+    						<poster>http://www.filmaps.com/posters/0901150535000000</poster>
+    						<locations><location>
+    											<place>Fort Lawn, South Carolina</place>
+    										<scene></scene>
+        									<coordinates>-80.8959,34.7028</coordinates>
+        									</location></locations>
+						</movie></Document>

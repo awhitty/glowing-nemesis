@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Prison Break</title>
+    						<poster>http://www.filmaps.com/posters/0901210526000000</poster>
+    						<locations><location>
+    											<place>Collins Street, Joliet, Illinois, USA</place>
+    										<scene>Joliet Prison</scene>
+        									<coordinates>-88.0731,41.5389</coordinates>
+        									</location></locations>
+						</movie></Document>

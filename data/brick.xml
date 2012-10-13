@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>chasing amy</title>
+    						<poster>http://www.filmaps.com/posters/0902052231000000</poster>
+    						<locations><location>
+    											<place>197 Chambersbridge Rd., Brick nj</place>
+    										<scene>Hockey Game</scene>
+        									<coordinates>-74.1446,40.0669</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title></title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations></locations>
+						</movie><movie>
+    						<title></title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations></locations>
+						</movie><movie>
+    						<title></title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations></locations>
+						</movie><movie>
+    						<title></title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations></locations>
+						</movie><movie>
+    						<title>17 again</title>
+    						<poster>http://www.filmaps.com/posters/0905200639000000</poster>
+    						<locations><location>
+    											<place>brisbane queensland</place>
+    										<scene></scene>
+        									<coordinates>153.028,-27.4675</coordinates>
+        									</location></locations>
+						</movie></Document>

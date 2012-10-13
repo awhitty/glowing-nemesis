@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Oceans 12</title>
+    						<poster>http://www.filmaps.com/posters/0901303344000000</poster>
+    						<locations><location>
+    											<place>Fiumicino airport, Rome</place>
+    										<scene>Airport scenes</scene>
+        									<coordinates>12.2506,41.7945</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La Dolce Vita </title>
+    						<poster>http://www.filmaps.com/posters/0901154410000000</poster>
+    						<locations><location>
+    											<place>Passo Oscuro, Rome</place>
+    										<scene></scene>
+        									<coordinates>12.1574,41.9036</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Comizi d'amore</title>
+    						<poster>http://www.filmaps.com/posters/0910244011000000</poster>
+    						<locations><location>
+    											<place>Fiumicino, Rome, Lazio, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.2299,41.7716</coordinates>
+        									</location></locations>
+						</movie></Document>

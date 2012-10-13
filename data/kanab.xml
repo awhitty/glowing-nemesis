@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Planet of the Apes</title>
+    						<poster>http://www.filmaps.com/posters/0902082603000000</poster>
+    						<locations><location>
+    											<place>Lake Powell, Utah, USA</place>
+    										<scene>crashed rocket ship</scene>
+        									<coordinates>-111.309,37.0513</coordinates>
+        									</location></locations>
+						</movie></Document>

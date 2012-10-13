@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lost (Perdidos)</title>
+    						<poster>http://www.filmaps.com/posters/0901075612000000</poster>
+    						<locations><location>
+    											<place>North Shore, Hawaii, USA</place>
+    										<scene></scene>
+        									<coordinates>-158.06,21.6549</coordinates>
+        									</location><location>
+    											<place>Baimea bay, Hawaii, USA</place>
+    										<scene></scene>
+        									<coordinates>-158.07,21.6381</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Lost (Perdidos)</title>
+    						<poster>http://www.filmaps.com/posters/0901075612000000</poster>
+    						<locations><location>
+    											<place>North Shore, Hawaii, USA</place>
+    										<scene></scene>
+        									<coordinates>-158.06,21.6549</coordinates>
+        									</location><location>
+    											<place>Baimea bay, Hawaii, USA</place>
+    										<scene></scene>
+        									<coordinates>-158.07,21.6381</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Point Break</title>
+    						<poster>http://www.filmaps.com/posters/0906131533000000</poster>
+    						<locations><location>
+    											<place>Oahu's, Hawai</place>
+    										<scene>North Shore surfing zone of Oahu's Island</scene>
+        									<coordinates>-158.106,21.6029</coordinates>
+        									</location><location>
+    											<place>Pupukea, Oahu Island, Hawai</place>
+    										<scene>Pipeline Beach and Sunset Point Beach, where two boys surfing</scene>
+        									<coordinates>-158.042,21.6733</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Point Break</title>
+    						<poster>http://www.filmaps.com/posters/0906131533000000</poster>
+    						<locations><location>
+    											<place>Oahu's, Hawai</place>
+    										<scene>North Shore surfing zone of Oahu's Island</scene>
+        									<coordinates>-158.106,21.6029</coordinates>
+        									</location><location>
+    											<place>Pupukea, Oahu Island, Hawai</place>
+    										<scene>Pipeline Beach and Sunset Point Beach, where two boys surfing</scene>
+        									<coordinates>-158.042,21.6733</coordinates>
+        									</location></locations>
+						</movie></Document>

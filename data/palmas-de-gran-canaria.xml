@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>moby dick</title>
+    						<poster>http://www.filmaps.com/posters/1001092833000000</poster>
+    						<locations><location>
+    											<place>Las Palmas de Gran Canaria, Canary Islands, Spain</place>
+    										<scene>finals scenes</scene>
+        									<coordinates>-15.4298,28.125</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El rayo verde</title>
+    						<poster>http://www.filmaps.com/posters/1110240026000000.jpg</poster>
+    						<locations><location>
+    											<place>las palmas de gran canaria</place>
+    										<scene>Last scene, when the sun's green ray is seen</scene>
+        									<coordinates>-15.4299,28.1247</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Five Days From Home</title>
+    						<poster>http://www.filmaps.com/posters/1012153128000000</poster>
+    						<locations><location>
+    											<place>Springhill, Louisiana</place>
+    										<scene>George Peppard</scene>
+        									<coordinates>-93.4669,33.0061</coordinates>
+        									</location></locations>
+						</movie></Document>

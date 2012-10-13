@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Doctor Zhivago</title>
+    						<poster>http://www.filmaps.com/posters/0902261926000000</poster>
+    						<locations><location>
+    											<place>embalse de aldeadávila</place>
+    										<scene>last scene of the film</scene>
+        									<coordinates>-6.68606,41.2122</coordinates>
+        									</location></locations>
+						</movie></Document>

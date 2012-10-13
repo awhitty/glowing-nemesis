@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>el lugar</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>parque jaime duque colombia </place>
+    										<scene>el lugar de ensueño</scene>
+        									<coordinates>-73.9642,4.95002</coordinates>
+        									</location></locations>
+						</movie></Document>

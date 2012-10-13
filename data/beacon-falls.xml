@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Revolutionary road</title>
+    						<poster>http://www.filmaps.com/posters/0901295811000000</poster>
+    						<locations><location>
+    											<place>Beacon Falls, Connecticut, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.0645,41.4427</coordinates>
+        									</location></locations>
+						</movie></Document>

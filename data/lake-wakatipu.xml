@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The lords of the rings</title>
+    						<poster>http://www.filmaps.com/posters/0901082858000000</poster>
+    						<locations><location>
+    											<place>Lake Wakatipu, Glenorchy</place>
+    										<scene>battle with the Orcs</scene>
+        									<coordinates>168.371,-44.8646</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El señor de los anillos</title>
+    						<poster>http://www.filmaps.com/posters/0901124356000000</poster>
+    						<locations><location>
+    											<place>Wakatipu , Queenstown</place>
+    										<scene>La torre de Orthanc</scene>
+        									<coordinates>168.548,-45.091</coordinates>
+        									</location></locations>
+						</movie></Document>

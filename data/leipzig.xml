@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Das weisse Band</title>
+    						<poster>http://www.filmaps.com/posters/1001184551000000</poster>
+    						<locations><location>
+    											<place>Leipzig, Saxony, Germany </place>
+    										<scene></scene>
+        									<coordinates>12.3743,51.3399</coordinates>
+        									</location></locations>
+						</movie></Document>

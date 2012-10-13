@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Captain Corelli's Mandolin</title>
+    						<poster>http://www.filmaps.com/posters/0901290055000000</poster>
+    						<locations><location>
+    											<place>Sami, Keffalonia, Greece</place>
+    										<scene>scene in Sami harbour in Keffalonia island</scene>
+        									<coordinates>20.6476,38.2525</coordinates>
+        									</location></locations>
+						</movie></Document>

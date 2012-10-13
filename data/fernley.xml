@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Wizard</title>
+    						<poster>http://www.filmaps.com/posters/1104014734000000</poster>
+    						<locations><location>
+    											<place>Hazen Nevada</place>
+    										<scene>This is the market that they boys stop at when they are in the back of the Hostess truck.</scene>
+        									<coordinates>-119.049,39.5637</coordinates>
+        									</location></locations>
+						</movie></Document>

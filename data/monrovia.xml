@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>A Cinderella Story</title>
+    						<poster>http://www.filmaps.com/posters/0902275228000000</poster>
+    						<locations><location>
+    											<place>Monrovia, California</place>
+    										<scene>no way i live in monrovia and currently attending mhs were the movie was shoot</scene>
+        									<coordinates>-118.001,34.1601</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Cinderella Story</title>
+    						<poster>http://www.filmaps.com/posters/1001181020000000</poster>
+    						<locations><location>
+    											<place>Monrovia, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-117.999,34.1478</coordinates>
+        									</location></locations>
+						</movie></Document>

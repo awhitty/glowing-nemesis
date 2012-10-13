@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the ugly truth</title>
+    						<poster>http://www.filmaps.com/posters/0906091012000000</poster>
+    						<locations><location>
+    											<place>Ojai, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-119.247,34.4477</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Easy A</title>
+    						<poster>http://www.filmaps.com/posters/1009090600000000</poster>
+    						<locations><location>
+    											<place> Ojai, CA</place>
+    										<scene></scene>
+        									<coordinates>-119.268,34.4425</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Smokey and the Bandit</title>
+    						<poster>http://www.filmaps.com/posters/1007051217000000</poster>
+    						<locations><location>
+    											<place>Ojai, Ca</place>
+    										<scene>certain driving scenes</scene>
+        									<coordinates>-119.243,34.4478</coordinates>
+        									</location></locations>
+						</movie></Document>

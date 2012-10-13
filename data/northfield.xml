@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>A Serious Man</title>
+    						<poster>http://www.filmaps.com/posters/1001084354000000</poster>
+    						<locations><location>
+    											<place>St. Olaf College, Northfield, Minnesota, USA</place>
+    										<scene></scene>
+        									<coordinates>-93.1853,44.4657</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ferris Bueller's Day Off</title>
+    						<poster>http://www.filmaps.com/posters/0908072532000000</poster>
+    						<locations><location>
+    											<place>New Trier High School - West - Winnetka IL</place>
+    										<scene>Most of the 'interior school scenes' were filmed here. The school was empty at the time of shooting.</scene>
+        									<coordinates>-87.7656,42.09</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Uncle Buck</title>
+    						<poster>http://www.filmaps.com/posters/0911191102000000</poster>
+    						<locations><location>
+    											<place>New Trier High School West - Winnetka, IL</place>
+    										<scene>Buck drops of Tia off in front of the school - and his car backfires.</scene>
+        									<coordinates>-87.7658,42.09</coordinates>
+        									</location></locations>
+						</movie></Document>

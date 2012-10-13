@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Wanted</title>
+    						<poster>http://www.filmaps.com/posters/0906020811000000</poster>
+    						<locations><location>
+    											<place>Berwyn, Illinois, USA</place>
+    										<scene>grocery store and exteriors scenes</scene>
+        									<coordinates>-87.7948,41.8433</coordinates>
+        									</location></locations>
+						</movie></Document>

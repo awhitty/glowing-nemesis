@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bonnie and Clyde</title>
+    						<poster>http://www.filmaps.com/posters/0901144409000000</poster>
+    						<locations><location>
+    											<place>Lemmon Lake, Texas, USA</place>
+    										<scene>Shootout</scene>
+        									<coordinates>-96.7308,32.6965</coordinates>
+        									</location><location>
+    											<place>Dallas</place>
+    										<scene></scene>
+        									<coordinates>-96.7969,32.7813</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bonnie and Clyde</title>
+    						<poster>http://www.filmaps.com/posters/0901144409000000</poster>
+    						<locations><location>
+    											<place>Lemmon Lake, Texas, USA</place>
+    										<scene>Shootout</scene>
+        									<coordinates>-96.7308,32.6965</coordinates>
+        									</location><location>
+    											<place>Dallas</place>
+    										<scene></scene>
+        									<coordinates>-96.7969,32.7813</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Prison Break</title>
+    						<poster>http://www.filmaps.com/posters/0901210526000000</poster>
+    						<locations><location>
+    											<place>dallas, USA</place>
+    										<scene></scene>
+        									<coordinates>-96.7972,32.7812</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>phantom of the paradise</title>
+    						<poster>http://www.filmaps.com/posters/0911193227000000</poster>
+    						<locations><location>
+    											<place>Dallas, Texas</place>
+    										<scene>Swan's Theater</scene>
+        									<coordinates>-96.7699,32.8029</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>JFK</title>
+    						<poster>http://www.filmaps.com/posters/0902073926000000</poster>
+    						<locations><location>
+    											<place>500 Main Street, Dallas, Texas, USA</place>
+    										<scene>Dealey Plaza Park images</scene>
+        									<coordinates>-96.8081,32.7787</coordinates>
+        									</location></locations>
+						</movie></Document>

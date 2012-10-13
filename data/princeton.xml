@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>House M. D.</title>
+    						<poster>http://www.filmaps.com/posters/0901075337000000</poster>
+    						<locations><location>
+    											<place>Princeton, New Jersey, USA</place>
+    										<scene>Aerial images</scene>
+        									<coordinates>-74.6604,40.3464</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>malone</title>
+    						<poster>http://www.filmaps.com/posters/0903030806000000</poster>
+    						<locations><location>
+    											<place>princeton british columbia</place>
+    										<scene></scene>
+        									<coordinates>-120.509,49.4587</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the pledge</title>
+    						<poster>http://www.filmaps.com/posters/0912065658000000</poster>
+    						<locations><location>
+    											<place>Princeton, British Columbia, Canada</place>
+    										<scene>Bridge</scene>
+        									<coordinates>-120.506,49.4591</coordinates>
+        									</location></locations>
+						</movie></Document>

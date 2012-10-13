@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ordinary People</title>
+    						<poster>http://www.filmaps.com/posters/0911193127000000</poster>
+    						<locations><location>
+    											<place>Lake Forest, IL</place>
+    										<scene></scene>
+        									<coordinates>-87.8408,42.2584</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Oceans 12</title>
+    						<poster>http://www.filmaps.com/posters/0901303344000000</poster>
+    						<locations><location>
+    											<place>Lake Forest, il</place>
+    										<scene>Jewelry Store</scene>
+        									<coordinates>-87.8406,42.2586</coordinates>
+        									</location></locations>
+						</movie></Document>

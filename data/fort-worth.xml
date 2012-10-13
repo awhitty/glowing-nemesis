@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>JFK</title>
+    						<poster>http://www.filmaps.com/posters/0902073926000000</poster>
+    						<locations><location>
+    											<place>Fort Worth, Texas, USA</place>
+    										<scene></scene>
+        									<coordinates>-97.3138,32.7271</coordinates>
+        									</location></locations>
+						</movie></Document>

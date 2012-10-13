@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Outbreak</title>
+    						<poster>http://www.filmaps.com/posters/0910315854000000</poster>
+    						<locations><location>
+    											<place>Arcata, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-124.082,40.8668</coordinates>
+        									</location></locations>
+						</movie></Document>

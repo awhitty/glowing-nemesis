@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The life before her eyes</title>
+    						<poster>http://www.filmaps.com/posters/0908194928000000</poster>
+    						<locations><location>
+    											<place>Stamford, Connecticut</place>
+    										<scene></scene>
+        									<coordinates>-73.5309,41.0551</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Reservation Road</title>
+    						<poster>http://www.filmaps.com/posters/0911290623000000</poster>
+    						<locations><location>
+    											<place>Stamford, Connecticut, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.5386,41.0536</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Office</title>
+    						<poster>http://www.filmaps.com/posters/0901072626000000</poster>
+    						<locations><location>
+    											<place>Stamford, Connecticut, USA</place>
+    										<scene>some outdoor pictures</scene>
+        									<coordinates>-73.5387,41.0534</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pride and Prejudice</title>
+    						<poster>http://www.filmaps.com/posters/0902091209000000</poster>
+    						<locations><location>
+    											<place>St George square Stamford</place>
+    										<scene>Meryton village</scene>
+        									<coordinates>-73.5534,41.0582</coordinates>
+        									</location></locations>
+						</movie></Document>

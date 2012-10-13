@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Orphan</title>
+    						<poster>http://www.filmaps.com/posters/0907270324000000</poster>
+    						<locations><location>
+    											<place>Montréal, Québec, Canada</place>
+    										<scene></scene>
+        									<coordinates>-73.6319,45.55</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>chacal</title>
+    						<poster>http://www.filmaps.com/posters/0905264811000000</poster>
+    						<locations><location>
+    											<place>Lionel-Groulx Metro Station, Montréal, Québec, Canada</place>
+    										<scene></scene>
+        									<coordinates>-73.5794,45.4832</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the score</title>
+    						<poster>http://www.filmaps.com/posters/0906172839000000</poster>
+    						<locations><location>
+    											<place>Rue McGill, Montréal, Quebec</place>
+    										<scene>Robbery of the Montreal Customs House</scene>
+        									<coordinates>-73.5549,45.4995</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>12 Monkeys</title>
+    						<poster>http://www.filmaps.com/posters/0909031341000000</poster>
+    						<locations><location>
+    											<place>Montréal, Québec, Canada</place>
+    										<scene></scene>
+        									<coordinates>-73.6399,45.5446</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The curious case of Benjamin Button (brad pitt)</title>
+    						<poster>http://www.filmaps.com/posters/0902072750000000</poster>
+    						<locations><location>
+    											<place>Old Montreal, Montreal, QC</place>
+    										<scene></scene>
+        									<coordinates>-73.6159,45.4734</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Get Smart</title>
+    						<poster>http://www.filmaps.com/posters/1001291927000000</poster>
+    						<locations><location>
+    											<place>Olympic Stadium, Montréal, Québec, Canada</place>
+    										<scene></scene>
+        									<coordinates>-73.5518,45.5564</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ford: The Man and the Machine</title>
+    						<poster>http://www.filmaps.com/posters/1105171554000000</poster>
+    						<locations><location>
+    											<place>Montreal, Quebec, Canada</place>
+    										<scene></scene>
+        									<coordinates>-73.5541,45.5088</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Catch Me If You Can</title>
+    						<poster>http://www.filmaps.com/posters/1011061101000000</poster>
+    						<locations><location>
+    											<place>Notre Dame des Victoires, Québec, Canada</place>
+    										<scene>Montrichard Square</scene>
+        									<coordinates>-73.5507,45.5727</coordinates>
+        									</location></locations>
+						</movie></Document>

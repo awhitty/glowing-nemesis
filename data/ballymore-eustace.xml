@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Braveheart</title>
+    						<poster>http://www.filmaps.com/posters/0901150836000000</poster>
+    						<locations><location>
+    											<place>Ballymore Eustace, County Kildare, Ireland</place>
+    										<scene></scene>
+        									<coordinates>-6.59834,53.0922</coordinates>
+        									</location></locations>
+						</movie></Document>

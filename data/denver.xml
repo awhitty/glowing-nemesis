@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Imagine that</title>
+    						<poster>http://www.filmaps.com/posters/0905201217000000</poster>
+    						<locations><location>
+    											<place>Denver, Colorado, USA</place>
+    										<scene>Principal film locations</scene>
+        									<coordinates>-104.988,39.7536</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>About Schmidt</title>
+    						<poster>http://www.filmaps.com/posters/0907292039000000</poster>
+    						<locations><location>
+    											<place>Denver, Colorado, USA</place>
+    										<scene></scene>
+        									<coordinates>-104.988,39.7551</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sleeper</title>
+    						<poster>http://www.filmaps.com/posters/1001141944000000</poster>
+    						<locations><location>
+    											<place>1324 Champa Street, Denver, Colorado, USA</place>
+    										<scene>Currigan Exhibition Hall interiors scenes</scene>
+        									<coordinates>-104.997,39.7439</coordinates>
+        									</location><location>
+    											<place>3060 S. Monaco Parkway, Denver, Colorado, USA</place>
+    										<scene></scene>
+        									<coordinates>-104.913,39.6612</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sleeper</title>
+    						<poster>http://www.filmaps.com/posters/1001141944000000</poster>
+    						<locations><location>
+    											<place>1324 Champa Street, Denver, Colorado, USA</place>
+    										<scene>Currigan Exhibition Hall interiors scenes</scene>
+        									<coordinates>-104.997,39.7439</coordinates>
+        									</location><location>
+    											<place>3060 S. Monaco Parkway, Denver, Colorado, USA</place>
+    										<scene></scene>
+        									<coordinates>-104.913,39.6612</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sherlock Holmes (2009)</title>
+    						<poster>http://www.filmaps.com/posters/0912102325000000</poster>
+    						<locations><location>
+    											<place>St Bartholomew Church</place>
+    										<scene>The Crypt of St Pauls</scene>
+        									<coordinates>-89.6817,44.5396</coordinates>
+        									</location></locations>
+						</movie></Document>

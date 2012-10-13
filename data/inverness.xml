@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the fog</title>
+    						<poster>http://www.filmaps.com/posters/0904035846000000</poster>
+    						<locations><location>
+    											<place>point reyes lighthouse</place>
+    										<scene>the lighthouse of stevie wayne</scene>
+        									<coordinates>-123.023,37.9959</coordinates>
+        									</location></locations>
+						</movie></Document>

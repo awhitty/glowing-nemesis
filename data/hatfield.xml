@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Lovely Bones</title>
+    						<poster>http://www.filmaps.com/posters/0908133823000000</poster>
+    						<locations><location>
+    											<place>Hatfield, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-75.2996,40.2796</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Johnny English</title>
+    						<poster>http://www.filmaps.com/posters/0911152636000000</poster>
+    						<locations><location>
+    											<place>Brocket Hall, Brocket Park, Lemsford, Welwyn Garden City, AL8 7XG, Uk</place>
+    										<scene>Sandringham House</scene>
+        									<coordinates>-0.237107,51.7949</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Highlander</title>
+    						<poster>http://www.filmaps.com/posters/0912313947000000</poster>
+    						<locations><location>
+    											<place>Brocket Hall, Brocket Park, Lemsford, Welwyn Garden City, AL8 7XG, UK</place>
+    										<scene>sword fencing scene</scene>
+        									<coordinates>-0.243745,51.7937</coordinates>
+        									</location></locations>
+						</movie></Document>

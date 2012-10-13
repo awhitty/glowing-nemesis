@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pearl Harbour</title>
+    						<poster>http://www.filmaps.com/posters/0902110401000000</poster>
+    						<locations><location>
+    											<place>Pearl Harbor, Hawai</place>
+    										<scene>Pearl Harbor images</scene>
+        									<coordinates>-157.97,21.3306</coordinates>
+        									</location></locations>
+						</movie></Document>

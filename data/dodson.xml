@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Heaven's Gate</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>beaver blvd, trailcreek, mt</place>
+    										<scene></scene>
+        									<coordinates>-108.411,47.9749</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>agora</title>
+    						<poster>http://www.filmaps.com/posters/0909104047000000</poster>
+    						<locations><location>
+    											<place>Mdina, Malta</place>
+    										<scene></scene>
+        									<coordinates>14.4019,35.8855</coordinates>
+        									</location></locations>
+						</movie></Document>

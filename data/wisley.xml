@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hope and Glory</title>
+    						<poster>http://www.filmaps.com/posters/0911114150000000</poster>
+    						<locations><location>
+    											<place>Wisley Airfield, Wisley, Surrey, UK</place>
+    										<scene>Street where main characters lived</scene>
+        									<coordinates>-0.476247,51.3231</coordinates>
+        									</location></locations>
+						</movie></Document>

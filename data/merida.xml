@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El hombre de arena</title>
+    						<poster>http://www.filmaps.com/posters/0908145123000000</poster>
+    						<locations><location>
+    											<place>Mérida</place>
+    										<scene>Parte de la película</scene>
+        									<coordinates>-89.6157,20.9797</coordinates>
+        									</location></locations>
+						</movie></Document>

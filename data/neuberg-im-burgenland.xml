@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Three Musketeers</title>
+    						<poster>http://www.filmaps.com/posters/0911030440000000</poster>
+    						<locations><location>
+    											<place>Castle Land See, Market St. Martin, Burgenland, Austria</place>
+    										<scene></scene>
+        									<coordinates>16.269,47.1536</coordinates>
+        									</location></locations>
+						</movie></Document>

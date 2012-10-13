@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gente mala del Norte</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Punta Arenas Chile</place>
+    										<scene>joan sacre</scene>
+        									<coordinates>-70.9159,-53.1583</coordinates>
+        									</location></locations>
+						</movie></Document>

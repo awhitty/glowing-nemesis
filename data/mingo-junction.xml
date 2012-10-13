@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Vision Quest</title>
+    						<poster>http://www.filmaps.com/posters/0903183018000000</poster>
+    						<locations><location>
+    											<place>mingo junction</place>
+    										<scene></scene>
+        									<coordinates>-80.6098,40.3217</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Commercial St, Mingo Junction, Jefferson, Ohio 43938, Estados Unidos</place>
+    										<scene>Welsh's bar</scene>
+        									<coordinates>-80.6063,40.3215</coordinates>
+        									</location></locations>
+						</movie></Document>

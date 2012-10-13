@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the blair witch project</title>
+    						<poster>http://www.filmaps.com/posters/0901091451000000</poster>
+    						<locations><location>
+    											<place>8020 Baltimore National Pike, Ellicott City, Maryland, USA</place>
+    										<scene>house in final scene</scene>
+        									<coordinates>-76.7808,39.2963</coordinates>
+        									</location></locations>
+						</movie></Document>

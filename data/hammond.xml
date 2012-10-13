@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Frozen River</title>
+    						<poster>http://www.filmaps.com/posters/0909092242000000</poster>
+    						<locations><location>
+    											<place>St. Lawrence River, New York</place>
+    										<scene></scene>
+        									<coordinates>-75.782,44.4766</coordinates>
+        									</location></locations>
+						</movie></Document>

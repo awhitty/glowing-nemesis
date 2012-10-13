@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Nip/Tuck</title>
+    						<poster>http://www.filmaps.com/posters/0901072308000000</poster>
+    						<locations><location>
+    											<place>Altadena, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.139,34.1906</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bye Bye, Love</title>
+    						<poster>http://www.filmaps.com/posters/0909193458000000</poster>
+    						<locations><location>
+    											<place>Altadena, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.137,34.1914</coordinates>
+        									</location></locations>
+						</movie></Document>

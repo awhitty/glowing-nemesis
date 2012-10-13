@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Love Story</title>
+    						<poster>http://www.filmaps.com/posters/0911221526000000</poster>
+    						<locations><location>
+    											<place>at Old Westbury Gardens, Old Westbury, NY</place>
+    										<scene>Oliver comes home to introduce Jenny to his Dad</scene>
+        									<coordinates>-73.5998,40.7885</coordinates>
+        									</location></locations>
+						</movie></Document>

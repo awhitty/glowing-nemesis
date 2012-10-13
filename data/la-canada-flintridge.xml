@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>It's a Wonderful Life</title>
+    						<poster>http://www.filmaps.com/posters/0912153305000000</poster>
+    						<locations><location>
+    											<place>4587 Viro Road, La Canada Flintridge, California, USA</place>
+    										<scene>external Martin house</scene>
+        									<coordinates>-118.179,34.1978</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>America's Sweethearts</title>
+    						<poster>http://www.filmaps.com/posters/1001140625000000</poster>
+    						<locations><location>
+    											<place>1418 Descanso Drive, La Cañada-Flintridge, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.21,34.2032</coordinates>
+        									</location></locations>
+						</movie></Document>

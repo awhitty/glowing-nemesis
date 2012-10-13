@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dead Poets Society</title>
+    						<poster>http://www.filmaps.com/posters/1204143133000000.jpg</poster>
+    						<locations><location>
+    											<place>St. Andrew's School - 350 Noxontown Road, Middletown, Delaware, USA</place>
+    										<scene>School</scene>
+        									<coordinates>-75.6932,39.435</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Big Fish</title>
+    						<poster>http://www.filmaps.com/posters/0901271154000000</poster>
+    						<locations><location>
+    											<place>Pine Flat Presbyterian Church, Highway 143, Deatsville</place>
+    										<scene>Ed's funeral</scene>
+        									<coordinates>-86.396,32.608</coordinates>
+        									</location></locations>
+						</movie></Document>

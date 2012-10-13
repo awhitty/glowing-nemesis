@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Enough</title>
+    						<poster>http://www.filmaps.com/posters/1009125424000000</poster>
+    						<locations><location>
+    											<place>200 Battery Way, Port Townsend, Washington</place>
+    										<scene>boxing scene</scene>
+        									<coordinates>-122.762,48.1357</coordinates>
+        									</location></locations>
+						</movie></Document>

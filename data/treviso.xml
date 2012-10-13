@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The tourist</title>
+    						<poster>http://www.filmaps.com/posters/1101084722000000</poster>
+    						<locations><location>
+    											<place>Treviso, Veneto, Italia</place>
+    										<scene></scene>
+        									<coordinates>12.2419,45.6665</coordinates>
+        									</location></locations>
+						</movie></Document>

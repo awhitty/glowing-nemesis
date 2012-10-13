@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gandhi</title>
+    						<poster>http://www.filmaps.com/posters/1106082332000000</poster>
+    						<locations><location>
+    											<place>New Delhi, Delhi, India</place>
+    										<scene></scene>
+        									<coordinates>77.2247,28.6351</coordinates>
+        									</location></locations>
+						</movie></Document>

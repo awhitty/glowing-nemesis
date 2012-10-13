@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Armageddon</title>
+    						<poster>http://www.filmaps.com/posters/0901100924000000</poster>
+    						<locations><location>
+    											<place>Johnson Space Center, usa</place>
+    										<scene>Apollo Flight Control Room</scene>
+        									<coordinates>-95.0927,29.5607</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dead Poets Society</title>
+    						<poster>http://www.filmaps.com/posters/1204143133000000.jpg</poster>
+    						<locations><location>
+    											<place>Wolf Cave, Delaware, USA</place>
+    										<scene>Society meetings</scene>
+        									<coordinates>-75.5277,38.9109</coordinates>
+        									</location></locations>
+						</movie></Document>

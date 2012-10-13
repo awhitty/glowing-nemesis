@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>goodfellas</title>
+    						<poster>http://www.filmaps.com/posters/0907240224000000</poster>
+    						<locations><location>
+    											<place>Lawrence, Long Island, New York, USA</place>
+    										<scene>Karen's parent's house</scene>
+        									<coordinates>-73.7296,40.6157</coordinates>
+        									</location></locations>
+						</movie></Document>

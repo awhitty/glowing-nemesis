@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gladiator</title>
+    						<poster>http://www.filmaps.com/posters/0901134132000000</poster>
+    						<locations><location>
+    											<place>Alabama Hills, Lone Pine, California, USA</place>
+    										<scene>exterior images</scene>
+        									<coordinates>-118.089,36.5678</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Labyrinth (Dentro del laberinto)</title>
+    						<poster>http://www.filmaps.com/posters/0912033937000000</poster>
+    						<locations><location>
+    											<place>Upper Nyack, New York, USA</place>
+    										<scene>La casa de Sarah</scene>
+        									<coordinates>-73.9201,41.1071</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Stepmom</title>
+    						<poster>http://www.filmaps.com/posters/1001042053000000</poster>
+    						<locations><location>
+    											<place>North Broadway Upper Nyack NY 10960</place>
+    										<scene>Jackie's (Susan Sarandon) Home </scene>
+        									<coordinates>-73.9168,41.1084</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Purple Rose of Cairo</title>
+    						<poster>http://www.filmaps.com/posters/1001043451000000</poster>
+    						<locations><location>
+    											<place>Main Street Piermont NY 10960</place>
+    										<scene>Downtown and exterior theatre scenes</scene>
+        									<coordinates>-73.9272,41.0312</coordinates>
+        									</location></locations>
+						</movie></Document>

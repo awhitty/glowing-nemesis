@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Avanti!</title>
+    						<poster>http://www.filmaps.com/posters/1001291718000000</poster>
+    						<locations><location>
+    											<place>Chiesa del Soccorso Forio d'Ischia</place>
+    										<scene>the Church of the Funeral</scene>
+        									<coordinates>13.855,40.737</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Se lo fai sono guai</title>
+    						<poster>http://www.filmaps.com/posters/1001292855000000</poster>
+    						<locations><location>
+    											<place>Chiesa del Soccorso Forio d'Ischia Italy</place>
+    										<scene>Valentino disco</scene>
+        									<coordinates>13.855,40.737</coordinates>
+        									</location></locations>
+						</movie></Document>

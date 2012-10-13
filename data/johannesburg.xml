@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Forgiveness</title>
+    						<poster>http://www.filmaps.com/posters/0905011909000000</poster>
+    						<locations><location>
+    											<place>Johannesburg, Gauteng, South Africa</place>
+    										<scene></scene>
+        									<coordinates>28.0457,-26.2014</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>district 9</title>
+    						<poster>http://www.filmaps.com/posters/0909112738000000</poster>
+    						<locations><location>
+    											<place>Johannesburg, Gauteng, South Africa</place>
+    										<scene></scene>
+        									<coordinates>28.0439,-26.1985</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Invictus</title>
+    						<poster>http://www.filmaps.com/posters/1001291531000000</poster>
+    						<locations><location>
+    											<place>Johannesburg, Gauteng, South Africa</place>
+    										<scene></scene>
+        									<coordinates>28.0406,-26.2147</coordinates>
+        									</location><location>
+    											<place>Ellis park Stadium, Johannesburg, South Africa</place>
+    										<scene>match and Nelson Mandela images in stadium</scene>
+        									<coordinates>28.0625,-26.1938</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Invictus</title>
+    						<poster>http://www.filmaps.com/posters/1001291531000000</poster>
+    						<locations><location>
+    											<place>Johannesburg, Gauteng, South Africa</place>
+    										<scene></scene>
+        									<coordinates>28.0406,-26.2147</coordinates>
+        									</location><location>
+    											<place>Ellis park Stadium, Johannesburg, South Africa</place>
+    										<scene>match and Nelson Mandela images in stadium</scene>
+        									<coordinates>28.0625,-26.1938</coordinates>
+        									</location></locations>
+						</movie></Document>

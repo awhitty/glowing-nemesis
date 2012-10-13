@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Goonies</title>
+    						<poster>http://www.filmaps.com/posters/0901230433000000</poster>
+    						<locations><location>
+    											<place>Cannon Beach, astoria, usa</place>
+    										<scene>Haystack Rock</scene>
+        									<coordinates>-123.963,45.8877</coordinates>
+        									</location><location>
+    											<place>Ecola State Park, Astoria, USA</place>
+    										<scene>Where the kids ride their bikes</scene>
+        									<coordinates>-123.975,45.9427</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Goonies</title>
+    						<poster>http://www.filmaps.com/posters/0901230433000000</poster>
+    						<locations><location>
+    											<place>Cannon Beach, astoria, usa</place>
+    										<scene>Haystack Rock</scene>
+        									<coordinates>-123.963,45.8877</coordinates>
+        									</location><location>
+    											<place>Ecola State Park, Astoria, USA</place>
+    										<scene>Where the kids ride their bikes</scene>
+        									<coordinates>-123.975,45.9427</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>twilight - crepusculo</title>
+    						<poster>http://www.filmaps.com/posters/0901173807000000</poster>
+    						<locations><location>
+    											<place>St. Helens, Cannon beach, Oregon, USA</place>
+    										<scene></scene>
+        									<coordinates>-123.965,45.8928</coordinates>
+        									</location></locations>
+						</movie></Document>

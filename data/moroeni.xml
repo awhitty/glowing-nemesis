@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Borat</title>
+    						<poster>http://www.filmaps.com/posters/0908130912000000</poster>
+    						<locations><location>
+    											<place>Moroeni, Romania</place>
+    										<scene></scene>
+        									<coordinates>25.4317,45.2258</coordinates>
+        									</location></locations>
+						</movie></Document>

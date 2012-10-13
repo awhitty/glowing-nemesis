@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Wild America</title>
+    						<poster>http://www.filmaps.com/posters/1202064609000000.jpg</poster>
+    						<locations><location>
+    											<place>Jasper, SC</place>
+    										<scene>Wild America</scene>
+        									<coordinates>-81.0756,32.4915</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>Northumbrian castle, uk</place>
+    										<scene>Alnwick Castle</scene>
+        									<coordinates>-1.57764,55.0888</coordinates>
+        									</location></locations>
+						</movie></Document>

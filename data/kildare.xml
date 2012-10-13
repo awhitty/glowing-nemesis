@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Braveheart</title>
+    						<poster>http://www.filmaps.com/posters/0901150836000000</poster>
+    						<locations><location>
+    											<place>Curragh Plains, County Kildare, Ireland</place>
+    										<scene>Battle of Stirling Bridge</scene>
+        									<coordinates>-6.89553,53.1611</coordinates>
+        									</location></locations>
+						</movie></Document>

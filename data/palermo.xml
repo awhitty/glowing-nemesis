@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Godfather</title>
+    						<poster>http://www.filmaps.com/posters/0901072317000000</poster>
+    						<locations><location>
+    											<place>Teatro Massimo, Palermo, Sicily, Italy</place>
+    										<scene>opera sequence, exterior and entrance</scene>
+        									<coordinates>13.3579,38.1203</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Talented Mr. Ripley</title>
+    						<poster>http://www.filmaps.com/posters/0901242857000000</poster>
+    						<locations><location>
+    											<place>Piazza Bellini, Palermo, Italy</place>
+    										<scene>La Martorana church is where Peter rehearses with the choir</scene>
+        									<coordinates>13.362,38.1148</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Il capo dei capi</title>
+    						<poster>http://www.filmaps.com/posters/0912271742000000</poster>
+    						<locations><location>
+    											<place>palermo</place>
+    										<scene></scene>
+        									<coordinates>13.3614,38.1156</coordinates>
+        									</location></locations>
+						</movie></Document>

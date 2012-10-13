@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Outbreak</title>
+    						<poster>http://www.filmaps.com/posters/0910315854000000</poster>
+    						<locations><location>
+    											<place>eureka, CA, USA</place>
+    										<scene></scene>
+        									<coordinates>-124.164,40.8052</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Goonies</title>
+    						<poster>http://www.filmaps.com/posters/0901230433000000</poster>
+    						<locations><location>
+    											<place>Goat Rock State Beach, CA,USA</place>
+    										<scene>The beach scenes</scene>
+        									<coordinates>-123.126,38.4447</coordinates>
+        									</location></locations>
+						</movie></Document>

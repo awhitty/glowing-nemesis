@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The English Patient</title>
+    						<poster>http://www.filmaps.com/posters/0902253657000000</poster>
+    						<locations><location>
+    											<place>Oasis de Chebika, Tozeur, Tunisia</place>
+    										<scene></scene>
+        									<coordinates>7.93726,34.3175</coordinates>
+        									</location></locations>
+						</movie></Document>

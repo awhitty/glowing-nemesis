@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Dark Knight Rises</title>
+    						<poster>http://www.filmaps.com/posters/1204133448000000.jpg</poster>
+    						<locations><location>
+    											<place>Wollaton Hall, Nottingham</place>
+    										<scene>The Dark Knight Rises</scene>
+        									<coordinates>-1.21041,52.946</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>A Cinderella Story</title>
+    						<poster>http://www.filmaps.com/posters/0902275228000000</poster>
+    						<locations><location>
+    											<place>San Fernando Valley, Los Angeles</place>
+    										<scene></scene>
+        									<coordinates>-118.359,34.1819</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kung Fu (David Carradine)</title>
+    						<poster>http://www.filmaps.com/posters/0906053916000000</poster>
+    						<locations><location>
+    											<place>Burbank, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.336,34.1555</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>expediente 39</title>
+    						<poster>http://www.filmaps.com/posters/0908285758000000</poster>
+    						<locations><location>
+    											<place>Burbank, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.336,34.1566</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Donnie Darko</title>
+    						<poster>http://www.filmaps.com/posters/0909080748000000</poster>
+    						<locations><location>
+    											<place>Burbank, California</place>
+    										<scene></scene>
+        									<coordinates>-118.336,34.1561</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Memento</title>
+    						<poster>http://www.filmaps.com/posters/0912153003000000</poster>
+    						<locations><location>
+    											<place>Burbank, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.309,34.181</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dick and Jane</title>
+    						<poster>http://www.filmaps.com/posters/1101174858000000</poster>
+    						<locations><location>
+    											<place>San Fernando Road, Burbank, CA</place>
+    										<scene></scene>
+        									<coordinates>-118.338,34.1982</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>500 Days of Summer</title>
+    						<poster>http://www.filmaps.com/posters/1102174840000000</poster>
+    						<locations><location>
+    											<place> 600 North San Fernando Blvd., Burbank, CA, USA</place>
+    										<scene>IKEA scene</scene>
+        									<coordinates>-118.314,34.186</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Big Bang Theory</title>
+    						<poster>http://www.filmaps.com/posters/1102221745000000</poster>
+    						<locations><location>
+    											<place>4000 Warner Boulevard, Burbank, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.338,34.1509</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Catch Me If You Can</title>
+    						<poster>http://www.filmaps.com/posters/1011061101000000</poster>
+    						<locations><location>
+    											<place>Bellarmine Jefferson High School, 465 E Olive Ave, Burbank, California, USA</place>
+    										<scene>Monroe High School</scene>
+        									<coordinates>-118.305,34.1842</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Apollo 13</title>
+    						<poster>http://www.filmaps.com/posters/1206091429000000.jpg</poster>
+    						<locations><location>
+    											<place>Safari Inn, Burbank</place>
+    										<scene>Motel that the astronauts' wives stayed in</scene>
+        									<coordinates>-118.309,34.1809</coordinates>
+        									</location></locations>
+						</movie></Document>

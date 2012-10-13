@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Doubt</title>
+    						<poster>http://www.filmaps.com/posters/0901085521000000</poster>
+    						<locations><location>
+    											<place>St. Mark's Place, Yonkers, New York, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.8672,40.9029</coordinates>
+        									</location><location>
+    											<place>Yonkers, New York</place>
+    										<scene></scene>
+        									<coordinates>-73.8958,40.9392</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Doubt</title>
+    						<poster>http://www.filmaps.com/posters/0901085521000000</poster>
+    						<locations><location>
+    											<place>St. Mark's Place, Yonkers, New York, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.8672,40.9029</coordinates>
+        									</location><location>
+    											<place>Yonkers, New York</place>
+    										<scene></scene>
+        									<coordinates>-73.8958,40.9392</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Zoolander</title>
+    						<poster>http://www.filmaps.com/posters/0906283157000000</poster>
+    						<locations><location>
+    											<place>Yonkers, New York, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.8956,40.9397</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fringe</title>
+    						<poster>http://www.filmaps.com/posters/1011111016000000</poster>
+    						<locations><location>
+    											<place>Yonkers, New York</place>
+    										<scene></scene>
+        									<coordinates>-73.8985,40.9315</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Catch Me If You Can</title>
+    						<poster>http://www.filmaps.com/posters/1011061101000000</poster>
+    						<locations><location>
+    											<place>Buena Vista Avenue, Yonkers, New York, USA</place>
+    										<scene>Abagnale apartment</scene>
+        									<coordinates>-73.9029,40.9308</coordinates>
+        									</location><location>
+    											<place>Larkin Park, Yonkers, New York, USA</place>
+    										<scene>Washington DC Square</scene>
+        									<coordinates>-73.8992,40.9359</coordinates>
+        									</location><location>
+    											<place>Launderland Laundromat, 151 Lake Avenue, Yonkers, New York, USA</place>
+    										<scene>Carl Hanratty does laundry</scene>
+        									<coordinates>-73.8862,40.9469</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Catch Me If You Can</title>
+    						<poster>http://www.filmaps.com/posters/1011061101000000</poster>
+    						<locations><location>
+    											<place>Buena Vista Avenue, Yonkers, New York, USA</place>
+    										<scene>Abagnale apartment</scene>
+        									<coordinates>-73.9029,40.9308</coordinates>
+        									</location><location>
+    											<place>Larkin Park, Yonkers, New York, USA</place>
+    										<scene>Washington DC Square</scene>
+        									<coordinates>-73.8992,40.9359</coordinates>
+        									</location><location>
+    											<place>Launderland Laundromat, 151 Lake Avenue, Yonkers, New York, USA</place>
+    										<scene>Carl Hanratty does laundry</scene>
+        									<coordinates>-73.8862,40.9469</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Catch Me If You Can</title>
+    						<poster>http://www.filmaps.com/posters/1011061101000000</poster>
+    						<locations><location>
+    											<place>Buena Vista Avenue, Yonkers, New York, USA</place>
+    										<scene>Abagnale apartment</scene>
+        									<coordinates>-73.9029,40.9308</coordinates>
+        									</location><location>
+    											<place>Larkin Park, Yonkers, New York, USA</place>
+    										<scene>Washington DC Square</scene>
+        									<coordinates>-73.8992,40.9359</coordinates>
+        									</location><location>
+    											<place>Launderland Laundromat, 151 Lake Avenue, Yonkers, New York, USA</place>
+    										<scene>Carl Hanratty does laundry</scene>
+        									<coordinates>-73.8862,40.9469</coordinates>
+        									</location></locations>
+						</movie></Document>

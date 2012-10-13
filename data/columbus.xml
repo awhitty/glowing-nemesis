@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Traffic</title>
+    						<poster>http://www.filmaps.com/posters/0911191230000000</poster>
+    						<locations><location>
+    											<place>Columbus, Ohio</place>
+    										<scene></scene>
+        									<coordinates>-82.999,39.961</coordinates>
+        									</location></locations>
+						</movie></Document>

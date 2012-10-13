@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Nights in Rodanthe</title>
+    						<poster>http://www.filmaps.com/posters/0904021530000000</poster>
+    						<locations><location>
+    											<place>Rodanthe, North Carolina, USA </place>
+    										<scene>The house</scene>
+        									<coordinates>-75.4652,35.607</coordinates>
+        									</location></locations>
+						</movie></Document>

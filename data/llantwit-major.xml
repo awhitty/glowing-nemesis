@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Robin Hood: Prince of Thieves</title>
+    						<poster>http://www.filmaps.com/posters/0911040301000000</poster>
+    						<locations><location>
+    											<place>llantwit major </place>
+    										<scene>robin returning home on the beach</scene>
+        									<coordinates>-3.50095,51.3943</coordinates>
+        									</location></locations>
+						</movie></Document>

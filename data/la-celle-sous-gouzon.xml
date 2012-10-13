@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>sissi</title>
+    						<poster>http://www.filmaps.com/posters/0903241141000000</poster>
+    						<locations><location>
+    											<place>france</place>
+    										<scene>sissi</scene>
+        									<coordinates>2.21361,46.2275</coordinates>
+        									</location></locations>
+						</movie></Document>

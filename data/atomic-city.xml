@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>North By Northwest</title>
+    						<poster>http://www.filmaps.com/posters/0903215651000000</poster>
+    						<locations><location>
+    											<place>Midway Airport, Chicago</place>
+    										<scene>Where the plane departs from</scene>
+        									<coordinates>-112.807,43.4537</coordinates>
+        									</location></locations>
+						</movie></Document>

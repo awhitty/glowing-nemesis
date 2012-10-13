@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>isi disi</title>
+    						<poster>http://www.filmaps.com/posters/0903231805000000</poster>
+    						<locations><location>
+    											<place>Leganés, Madrid</place>
+    										<scene>exteriores de la peli</scene>
+        									<coordinates>-3.75903,40.3265</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La cuarta guerra de los niños (Parchís)</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>leganes</place>
+    										<scene>parque de los olivos</scene>
+        									<coordinates>-3.75835,40.3368</coordinates>
+        									</location></locations>
+						</movie></Document>

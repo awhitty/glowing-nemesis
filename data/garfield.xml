@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the wrestler</title>
+    						<poster>http://www.filmaps.com/posters/0902084708000000</poster>
+    						<locations><location>
+    											<place>hasbrouck heights</place>
+    										<scene>when randy goes and sees his daughter</scene>
+        									<coordinates>-107.265,32.7632</coordinates>
+        									</location></locations>
+						</movie></Document>

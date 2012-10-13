@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Castillos de Cartón</title>
+    						<poster>http://www.filmaps.com/posters/1205061313000000.jpg</poster>
+    						<locations><location>
+    											<place>Santa pola Alicante</place>
+    										<scene>Puerto</scene>
+        									<coordinates>-0.558243,38.1901</coordinates>
+        									</location></locations>
+						</movie></Document>

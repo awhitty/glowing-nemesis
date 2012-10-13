@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gorillas in the mist</title>
+    						<poster>http://www.filmaps.com/posters/0901123056000000</poster>
+    						<locations><location>
+    											<place>Ruhengeri, Rwanda</place>
+    										<scene></scene>
+        									<coordinates>29.6297,-1.5015</coordinates>
+        									</location></locations>
+						</movie></Document>

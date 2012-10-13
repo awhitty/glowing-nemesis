@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>eragon</title>
+    						<poster>http://www.filmaps.com/posters/0909035446000000</poster>
+    						<locations><location>
+    											<place>High Tatras, Slovakia</place>
+    										<scene>many exterior scenes</scene>
+        									<coordinates>20.2187,49.1417</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Rivers of babylon</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>High Tatras, Slovakia</place>
+    										<scene></scene>
+        									<coordinates>20.2187,49.1418</coordinates>
+        									</location></locations>
+						</movie></Document>

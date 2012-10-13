@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>RIO BRAVO</title>
+    						<poster>http://www.filmaps.com/posters/0903145406000000</poster>
+    						<locations><location>
+    											<place>201 Kinney Road, Tucson, Arizona</place>
+    										<scene>Old Tucson</scene>
+        									<coordinates>-110.972,32.1778</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Quick And The Dead</title>
+    						<poster>http://www.filmaps.com/posters/0903211829000000</poster>
+    						<locations><location>
+    											<place>201 S. Kinney Road, Tucson, Arizona, USA</place>
+    										<scene>Old Tucson scenes</scene>
+        									<coordinates>-110.972,32.1777</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>BEAU GESTE</title>
+    						<poster>http://www.filmaps.com/posters/1010091630000000</poster>
+    						<locations><location>
+    											<place>Imperial Dunes, California</place>
+    										<scene>Fort Zinderneuf and desert scenes</scene>
+        									<coordinates>-114.797,32.783</coordinates>
+        									</location></locations>
+						</movie></Document>

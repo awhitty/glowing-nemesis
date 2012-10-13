@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bienvenue chez les Ch'tis</title>
+    						<poster>http://www.filmaps.com/posters/0901093021000000</poster>
+    						<locations><location>
+    											<place>Bruay-La-Buissière, Pas-de-Calais, France</place>
+    										<scene>mining company house</scene>
+        									<coordinates>2.54737,50.4823</coordinates>
+        									</location></locations>
+						</movie></Document>

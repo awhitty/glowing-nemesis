@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Transformers</title>
+    						<poster>http://www.filmaps.com/posters/0911195255000000</poster>
+    						<locations><location>
+    											<place>boulder City, NV</place>
+    										<scene>The Dam</scene>
+        									<coordinates>-114.833,35.9786</coordinates>
+        									</location></locations>
+						</movie></Document>

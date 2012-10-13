@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>X-MEN</title>
+    						<poster>http://www.filmaps.com/posters/0901113723000000</poster>
+    						<locations><location>
+    											<place> Parkwood Estate, Oshawa, Ontario, Canada</place>
+    										<scene>Xavier's mansion</scene>
+        									<coordinates>-78.8677,43.9045</coordinates>
+        									</location></locations>
+						</movie></Document>

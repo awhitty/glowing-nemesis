@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>King Arthur</title>
+    						<poster>http://www.filmaps.com/posters/0901074719000000</poster>
+    						<locations><location>
+    											<place>Burnham Beeches, Buckinghamshire, England</place>
+    										<scene></scene>
+        									<coordinates>-0.617668,51.5564</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>eden lake</title>
+    						<poster>http://www.filmaps.com/posters/0903225723000000</poster>
+    						<locations><location>
+    											<place>Burnham Beeches, Buckinghamshire, England, UK</place>
+    										<scene>House</scene>
+        									<coordinates>-0.617471,51.5566</coordinates>
+        									</location></locations>
+						</movie></Document>

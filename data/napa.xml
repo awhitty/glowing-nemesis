@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Parent Trap</title>
+    						<poster>http://www.filmaps.com/posters/0911195221000000</poster>
+    						<locations><location>
+    											<place>Napa County Airport, Napa, CA</place>
+    										<scene>Flying in on the dad's private plane</scene>
+        									<coordinates>-122.274,38.2193</coordinates>
+        									</location></locations>
+						</movie></Document>

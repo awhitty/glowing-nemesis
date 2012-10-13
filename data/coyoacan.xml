@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>LOL</title>
+    						<poster>http://www.filmaps.com/posters/0907281123000000</poster>
+    						<locations><location>
+    											<place>college in Paris</place>
+    										<scene></scene>
+        									<coordinates>-99.1609,19.3544</coordinates>
+        									</location></locations>
+						</movie></Document>

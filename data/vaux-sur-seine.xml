@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Da Vinci Code</title>
+    						<poster>http://www.filmaps.com/posters/0901134913000000</poster>
+    						<locations><location>
+    											<place>Chateau de Villette, Condecourt, Val-d'Oise</place>
+    										<scene></scene>
+        									<coordinates>1.95742,49.0103</coordinates>
+        									</location></locations>
+						</movie></Document>

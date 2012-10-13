@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>contact</title>
+    						<poster>http://www.filmaps.com/posters/0908203642000000</poster>
+    						<locations><location>
+    											<place>Arecibo Observatory, Arecibo, Puerto Rico</place>
+    										<scene>large radio telescope</scene>
+        									<coordinates>-66.7525,18.3439</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>goldeneye (007)</title>
+    						<poster>http://www.filmaps.com/posters/0904260902000000</poster>
+    						<locations><location>
+    											<place>Arecibo Observatory, Arecibo, Puerto Rico</place>
+    										<scene></scene>
+        									<coordinates>-66.7154,18.4722</coordinates>
+        									</location></locations>
+						</movie></Document>

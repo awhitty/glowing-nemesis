@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Amarcord</title>
+    						<poster>http://www.filmaps.com/posters/0909245154000000</poster>
+    						<locations><location>
+    											<place>"Rimini, Italia"</place>
+    										<scene>"La llegada del trasatlántico"</scene>
+        									<coordinates>12.5663,44.0607</coordinates>
+        									</location></locations>
+						</movie></Document>

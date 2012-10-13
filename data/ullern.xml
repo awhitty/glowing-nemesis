@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Elling</title>
+    						<poster>http://www.filmaps.com/posters/0908110504000000</poster>
+    						<locations><location>
+    											<place>Vigelandsparken, Frogner Park, Oslo</place>
+    										<scene>The monolith. Kjell-Bjarne admires the sculptures with Elling</scene>
+        									<coordinates>10.6988,59.9277</coordinates>
+        									</location></locations>
+						</movie></Document>

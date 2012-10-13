@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Pursuit of Happyness</title>
+    						<poster>http://www.filmaps.com/posters/0901092737000000</poster>
+    						<locations><location>
+    											<place>3200 Grand Avenue, Oakland</place>
+    										<scene>Grand Lake Theater
+</scene>
+        									<coordinates>-122.248,37.8115</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>What dreams may come</title>
+    						<poster>http://www.filmaps.com/posters/0903052854000000</poster>
+    						<locations><location>
+    											<place>Oakland, California, USA</place>
+    										<scene>Church scenes</scene>
+        									<coordinates>-122.215,37.7726</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>So I Married an Axe Murderer</title>
+    						<poster>http://www.filmaps.com/posters/0901094528000000</poster>
+    						<locations><location>
+    											<place>2960 Peralta Oaks Court, Oakland, CA, USA</place>
+    										<scene>Dunsmuir House and Gardens scene</scene>
+        									<coordinates>-122.144,37.7441</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Moneyball</title>
+    						<poster>http://www.filmaps.com/posters/1202082108000000.jpg</poster>
+    						<locations><location>
+    											<place>Oakland Coliseum, Oakland, USA</place>
+    										<scene>Donde se desenvolupa toda la trama de la película</scene>
+        									<coordinates>-122.201,37.7515</coordinates>
+        									</location></locations>
+						</movie></Document>

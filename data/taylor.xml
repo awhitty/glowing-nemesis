@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Texas Chainsaw Massacre</title>
+    						<poster>http://www.filmaps.com/posters/1006200337000000</poster>
+    						<locations><location>
+    											<place>Taylor, Texas, USA</place>
+    										<scene>Taylor Meat Company</scene>
+        									<coordinates>-97.4094,30.5708</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>rose red</title>
+    						<poster>http://www.filmaps.com/posters/0905035927000000</poster>
+    						<locations><location>
+    											<place>Thornewood Castle</place>
+    										<scene>the rose red mansion</scene>
+        									<coordinates>-122.551,47.1302</coordinates>
+        									</location></locations>
+						</movie></Document>

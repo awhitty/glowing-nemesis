@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Pacific</title>
+    						<poster>http://www.filmaps.com/posters/1004174640000000</poster>
+    						<locations><location>
+    											<place>Docklands, Melbourne, Victoria, Australia</place>
+    										<scene></scene>
+        									<coordinates>144.949,-37.8158</coordinates>
+        									</location></locations>
+						</movie></Document>

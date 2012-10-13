@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Year One</title>
+    						<poster>http://www.filmaps.com/posters/0909145316000000</poster>
+    						<locations><location>
+    											<place>Sibley, Louisiana, USA</place>
+    										<scene></scene>
+        									<coordinates>-93.2961,32.5432</coordinates>
+        									</location></locations>
+						</movie></Document>

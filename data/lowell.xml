@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Invention of Lying</title>
+    						<poster>http://www.filmaps.com/posters/0910244625000000</poster>
+    						<locations><location>
+    											<place>Lowell, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-71.3185,42.6379</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Fighter</title>
+    						<poster>http://www.filmaps.com/posters/1012193836000000</poster>
+    						<locations><location>
+    											<place>Lowell, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-71.3175,42.633</coordinates>
+        									</location></locations>
+						</movie></Document>

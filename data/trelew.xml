@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Patagonia</title>
+    						<poster>http://www.filmaps.com/posters/1204083241000000.jpg</poster>
+    						<locations><location>
+    											<place>Trelew, Chubut, Argentina</place>
+    										<scene>Gewn se queda en el bar</scene>
+        									<coordinates>-65.3068,-43.251</coordinates>
+        									</location></locations>
+						</movie></Document>

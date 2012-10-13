@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>cinema paradiso</title>
+    						<poster>http://www.filmaps.com/posters/0901230832000000</poster>
+    						<locations><location>
+    											<place>Chiusa Sclafani, Palermo</place>
+    										<scene></scene>
+        									<coordinates>13.2715,37.6779</coordinates>
+        									</location></locations>
+						</movie></Document>

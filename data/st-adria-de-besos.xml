@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Machinist</title>
+    						<poster>http://www.filmaps.com/posters/0903024724000000</poster>
+    						<locations><location>
+    											<place>bercelona</place>
+    										<scene>Trevor's flat</scene>
+        									<coordinates>2.22662,41.4299</coordinates>
+        									</location><location>
+    											<place>Barcelona</place>
+    										<scene>Trevor launch a body to the sea</scene>
+        									<coordinates>2.23664,41.4247</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Machinist</title>
+    						<poster>http://www.filmaps.com/posters/0903024724000000</poster>
+    						<locations><location>
+    											<place>bercelona</place>
+    										<scene>Trevor's flat</scene>
+        									<coordinates>2.22662,41.4299</coordinates>
+        									</location><location>
+    											<place>Barcelona</place>
+    										<scene>Trevor launch a body to the sea</scene>
+        									<coordinates>2.23664,41.4247</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>salvador puig antich </title>
+    						<poster>http://www.filmaps.com/posters/0910274808000000</poster>
+    						<locations><location>
+    											<place>Av. Eduard Maristany, Sant Adrià Besós, Barcelona</place>
+    										<scene></scene>
+        									<coordinates>2.23335,41.428</coordinates>
+        									</location></locations>
+						</movie></Document>

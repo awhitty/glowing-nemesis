@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Thelma and Louise</title>
+    						<poster>http://www.filmaps.com/posters/0906133934000000</poster>
+    						<locations><location>
+    											<place>La Sal Mountains, Utah, USA</place>
+    										<scene>The opening scene show La Sal Mountains from La Sal town  </scene>
+        									<coordinates>-109.243,38.3134</coordinates>
+        									</location></locations>
+						</movie></Document>

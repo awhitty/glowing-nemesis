@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Wizard</title>
+    						<poster>http://www.filmaps.com/posters/1104014734000000</poster>
+    						<locations><location>
+    											<place>Cabazon California</place>
+    										<scene>Where the ending scene takes pace inside the Cabazon Dinos</scene>
+        									<coordinates>-116.773,33.9203</coordinates>
+        									</location></locations>
+						</movie></Document>

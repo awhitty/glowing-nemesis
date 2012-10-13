@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Outlander</title>
+    						<poster>http://www.filmaps.com/posters/0904171001000000</poster>
+    						<locations><location>
+    											<place>Nine Mile River, Nova Scotia, Canada</place>
+    										<scene>Viking village</scene>
+        									<coordinates>-63.5819,45.0371</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Romeo + Juliet</title>
+    						<poster>http://www.filmaps.com/posters/0909241823000000</poster>
+    						<locations><location>
+    											<place>Mexico city</place>
+    										<scene>Leonardo DiCaprio and Claire Danes fall tragically in love in Baz Luhrmann's contemporary adaptation of Shakespeare's Verona, Italy, which is transplanted to a futuristic, sex- and violence-riddled Verona Beach, Fla. Verona Beach has no real-life counterpart, being a figment of imagination created by a combination of settings in and around Mexico City and Veracruz.</scene>
+        									<coordinates>-99.1332,19.4326</coordinates>
+        									</location></locations>
+						</movie></Document>

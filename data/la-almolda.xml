@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jamón Jamón</title>
+    						<poster>http://www.filmaps.com/posters/0902155945000000</poster>
+    						<locations><location>
+    											<place>Almolda, La, Zaragoza</place>
+    										<scene>Secadero de jamones en Jamón, jamón</scene>
+        									<coordinates>-0.209518,41.5523</coordinates>
+        									</location></locations>
+						</movie></Document>

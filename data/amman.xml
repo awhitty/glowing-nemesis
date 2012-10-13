@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Indiana Jones and the Last crusade</title>
+    						<poster>http://www.filmaps.com/posters/0901134936000000</poster>
+    						<locations><location>
+    											<place>Petra, Jordan</place>
+    										<scene>Petra Treasury, final scenes</scene>
+        									<coordinates>35.4415,30.3274</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hurt Locker</title>
+    						<poster>http://www.filmaps.com/posters/0906160417000000</poster>
+    						<locations><location>
+    											<place>Amman, Jordan</place>
+    										<scene></scene>
+        									<coordinates>35.933,31.9415</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>men of the cave</title>
+    						<poster>http://www.filmaps.com/posters/1001270323000000</poster>
+    						<locations><location>
+    											<place>petra, Amman, Jordan</place>
+    										<scene>King Decius</scene>
+        									<coordinates>35.946,31.9569</coordinates>
+        									</location><location>
+    											<place>Petra, Jordan</place>
+    										<scene>King Decius</scene>
+        									<coordinates>35.4418,30.3285</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>men of the cave</title>
+    						<poster>http://www.filmaps.com/posters/1001270323000000</poster>
+    						<locations><location>
+    											<place>petra, Amman, Jordan</place>
+    										<scene>King Decius</scene>
+        									<coordinates>35.946,31.9569</coordinates>
+        									</location><location>
+    											<place>Petra, Jordan</place>
+    										<scene>King Decius</scene>
+        									<coordinates>35.4418,30.3285</coordinates>
+        									</location></locations>
+						</movie></Document>

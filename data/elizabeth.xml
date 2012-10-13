@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Tarantella</title>
+    						<poster>http://www.filmaps.com/posters/0902255142000000</poster>
+    						<locations><location>
+    											<place>Elizabeth, New Jersey, USA</place>
+    										<scene></scene>
+        									<coordinates>-74.215,40.6657</coordinates>
+        									</location></locations>
+						</movie></Document>

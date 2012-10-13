@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>C'era una volta il West</title>
+    						<poster>http://www.filmaps.com/posters/0910120710000000</poster>
+    						<locations><location>
+    											<place>Monument Valley, Arizona, USA</place>
+    										<scene>exteriors</scene>
+        									<coordinates>-109.924,36.949</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Sandlot</title>
+    						<poster>http://www.filmaps.com/posters/0911203030000000</poster>
+    						<locations><location>
+    											<place>utah</place>
+    										<scene>the swimming pool</scene>
+        									<coordinates>-111.094,39.3211</coordinates>
+        									</location></locations>
+						</movie></Document>

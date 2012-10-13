@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Brideshead Revisited</title>
+    						<poster>http://www.filmaps.com/posters/0910132943000000</poster>
+    						<locations><location>
+    											<place>Castle Howard, Coneysthorpe, England, UK</place>
+    										<scene>Brideshead Castle, exterior and interiors</scene>
+        									<coordinates>-0.911908,54.1192</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Barry Lyndon</title>
+    						<poster>http://www.filmaps.com/posters/0903174512000000</poster>
+    						<locations><location>
+    											<place>Castle Howard, Coneysthorpe, North Yorkshire, England, UK</place>
+    										<scene>exteriors</scene>
+        									<coordinates>-0.912968,54.1198</coordinates>
+        									</location></locations>
+						</movie></Document>

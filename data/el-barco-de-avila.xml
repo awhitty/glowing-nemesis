@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>la noche de los girasoles</title>
+    						<poster>http://www.filmaps.com/posters/0909292528000000</poster>
+    						<locations><location>
+    											<place>Barco de Avila</place>
+    										<scene>Fachada del hotel</scene>
+        									<coordinates>-5.52377,40.3574</coordinates>
+        									</location></locations>
+						</movie></Document>

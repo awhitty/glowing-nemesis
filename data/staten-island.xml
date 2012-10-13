@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the school of rock</title>
+    						<poster>http://www.filmaps.com/posters/0912082318000000</poster>
+    						<locations><location>
+    											<place>wagner college,staten island, new york</place>
+    										<scene>the school.</scene>
+        									<coordinates>-74.0941,40.6145</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fringe</title>
+    						<poster>http://www.filmaps.com/posters/1011111016000000</poster>
+    						<locations><location>
+    											<place>Staten Island, New York City, New York</place>
+    										<scene>Season 1 scenes</scene>
+        									<coordinates>-74.1496,40.5835</coordinates>
+        									</location></locations>
+						</movie></Document>

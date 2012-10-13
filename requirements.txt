@@ -1,0 +1,2 @@
+-e git://github.com/django/django.git@5fb22329a14695419f191da8b7d0b5b22793aff0#egg=Django-dev
+wsgiref==0.1.2

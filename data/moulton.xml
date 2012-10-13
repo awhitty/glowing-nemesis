@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Big Fish</title>
+    						<poster>http://www.filmaps.com/posters/0901271154000000</poster>
+    						<locations><location>
+    											<place>Moulton, Alabama, USA</place>
+    										<scene></scene>
+        									<coordinates>-87.2822,34.4816</coordinates>
+        									</location></locations>
+						</movie></Document>

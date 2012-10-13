@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Lord of the Rings</title>
+    						<poster>http://www.filmaps.com/posters/1203091320000000.jpg</poster>
+    						<locations><location>
+    											<place>The Remarkables, Otago</place>
+    										<scene>Aragorn leads the Fellowship through Dimrill Dale to Lothlórien</scene>
+        									<coordinates>168.834,-45.1502</coordinates>
+        									</location></locations>
+						</movie></Document>

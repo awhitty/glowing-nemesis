@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El señor de los anillos</title>
+    						<poster>http://www.filmaps.com/posters/0901124356000000</poster>
+    						<locations><location>
+    											<place>New Zeland</place>
+    										<scene></scene>
+        									<coordinates>3.89049,51.5026</coordinates>
+        									</location></locations>
+						</movie></Document>

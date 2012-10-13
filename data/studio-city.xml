@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Regreso al Futuro</title>
+    						<poster>http://www.filmaps.com/posters/0901180908000000</poster>
+    						<locations><location>
+    											<place>Universal City plaza, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.36,34.1382</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Blues Brothers</title>
+    						<poster>http://www.filmaps.com/posters/0904014023000000</poster>
+    						<locations><location>
+    											<place>100 Universal City Plaza, Universal City, CA</place>
+    										<scene>Bob's Country Bunker</scene>
+        									<coordinates>-118.359,34.1385</coordinates>
+        									</location></locations>
+						</movie></Document>

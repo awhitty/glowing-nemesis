@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Doctor Zhivago</title>
+    						<poster>http://www.filmaps.com/posters/0902261926000000</poster>
+    						<locations><location>
+    											<place>Soria, Castilla y León, España</place>
+    										<scene>Estacion de Soria y otros lugares de la provincia</scene>
+        									<coordinates>-2.46468,41.7638</coordinates>
+        									</location></locations>
+						</movie></Document>

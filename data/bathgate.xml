@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>fargo</title>
+    						<poster>http://www.filmaps.com/posters/0902095036000000</poster>
+    						<locations><location>
+    											<place>Bathgate, North Dakota, USA</place>
+    										<scene></scene>
+        									<coordinates>-97.4727,48.8774</coordinates>
+        									</location></locations>
+						</movie></Document>

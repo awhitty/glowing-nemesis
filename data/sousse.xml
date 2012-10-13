@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jesus of Nazareth </title>
+    						<poster>http://www.filmaps.com/posters/1105200616000000</poster>
+    						<locations><location>
+    											<place>Sousse, Tunisia</place>
+    										<scene></scene>
+        									<coordinates>10.6333,35.8334</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Life of Brian (1979)</title>
+    						<poster>http://www.filmaps.com/posters/1106045237000000</poster>
+    						<locations><location>
+    											<place>Kasbah of Sousse, Sousse, Tunisia</place>
+    										<scene>walls of the city</scene>
+        									<coordinates>10.6336,35.833</coordinates>
+        									</location></locations>
+						</movie></Document>

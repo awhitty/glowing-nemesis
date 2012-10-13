@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Anatomy of a Murder</title>
+    						<poster>http://www.filmaps.com/posters/0903223130000000</poster>
+    						<locations><location>
+    											<place>Marquette County, Michigan</place>
+    										<scene>James Stewart and  Lee Remick </scene>
+        									<coordinates>-117.686,44.3396</coordinates>
+        									</location></locations>
+						</movie></Document>

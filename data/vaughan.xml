@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the fly</title>
+    						<poster>http://www.filmaps.com/posters/0904152812000000</poster>
+    						<locations><location>
+    											<place>Kleinburg, Ontario, Canada</place>
+    										<scene></scene>
+        									<coordinates>-79.627,43.8429</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Sentinel</title>
+    						<poster>http://www.filmaps.com/posters/0911105030000000</poster>
+    						<locations><location>
+    											<place>10365 Islington Avenue, Kleinburg, Ontario, Canada</place>
+    										<scene>McMichael Canadian Art Collection scene</scene>
+        									<coordinates>-79.6257,43.8414</coordinates>
+        									</location></locations>
+						</movie></Document>

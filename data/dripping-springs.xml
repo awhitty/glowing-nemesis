@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Alamo (2004)</title>
+    						<poster>http://www.filmaps.com/posters/1010054055000000</poster>
+    						<locations><location>
+    											<place>Reimers Ranch, Dripping Springs, Texas</place>
+    										<scene>Alamo, San Antonio, Gonzales and Washington-on-the-Brazos scenes</scene>
+        									<coordinates>-98.087,30.1905</coordinates>
+        									</location></locations>
+						</movie></Document>

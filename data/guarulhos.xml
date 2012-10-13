@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Os Doze Trabalhos</title>
+    						<poster>http://www.filmaps.com/posters/1009073734000000</poster>
+    						<locations><location>
+    											<place>Aeroporto Internacional de Guarulhos, São Paulo</place>
+    										<scene>Young couple farewell </scene>
+        									<coordinates>-46.4696,-23.4321</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Terra Estrangeira</title>
+    						<poster>http://www.filmaps.com/posters/1009065934000000</poster>
+    						<locations><location>
+    											<place>Aeroporto Internacional de Guarulhos, São Paulo</place>
+    										<scene>Paco goes to Lisbon </scene>
+        									<coordinates>-46.4729,-23.4304</coordinates>
+        									</location></locations>
+						</movie></Document>

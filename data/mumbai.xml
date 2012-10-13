@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Slumdog Millionaire</title>
+    						<poster>http://www.filmaps.com/posters/0902074328000000</poster>
+    						<locations><location>
+    											<place>Mumbai, Maharashtra, India</place>
+    										<scene></scene>
+        									<coordinates>72.8563,19.0176</coordinates>
+        									</location><location>
+    											<place>Juhu, Mumbai</place>
+    										<scene>Zona de chabolas</scene>
+        									<coordinates>72.8307,19.1009</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Slumdog Millionaire</title>
+    						<poster>http://www.filmaps.com/posters/0902074328000000</poster>
+    						<locations><location>
+    											<place>Mumbai, Maharashtra, India</place>
+    										<scene></scene>
+        									<coordinates>72.8563,19.0176</coordinates>
+        									</location><location>
+    											<place>Juhu, Mumbai</place>
+    										<scene>Zona de chabolas</scene>
+        									<coordinates>72.8307,19.1009</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Red Swastik</title>
+    						<poster>http://www.filmaps.com/posters/1011131459000000</poster>
+    						<locations><location>
+    											<place>Bombay</place>
+    										<scene>Mona Chopra en el papel de una psicópata.</scene>
+        									<coordinates>72.8564,19.0173</coordinates>
+        									</location></locations>
+						</movie></Document>

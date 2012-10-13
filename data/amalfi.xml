@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Italian Job (1969)</title>
+    						<poster>http://www.filmaps.com/posters/0910180005000000</poster>
+    						<locations><location>
+    											<place>almalfi</place>
+    										<scene>coach hanging over cliff amalfi</scene>
+        									<coordinates>14.6027,40.6345</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El señor de los anillos</title>
+    						<poster>http://www.filmaps.com/posters/0901124356000000</poster>
+    						<locations><location>
+    											<place>aoraki</place>
+    										<scene>Batallla de Pelennor Fields</scene>
+        									<coordinates>170.141,-43.5957</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Lord of the Rings</title>
+    						<poster>http://www.filmaps.com/posters/1203091320000000.jpg</poster>
+    						<locations><location>
+    											<place>Twizel, Canterbury, New Zealand</place>
+    										<scene>The Pelennor Fields</scene>
+        									<coordinates>170.105,-44.2601</coordinates>
+        									</location></locations>
+						</movie></Document>

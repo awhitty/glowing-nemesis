@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>xxx</title>
+    						<poster>http://www.filmaps.com/posters/0902275620000000</poster>
+    						<locations><location>
+    											<place>Piru, usa</place>
+    										<scene></scene>
+        									<coordinates>-118.798,34.4033</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Seabiscuit</title>
+    						<poster>http://www.filmaps.com/posters/0907200308000000</poster>
+    						<locations><location>
+    											<place>Fillmore, California, USA</place>
+    										<scene>Train Station</scene>
+        									<coordinates>-118.91,34.3991</coordinates>
+        									</location></locations>
+						</movie></Document>

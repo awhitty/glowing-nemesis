@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>My Blueberry Nights</title>
+    						<poster>http://www.filmaps.com/posters/0901172327000000</poster>
+    						<locations><location>
+    											<place>Memphis, USA</place>
+    										<scene></scene>
+        									<coordinates>-89.9256,35.1266</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Firm</title>
+    						<poster>http://www.filmaps.com/posters/0902022254000000</poster>
+    						<locations><location>
+    											<place>Mud Island Bridge, Memphis,  TN</place>
+    										<scene>Tom Cruise being chased across the bridge</scene>
+        									<coordinates>-90.0516,35.179</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Soul Men</title>
+    						<poster>http://www.filmaps.com/posters/0902275452000000</poster>
+    						<locations><location>
+    											<place>Memphis, Tennessee</place>
+    										<scene></scene>
+        									<coordinates>-90.0522,35.143</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the rainmaker</title>
+    						<poster>http://www.filmaps.com/posters/0908062337000000</poster>
+    						<locations><location>
+    											<place>Memphis, Tennessee, USA</place>
+    										<scene>Escenas iniciales, universidad</scene>
+        									<coordinates>-90.0524,35.1428</coordinates>
+        									</location><location>
+    											<place>Shelby County, Tennessee, USA</place>
+    										<scene></scene>
+        									<coordinates>-89.9253,35.1269</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the rainmaker</title>
+    						<poster>http://www.filmaps.com/posters/0908062337000000</poster>
+    						<locations><location>
+    											<place>Memphis, Tennessee, USA</place>
+    										<scene>Escenas iniciales, universidad</scene>
+        									<coordinates>-90.0524,35.1428</coordinates>
+        									</location><location>
+    											<place>Shelby County, Tennessee, USA</place>
+    										<scene></scene>
+        									<coordinates>-89.9253,35.1269</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Nothing But the Truth</title>
+    						<poster>http://www.filmaps.com/posters/0908103602000000</poster>
+    						<locations><location>
+    											<place>Memphis, Tennessee, USA</place>
+    										<scene></scene>
+        									<coordinates>-90.0611,35.1374</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>21 grams</title>
+    						<poster>http://www.filmaps.com/posters/0911195701000000</poster>
+    						<locations><location>
+    											<place>The Arcade Diner, Memphis, TN</place>
+    										<scene></scene>
+        									<coordinates>-90.0492,35.1497</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Great Balls of Fire</title>
+    						<poster>http://www.filmaps.com/posters/1011020816000000</poster>
+    						<locations><location>
+    											<place>Memphis TN</place>
+    										<scene>Sun Studios</scene>
+        									<coordinates>-90.0489,35.1495</coordinates>
+        									</location></locations>
+						</movie></Document>

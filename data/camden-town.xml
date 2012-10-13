@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>King's Cross, london</place>
+    										<scene>Hagrid leaves Harry on the station's elevated walkway...</scene>
+        									<coordinates>-0.123307,51.531</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>match point</title>
+    						<poster>http://www.filmaps.com/posters/0901145146000000</poster>
+    						<locations><location>
+    											<place>Monmouth Street, Covent Garden, London</place>
+    										<scene>hotel lobby and restaurant scenes</scene>
+        									<coordinates>-0.126981,51.5144</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Dark Knight</title>
+    						<poster>http://www.filmaps.com/posters/0901200012000000</poster>
+    						<locations><location>
+    											<place>28-36 St John Street, Clerkenwell, London</place>
+    										<scene>Cuartel General de la policia</scene>
+        									<coordinates>-0.115585,51.5224</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>closer</title>
+    						<poster>http://www.filmaps.com/posters/0901161903000000</poster>
+    						<locations><location>
+    											<place>Southampton Place, Bloomsbury, London</place>
+    										<scene></scene>
+        									<coordinates>-0.121831,51.518</coordinates>
+        									</location><location>
+    											<place>Theatre Royal, Drury  LaneTemple Place 12 , London</place>
+    										<scene>Theatre Royal</scene>
+        									<coordinates>-0.123355,51.5155</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>closer</title>
+    						<poster>http://www.filmaps.com/posters/0901161903000000</poster>
+    						<locations><location>
+    											<place>Southampton Place, Bloomsbury, London</place>
+    										<scene></scene>
+        									<coordinates>-0.121831,51.518</coordinates>
+        									</location><location>
+    											<place>Theatre Royal, Drury  LaneTemple Place 12 , London</place>
+    										<scene>Theatre Royal</scene>
+        									<coordinates>-0.123355,51.5155</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Curse of the Demon</title>
+    						<poster>http://www.filmaps.com/posters/0911091004000000</poster>
+    						<locations><location>
+    											<place>British Museum, Great Russell Street, Bloomsbury, London</place>
+    										<scene>Circular Reading Room of the British Museum. Where the paper containing the fatal curse.</scene>
+        									<coordinates>-0.12638,51.5191</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>somers town</title>
+    						<poster>http://www.filmaps.com/posters/0911105645000000</poster>
+    						<locations><location>
+    											<place>london St. Pancras international ll rail station, london</place>
+    										<scene></scene>
+        									<coordinates>-0.127372,51.5321</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Spooks</title>
+    						<poster>http://www.filmaps.com/posters/0911111325000000</poster>
+    						<locations><location>
+    											<place>60 Great Queen Street London, WC2B 5AZ, UK</place>
+    										<scene>Thames House exteriors</scene>
+        									<coordinates>-0.121523,51.5152</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Basic Instinct 2</title>
+    						<poster>http://www.filmaps.com/posters/0911101355000000</poster>
+    						<locations><location>
+    											<place>60 Great Queen Street, London, WC2B 5AZ, UK</place>
+    										<scene>courthouse exterior</scene>
+        									<coordinates>-0.121091,51.5154</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock Holmes (2009)</title>
+    						<poster>http://www.filmaps.com/posters/0912102325000000</poster>
+    						<locations><location>
+    											<place>Freemason's Hall, Great Queen Street, Covent Garden, London, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.120465,51.5158</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock (BBC serie)</title>
+    						<poster>http://www.filmaps.com/posters/1011213953000000</poster>
+    						<locations><location>
+    											<place>187 North Gower Street, London</place>
+    										<scene>home to Sherlock Holmes and Dr Watson, (221B Baker Street)</scene>
+        									<coordinates>-0.136836,51.5262</coordinates>
+        									</location></locations>
+						</movie></Document>

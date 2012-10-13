@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>a good year</title>
+    						<poster>http://www.filmaps.com/posters/0912064106000000</poster>
+    						<locations><location>
+    											<place>Hotel le Renaissance, Gordes, Vaucluse, France</place>
+    										<scene>Fanny Chenal's bistro</scene>
+        									<coordinates>5.19988,43.9111</coordinates>
+        									</location></locations>
+						</movie></Document>

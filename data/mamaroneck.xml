@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Beaver</title>
+    						<poster>http://www.filmaps.com/posters/1012073356000000</poster>
+    						<locations><location>
+    											<place>Mamaroneck, New York</place>
+    										<scene></scene>
+        									<coordinates>-73.7323,40.949</coordinates>
+        									</location></locations>
+						</movie></Document>

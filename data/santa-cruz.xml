@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>lost boys</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Santa Cruz, CA</place>
+    										<scene>Boardwalk</scene>
+        									<coordinates>-122.033,36.9778</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dangerous Minds</title>
+    						<poster>http://www.filmaps.com/posters/1001164526000000</poster>
+    						<locations><location>
+    											<place>Santa Cruz Beach Boardwalk, Santa Cruz, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-122.019,36.9651</coordinates>
+        									</location></locations>
+						</movie></Document>

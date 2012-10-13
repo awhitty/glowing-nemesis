@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Great Escape</title>
+    						<poster>http://www.filmaps.com/posters/1108270158000000.jpg</poster>
+    						<locations><location>
+    											<place>Füssen, Bavaria, Germany</place>
+    										<scene>motorcycle scene</scene>
+        									<coordinates>10.7003,47.5695</coordinates>
+        									</location></locations>
+						</movie></Document>

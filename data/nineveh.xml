@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hoosiers</title>
+    						<poster>http://www.filmaps.com/posters/1103302823000000</poster>
+    						<locations><location>
+    											<place>Nineveh Indiana</place>
+    										<scene>The post office was the old site for Hickory High School. The school was destroyed by a fire</scene>
+        									<coordinates>-86.0855,39.3634</coordinates>
+        									</location></locations>
+						</movie></Document>

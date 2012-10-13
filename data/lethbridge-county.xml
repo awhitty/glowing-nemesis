@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>RV</title>
+    						<poster>http://www.filmaps.com/posters/0903242810000000</poster>
+    						<locations><location>
+    											<place>Fort Macloed, Alberta</place>
+    										<scene>Road Scenes</scene>
+        									<coordinates>-113.068,49.7927</coordinates>
+        									</location></locations>
+						</movie></Document>

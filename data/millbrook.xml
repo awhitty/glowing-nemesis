@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Big Fish</title>
+    						<poster>http://www.filmaps.com/posters/0901271154000000</poster>
+    						<locations><location>
+    											<place>Bibb Graves Bridge, Wetumpka</place>
+    										<scene>Willie races with his ailing dad</scene>
+        									<coordinates>-86.2071,32.5384</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>puerto escondido</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Puerto Escondido, Oaxaca, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-97.0674,15.8613</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>y tu mama tambien?</title>
+    						<poster>http://www.filmaps.com/posters/0909240526000000</poster>
+    						<locations><location>
+    											<place>Puerto Escondido, Oaxaca, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-97.0697,15.8653</coordinates>
+        									</location></locations>
+						</movie></Document>

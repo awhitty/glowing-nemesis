@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>spiderman</title>
+    						<poster>http://www.filmaps.com/posters/0901073456000000</poster>
+    						<locations><location>
+    											<place>Cleveland, OH</place>
+    										<scene></scene>
+        									<coordinates>-81.6957,41.4997</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>american splendor</title>
+    						<poster>http://www.filmaps.com/posters/1001041626000000</poster>
+    						<locations><location>
+    											<place>Cleveland, Ohio</place>
+    										<scene>most of the movie</scene>
+        									<coordinates>-81.6956,41.4997</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Grease</title>
+    						<poster>http://www.filmaps.com/posters/0903134537000000</poster>
+    						<locations><location>
+    											<place>John Marshall High School</place>
+    										<scene>Carnival scenes,Some of the extras used in film were carnival employees (Atlas Shows) Linda Meyers, Rena Cope,were extras and more.</scene>
+        									<coordinates>-81.792,41.4469</coordinates>
+        									</location><location>
+    											<place>john marshall high school</place>
+    										<scene>Carnival who was used in film was Atlas Greater Shows,Allen Alevy,Shake Shack, Anita Reynolds owners</scene>
+        									<coordinates>-81.792,41.4469</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Grease</title>
+    						<poster>http://www.filmaps.com/posters/0903134537000000</poster>
+    						<locations><location>
+    											<place>John Marshall High School</place>
+    										<scene>Carnival scenes,Some of the extras used in film were carnival employees (Atlas Shows) Linda Meyers, Rena Cope,were extras and more.</scene>
+        									<coordinates>-81.792,41.4469</coordinates>
+        									</location><location>
+    											<place>john marshall high school</place>
+    										<scene>Carnival who was used in film was Atlas Greater Shows,Allen Alevy,Shake Shack, Anita Reynolds owners</scene>
+        									<coordinates>-81.792,41.4469</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Louis Stokes VA Medical Center - 10701 East Boulevard, Cleveland, Ohio, Estados Unidos</place>
+    										<scene>Hospital</scene>
+        									<coordinates>-81.6139,41.5138</coordinates>
+        									</location><location>
+    											<place>St. Theodosius Russian Orthodox Church - 733 Starkweather Avenue, Cleveland, Ohio, Estados Unidos</place>
+    										<scene>Wedding</scene>
+        									<coordinates>-81.6818,41.4769</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Louis Stokes VA Medical Center - 10701 East Boulevard, Cleveland, Ohio, Estados Unidos</place>
+    										<scene>Hospital</scene>
+        									<coordinates>-81.6139,41.5138</coordinates>
+        									</location><location>
+    											<place>St. Theodosius Russian Orthodox Church - 733 Starkweather Avenue, Cleveland, Ohio, Estados Unidos</place>
+    										<scene>Wedding</scene>
+        									<coordinates>-81.6818,41.4769</coordinates>
+        									</location></locations>
+						</movie></Document>

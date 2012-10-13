@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>alatriste</title>
+    						<poster>http://www.filmaps.com/posters/0908141611000000</poster>
+    						<locations><location>
+    											<place>Plaza de Santa Cruz</place>
+    										<scene>Duelo de espadas con la iglesia de Santa Cruz de fondo.</scene>
+        									<coordinates>-5.03227,42.3726</coordinates>
+        									</location></locations>
+						</movie></Document>

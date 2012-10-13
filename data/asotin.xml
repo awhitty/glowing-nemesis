@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Breakheart Pass</title>
+    						<poster>http://www.filmaps.com/posters/0904291832000000</poster>
+    						<locations><location>
+    											<place> Lewiston Idaho, Craigmont Idaho</place>
+    										<scene>Train scenes</scene>
+        									<coordinates>-117.045,46.3112</coordinates>
+        									</location></locations>
+						</movie></Document>

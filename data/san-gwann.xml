@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Munich</title>
+    						<poster>http://www.filmaps.com/posters/0908154736000000</poster>
+    						<locations><location>
+    											<place>Bugibba, Malta</place>
+    										<scene>Olympic Hotel in Cyprus</scene>
+        									<coordinates>14.4221,35.9564</coordinates>
+        									</location></locations>
+						</movie></Document>

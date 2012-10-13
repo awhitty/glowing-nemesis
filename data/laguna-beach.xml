@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>mamma mia</title>
+    						<poster>http://www.filmaps.com/posters/0903124436000000</poster>
+    						<locations><location>
+    											<place>Laguna Beach, California</place>
+    										<scene>beach scenes</scene>
+        									<coordinates>-117.775,33.5301</coordinates>
+        									</location></locations>
+						</movie></Document>

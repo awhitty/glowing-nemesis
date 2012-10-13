@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Girl, Interrupted</title>
+    						<poster>http://www.filmaps.com/posters/0912272842000000</poster>
+    						<locations><location>
+    											<place>500 Museum Road, Reading, Pennsylvania, USA</place>
+    										<scene>Museum scene</scene>
+        									<coordinates>-75.9501,40.3273</coordinates>
+        									</location></locations>
+						</movie></Document>

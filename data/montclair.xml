@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mona Lisa Smile</title>
+    						<poster>http://www.filmaps.com/posters/0908020449000000</poster>
+    						<locations><location>
+    											<place>Glen Ridge, New Jersey, USA</place>
+    										<scene></scene>
+        									<coordinates>-74.2065,40.8041</coordinates>
+        									</location></locations>
+						</movie></Document>

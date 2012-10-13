@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El rayo verde</title>
+    						<poster>http://www.filmaps.com/posters/1110240026000000.jpg</poster>
+    						<locations><location>
+    											<place>Biarritz</place>
+    										<scene>Several scenes</scene>
+        									<coordinates>-1.55868,43.4832</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hôtel des Amériques</title>
+    						<poster>http://www.filmaps.com/posters/1111292311000000.jpg</poster>
+    						<locations><location>
+    											<place>Biarritz</place>
+    										<scene>Tout le film se passe à Biarritz</scene>
+        									<coordinates>-1.55891,43.4829</coordinates>
+        									</location></locations>
+						</movie></Document>

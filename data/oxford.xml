@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Offering</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Oxford, Iowa</place>
+    										<scene>Killing Cabin</scene>
+        									<coordinates>-91.7908,41.7242</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>christ church college oxford</place>
+    										<scene>Inside Howards</scene>
+        									<coordinates>-1.25635,51.7503</coordinates>
+        									</location><location>
+    											<place>new college oxford</place>
+    										<scene>inside Howards </scene>
+        									<coordinates>-1.25101,51.754</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>christ church college oxford</place>
+    										<scene>Inside Howards</scene>
+        									<coordinates>-1.25635,51.7503</coordinates>
+        									</location><location>
+    											<place>new college oxford</place>
+    										<scene>inside Howards </scene>
+        									<coordinates>-1.25101,51.754</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>signs</title>
+    						<poster>http://www.filmaps.com/posters/0911190837000000</poster>
+    						<locations><location>
+    											<place>Oxford, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-75.9788,39.7854</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Shadowlands</title>
+    						<poster>http://www.filmaps.com/posters/0912295718000000</poster>
+    						<locations><location>
+    											<place>Magdalen College, Oxford, Oxfordshire</place>
+    										<scene></scene>
+        									<coordinates>-1.24681,51.7519</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>An Education</title>
+    						<poster>http://www.filmaps.com/posters/1002021449000000</poster>
+    						<locations><location>
+    											<place>Oxford, UK</place>
+    										<scene></scene>
+        									<coordinates>-1.25348,51.7524</coordinates>
+        									</location></locations>
+						</movie></Document>

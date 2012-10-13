@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mad Sad and Bad</title>
+    						<poster>http://www.filmaps.com/posters/0910120323000000</poster>
+    						<locations><location>
+    											<place>Luton, Bedfordshire, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.423875,51.8779</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Fourth Protocol</title>
+    						<poster>http://www.filmaps.com/posters/0910181950000000</poster>
+    						<locations><location>
+    											<place>Luton, Bedfordshire, UK</place>
+    										<scene>motorbike chase from cafe scene</scene>
+        									<coordinates>-0.413017,51.8783</coordinates>
+        									</location></locations>
+						</movie></Document>

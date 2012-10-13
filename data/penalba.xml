@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jamón Jamón</title>
+    						<poster>http://www.filmaps.com/posters/0902155945000000</poster>
+    						<locations><location>
+    											<place>Peñalba, Huesca</place>
+    										<scene>En el toro</scene>
+        									<coordinates>-0.0321651,41.5009</coordinates>
+        									</location></locations>
+						</movie></Document>

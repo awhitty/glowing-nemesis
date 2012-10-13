@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bienvenue chez les Ch'tis</title>
+    						<poster>http://www.filmaps.com/posters/0901093021000000</poster>
+    						<locations><location>
+    											<place>Lens, Pas-de-Calais, France</place>
+    										<scene>Futbol stadium scene</scene>
+        									<coordinates>2.81545,50.4327</coordinates>
+        									</location></locations>
+						</movie></Document>

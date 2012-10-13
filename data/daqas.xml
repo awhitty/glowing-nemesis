@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Raiders of the Lost Ark</title>
+    						<poster>http://www.filmaps.com/posters/0911085012000000</poster>
+    						<locations><location>
+    											<place>Daqas, Tunisia</place>
+    										<scene>Tanis Excavations</scene>
+        									<coordinates>8.2734,34.0163</coordinates>
+        									</location></locations>
+						</movie></Document>

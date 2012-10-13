@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Conan the Barbarian (1982</title>
+    						<poster>http://www.filmaps.com/posters/1105200637000000</poster>
+    						<locations><location>
+    											<place>Durango. La Cierra Mader</place>
+    										<scene>The epic tale of child</scene>
+        									<coordinates>-106.115,28.7028</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Blueberry</title>
+    						<poster>http://www.filmaps.com/posters/1106041940000000</poster>
+    						<locations><location>
+    											<place>Chihuahua, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-106.089,28.6355</coordinates>
+        									</location></locations>
+						</movie></Document>

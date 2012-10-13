@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The World is Not Enough (007)</title>
+    						<poster>http://www.filmaps.com/posters/0911292937000000</poster>
+    						<locations><location>
+    											<place>Bardenas Reales</place>
+    										<scene>When Bond meets Dr. Christmas Jones</scene>
+        									<coordinates>-1.47029,42.1905</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Secretos del Corazon</title>
+    						<poster>http://www.filmaps.com/posters/0904081552000000</poster>
+    						<locations><location>
+    											<place>Tudela colegio javier</place>
+    										<scene>El teatro donde los niños representan la obra.</scene>
+        									<coordinates>-1.60586,42.0637</coordinates>
+        									</location></locations>
+						</movie></Document>

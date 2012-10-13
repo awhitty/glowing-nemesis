@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Labyrinth (Dentro del laberinto)</title>
+    						<poster>http://www.filmaps.com/posters/0912033937000000</poster>
+    						<locations><location>
+    											<place>Elstree, Hertfordshire, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.299668,51.6432</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>clockwork orange</title>
+    						<poster>http://www.filmaps.com/posters/0911103823000000</poster>
+    						<locations><location>
+    											<place>Edgwarebury Hotel, Barnet Lane, Elstree, Hertfordshire, England, UK</place>
+    										<scene>Alex leaps from window</scene>
+        									<coordinates>-0.277029,51.6445</coordinates>
+        									</location></locations>
+						</movie></Document>

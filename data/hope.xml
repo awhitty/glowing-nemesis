@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the pledge</title>
+    						<poster>http://www.filmaps.com/posters/0912065658000000</poster>
+    						<locations><location>
+    											<place>  Hope, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-121.441,49.3848</coordinates>
+        									</location></locations>
+						</movie></Document>

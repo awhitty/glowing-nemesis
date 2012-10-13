@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>jory (1973)</title>
+    						<poster>http://www.filmaps.com/posters/1106035049000000</poster>
+    						<locations><location>
+    											<place>Torreón, Coahuíla, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-103.407,25.5427</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Blueberry</title>
+    						<poster>http://www.filmaps.com/posters/1106041940000000</poster>
+    						<locations><location>
+    											<place>Torreón, Coahuíla, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-103.395,25.5474</coordinates>
+        									</location></locations>
+						</movie></Document>

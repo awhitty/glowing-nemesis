@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mar adentro</title>
+    						<poster>http://www.filmaps.com/posters/0901215800000000</poster>
+    						<locations><location>
+    											<place>xuño, porto do son, a coruña</place>
+    										<scene></scene>
+        									<coordinates>-9.0234,42.6398</coordinates>
+        									</location><location>
+    											<place>Castro de Baroña, Porto do Son, A Coruña</place>
+    										<scene></scene>
+        									<coordinates>-9.00847,42.7269</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mar adentro</title>
+    						<poster>http://www.filmaps.com/posters/0901215800000000</poster>
+    						<locations><location>
+    											<place>xuño, porto do son, a coruña</place>
+    										<scene></scene>
+        									<coordinates>-9.0234,42.6398</coordinates>
+        									</location><location>
+    											<place>Castro de Baroña, Porto do Son, A Coruña</place>
+    										<scene></scene>
+        									<coordinates>-9.00847,42.7269</coordinates>
+        									</location></locations>
+						</movie></Document>

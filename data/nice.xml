@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>To catch a thief</title>
+    						<poster>http://www.filmaps.com/posters/0911044959000000</poster>
+    						<locations><location>
+    											<place>Cours Saleya, Nice, France</place>
+    										<scene>The flower market in Nice</scene>
+        									<coordinates>7.27571,43.6954</coordinates>
+        									</location></locations>
+						</movie></Document>

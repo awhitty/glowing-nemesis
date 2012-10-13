@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>el orfanato</title>
+    						<poster>http://www.filmaps.com/posters/0903111527000000</poster>
+    						<locations><location>
+    											<place>llanes</place>
+    										<scene>exteriores de la casa</scene>
+        									<coordinates>-4.751,43.4194</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>el abuelo</title>
+    						<poster>http://www.filmaps.com/posters/0908044017000000</poster>
+    						<locations><location>
+    											<place>Llanes</place>
+    										<scene></scene>
+        									<coordinates>-4.75117,43.4193</coordinates>
+        									</location></locations>
+						</movie></Document>

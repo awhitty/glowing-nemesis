@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>National Lampoon's Animal House</title>
+    						<poster>http://www.filmaps.com/posters/0909284228000000</poster>
+    						<locations><location>
+    											<place>Cottage Grove, Oregon</place>
+    										<scene>Parade scenes</scene>
+        									<coordinates>-123.059,43.7974</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>nixon</title>
+    						<poster>http://www.filmaps.com/posters/0903315458000000</poster>
+    						<locations><location>
+    											<place>3649 Mission Inn Avenue, Riverside, CA</place>
+    										<scene>press enterprise newspaper, Sunday, November 23, 2003</scene>
+        									<coordinates>-117.373,33.9826</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>moonlight mile</title>
+    						<poster>http://www.filmaps.com/posters/0909240723000000</poster>
+    						<locations><location>
+    											<place>Riverside, CA, USA</place>
+    										<scene></scene>
+        									<coordinates>-117.402,33.948</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bridget Jones diary</title>
+    						<poster>http://www.filmaps.com/posters/0901080159000000</poster>
+    						<locations><location>
+    											<place>Stoke Poges, Buckinghamshire</place>
+    										<scene>Bridget and Daniel in Stoke Poges Gollf Club</scene>
+        									<coordinates>-0.602843,51.5342</coordinates>
+        									</location></locations>
+						</movie></Document>

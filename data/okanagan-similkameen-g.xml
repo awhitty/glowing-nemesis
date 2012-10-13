@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the pledge</title>
+    						<poster>http://www.filmaps.com/posters/0912065658000000</poster>
+    						<locations><location>
+    											<place>Hedley, British Columbia, Canada </place>
+    										<scene>Church</scene>
+        									<coordinates>-120.078,49.3558</coordinates>
+        									</location></locations>
+						</movie></Document>

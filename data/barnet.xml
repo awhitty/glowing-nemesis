@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Taste the Blood of Dracula</title>
+    						<poster>http://www.filmaps.com/posters/0909284551000000</poster>
+    						<locations><location>
+    											<place>Highgate Cemetery, London</place>
+    										<scene>Cemetery scenes</scene>
+        									<coordinates>-0.181753,51.5931</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Secrets and lies</title>
+    						<poster>http://www.filmaps.com/posters/0910123409000000</poster>
+    						<locations><location>
+    											<place>Whitehouse Way, Southgate, London, England, UK</place>
+    										<scene>Maurice's house</scene>
+        									<coordinates>-0.140553,51.6256</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>shaun of the dead</title>
+    						<poster>http://www.filmaps.com/posters/0911100625000000</poster>
+    						<locations><location>
+    											<place>north finchley high rd</place>
+    										<scene>where shaun works in the electrical shop</scene>
+        									<coordinates>-0.17584,51.6123</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hot Fuzz</title>
+    						<poster>http://www.filmaps.com/posters/0911133336000000</poster>
+    						<locations><location>
+    											<place>Aerodrome Rd, London</place>
+    										<scene>Hendon Police Training College</scene>
+        									<coordinates>-0.242906,51.5944</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Notting Hill</title>
+    						<poster>http://www.filmaps.com/posters/0901124740000000</poster>
+    						<locations><location>
+    											<place>Kenwood House, Hampstead Heath, London</place>
+    										<scene>Anna is shooting a costume movie and Will goes to visit her.</scene>
+        									<coordinates>-0.167263,51.5709</coordinates>
+        									</location></locations>
+						</movie></Document>

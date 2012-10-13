@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Sur</title>
+    						<poster>http://www.filmaps.com/posters/1105051450000000</poster>
+    						<locations><location>
+    											<place>Estella, Navarra</place>
+    										<scene></scene>
+        									<coordinates>-2.03052,42.6701</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>el dia de la bestia</title>
+    						<poster>http://www.filmaps.com/posters/0901210753000000</poster>
+    						<locations><location>
+    											<place>Estella, Navarra</place>
+    										<scene>escena</scene>
+        									<coordinates>-2.03098,42.6699</coordinates>
+        									</location></locations>
+						</movie></Document>

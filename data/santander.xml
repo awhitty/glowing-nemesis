@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gran Hotel (serie tv)</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Santander</place>
+    										<scene>Palacio de la Magdalena es el hotel ficticio </scene>
+        									<coordinates>-3.76618,43.469</coordinates>
+        									</location></locations>
+						</movie></Document>

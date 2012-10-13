@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Three Musketeers</title>
+    						<poster>http://www.filmaps.com/posters/0911030440000000</poster>
+    						<locations><location>
+    											<place>Retz, Lower Austria, Austria</place>
+    										<scene></scene>
+        									<coordinates>15.9523,48.7566</coordinates>
+        									</location></locations>
+						</movie></Document>

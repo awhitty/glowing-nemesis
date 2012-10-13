@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Water</title>
+    						<poster>http://www.filmaps.com/posters/1110015102000000.jpg</poster>
+    						<locations><location>
+    											<place>Piliyandala</place>
+    										<scene>The Ghats</scene>
+        									<coordinates>79.9302,6.78333</coordinates>
+        									</location></locations>
+						</movie></Document>

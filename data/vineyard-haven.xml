@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jaws</title>
+    						<poster>http://www.filmaps.com/posters/0901184748000000</poster>
+    						<locations><location>
+    											<place>East Chop, Martha's Vineyard, Massachusetts</place>
+    										<scene></scene>
+        									<coordinates>-70.6452,41.4194</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jaws II</title>
+    						<poster>http://www.filmaps.com/posters/0910042521000000</poster>
+    						<locations><location>
+    											<place>East Chop, Martha's Vineyard, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-70.5766,41.4662</coordinates>
+        									</location></locations>
+						</movie></Document>

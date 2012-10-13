@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>I am number four</title>
+    						<poster>http://www.filmaps.com/posters/1104090648000000</poster>
+    						<locations><location>
+    											<place>Islamorada, Florida, usa</place>
+    										<scene></scene>
+        									<coordinates>-80.6266,24.9229</coordinates>
+        									</location></locations>
+						</movie></Document>

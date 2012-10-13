@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>kyle xy</title>
+    						<poster>http://www.filmaps.com/posters/0902140727000000</poster>
+    						<locations><location>
+    											<place>north vancouver</place>
+    										<scene>trager's home</scene>
+        									<coordinates>-123.072,49.3198</coordinates>
+        									</location></locations>
+						</movie></Document>

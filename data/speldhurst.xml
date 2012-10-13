@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pride and Prejudice</title>
+    						<poster>http://www.filmaps.com/posters/0902091209000000</poster>
+    						<locations><location>
+    											<place>Groombridge Place Kent</place>
+    										<scene>Bennet family home</scene>
+        									<coordinates>0.175846,51.1239</coordinates>
+        									</location></locations>
+						</movie></Document>

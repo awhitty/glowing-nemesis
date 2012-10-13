@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hangover Part II</title>
+    						<poster>http://www.filmaps.com/posters/1106234034000000</poster>
+    						<locations><location>
+    											<place>Krabi, Thailand</place>
+    										<scene>opening scene</scene>
+        									<coordinates>99.0829,8.05923</coordinates>
+        									</location></locations>
+						</movie></Document>

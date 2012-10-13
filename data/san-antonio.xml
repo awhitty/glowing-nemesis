@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Prestige (El truco final)</title>
+    						<poster>http://www.filmaps.com/posters/1201285056000000.jpg</poster>
+    						<locations><location>
+    											<place>Cascade Canyon, Colorado</place>
+    										<scene>Angier rides train</scene>
+        									<coordinates>-98.7125,29.5131</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Wings</title>
+    						<poster>http://www.filmaps.com/posters/0910043130000000</poster>
+    						<locations><location>
+    											<place>Kelly Field, San Antonio, Texas</place>
+    										<scene>aerial sequences</scene>
+        									<coordinates>-98.5804,29.3822</coordinates>
+        									</location><location>
+    											<place>Camp Stanley, San Antonio, Texas</place>
+    										<scene>battle of St. Mihiel</scene>
+        									<coordinates>-98.4937,29.4251</coordinates>
+        									</location><location>
+    											<place>Bexar County, Texas, USA</place>
+    										<scene></scene>
+        									<coordinates>-98.5721,29.4201</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Wings</title>
+    						<poster>http://www.filmaps.com/posters/0910043130000000</poster>
+    						<locations><location>
+    											<place>Kelly Field, San Antonio, Texas</place>
+    										<scene>aerial sequences</scene>
+        									<coordinates>-98.5804,29.3822</coordinates>
+        									</location><location>
+    											<place>Camp Stanley, San Antonio, Texas</place>
+    										<scene>battle of St. Mihiel</scene>
+        									<coordinates>-98.4937,29.4251</coordinates>
+        									</location><location>
+    											<place>Bexar County, Texas, USA</place>
+    										<scene></scene>
+        									<coordinates>-98.5721,29.4201</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Wings</title>
+    						<poster>http://www.filmaps.com/posters/0910043130000000</poster>
+    						<locations><location>
+    											<place>Kelly Field, San Antonio, Texas</place>
+    										<scene>aerial sequences</scene>
+        									<coordinates>-98.5804,29.3822</coordinates>
+        									</location><location>
+    											<place>Camp Stanley, San Antonio, Texas</place>
+    										<scene>battle of St. Mihiel</scene>
+        									<coordinates>-98.4937,29.4251</coordinates>
+        									</location><location>
+    											<place>Bexar County, Texas, USA</place>
+    										<scene></scene>
+        									<coordinates>-98.5721,29.4201</coordinates>
+        									</location></locations>
+						</movie></Document>

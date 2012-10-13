@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lassie</title>
+    						<poster>http://www.filmaps.com/posters/0902264659000000</poster>
+    						<locations><location>
+    											<place>Castletown, isle of man</place>
+    										<scene></scene>
+        									<coordinates>-4.65273,54.0751</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>five children and it</title>
+    						<poster>http://www.filmaps.com/posters/0902265830000000</poster>
+    						<locations><location>
+    											<place>Castletown, Isle of Man</place>
+    										<scene>some scene in Castletown</scene>
+        									<coordinates>-4.65704,54.0761</coordinates>
+        									</location></locations>
+						</movie></Document>

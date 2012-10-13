@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Amazing Race</title>
+    						<poster>http://www.filmaps.com/posters/0901164442000000</poster>
+    						<locations><location>
+    											<place>Airport, Cairo, Egypt</place>
+    										<scene>Old Airport (episode6)</scene>
+        									<coordinates>31.1919,30.0746</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jumper</title>
+    						<poster>http://www.filmaps.com/posters/0904181120000000</poster>
+    						<locations><location>
+    											<place>Giza, Egypt</place>
+    										<scene></scene>
+        									<coordinates>31.2083,30.0774</coordinates>
+        									</location></locations>
+						</movie></Document>

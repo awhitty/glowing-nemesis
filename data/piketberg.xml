@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Fall</title>
+    						<poster>http://www.filmaps.com/posters/0903135750000000</poster>
+    						<locations><location>
+    											<place>Piketberg, South Africa</place>
+    										<scene>0:01:50 - Bridge in Piketberg</scene>
+        									<coordinates>18.7697,-32.911</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Vidas ajenas</title>
+    						<poster>http://www.filmaps.com/posters/1112131517000000.jpg</poster>
+    						<locations><location>
+    											<place>boulevard de la rive S, Québec - Canada</place>
+    										<scene>Persecución en coche</scene>
+        									<coordinates>-71.2856,46.7413</coordinates>
+        									</location></locations>
+						</movie></Document>

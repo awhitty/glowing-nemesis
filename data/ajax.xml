@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>X-MEN</title>
+    						<poster>http://www.filmaps.com/posters/0901113723000000</poster>
+    						<locations><location>
+    											<place>ajax, ontario, Canada</place>
+    										<scene></scene>
+        									<coordinates>-79.0182,43.844</coordinates>
+        									</location></locations>
+						</movie></Document>

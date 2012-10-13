@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Duck Soup</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>S. Grove Avenue, Pasadena</place>
+    										<scene>Busch Gardens</scene>
+        									<coordinates>-90.3127,38.7325</coordinates>
+        									</location></locations>
+						</movie></Document>

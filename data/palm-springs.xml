@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Diamonds are Forever</title>
+    						<poster>http://www.filmaps.com/posters/1011110813000000</poster>
+    						<locations><location>
+    											<place>2175 Southridge Drive, Palm Springs, California</place>
+    										<scene>Villa Desert House that called The Elrod House</scene>
+        									<coordinates>-116.511,33.7931</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The scorpion king</title>
+    						<poster>http://www.filmaps.com/posters/1102204720000000</poster>
+    						<locations><location>
+    											<place>Palm Springs, California, USA </place>
+    										<scene></scene>
+        									<coordinates>-116.546,33.83</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>forrest gump</title>
+    						<poster>http://www.filmaps.com/posters/0902175100000000</poster>
+    						<locations><location>
+    											<place>Monument Valley Utah</place>
+    										<scene>Scene when Forrest stops running and decides to "Go home now"</scene>
+        									<coordinates>-109.973,37.1078</coordinates>
+        									</location></locations>
+						</movie></Document>

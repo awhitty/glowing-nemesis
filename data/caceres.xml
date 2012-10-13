@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>1492: Conquest of Paradise (1992)</title>
+    						<poster>http://www.filmaps.com/posters/0904131829000000</poster>
+    						<locations><location>
+    											<place>San Jorge, Cáceres</place>
+    										<scene>burning of witches</scene>
+        									<coordinates>-6.37019,39.4737</coordinates>
+        									</location><location>
+    											<place>Concatedral Santa María, Cáceres</place>
+    										<scene>The church</scene>
+        									<coordinates>-6.37034,39.4742</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>1492: Conquest of Paradise (1992)</title>
+    						<poster>http://www.filmaps.com/posters/0904131829000000</poster>
+    						<locations><location>
+    											<place>San Jorge, Cáceres</place>
+    										<scene>burning of witches</scene>
+        									<coordinates>-6.37019,39.4737</coordinates>
+        									</location><location>
+    											<place>Concatedral Santa María, Cáceres</place>
+    										<scene>The church</scene>
+        									<coordinates>-6.37034,39.4742</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La celestina</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>caceres plaza mayor</place>
+    										<scene>El casco viejo de Caceres sirvió para simular el lugar donde Callisto y Melibea (Juan Diego Boto y Penelope Cruz) encuentran su amor.</scene>
+        									<coordinates>-6.37178,39.4762</coordinates>
+        									</location></locations>
+						</movie></Document>

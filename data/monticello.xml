@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mision Imposible II</title>
+    						<poster>http://www.filmaps.com/posters/0902151829000000</poster>
+    						<locations><location>
+    											<place>Dead Horse Point State Park, USA</place>
+    										<scene>Tom Cruise climbing scene</scene>
+        									<coordinates>-109.76,38.4692</coordinates>
+        									</location></locations>
+						</movie></Document>

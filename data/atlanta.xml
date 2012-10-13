@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>one missed call</title>
+    						<poster>http://www.filmaps.com/posters/0904034721000000</poster>
+    						<locations><location>
+    											<place>North Ave. Atlanta, Ga.</place>
+    										<scene>Filming location, can see buildings in background at empty house scene</scene>
+        									<coordinates>-84.3889,33.7713</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>my fake fiance</title>
+    						<poster>http://www.filmaps.com/posters/0910045120000000</poster>
+    						<locations><location>
+    											<place>Atlanta, Georgia, USA</place>
+    										<scene></scene>
+        									<coordinates>-84.39,33.7563</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Blind Side</title>
+    						<poster>http://www.filmaps.com/posters/0912060733000000</poster>
+    						<locations><location>
+    											<place>2890 N. Fulton Drive, Buckhead, Georgia, USA</place>
+    										<scene>Atlanta International School</scene>
+        									<coordinates>-84.379,33.8331</coordinates>
+        									</location><location>
+    											<place>1424 West Paces Ferry Road, Atlanta, Georgia, USA</place>
+    										<scene>The Westminster Schools</scene>
+        									<coordinates>-84.4557,33.8594</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Blind Side</title>
+    						<poster>http://www.filmaps.com/posters/0912060733000000</poster>
+    						<locations><location>
+    											<place>2890 N. Fulton Drive, Buckhead, Georgia, USA</place>
+    										<scene>Atlanta International School</scene>
+        									<coordinates>-84.379,33.8331</coordinates>
+        									</location><location>
+    											<place>1424 West Paces Ferry Road, Atlanta, Georgia, USA</place>
+    										<scene>The Westminster Schools</scene>
+        									<coordinates>-84.4557,33.8594</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Zombieland</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>490 West Paces Ferry Rd, Atlanta, Georgia, USA</place>
+    										<scene> Bill Murray's House</scene>
+        									<coordinates>-84.4029,33.8457</coordinates>
+        									</location></locations>
+						</movie></Document>

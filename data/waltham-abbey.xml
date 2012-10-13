@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>match point</title>
+    						<poster>http://www.filmaps.com/posters/0901145146000000</poster>
+    						<locations><location>
+    											<place>Broadgate, London, England, UK</place>
+    										<scene>Swiss Re Tower</scene>
+        									<coordinates>0.021767,51.6902</coordinates>
+        									</location></locations>
+						</movie></Document>

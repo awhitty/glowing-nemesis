@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>rec</title>
+    						<poster>http://www.filmaps.com/posters/0904011631000000</poster>
+    						<locations><location>
+    											<place>rambla de catalunya 34</place>
+    										<scene>House</scene>
+        									<coordinates>1.89455,41.541</coordinates>
+        									</location></locations>
+						</movie></Document>

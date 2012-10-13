@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Matrix</title>
+    						<poster>http://www.filmaps.com/posters/0901120951000000</poster>
+    						<locations><location>
+    											<place>Hickson Road, Sydney</place>
+    										<scene>where Trinity escapes and crushed by the truck, under the overpass on Hickson Road</scene>
+        									<coordinates>151.203,-33.8634</coordinates>
+        									</location></locations>
+						</movie></Document>

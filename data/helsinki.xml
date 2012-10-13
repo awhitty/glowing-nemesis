@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Doctor Zhivago</title>
+    						<poster>http://www.filmaps.com/posters/0902261926000000</poster>
+    						<locations><location>
+    											<place>Helsinki, Finland</place>
+    										<scene></scene>
+        									<coordinates>24.9381,60.1696</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>chacal</title>
+    						<poster>http://www.filmaps.com/posters/0905264811000000</poster>
+    						<locations><location>
+    											<place>Valkosaari, Helsinki, Finland</place>
+    										<scene></scene>
+        									<coordinates>25.0753,60.1824</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>los amantes del circulo polar</title>
+    						<poster>http://www.filmaps.com/posters/0907084308000000</poster>
+    						<locations><location>
+    											<place>Helsinki</place>
+    										<scene></scene>
+        									<coordinates>24.9387,60.1696</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Man Without a Past (Mies vailla menneisyyttä)</title>
+    						<poster>http://www.filmaps.com/posters/0912263811000000</poster>
+    						<locations><location>
+    											<place>helsinki, Finland</place>
+    										<scene></scene>
+        									<coordinates>24.9331,60.1714</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Billion Dollar Brain</title>
+    						<poster>http://www.filmaps.com/posters/1001155730000000</poster>
+    						<locations><location>
+    											<place>Helsinki</place>
+    										<scene></scene>
+        									<coordinates>24.9383,60.17</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the happening</title>
+    						<poster>http://www.filmaps.com/posters/0911190450000000</poster>
+    						<locations><location>
+    											<place>Route 23/Country Club Road, Phoenixville, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-75.9137,40.1475</coordinates>
+        									</location></locations>
+						</movie></Document>

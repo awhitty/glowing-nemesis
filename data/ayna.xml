@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Amanece que no es poco</title>
+    						<poster>http://www.filmaps.com/posters/0912121107000000</poster>
+    						<locations><location>
+    											<place>Ayna Albacete</place>
+    										<scene>sidecar</scene>
+        									<coordinates>-2.07073,38.5533</coordinates>
+        									</location></locations>
+						</movie></Document>

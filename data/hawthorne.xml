@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pulp Fiction</title>
+    						<poster>http://www.filmaps.com/posters/0901081656000000</poster>
+    						<locations><location>
+    											<place>13763 S. Hawthorne Boulevard, Hawthorne, USA</place>
+    										<scene>Hawthorne Grill coffee shop</scene>
+        									<coordinates>-118.353,33.9067</coordinates>
+        									</location></locations>
+						</movie></Document>

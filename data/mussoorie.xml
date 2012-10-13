@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hangover</title>
+    						<poster>http://www.filmaps.com/posters/0907290323000000</poster>
+    						<locations><location>
+    											<place>Wild West Hotel, Las Vegas, NV</place>
+    										<scene></scene>
+        									<coordinates>78.0515,30.4588</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the mexican</title>
+    						<poster>http://www.filmaps.com/posters/0910183329000000</poster>
+    						<locations><location>
+    											<place>Real de Catorce, San Luis Potosí, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-100.886,23.6892</coordinates>
+        									</location></locations>
+						</movie></Document>

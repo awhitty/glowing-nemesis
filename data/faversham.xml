@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hitchhiker's Guide to the Galaxy</title>
+    						<poster>http://www.filmaps.com/posters/1012024051000000</poster>
+    						<locations><location>
+    											<place>kent uk</place>
+    										<scene></scene>
+        									<coordinates>0.844244,51.2601</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Star Wars</title>
+    						<poster>http://www.filmaps.com/posters/0911084443000000</poster>
+    						<locations><location>
+    											<place>Ajim, Tunisia</place>
+    										<scene>The Cantina (exterior) Mos Eisley</scene>
+        									<coordinates>10.75,33.724</coordinates>
+        									</location></locations>
+						</movie></Document>

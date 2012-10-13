@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>lost in translation</title>
+    						<poster>http://www.filmaps.com/posters/0901160908000000</poster>
+    						<locations><location>
+    											<place>Shibuya, Tokyo, Japan</place>
+    										<scene>Park Hyatt Tokyo scenes</scene>
+        									<coordinates>139.698,35.6639</coordinates>
+        									</location></locations>
+						</movie></Document>

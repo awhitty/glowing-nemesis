@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The terminal</title>
+    						<poster>http://www.filmaps.com/posters/0901121303000000</poster>
+    						<locations><location>
+    											<place>Palmdale Regional Airport, Palmdale, California, USA</place>
+    										<scene>Hangar built as terminal set</scene>
+        									<coordinates>-118.09,34.6116</coordinates>
+        									</location></locations>
+						</movie></Document>

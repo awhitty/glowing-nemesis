@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Good Will Hunting</title>
+    						<poster>http://www.filmaps.com/posters/0911132517000000</poster>
+    						<locations><location>
+    											<place>77 Massachusetts Ave, Cambridge, MA&#8206; </place>
+    										<scene>MITs McLaurin Building</scene>
+        									<coordinates>-71.0931,42.3594</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Prozac Nation</title>
+    						<poster>http://www.filmaps.com/posters/0912272614000000</poster>
+    						<locations><location>
+    											<place>Harvard University, Cambridge, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-71.1165,42.3779</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>RED</title>
+    						<poster>http://www.filmaps.com/posters/1010243721000000</poster>
+    						<locations><location>
+    											<place>Cruickston Park, Cambridge, Ontario, Canada</place>
+    										<scene></scene>
+        									<coordinates>-80.3213,43.3873</coordinates>
+        									</location></locations>
+						</movie></Document>

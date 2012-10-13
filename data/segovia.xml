@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>goya's ghost</title>
+    						<poster>http://www.filmaps.com/posters/0902045229000000</poster>
+    						<locations><location>
+    											<place>Plaza Juan Bravo, Segovia</place>
+    										<scene>Batalla ejército francés y Edificio donde se refugia Goya</scene>
+        									<coordinates>-4.12148,40.9489</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The 3 Worlds of Gulliver (1960)</title>
+    						<poster>http://www.filmaps.com/posters/1007223229000000</poster>
+    						<locations><location>
+    											<place>Alcázar de Segovia, Segovia, España</place>
+    										<scene></scene>
+        									<coordinates>-4.1325,40.9522</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Águila Roja</title>
+    						<poster>http://www.filmaps.com/posters/1011132328000000</poster>
+    						<locations><location>
+    											<place>Álcazar de Segovia</place>
+    										<scene></scene>
+        									<coordinates>-4.13325,40.9521</coordinates>
+        									</location></locations>
+						</movie></Document>

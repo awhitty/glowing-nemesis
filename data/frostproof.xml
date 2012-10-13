@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Marley and Me</title>
+    						<poster>http://www.filmaps.com/posters/0901265151000000</poster>
+    						<locations><location>
+    											<place>florida international yacht club, Miami FL</place>
+    										<scene></scene>
+        									<coordinates>-81.5173,27.6653</coordinates>
+        									</location></locations>
+						</movie></Document>

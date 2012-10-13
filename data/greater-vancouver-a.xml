@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Elegy</title>
+    						<poster>http://www.filmaps.com/posters/0902274335000000</poster>
+    						<locations><location>
+    											<place>University of British Columbia, Vancouver</place>
+    										<scene></scene>
+        									<coordinates>-123.247,49.2671</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jennifer's body</title>
+    						<poster>http://www.filmaps.com/posters/0909273017000000</poster>
+    						<locations><location>
+    											<place>5210 University Boulevard, Vancouver, Canada</place>
+    										<scene>University Hill Secondary School. Interiors</scene>
+        									<coordinates>-123.235,49.2653</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>smallville</title>
+    						<poster>http://www.filmaps.com/posters/0910312656000000</poster>
+    						<locations><location>
+    											<place>University of British Columbia, Vancouver, Canada</place>
+    										<scene>Koerner Plaza</scene>
+        									<coordinates>-123.247,49.2591</coordinates>
+        									</location></locations>
+						</movie></Document>

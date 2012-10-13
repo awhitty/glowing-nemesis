@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Amélie</title>
+    						<poster>http://www.filmaps.com/posters/0901070657000000</poster>
+    						<locations><location>
+    											<place>Eaubonne, Val-d'Oise, France</place>
+    										<scene>Amelie's father's home</scene>
+        									<coordinates>2.27783,48.9922</coordinates>
+        									</location></locations>
+						</movie></Document>

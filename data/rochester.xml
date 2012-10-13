@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hammer</title>
+    						<poster>http://www.filmaps.com/posters/1201315045000000.jpg</poster>
+    						<locations><location>
+    											<place>Rochester, New York</place>
+    										<scene>Rochester Institute of Technology</scene>
+        									<coordinates>-77.6108,43.1612</coordinates>
+        									</location></locations>
+						</movie></Document>

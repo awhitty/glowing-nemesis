@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>ray</title>
+    						<poster>http://www.filmaps.com/posters/0903010815000000</poster>
+    						<locations><location>
+    											<place>Laurel Valley, Louisiana</place>
+    										<scene>childhood residence</scene>
+        									<coordinates>-90.4919,30.0966</coordinates>
+        									</location></locations>
+						</movie></Document>

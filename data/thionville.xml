@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>chocolat</title>
+    						<poster>http://www.filmaps.com/posters/0902162352000000</poster>
+    						<locations><location>
+    											<place>Thionville, Moselle, France</place>
+    										<scene></scene>
+        									<coordinates>6.16834,49.3575</coordinates>
+        									</location></locations>
+						</movie></Document>

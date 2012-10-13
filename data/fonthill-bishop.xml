@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>chocolat</title>
+    						<poster>http://www.filmaps.com/posters/0902162352000000</poster>
+    						<locations><location>
+    											<place>Fonthill Lake, Fonthill Bishop, Salisbury, Wiltshire, UK</place>
+    										<scene>River scenes</scene>
+        									<coordinates>-2.09252,51.0964</coordinates>
+        									</location></locations>
+						</movie></Document>

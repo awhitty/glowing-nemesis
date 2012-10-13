@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Adaptation</title>
+    						<poster>http://www.filmaps.com/posters/0907292436000000</poster>
+    						<locations><location>
+    											<place>5726 Soledad Canyon Road, Acton, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.232,34.4338</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Duel</title>
+    						<poster>http://www.filmaps.com/posters/1012075201000000</poster>
+    						<locations><location>
+    											<place>Acton, California, USA</place>
+    										<scene>gas station</scene>
+        									<coordinates>-118.197,34.4699</coordinates>
+        									</location></locations>
+						</movie></Document>

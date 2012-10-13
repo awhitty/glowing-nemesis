@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Canguro Jack</title>
+    						<poster>http://www.filmaps.com/posters/1112240956000000.jpg</poster>
+    						<locations><location>
+    											<place>Canowindra, New South Wales, Australia</place>
+    										<scene>.</scene>
+        									<coordinates>148.66,-33.5653</coordinates>
+        									</location></locations>
+						</movie></Document>

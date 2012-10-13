@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Spartacus</title>
+    						<poster>http://www.filmaps.com/posters/0901153649000000</poster>
+    						<locations><location>
+    											<place>Hearst Castle, San Simeon, USA</place>
+    										<scene>Crassus' villa</scene>
+        									<coordinates>-121.184,35.6681</coordinates>
+        									</location></locations>
+						</movie></Document>

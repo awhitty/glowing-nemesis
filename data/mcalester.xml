@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Grapes of Wrath</title>
+    						<poster>http://www.filmaps.com/posters/0903113528000000</poster>
+    						<locations><location>
+    											<place>McAlester, Oklahoma, USA</place>
+    										<scene></scene>
+        									<coordinates>-95.7577,34.9303</coordinates>
+        									</location></locations>
+						</movie></Document>

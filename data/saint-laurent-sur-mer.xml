@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Saving Private Ryan</title>
+    						<poster>http://www.filmaps.com/posters/0901150215000000</poster>
+    						<locations><location>
+    											<place>saint Laurent-sur-Mer, france</place>
+    										<scene>D Day, Omaha Beach</scene>
+        									<coordinates>-0.868263,49.3676</coordinates>
+        									</location><location>
+    											<place>Normandy American Cemetery and Memorial</place>
+    										<scene>Film opening</scene>
+        									<coordinates>-0.857953,49.3604</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Saving Private Ryan</title>
+    						<poster>http://www.filmaps.com/posters/0901150215000000</poster>
+    						<locations><location>
+    											<place>saint Laurent-sur-Mer, france</place>
+    										<scene>D Day, Omaha Beach</scene>
+        									<coordinates>-0.868263,49.3676</coordinates>
+        									</location><location>
+    											<place>Normandy American Cemetery and Memorial</place>
+    										<scene>Film opening</scene>
+        									<coordinates>-0.857953,49.3604</coordinates>
+        									</location></locations>
+						</movie></Document>

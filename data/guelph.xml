@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Blindness</title>
+    						<poster>http://www.filmaps.com/posters/1002111225000000</poster>
+    						<locations><location>
+    											<place>Guelph, Ontario, Canada</place>
+    										<scene></scene>
+        									<coordinates>-80.2509,43.5479</coordinates>
+        									</location></locations>
+						</movie></Document>

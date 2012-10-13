@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Da Vinci Code</title>
+    						<poster>http://www.filmaps.com/posters/0901134913000000</poster>
+    						<locations><location>
+    											<place>Belvoir Castle, Belvoir</place>
+    										<scene>aerial shots of Castel Gandolfo</scene>
+        									<coordinates>-0.783736,52.8947</coordinates>
+        									</location></locations>
+						</movie></Document>

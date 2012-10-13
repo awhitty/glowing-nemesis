@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Kill Bill</title>
+    						<poster>http://www.filmaps.com/posters/0901101957000000</poster>
+    						<locations><location>
+    											<place>Austin ,TExas</place>
+    										<scene></scene>
+        									<coordinates>-97.7467,30.2679</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Machete </title>
+    						<poster>http://www.filmaps.com/posters/1204132318000000.jpg</poster>
+    						<locations><location>
+    											<place>Austin, Texas</place>
+    										<scene>Principal location</scene>
+        									<coordinates>-97.7434,30.2669</coordinates>
+        									</location><location>
+    											<place>St. Mary's Church - 203 E. 10th St. Austin, Texas, USA</place>
+    										<scene>Machete's brother's church</scene>
+        									<coordinates>-97.7389,30.2707</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Machete </title>
+    						<poster>http://www.filmaps.com/posters/1204132318000000.jpg</poster>
+    						<locations><location>
+    											<place>Austin, Texas</place>
+    										<scene>Principal location</scene>
+        									<coordinates>-97.7434,30.2669</coordinates>
+        									</location><location>
+    											<place>St. Mary's Church - 203 E. 10th St. Austin, Texas, USA</place>
+    										<scene>Machete's brother's church</scene>
+        									<coordinates>-97.7389,30.2707</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Shorts</title>
+    						<poster>http://www.filmaps.com/posters/0909030855000000</poster>
+    						<locations><location>
+    											<place>Austin, Texas, USA</place>
+    										<scene></scene>
+        									<coordinates>-97.7449,30.2685</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Planet terror</title>
+    						<poster>http://www.filmaps.com/posters/0909123252000000</poster>
+    						<locations><location>
+    											<place>Austin, Texas, USA</place>
+    										<scene></scene>
+        									<coordinates>-97.748,30.2674</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Death Proof</title>
+    						<poster>http://www.filmaps.com/posters/0909123615000000</poster>
+    						<locations><location>
+    											<place>Austin, Texas, USA </place>
+    										<scene></scene>
+        									<coordinates>-97.7608,30.2695</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sin City</title>
+    						<poster>http://www.filmaps.com/posters/1001291325000000</poster>
+    						<locations><location>
+    											<place>Austin, Texas, USA</place>
+    										<scene></scene>
+        									<coordinates>-97.7464,30.2669</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Predators</title>
+    						<poster>http://www.filmaps.com/posters/1003190843000000</poster>
+    						<locations><location>
+    											<place>Old Manor Road, Austin, Texas</place>
+    										<scene>Filmación en los estudios Troublemaker Studios - 4900 Old Manor Road, Austin, Texas, Estados Unidos, </scene>
+        									<coordinates>-97.6442,30.3239</coordinates>
+        									</location><location>
+    											<place>Austin texas</place>
+    										<scene>Troublemaker Studios</scene>
+        									<coordinates>-97.6924,30.2972</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Predators</title>
+    						<poster>http://www.filmaps.com/posters/1003190843000000</poster>
+    						<locations><location>
+    											<place>Old Manor Road, Austin, Texas</place>
+    										<scene>Filmación en los estudios Troublemaker Studios - 4900 Old Manor Road, Austin, Texas, Estados Unidos, </scene>
+        									<coordinates>-97.6442,30.3239</coordinates>
+        									</location><location>
+    											<place>Austin texas</place>
+    										<scene>Troublemaker Studios</scene>
+        									<coordinates>-97.6924,30.2972</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>dazed and confused</title>
+    						<poster>http://www.filmaps.com/posters/0911190404000000</poster>
+    						<locations><location>
+    											<place> Top Notch Burgers, Austin, Texas</place>
+    										<scene></scene>
+        									<coordinates>-97.743,30.2671</coordinates>
+        									</location></locations>
+						</movie></Document>

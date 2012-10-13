@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hangover Part II</title>
+    						<poster>http://www.filmaps.com/posters/1106234034000000</poster>
+    						<locations><location>
+    											<place>Ontario International Airport</place>
+    										<scene></scene>
+        									<coordinates>-117.598,34.0606</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Catch Me If You Can</title>
+    						<poster>http://www.filmaps.com/posters/1011061101000000</poster>
+    						<locations><location>
+    											<place>Ontario International Airport, 2900 E. Airport Drive, Ontario, California, USA</place>
+    										<scene>Miami International Airport</scene>
+        									<coordinates>-117.598,34.0607</coordinates>
+        									</location></locations>
+						</movie></Document>

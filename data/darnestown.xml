@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the blair witch project</title>
+    						<poster>http://www.filmaps.com/posters/0901091451000000</poster>
+    						<locations><location>
+    											<place>seneka creek, state park</place>
+    										<scene>where the movie was filmed</scene>
+        									<coordinates>-77.3316,39.0957</coordinates>
+        									</location></locations>
+						</movie></Document>

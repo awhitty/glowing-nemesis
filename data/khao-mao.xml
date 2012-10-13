@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Retorno a Hansala</title>
+    						<poster>http://www.filmaps.com/posters/0904023931000000</poster>
+    						<locations><location>
+    											<place>hansala</place>
+    										<scene></scene>
+        									<coordinates>100.634,14.3819</coordinates>
+        									</location></locations>
+						</movie></Document>

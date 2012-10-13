@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>One Flew Over the Cuckoo's Nest</title>
+    						<poster>http://www.filmaps.com/posters/0912150343000000</poster>
+    						<locations><location>
+    											<place>Fort Bragg, California, USA</place>
+    										<scene>Fishing scene</scene>
+        									<coordinates>-123.805,39.446</coordinates>
+        									</location></locations>
+						</movie></Document>

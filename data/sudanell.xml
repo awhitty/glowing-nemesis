@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La Fiel Infanteria</title>
+    						<poster>http://www.filmaps.com/posters/0912121459000000</poster>
+    						<locations><location>
+    											<place>Avinguda Catalunya, Sudanell</place>
+    										<scene>Paseo de las tropas</scene>
+        									<coordinates>0.566404,41.5561</coordinates>
+        									</location></locations>
+						</movie></Document>

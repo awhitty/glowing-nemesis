@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Tom And Huck</title>
+    						<poster>http://www.filmaps.com/posters/0903121110000000</poster>
+    						<locations><location>
+    											<place>Hillsboro, AL</place>
+    										<scene>The old haunted house and the graveyard scenes</scene>
+        									<coordinates>-87.2067,34.596</coordinates>
+        									</location></locations>
+						</movie></Document>

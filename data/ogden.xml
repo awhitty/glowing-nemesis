@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Frozen ( Bajo cero)</title>
+    						<poster>http://www.filmaps.com/posters/1112295851000000.jpg</poster>
+    						<locations><location>
+    											<place>Snowbasin Ski Resort in Ogden</place>
+    										<scene>Ski Station</scene>
+        									<coordinates>-111.858,41.2156</coordinates>
+        									</location><location>
+    											<place>Snowbasin Ski Resort in Ogden, Utah, EEUU</place>
+    										<scene>Ski Station</scene>
+        									<coordinates>-111.858,41.216</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Frozen ( Bajo cero)</title>
+    						<poster>http://www.filmaps.com/posters/1112295851000000.jpg</poster>
+    						<locations><location>
+    											<place>Snowbasin Ski Resort in Ogden</place>
+    										<scene>Ski Station</scene>
+        									<coordinates>-111.858,41.2156</coordinates>
+        									</location><location>
+    											<place>Snowbasin Ski Resort in Ogden, Utah, EEUU</place>
+    										<scene>Ski Station</scene>
+        									<coordinates>-111.858,41.216</coordinates>
+        									</location></locations>
+						</movie></Document>

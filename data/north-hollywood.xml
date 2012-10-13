@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Erin Brockovich</title>
+    						<poster>http://www.filmaps.com/posters/0901073445000000</poster>
+    						<locations><location>
+    											<place>North Hollywood, California, USA (Lankershim Blvd)</place>
+    										<scene>Car crash, opening scene</scene>
+        									<coordinates>-118.383,34.1795</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Psycho</title>
+    						<poster>http://www.filmaps.com/posters/0912152216000000</poster>
+    						<locations><location>
+    											<place>4270 Lankershim Boulevard, North Hollywood, Los Angeles</place>
+    										<scene>Automobile dealership exterior scene</scene>
+        									<coordinates>-118.364,34.1479</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Angels and Demons</title>
+    						<poster>http://www.filmaps.com/posters/0905184031000000</poster>
+    						<locations><location>
+    											<place>Little Europe Set, Universal Studios, Universal City, CA, USA</place>
+    										<scene>The Little Europe street set on the Universal backlot stands in for the streets of Europe</scene>
+        									<coordinates>-118.352,34.1392</coordinates>
+        									</location></locations>
+						</movie></Document>

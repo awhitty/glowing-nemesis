@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ficció</title>
+    						<poster>http://www.filmaps.com/posters/0902154255000000</poster>
+    						<locations><location>
+    											<place>lles de cerdanya</place>
+    										<scene>Apartamento</scene>
+        									<coordinates>1.68649,42.3953</coordinates>
+        									</location><location>
+    											<place>lles de cerdanya</place>
+    										<scene>Curva pronunciada con las ovejas</scene>
+        									<coordinates>1.67855,42.3853</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ficció</title>
+    						<poster>http://www.filmaps.com/posters/0902154255000000</poster>
+    						<locations><location>
+    											<place>lles de cerdanya</place>
+    										<scene>Apartamento</scene>
+        									<coordinates>1.68649,42.3953</coordinates>
+        									</location><location>
+    											<place>lles de cerdanya</place>
+    										<scene>Curva pronunciada con las ovejas</scene>
+        									<coordinates>1.67855,42.3853</coordinates>
+        									</location></locations>
+						</movie></Document>

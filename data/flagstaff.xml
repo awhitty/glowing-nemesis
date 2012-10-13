@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>forrest gump</title>
+    						<poster>http://www.filmaps.com/posters/0902175100000000</poster>
+    						<locations><location>
+    											<place>100 N. San Francisco St., Flagstaff, Arizona, 86001</place>
+    										<scene>Forest running with bumper sticker guy</scene>
+        									<coordinates>-111.647,35.1985</coordinates>
+        									</location><location>
+    											<place>Twin Arrows, Arizona</place>
+    										<scene>truck stop where Forest makes the smily face on the muddy shirt</scene>
+        									<coordinates>-111.262,35.1577</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>forrest gump</title>
+    						<poster>http://www.filmaps.com/posters/0902175100000000</poster>
+    						<locations><location>
+    											<place>100 N. San Francisco St., Flagstaff, Arizona, 86001</place>
+    										<scene>Forest running with bumper sticker guy</scene>
+        									<coordinates>-111.647,35.1985</coordinates>
+        									</location><location>
+    											<place>Twin Arrows, Arizona</place>
+    										<scene>truck stop where Forest makes the smily face on the muddy shirt</scene>
+        									<coordinates>-111.262,35.1577</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>E.T.</title>
+    						<poster>http://www.filmaps.com/posters/0902034235000000</poster>
+    						<locations><location>
+    											<place>7121 Lonzo Street, Tujunga, Los Angeles</place>
+    										<scene>Elliot's home here !</scene>
+        									<coordinates>-118.288,34.2707</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Memento</title>
+    						<poster>http://www.filmaps.com/posters/0912153003000000</poster>
+    						<locations><location>
+    											<place>Sunland, Los Angeles</place>
+    										<scene></scene>
+        									<coordinates>-118.301,34.267</coordinates>
+        									</location></locations>
+						</movie></Document>

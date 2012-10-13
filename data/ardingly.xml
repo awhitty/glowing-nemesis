@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>As You Like It</title>
+    						<poster>http://www.filmaps.com/posters/0910243746000000</poster>
+    						<locations><location>
+    											<place>Wakehurst Place, West Sussex, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.0846934,51.0675</coordinates>
+        									</location></locations>
+						</movie></Document>

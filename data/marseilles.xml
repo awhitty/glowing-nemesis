@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Love Actually</title>
+    						<poster>http://www.filmaps.com/posters/0901081631000000</poster>
+    						<locations><location>
+    											<place>Marseille</place>
+    										<scene></scene>
+        									<coordinates>5.38079,43.2979</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Borsalino </title>
+    						<poster>http://www.filmaps.com/posters/0909193353000000</poster>
+    						<locations><location>
+    											<place>Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.38041,43.2975</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fanny</title>
+    						<poster>http://www.filmaps.com/posters/0909193613000000</poster>
+    						<locations><location>
+    											<place>Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.36854,43.3001</coordinates>
+        									</location><location>
+    											<place>Notre Dame de la Garde, Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.37087,43.284</coordinates>
+        									</location><location>
+    											<place>Vieux Port, Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.36818,43.2955</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fanny</title>
+    						<poster>http://www.filmaps.com/posters/0909193613000000</poster>
+    						<locations><location>
+    											<place>Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.36854,43.3001</coordinates>
+        									</location><location>
+    											<place>Notre Dame de la Garde, Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.37087,43.284</coordinates>
+        									</location><location>
+    											<place>Vieux Port, Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.36818,43.2955</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fanny</title>
+    						<poster>http://www.filmaps.com/posters/0909193613000000</poster>
+    						<locations><location>
+    											<place>Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.36854,43.3001</coordinates>
+        									</location><location>
+    											<place>Notre Dame de la Garde, Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.37087,43.284</coordinates>
+        									</location><location>
+    											<place>Vieux Port, Marseille, Bouches-du-Rhône, France</place>
+    										<scene></scene>
+        									<coordinates>5.36818,43.2955</coordinates>
+        									</location></locations>
+						</movie></Document>

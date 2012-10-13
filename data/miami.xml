@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>dexter</title>
+    						<poster>http://www.filmaps.com/posters/0904203005000000</poster>
+    						<locations><location>
+    											<place>Miami</place>
+    										<scene>Dexter in Miami</scene>
+        									<coordinates>-80.1905,25.774</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Gran Lebowski</title>
+    						<poster>http://www.filmaps.com/posters/1201021457000000.jpg</poster>
+    						<locations><location>
+    											<place>Dinah's Family Restaurant - 6521 S. Sepulveda Blvd., Westchester,</place>
+    										<scene>Pancake house</scene>
+        									<coordinates>-80.3271,25.7547</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Beetlejuice</title>
+    						<poster>http://www.filmaps.com/posters/1204130714000000.jpg</poster>
+    						<locations><location>
+    											<place>East Corinth, Vermont, USA</place>
+    										<scene>Main location</scene>
+        									<coordinates>-72.2291,44.0604</coordinates>
+        									</location></locations>
+						</movie></Document>

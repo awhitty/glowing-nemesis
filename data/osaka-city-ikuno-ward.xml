@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Black rain</title>
+    						<poster>http://www.filmaps.com/posters/0901072922000000</poster>
+    						<locations><location>
+    											<place>osaka station, osaka</place>
+    										<scene>Hankyu Umeda Mall in Osaka</scene>
+        									<coordinates>135.533,34.6637</coordinates>
+        									</location></locations>
+						</movie></Document>

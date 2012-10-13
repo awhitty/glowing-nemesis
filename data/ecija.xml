@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Carmen</title>
+    						<poster>http://www.filmaps.com/posters/0912072306000000</poster>
+    						<locations><location>
+    											<place>Écija</place>
+    										<scene>Varias escenas entre ellas la de la taberna</scene>
+        									<coordinates>-5.07668,37.5412</coordinates>
+        									</location></locations>
+						</movie></Document>

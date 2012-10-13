@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hangover</title>
+    						<poster>http://www.filmaps.com/posters/0907290323000000</poster>
+    						<locations><location>
+    											<place>Rialto, California, USA</place>
+    										<scene>freeway scene</scene>
+        									<coordinates>-117.367,34.1066</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Due Date</title>
+    						<poster>http://www.filmaps.com/posters/1009222928000000</poster>
+    						<locations><location>
+    											<place>Rialto, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-117.37,34.1064</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pandora and The Flying Dutchman</title>
+    						<poster>http://www.filmaps.com/posters/0903254556000000</poster>
+    						<locations><location>
+    											<place>Tossa de mar, Girona</place>
+    										<scene></scene>
+        									<coordinates>2.93182,41.7199</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Préstamela esta noche</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Tossa de Mar, Girona</place>
+    										<scene>Película de Manolo Escobar ambientada a Tossa de Mar</scene>
+        									<coordinates>2.93181,41.7199</coordinates>
+        									</location></locations>
+						</movie></Document>

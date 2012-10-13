@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Babylon AD</title>
+    						<poster>http://www.filmaps.com/posters/0904185703000000</poster>
+    						<locations><location>
+    											<place>Poruba, Ostrava, Czech Republic</place>
+    										<scene>exteriors</scene>
+        									<coordinates>18.1774,49.8301</coordinates>
+        									</location></locations>
+						</movie></Document>

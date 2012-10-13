@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Romeo + Juliet</title>
+    						<poster>http://www.filmaps.com/posters/0909241823000000</poster>
+    						<locations><location>
+    											<place>Chapultepec, Ciudad de México</place>
+    										<scene>Escena de la fiesta de máscaras, interiores y exteriores</scene>
+        									<coordinates>-99.182,19.4203</coordinates>
+        									</location></locations>
+						</movie></Document>

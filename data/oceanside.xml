@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Top Gun</title>
+    						<poster>http://www.filmaps.com/posters/0901220643000000</poster>
+    						<locations><location>
+    											<place>102 Pacific Street, Oceanside, California</place>
+    										<scene>Charlie's house in Top Gun</scene>
+        									<coordinates>-117.382,33.1932</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Diamonds are Forever</title>
+    						<poster>http://www.filmaps.com/posters/1011110813000000</poster>
+    						<locations><location>
+    											<place>Camp Pendleton Marine Corps Base, Oceanside, California</place>
+    										<scene>Ernst Stavro Blofeld</scene>
+        									<coordinates>-117.409,33.3643</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Patriot</title>
+    						<poster>http://www.filmaps.com/posters/0901150535000000</poster>
+    						<locations><location>
+    											<place>Georgetown, South Carolina</place>
+    										<scene>Charlotte Selton's Plantation house that is burned by the British troops</scene>
+        									<coordinates>-79.2942,33.3766</coordinates>
+        									</location></locations>
+						</movie></Document>

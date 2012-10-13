@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The bucket list</title>
+    						<poster>http://www.filmaps.com/posters/1201134128000000.jpg</poster>
+    						<locations><location>
+    											<place>Eze Village, Alpes-Maritimes, France</place>
+    										<scene>Exteriors</scene>
+        									<coordinates>7.36194,43.728</coordinates>
+        									</location></locations>
+						</movie></Document>

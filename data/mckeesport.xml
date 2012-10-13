@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Silence of the Lambs</title>
+    						<poster>http://www.filmaps.com/posters/0912151726000000</poster>
+    						<locations><location>
+    											<place>McKeesport, Pennsylvania, USA</place>
+    										<scene>funeral home interiors</scene>
+        									<coordinates>-79.8642,40.3478</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>McKeesport and Versailles Cemetery - 1608 Fifth Avenue, McKeesport, Pennsylvania, Estados Unidos</place>
+    										<scene>Cementery</scene>
+        									<coordinates>-79.8464,40.3494</coordinates>
+        									</location></locations>
+						</movie></Document>

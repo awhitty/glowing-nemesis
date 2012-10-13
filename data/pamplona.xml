@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Secretos del Corazon</title>
+    						<poster>http://www.filmaps.com/posters/0904081552000000</poster>
+    						<locations><location>
+    											<place>Pamplona</place>
+    										<scene>Javi (Andoni Erburu) cruzaba esta pasarela de piedra en piedra sobre el río Arga para vencer sus miedos</scene>
+        									<coordinates>-1.63595,42.8183</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Camino</title>
+    						<poster>http://www.filmaps.com/posters/1002133652000000</poster>
+    						<locations><location>
+    											<place>Pamplona, Navarra</place>
+    										<scene>escenas de la dramatica peli </scene>
+        									<coordinates>-1.64352,42.8183</coordinates>
+        									</location></locations>
+						</movie></Document>

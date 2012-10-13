@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>la poliziotta</title>
+    						<poster>http://www.filmaps.com/posters/0910103801000000</poster>
+    						<locations><location>
+    											<place>Bergamo </place>
+    										<scene>Piazza centrale (Ravedrate)</scene>
+        									<coordinates>9.66301,45.7041</coordinates>
+        									</location></locations>
+						</movie></Document>

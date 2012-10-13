@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Creation</title>
+    						<poster>http://www.filmaps.com/posters/0911134442000000</poster>
+    						<locations><location>
+    											<place>Bradford-on-Avon, Wiltshire, UK</place>
+    										<scene> where Darwin was treated for health problems</scene>
+        									<coordinates>-2.24906,51.3504</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Elizabeth: The Golden Age</title>
+    						<poster>http://www.filmaps.com/posters/0911152125000000</poster>
+    						<locations><location>
+    											<place>Burghley House, Stamford, Lincolnshire, England, UK</place>
+    										<scene>John Dee's house exteriors/London alley/Paris street scene</scene>
+        									<coordinates>-0.445177,52.6467</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pride and Prejudice</title>
+    						<poster>http://www.filmaps.com/posters/0902091209000000</poster>
+    						<locations><location>
+    											<place>Burghley house Lincolnshire</place>
+    										<scene>Lady Catherine de Bourg home</scene>
+        									<coordinates>-0.445233,52.6462</coordinates>
+        									</location></locations>
+						</movie></Document>

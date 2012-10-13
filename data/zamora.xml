@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Celda 211</title>
+    						<poster>http://www.filmaps.com/posters/0909250206000000</poster>
+    						<locations><location>
+    											<place>Carretera Almaraz 1, Zamora, Castilla y León, España</place>
+    										<scene>Rodada en la Cárcel de Zamora</scene>
+        									<coordinates>-5.80969,41.5123</coordinates>
+        									</location><location>
+    											<place>Plaza del Mercado, 49003 Zamora, España</place>
+    										<scene>algunas imagenes de la peli</scene>
+        									<coordinates>-5.74319,41.5045</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Celda 211</title>
+    						<poster>http://www.filmaps.com/posters/0909250206000000</poster>
+    						<locations><location>
+    											<place>Carretera Almaraz 1, Zamora, Castilla y León, España</place>
+    										<scene>Rodada en la Cárcel de Zamora</scene>
+        									<coordinates>-5.80969,41.5123</coordinates>
+        									</location><location>
+    											<place>Plaza del Mercado, 49003 Zamora, España</place>
+    										<scene>algunas imagenes de la peli</scene>
+        									<coordinates>-5.74319,41.5045</coordinates>
+        									</location></locations>
+						</movie></Document>

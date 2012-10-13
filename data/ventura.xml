@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Erin Brockovich</title>
+    						<poster>http://www.filmaps.com/posters/0901073445000000</poster>
+    						<locations><location>
+    											<place>ventura ca </place>
+    										<scene>erin brokovich's house</scene>
+        									<coordinates>-119.258,34.2661</coordinates>
+        									</location><location>
+    											<place>545 E Emma Ave Ventura, CA</place>
+    										<scene>Erin Brockovich's House </scene>
+        									<coordinates>-119.256,34.2648</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Swordfish</title>
+    						<poster>http://www.filmaps.com/posters/0910045335000000</poster>
+    						<locations><location>
+    											<place>Ventura, CA</place>
+    										<scene></scene>
+        									<coordinates>-119.258,34.266</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>little miss sunshine</title>
+    						<poster>http://www.filmaps.com/posters/0911192403000000</poster>
+    						<locations><location>
+    											<place>Crown Suites, Ventura, California</place>
+    										<scene>The Little Miss Sunshine Pageant</scene>
+        									<coordinates>-119.293,34.2783</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Erin Brockovich</title>
+    						<poster>http://www.filmaps.com/posters/0901073445000000</poster>
+    						<locations><location>
+    											<place>ventura ca </place>
+    										<scene>erin brokovich's house</scene>
+        									<coordinates>-119.258,34.2661</coordinates>
+        									</location><location>
+    											<place>545 E Emma Ave Ventura, CA</place>
+    										<scene>Erin Brockovich's House </scene>
+        									<coordinates>-119.256,34.2648</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>X-MEN</title>
+    						<poster>http://www.filmaps.com/posters/0901113723000000</poster>
+    						<locations><location>
+    											<place>Sudbury, Ontario</place>
+    										<scene>underground cave scenes</scene>
+        									<coordinates>-80.9906,46.4931</coordinates>
+        									</location></locations>
+						</movie></Document>

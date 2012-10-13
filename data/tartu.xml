@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Fresa y Chocolate</title>
+    						<poster>http://www.filmaps.com/posters/0911155847000000</poster>
+    						<locations><location>
+    											<place>tartu</place>
+    										<scene>s</scene>
+        									<coordinates>26.7151,58.3711</coordinates>
+        									</location></locations>
+						</movie></Document>

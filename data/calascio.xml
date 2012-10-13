@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lady hawke</title>
+    						<poster>http://www.filmaps.com/posters/0904144846000000</poster>
+    						<locations><location>
+    											<place>rocca calascio, abruzzo, italy</place>
+    										<scene>monac castle</scene>
+        									<coordinates>13.695,42.3267</coordinates>
+        									</location></locations>
+						</movie></Document>

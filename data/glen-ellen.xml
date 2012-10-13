@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>scream</title>
+    						<poster>http://www.filmaps.com/posters/0911055805000000</poster>
+    						<locations><location>
+    											<place>Sonoma Mountain Road, Glen Ellen, CA, USA</place>
+    										<scene>Casey's house</scene>
+        									<coordinates>-122.555,38.363</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Wizard</title>
+    						<poster>http://www.filmaps.com/posters/1104014734000000</poster>
+    						<locations><location>
+    											<place>Moundhouse Nevada</place>
+    										<scene>This is the location where the VW built to look like a spider is. It is still there today.</scene>
+        									<coordinates>-119.669,39.2138</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Clairton, Pennsylvania, Estados Unidos</place>
+    										<scene>Steel Town de Clairton</scene>
+        									<coordinates>-79.882,40.2926</coordinates>
+        									</location></locations>
+						</movie></Document>

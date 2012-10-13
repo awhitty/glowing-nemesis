@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Heaven's Gate</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Trailcreek, mt</place>
+    										<scene>The battle scene in Heaven's Gate</scene>
+        									<coordinates>-114.407,48.9198</coordinates>
+        									</location></locations>
+						</movie></Document>

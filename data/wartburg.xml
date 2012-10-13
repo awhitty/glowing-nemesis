@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>October Sky</title>
+    						<poster>http://www.filmaps.com/posters/1103301946000000</poster>
+    						<locations><location>
+    											<place>Watrburg, Tennessee</place>
+    										<scene>The site of "Cape Coalwood" where the Rocket Boys launched their rockets.</scene>
+        									<coordinates>-84.5177,36.0898</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Kingdom of Heaven</title>
+    						<poster>http://www.filmaps.com/posters/0901201241000000</poster>
+    						<locations><location>
+    											<place>Castillo de Loarre</place>
+    										<scene>escenas de esta película fueron filmadas en el fantastico Castillo de Loarre en Huesca</scene>
+        									<coordinates>-0.625135,42.3144</coordinates>
+        									</location></locations>
+						</movie></Document>

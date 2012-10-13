@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Kill Bill</title>
+    						<poster>http://www.filmaps.com/posters/0901101957000000</poster>
+    						<locations><location>
+    											<place>Hong Kong, China</place>
+    										<scene></scene>
+        									<coordinates>114.202,22.2592</coordinates>
+        									</location></locations>
+						</movie></Document>

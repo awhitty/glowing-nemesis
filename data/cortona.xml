@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>bajo el sol de la toscana</title>
+    						<poster>http://www.filmaps.com/posters/0906052352000000</poster>
+    						<locations><location>
+    											<place>Cortona, Arezzo, Tuscany, Italy</place>
+    										<scene></scene>
+        									<coordinates>11.9879,43.2739</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>under the tuscan sun</title>
+    						<poster>http://www.filmaps.com/posters/0906070831000000</poster>
+    						<locations><location>
+    											<place>cortona, tuscany</place>
+    										<scene>Diana Lane buys villa</scene>
+        									<coordinates>11.9852,43.2752</coordinates>
+        									</location></locations>
+						</movie></Document>

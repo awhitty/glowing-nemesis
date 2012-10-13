@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Zombieland</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Powder Springs, Georgia, USA</place>
+    										<scene>Grocery store</scene>
+        									<coordinates>-84.684,33.8594</coordinates>
+        									</location></locations>
+						</movie></Document>

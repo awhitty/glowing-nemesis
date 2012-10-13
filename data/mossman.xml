@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Pacific</title>
+    						<poster>http://www.filmaps.com/posters/1004174640000000</poster>
+    						<locations><location>
+    											<place>Mossman, Queensland, Australia</place>
+    										<scene></scene>
+        									<coordinates>145.373,-16.4611</coordinates>
+        									</location></locations>
+						</movie></Document>

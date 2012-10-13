@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Juno</title>
+    						<poster>http://www.filmaps.com/posters/0901173313000000</poster>
+    						<locations><location>
+    											<place>Coquitlam, British Columbia, Canada</place>
+    										<scene>Coquitlam Centre Mall</scene>
+        									<coordinates>-122.869,49.2492</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Elegy</title>
+    						<poster>http://www.filmaps.com/posters/0902274335000000</poster>
+    						<locations><location>
+    											<place>Coquitlam, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.869,49.2489</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Watchmen</title>
+    						<poster>http://www.filmaps.com/posters/0903040129000000</poster>
+    						<locations><location>
+    											<place>Coquitlam, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.869,49.2491</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>expediente 39</title>
+    						<poster>http://www.filmaps.com/posters/0908285758000000</poster>
+    						<locations><location>
+    											<place>Riverview Hospital, Coquitlam, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.806,49.2466</coordinates>
+        									</location></locations>
+						</movie></Document>

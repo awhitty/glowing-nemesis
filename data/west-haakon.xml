@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Armageddon</title>
+    						<poster>http://www.filmaps.com/posters/0901100924000000</poster>
+    						<locations><location>
+    											<place>Badlands National Park, Interior, South Dakota, USA</place>
+    										<scene>asteroid surfaces</scene>
+        									<coordinates>-101.81,44.056</coordinates>
+        									</location></locations>
+						</movie></Document>

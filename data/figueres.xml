@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Perfume: The Story of a Murderer</title>
+    						<poster>http://www.filmaps.com/posters/0901072220000000</poster>
+    						<locations><location>
+    											<place>Figueres</place>
+    										<scene></scene>
+        									<coordinates>2.95987,42.267</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>no es pais para viejos</title>
+    						<poster>http://www.filmaps.com/posters/0911210547000000</poster>
+    						<locations><location>
+    											<place>gerona</place>
+    										<scene></scene>
+        									<coordinates>2.96109,42.2672</coordinates>
+        									</location></locations>
+						</movie></Document>

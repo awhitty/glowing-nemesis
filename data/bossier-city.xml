@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mr. Brooks</title>
+    						<poster>http://www.filmaps.com/posters/0901180037000000</poster>
+    						<locations><location>
+    											<place>Bossier City, Louisiana</place>
+    										<scene></scene>
+        									<coordinates>-93.6701,32.5343</coordinates>
+        									</location></locations>
+						</movie></Document>

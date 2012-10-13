@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>It's complicated</title>
+    						<poster>http://www.filmaps.com/posters/1001074510000000</poster>
+    						<locations><location>
+    											<place>Hastings-on-Hudson, New York, USA</place>
+    										<scene>represents "La Cruz" town</scene>
+        									<coordinates>-73.8788,40.9946</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Wagons East (1994)</title>
+    						<poster>http://www.filmaps.com/posters/1105285413000000</poster>
+    						<locations><location>
+    											<place>Condado De Chavez, Durango Mexico</place>
+    										<scene>hometowns east.</scene>
+        									<coordinates>-100.234,25.6702</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>from prada to nada</title>
+    						<poster>http://www.filmaps.com/posters/1209022749000000.jpg</poster>
+    						<locations><location>
+    											<place>la esmeralda guadalupe monterrey</place>
+    										<scene>donde salen las cholas</scene>
+        									<coordinates>-100.269,25.6774</coordinates>
+        									</location><location>
+    											<place>la esmeralda guadalupe monterrey</place>
+    										<scene>cuando salen a centro de los angeles y las saluda rosita</scene>
+        									<coordinates>-100.269,25.6774</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>from prada to nada</title>
+    						<poster>http://www.filmaps.com/posters/1209022749000000.jpg</poster>
+    						<locations><location>
+    											<place>la esmeralda guadalupe monterrey</place>
+    										<scene>donde salen las cholas</scene>
+        									<coordinates>-100.269,25.6774</coordinates>
+        									</location><location>
+    											<place>la esmeralda guadalupe monterrey</place>
+    										<scene>cuando salen a centro de los angeles y las saluda rosita</scene>
+        									<coordinates>-100.269,25.6774</coordinates>
+        									</location></locations>
+						</movie></Document>

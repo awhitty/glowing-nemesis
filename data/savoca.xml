@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Godfather</title>
+    						<poster>http://www.filmaps.com/posters/0901072317000000</poster>
+    						<locations><location>
+    											<place>Svoca, sicily, italy</place>
+    										<scene>Bar Vitelli was here. Near Taormina on the east side of sicily</scene>
+        									<coordinates>15.3402,37.9542</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>el padrino</title>
+    						<poster>http://www.filmaps.com/posters/0904242005000000</poster>
+    						<locations><location>
+    											<place>Svoca, sicilia, italia</place>
+    										<scene></scene>
+        									<coordinates>15.3409,37.9538</coordinates>
+        									</location></locations>
+						</movie></Document>

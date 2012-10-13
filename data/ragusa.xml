@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Divorzio all'italiana</title>
+    						<poster>http://www.filmaps.com/posters/1001294348000000</poster>
+    						<locations><location>
+    											<place>Ragusa Ibla, Ragusa, Sicily</place>
+    										<scene>escena en Ragusa</scene>
+        									<coordinates>14.7433,36.9261</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Cadillac Records</title>
+    						<poster>http://www.filmaps.com/posters/0906120031000000</poster>
+    						<locations><location>
+    											<place>Newark, New Jersey, USA</place>
+    										<scene></scene>
+        									<coordinates>-74.1666,40.7333</coordinates>
+        									</location></locations>
+						</movie></Document>

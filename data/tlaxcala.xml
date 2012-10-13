@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the mask of zorro</title>
+    						<poster>http://www.filmaps.com/posters/0907202235000000</poster>
+    						<locations><location>
+    											<place>San Blas hacienda, Lopez Mateos, Tlaxcala, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-98.2395,19.3135</coordinates>
+        									</location></locations>
+						</movie></Document>

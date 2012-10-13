@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>snatch</title>
+    						<poster>http://www.filmaps.com/posters/0902084053000000</poster>
+    						<locations><location>
+    											<place>630 Lea Bridge Rd, London, E10 6AP, UK</place>
+    										<scene>Jester's Amusement Arcade</scene>
+        									<coordinates>-0.0117642,51.5761</coordinates>
+        									</location></locations>
+						</movie></Document>

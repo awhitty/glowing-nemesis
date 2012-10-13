@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the fog</title>
+    						<poster>http://www.filmaps.com/posters/0904035846000000</poster>
+    						<locations><location>
+    											<place>Point Reyes Station, California, USA</place>
+    										<scene>Night shots of fog entering downtown area</scene>
+        									<coordinates>-122.806,38.0692</coordinates>
+        									</location></locations>
+						</movie></Document>

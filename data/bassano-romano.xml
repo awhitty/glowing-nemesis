@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La Dolce Vita </title>
+    						<poster>http://www.filmaps.com/posters/0901154410000000</poster>
+    						<locations><location>
+    											<place>Bassano Romano, Viterbo, Lazio</place>
+    										<scene></scene>
+        									<coordinates>12.1921,42.2183</coordinates>
+        									</location></locations>
+						</movie></Document>

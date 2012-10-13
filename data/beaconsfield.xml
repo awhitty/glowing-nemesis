@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gosford Park</title>
+    						<poster>http://www.filmaps.com/posters/1001084009000000</poster>
+    						<locations><location>
+    											<place>Hall Barn, Beaconsfield, UK</place>
+    										<scene>lunch after the hunt scene</scene>
+        									<coordinates>-0.640147,51.594</coordinates>
+        									</location></locations>
+						</movie></Document>

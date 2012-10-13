@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>el gavilan de la sierra</title>
+    						<poster>http://www.filmaps.com/posters/0908142846000000</poster>
+    						<locations><location>
+    											<place>durango,  Durango</place>
+    										<scene>sets utilizado en la filmacion</scene>
+        									<coordinates>-105.358,23.7822</coordinates>
+        									</location><location>
+    											<place>EL SALTO, DURANGO</place>
+    										<scene>SET UTILIZADO PARA LA PELICULA</scene>
+        									<coordinates>-105.361,23.7828</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>el gavilan de la sierra</title>
+    						<poster>http://www.filmaps.com/posters/0908142846000000</poster>
+    						<locations><location>
+    											<place>durango,  Durango</place>
+    										<scene>sets utilizado en la filmacion</scene>
+        									<coordinates>-105.358,23.7822</coordinates>
+        									</location><location>
+    											<place>EL SALTO, DURANGO</place>
+    										<scene>SET UTILIZADO PARA LA PELICULA</scene>
+        									<coordinates>-105.361,23.7828</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Conan the Barbarian 2011</title>
+    						<poster>http://www.filmaps.com/posters/1105284819000000</poster>
+    						<locations><location>
+    											<place>El Salto Durango Mexico</place>
+    										<scene> him kill Conan. Once inside the fortress. Conan</scene>
+        									<coordinates>-105.358,23.782</coordinates>
+        									</location></locations>
+						</movie></Document>

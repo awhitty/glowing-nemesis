@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lara Croft Tomb Raider</title>
+    						<poster>http://www.filmaps.com/posters/0901103544000000</poster>
+    						<locations><location>
+    											<place>Angkor Wat, Siem Reap, Cambodia</place>
+    										<scene>Visit the Angkor Thom during their trip to Cambodia to recover a piece of the Triangle of Light</scene>
+        									<coordinates>103.866,13.4137</coordinates>
+        									</location></locations>
+						</movie></Document>

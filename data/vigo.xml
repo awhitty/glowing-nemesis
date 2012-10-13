@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>7 mesas de billar francés</title>
+    						<poster>http://www.filmaps.com/posters/0911260050000000</poster>
+    						<locations><location>
+    											<place>Peinador, Vigo</place>
+    										<scene>la llegada al Aeropuerto</scene>
+        									<coordinates>-8.63243,42.2261</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Heroína</title>
+    						<poster>http://www.filmaps.com/posters/0911265743000000</poster>
+    						<locations><location>
+    											<place>Luís Taboada, Vigo</place>
+    										<scene>Basada en la historia real de Carmen Avendaño</scene>
+        									<coordinates>-8.72276,42.2398</coordinates>
+        									</location></locations>
+						</movie></Document>

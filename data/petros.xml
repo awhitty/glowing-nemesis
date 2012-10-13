@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>October Sky</title>
+    						<poster>http://www.filmaps.com/posters/1103301946000000</poster>
+    						<locations><location>
+    											<place>Petros Tennessee</place>
+    										<scene>Location of the Coal Mine. The coal mine was a set built for the movie.</scene>
+        									<coordinates>-84.4449,36.0949</coordinates>
+        									</location><location>
+    											<place>Petros, Tennessee</place>
+    										<scene>Homer Hickam's house in the movie</scene>
+        									<coordinates>-84.4429,36.0955</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>October Sky</title>
+    						<poster>http://www.filmaps.com/posters/1103301946000000</poster>
+    						<locations><location>
+    											<place>Petros Tennessee</place>
+    										<scene>Location of the Coal Mine. The coal mine was a set built for the movie.</scene>
+        									<coordinates>-84.4449,36.0949</coordinates>
+        									</location><location>
+    											<place>Petros, Tennessee</place>
+    										<scene>Homer Hickam's house in the movie</scene>
+        									<coordinates>-84.4429,36.0955</coordinates>
+        									</location></locations>
+						</movie></Document>

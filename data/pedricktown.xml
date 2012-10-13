@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the village</title>
+    						<poster>http://www.filmaps.com/posters/0908311248000000</poster>
+    						<locations><location>
+    											<place>Pedricktown, New Jersey, USA</place>
+    										<scene></scene>
+        									<coordinates>-75.4145,39.7672</coordinates>
+        									</location></locations>
+						</movie></Document>

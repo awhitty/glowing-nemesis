@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Volver a empezar</title>
+    						<poster>http://www.filmaps.com/posters/0910024505000000</poster>
+    						<locations><location>
+    											<place>Pola de Lena, Asturias</place>
+    										<scene></scene>
+        									<coordinates>-5.82889,43.1585</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>el abuelo</title>
+    						<poster>http://www.filmaps.com/posters/0908044017000000</poster>
+    						<locations><location>
+    											<place>Pola de Lena, Asturias</place>
+    										<scene></scene>
+        									<coordinates>-5.83005,43.1593</coordinates>
+        									</location></locations>
+						</movie></Document>

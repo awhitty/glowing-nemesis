@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>la pasion turca</title>
+    						<poster>http://www.filmaps.com/posters/0911123316000000</poster>
+    						<locations><location>
+    											<place>Ávila, Castilla y León, España</place>
+    										<scene></scene>
+        									<coordinates>-4.69701,40.6578</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kingdom of Heaven</title>
+    						<poster>http://www.filmaps.com/posters/0901201241000000</poster>
+    						<locations><location>
+    											<place>Catedral, Ávila</place>
+    										<scene>Ceremonia de coronación y una escena de una derrota cristiana</scene>
+        									<coordinates>-4.69698,40.6554</coordinates>
+        									</location></locations>
+						</movie></Document>

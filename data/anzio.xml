@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Cleopatra</title>
+    						<poster>http://www.filmaps.com/posters/0901155733000000</poster>
+    						<locations><location>
+    											<place>Anzio, Rome</place>
+    										<scene></scene>
+        									<coordinates>12.6294,41.4482</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>BEN-HUR</title>
+    						<poster>http://www.filmaps.com/posters/0901160103000000</poster>
+    						<locations><location>
+    											<place>Anzio, Rome</place>
+    										<scene></scene>
+        									<coordinates>12.6292,41.4478</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Talented Mr. Ripley</title>
+    						<poster>http://www.filmaps.com/posters/0901242857000000</poster>
+    						<locations><location>
+    											<place>Anzio, Italy</place>
+    										<scene>Ripley at the San Remo jazz festival</scene>
+        									<coordinates>12.6288,41.4482</coordinates>
+        									</location></locations>
+						</movie></Document>

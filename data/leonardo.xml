@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>chasing amy</title>
+    						<poster>http://www.filmaps.com/posters/0902052231000000</poster>
+    						<locations><location>
+    											<place>58 Leonard Ave., Leonardo, Middletown Township</place>
+    										<scene>A loudmouth spills the beans on Alyssa's sexual peccadilloes in front of the store Smith immortalized in his 1994 film, "Clerks"</scene>
+        									<coordinates>-74.0565,40.4189</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>clerks</title>
+    						<poster>http://www.filmaps.com/posters/0904063542000000</poster>
+    						<locations><location>
+    											<place>60 N Leonard Ave., Leonardo, NJ</place>
+    										<scene>Quick Stop</scene>
+        									<coordinates>-74.0574,40.4153</coordinates>
+        									</location></locations>
+						</movie></Document>

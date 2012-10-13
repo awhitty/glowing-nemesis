@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Perfume: The Story of a Murderer</title>
+    						<poster>http://www.filmaps.com/posters/0901072220000000</poster>
+    						<locations><location>
+    											<place>Girona</place>
+    										<scene></scene>
+        									<coordinates>2.82539,41.9852</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Manolito gafotas</title>
+    						<poster>http://www.filmaps.com/posters/0904024455000000</poster>
+    						<locations><location>
+    											<place>Girona, Catalunya</place>
+    										<scene></scene>
+        									<coordinates>2.82395,41.9813</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pandora and The Flying Dutchman</title>
+    						<poster>http://www.filmaps.com/posters/0903254556000000</poster>
+    						<locations><location>
+    											<place>Girona</place>
+    										<scene></scene>
+        									<coordinates>2.82321,41.9819</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>soldados de salamina</title>
+    						<poster>http://www.filmaps.com/posters/0909265431000000</poster>
+    						<locations><location>
+    											<place>girona</place>
+    										<scene></scene>
+        									<coordinates>2.82379,41.9817</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Tres dies amb la família (Tres días con la familia)</title>
+    						<poster>http://www.filmaps.com/posters/0908135800000000</poster>
+    						<locations><location>
+    											<place>Girona, Catalunya</place>
+    										<scene>trf</scene>
+        									<coordinates>2.82309,41.9822</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>el perfume</title>
+    						<poster>http://www.filmaps.com/posters/0901072220000000</poster>
+    						<locations><location>
+    											<place>Catedral Girona</place>
+    										<scene>al final de la pelicula, la chica peliroja se enfada con su padre en una fiesta, en ese momento sale corriendo por las calles que rodean la catedral</scene>
+        									<coordinates>2.82506,41.9876</coordinates>
+        									</location><location>
+    											<place>Escales del la pujada de Sant Domènec, Girona</place>
+    										<scene>Quan, Jean-Baptiste Grenouille, arriba a la que en teoria és la ciutat de Grasse, on espera la prostituta que posteriorment assasinarà</scene>
+        									<coordinates>2.82627,41.9856</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>el perfume</title>
+    						<poster>http://www.filmaps.com/posters/0901072220000000</poster>
+    						<locations><location>
+    											<place>Catedral Girona</place>
+    										<scene>al final de la pelicula, la chica peliroja se enfada con su padre en una fiesta, en ese momento sale corriendo por las calles que rodean la catedral</scene>
+        									<coordinates>2.82506,41.9876</coordinates>
+        									</location><location>
+    											<place>Escales del la pujada de Sant Domènec, Girona</place>
+    										<scene>Quan, Jean-Baptiste Grenouille, arriba a la que en teoria és la ciutat de Grasse, on espera la prostituta que posteriorment assasinarà</scene>
+        									<coordinates>2.82627,41.9856</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mi general</title>
+    						<poster>http://www.filmaps.com/posters/1003074656000000</poster>
+    						<locations><location>
+    											<place>Girona, España</place>
+    										<scene></scene>
+        									<coordinates>2.81793,41.9861</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Agnosia</title>
+    						<poster>http://www.filmaps.com/posters/1011063703000000</poster>
+    						<locations><location>
+    											<place>Catedral de Girona, Girona</place>
+    										<scene>Eduardo Noriega y Bárbara Goenaga bajan las escaleras saliendo de la Misa del Gallo</scene>
+        									<coordinates>2.82542,41.9873</coordinates>
+        									</location></locations>
+						</movie></Document>

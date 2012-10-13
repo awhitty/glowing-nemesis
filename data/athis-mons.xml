@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Truands</title>
+    						<poster>http://www.filmaps.com/posters/1102184752000000</poster>
+    						<locations><location>
+    											<place>Athis-Mons</place>
+    										<scene>Shooting scene, on a parking.</scene>
+        									<coordinates>2.3718,48.7136</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Rire et chatiment</title>
+    						<poster>http://www.filmaps.com/posters/1102185448000000</poster>
+    						<locations><location>
+    											<place>Athis-Mons</place>
+    										<scene>At the swimming pool</scene>
+        									<coordinates>2.36835,48.7156</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Le grand bazar</title>
+    						<poster>http://www.filmaps.com/posters/1102185920000000</poster>
+    						<locations><location>
+    											<place>Athis-Mons</place>
+    										<scene>In the supermarket.</scene>
+        									<coordinates>2.37348,48.7116</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Lignes de front</title>
+    						<poster>http://www.filmaps.com/posters/1102180217000000</poster>
+    						<locations><location>
+    											<place>Athis-Mons</place>
+    										<scene>United Nations Headquarters scenes</scene>
+        									<coordinates>2.39088,48.6947</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Le Mioche</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Athis-Mons</place>
+    										<scene>The entire film was shot here.</scene>
+        									<coordinates>2.39152,48.7096</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Le Président</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Athis-Mons</place>
+    										<scene>In the plane</scene>
+        									<coordinates>2.37187,48.7165</coordinates>
+        									</location></locations>
+						</movie></Document>

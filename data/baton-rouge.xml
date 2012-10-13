@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>ray</title>
+    						<poster>http://www.filmaps.com/posters/0903010815000000</poster>
+    						<locations><location>
+    											<place>Baton Rouge, Louisiana</place>
+    										<scene></scene>
+        									<coordinates>-91.1296,30.4679</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sex, Lies, and Videotape</title>
+    						<poster>http://www.filmaps.com/posters/0912305232000000</poster>
+    						<locations><location>
+    											<place>Baton Rouge, Louisiana, USA</place>
+    										<scene></scene>
+        									<coordinates>-91.1548,30.451</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Down by law</title>
+    						<poster>http://www.filmaps.com/posters/0901153702000000</poster>
+    						<locations><location>
+    											<place>Baton Rouge, Louisiana, USA</place>
+    										<scene></scene>
+        									<coordinates>-91.1388,30.4567</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Car Jacked (Secuestro express)</title>
+    						<poster>http://www.filmaps.com/posters/1201104413000000.jpg</poster>
+    						<locations><location>
+    											<place>Baton Rouge Lousiana EEUU</place>
+    										<scene>.</scene>
+        									<coordinates>-91.1404,30.4583</coordinates>
+        									</location></locations>
+						</movie></Document>

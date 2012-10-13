@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Indiana Jones and the Temple of Doom</title>
+    						<poster>http://www.filmaps.com/posters/1009155517000000</poster>
+    						<locations><location>
+    											<place>Kandy, Sri Lanka</place>
+    										<scene>Mayapore Village</scene>
+        									<coordinates>80.6387,7.29671</coordinates>
+        									</location></locations>
+						</movie></Document>

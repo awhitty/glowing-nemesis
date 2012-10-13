@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Alice et Martin</title>
+    						<poster>http://www.filmaps.com/posters/0901271720000000</poster>
+    						<locations><location>
+    											<place>Granada</place>
+    										<scene>Juliette Binoche in the Alhambra</scene>
+        									<coordinates>-3.59793,37.1765</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Días contados</title>
+    						<poster>http://www.filmaps.com/posters/0909272604000000</poster>
+    						<locations><location>
+    											<place>Granada, España</place>
+    										<scene></scene>
+        									<coordinates>-3.59837,37.1751</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Lorca Muerte de un poeta</title>
+    						<poster>http://www.filmaps.com/posters/1002071945000000</poster>
+    						<locations><location>
+    											<place>Granada</place>
+    										<scene>Gran parte de la película está rodada en diversos escenarios de la ciudad donde vició este poeta.</scene>
+        									<coordinates>-3.59766,37.1768</coordinates>
+        									</location></locations>
+						</movie></Document>

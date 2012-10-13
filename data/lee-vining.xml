@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>High Plains Drifter</title>
+    						<poster>http://www.filmaps.com/posters/0901272208000000</poster>
+    						<locations><location>
+    											<place>Mono Lake, California</place>
+    										<scene></scene>
+        									<coordinates>-119.041,37.9455</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Entrapment</title>
+    						<poster>http://www.filmaps.com/posters/0901255432000000</poster>
+    						<locations><location>
+    											<place>Petronas Twin Towers, Kuala Lumpur</place>
+    										<scene>bigger job in International Clearance Bank</scene>
+        									<coordinates>101.712,3.15786</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Humraaz</title>
+    						<poster>http://www.filmaps.com/posters/0901253018000000</poster>
+    						<locations><location>
+    											<place>Petronas Twin Towers, Kuala Lumpur</place>
+    										<scene></scene>
+        									<coordinates>101.712,3.15812</coordinates>
+        									</location></locations>
+						</movie></Document>

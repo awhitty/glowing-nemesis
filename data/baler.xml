@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>apocalypse now</title>
+    						<poster>http://www.filmaps.com/posters/0903284819000000</poster>
+    						<locations><location>
+    											<place>Baler, Aurora, Luzon, Philippines</place>
+    										<scene>Helicopter attack on village</scene>
+        									<coordinates>121.568,15.7602</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Another Hearth</title>
+    						<poster>http://www.filmaps.com/posters/1112132458000000.jpg</poster>
+    						<locations><location>
+    											<place>west haven high school</place>
+    										<scene>Instituto dónde trabaja la chica.</scene>
+        									<coordinates>-72.9584,41.2599</coordinates>
+        									</location><location>
+    											<place>319 Beach Street, West Haven, Connecticut, Estados Unidos</place>
+    										<scene>Dónde está la pasarela a la playa</scene>
+        									<coordinates>-72.94,41.2588</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Another Hearth</title>
+    						<poster>http://www.filmaps.com/posters/1112132458000000.jpg</poster>
+    						<locations><location>
+    											<place>west haven high school</place>
+    										<scene>Instituto dónde trabaja la chica.</scene>
+        									<coordinates>-72.9584,41.2599</coordinates>
+        									</location><location>
+    											<place>319 Beach Street, West Haven, Connecticut, Estados Unidos</place>
+    										<scene>Dónde está la pasarela a la playa</scene>
+        									<coordinates>-72.94,41.2588</coordinates>
+        									</location></locations>
+						</movie></Document>

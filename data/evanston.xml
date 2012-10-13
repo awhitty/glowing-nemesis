@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Home Alone</title>
+    						<poster>http://www.filmaps.com/posters/0901081136000000</poster>
+    						<locations><location>
+    											<place>2417 Prairie Avenue, Evanston, Illinois, USA</place>
+    										<scene>Christmas choir scene (Haven Middle School)</scene>
+        									<coordinates>-87.6982,42.0613</coordinates>
+        									</location></locations>
+						</movie></Document>

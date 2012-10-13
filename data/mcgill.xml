@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>My Blueberry Nights</title>
+    						<poster>http://www.filmaps.com/posters/0901172327000000</poster>
+    						<locations><location>
+    											<place>McGill, Nevada, USA</place>
+    										<scene>Nevada scenes near McGill</scene>
+        									<coordinates>-114.809,39.57</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sherlock Holmes: A Game of Shadows</title>
+    						<poster>http://www.filmaps.com/posters/1201092209000000.jpg</poster>
+    						<locations><location>
+    											<place>Place de la Cathédrale, Strasbourg, Bas-Rhin, France</place>
+    										<scene>opening scene</scene>
+        									<coordinates>7.75003,48.5818</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>julia</title>
+    						<poster>http://www.filmaps.com/posters/0904305907000000</poster>
+    						<locations><location>
+    											<place>Gare Centrale, Strasbourg, Bas-Rhin, France</place>
+    										<scene>Central Station represent Berlin's station</scene>
+        									<coordinates>7.73509,48.5848</coordinates>
+        									</location></locations>
+						</movie></Document>

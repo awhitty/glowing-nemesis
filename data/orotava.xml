@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Planet of the Apes</title>
+    						<poster>http://www.filmaps.com/posters/0902082603000000</poster>
+    						<locations><location>
+    											<place>Teide,Tenerife</place>
+    										<scene></scene>
+        									<coordinates>-16.629,28.2915</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hace un millón de años</title>
+    						<poster>http://www.filmaps.com/posters/0903161018000000</poster>
+    						<locations><location>
+    											<place>Parque Nacional del Teide, Tenerife</place>
+    										<scene></scene>
+        									<coordinates>-16.6258,28.2243</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Furia de Titanes</title>
+    						<poster>http://www.filmaps.com/posters/1004083049000000</poster>
+    						<locations><location>
+    											<place>El Teide</place>
+    										<scene></scene>
+        									<coordinates>-16.6331,28.2664</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Intacto</title>
+    						<poster>http://www.filmaps.com/posters/1004245719000000</poster>
+    						<locations><location>
+    											<place>Parque Nacional del Teide, Santa Cruz de Tenerife, Spain</place>
+    										<scene>Toma aérea del casino</scene>
+        									<coordinates>-16.626,28.2244</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>intacto</title>
+    						<poster>http://www.filmaps.com/posters/1004170108000000</poster>
+    						<locations><location>
+    											<place>las cañadas, tenerife</place>
+    										<scene></scene>
+        									<coordinates>-16.6274,28.2245</coordinates>
+        									</location></locations>
+						</movie></Document>

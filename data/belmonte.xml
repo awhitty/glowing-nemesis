@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Cid</title>
+    						<poster>http://www.filmaps.com/posters/0902145108000000</poster>
+    						<locations><location>
+    											<place>Belmonte, Cuenca, España</place>
+    										<scene>en aquel peñasco se subió Charlton Heston para despedirse de Jimena</scene>
+        									<coordinates>-2.70742,39.5598</coordinates>
+        									</location></locations>
+						</movie></Document>

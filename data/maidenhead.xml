@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 From Russia with Love</title>
+    						<poster>http://www.filmaps.com/posters/0901092222000000</poster>
+    						<locations><location>
+    											<place>Hurley, Berkshire, England, UK</place>
+    										<scene>James Bond have picnic near the river with Sylvia Trench</scene>
+        									<coordinates>-0.810327,51.5466</coordinates>
+        									</location></locations>
+						</movie></Document>

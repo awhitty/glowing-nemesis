@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The O.C.</title>
+    						<poster>http://www.filmaps.com/posters/0907135016000000</poster>
+    						<locations><location>
+    											<place>Redondo Beach Pier</place>
+    										<scene>The Pier Diner.</scene>
+        									<coordinates>-118.392,33.8388</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>dexter</title>
+    						<poster>http://www.filmaps.com/posters/0904203005000000</poster>
+    						<locations><location>
+    											<place>Redondo Beach, California.</place>
+    										<scene>Arcade from Dexter in Season Four</scene>
+        									<coordinates>-118.388,33.8491</coordinates>
+        									</location></locations>
+						</movie></Document>

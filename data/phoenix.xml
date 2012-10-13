@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Kingdom</title>
+    						<poster>http://www.filmaps.com/posters/0903114006000000</poster>
+    						<locations><location>
+    											<place>Phoenix, Arizona, USA</place>
+    										<scene>Road scenes</scene>
+        									<coordinates>-112.074,33.4471</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Psycho</title>
+    						<poster>http://www.filmaps.com/posters/0912152216000000</poster>
+    						<locations><location>
+    											<place>Jefferson Hotel, 109 S. Central, Phoenix, Arizona, USA</place>
+    										<scene>cheap hotel room</scene>
+        									<coordinates>-112.074,33.4464</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>pink flamingos</title>
+    						<poster>http://www.filmaps.com/posters/1004295937000000</poster>
+    						<locations><location>
+    											<place>maryland, phoenix</place>
+    										<scene></scene>
+        									<coordinates>-76.616,39.5165</coordinates>
+        									</location></locations>
+						</movie></Document>

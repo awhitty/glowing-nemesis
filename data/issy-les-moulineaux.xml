@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Cliente</title>
+    						<poster>http://www.filmaps.com/posters/0909162509000000</poster>
+    						<locations><location>
+    											<place>Salon de coiffure, Issy-les-Moulineaux, Hauts-de-Seine, France </place>
+    										<scene>scènes se déroulant dans le salon de coiffure de Fanny</scene>
+        									<coordinates>2.27361,48.8229</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lucky Numbers</title>
+    						<poster>http://www.filmaps.com/posters/0903040818000000</poster>
+    						<locations><location>
+    											<place>Penn Township, Lancaster County</place>
+    										<scene></scene>
+        									<coordinates>-76.1077,40.0043</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>leaving las vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001105129000000</poster>
+    						<locations><location>
+    											<place>3555 Las Vegas Boulevard South, Las Vegas, Nevada, USA</place>
+    										<scene>Ben runs into Sera at traffic lights (Flamingo Hotel)</scene>
+        									<coordinates>-115.173,36.1162</coordinates>
+        									</location><location>
+    											<place>Mirage Hotel, Las Vegas, Nevada, USA</place>
+    										<scene>Cab hail at waterfall by Sera</scene>
+        									<coordinates>-115.175,36.1209</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>leaving las vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001105129000000</poster>
+    						<locations><location>
+    											<place>3555 Las Vegas Boulevard South, Las Vegas, Nevada, USA</place>
+    										<scene>Ben runs into Sera at traffic lights (Flamingo Hotel)</scene>
+        									<coordinates>-115.173,36.1162</coordinates>
+        									</location><location>
+    											<place>Mirage Hotel, Las Vegas, Nevada, USA</place>
+    										<scene>Cab hail at waterfall by Sera</scene>
+        									<coordinates>-115.175,36.1209</coordinates>
+        									</location></locations>
+						</movie></Document>

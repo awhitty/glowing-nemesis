@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the fog</title>
+    						<poster>http://www.filmaps.com/posters/0904035846000000</poster>
+    						<locations><location>
+    											<place>drakes bay</place>
+    										<scene>the place where andrew find the piece of driftwood</scene>
+        									<coordinates>-122.955,38.0141</coordinates>
+        									</location></locations>
+						</movie></Document>

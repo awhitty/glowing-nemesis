@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Invention of Lying</title>
+    						<poster>http://www.filmaps.com/posters/0910244625000000</poster>
+    						<locations><location>
+    											<place>Martha Steward Chapel Sudbury, MA</place>
+    										<scene>End of movie wedding scene</scene>
+        									<coordinates>-71.4166,42.3834</coordinates>
+        									</location><location>
+    											<place>Martha Mary Chapel Sudbury, MA</place>
+    										<scene>wedding scene</scene>
+        									<coordinates>-71.4166,42.3834</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Invention of Lying</title>
+    						<poster>http://www.filmaps.com/posters/0910244625000000</poster>
+    						<locations><location>
+    											<place>Martha Steward Chapel Sudbury, MA</place>
+    										<scene>End of movie wedding scene</scene>
+        									<coordinates>-71.4166,42.3834</coordinates>
+        									</location><location>
+    											<place>Martha Mary Chapel Sudbury, MA</place>
+    										<scene>wedding scene</scene>
+        									<coordinates>-71.4166,42.3834</coordinates>
+        									</location></locations>
+						</movie></Document>

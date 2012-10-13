@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Perfume: The Story of a Murderer</title>
+    						<poster>http://www.filmaps.com/posters/0901072220000000</poster>
+    						<locations><location>
+    											<place>Palamós</place>
+    										<scene>Quan s'amaga en el Castell. (El castell és fictici).</scene>
+        									<coordinates>3.15842,41.8614</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pandora and The Flying Dutchman</title>
+    						<poster>http://www.filmaps.com/posters/0903254556000000</poster>
+    						<locations><location>
+    											<place>Palamós, Girona</place>
+    										<scene></scene>
+        									<coordinates>3.12662,41.8471</coordinates>
+        									</location></locations>
+						</movie></Document>

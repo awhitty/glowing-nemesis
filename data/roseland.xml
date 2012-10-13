@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>garden state</title>
+    						<poster>http://www.filmaps.com/posters/0911190004000000</poster>
+    						<locations><location>
+    											<place>57 Eisenhower Pkwy, Roseland, NJ</place>
+    										<scene>Zach Braff and Natalie Portman outside medical center</scene>
+        									<coordinates>-74.3264,40.8224</coordinates>
+        									</location></locations>
+						</movie></Document>

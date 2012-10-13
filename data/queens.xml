@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>goodfellas</title>
+    						<poster>http://www.filmaps.com/posters/0907240224000000</poster>
+    						<locations><location>
+    											<place>Babbage Street, Richmond Hill, Queens, New York City, New York</place>
+    										<scene>where 2 bodies found in the pink cadillac</scene>
+        									<coordinates>-73.834,40.7013</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Rabbit Hole</title>
+    						<poster>http://www.filmaps.com/posters/1101023922000000</poster>
+    						<locations><location>
+    											<place>Queens, New York City, New York, USA </place>
+    										<scene></scene>
+        									<coordinates>-73.8049,40.7532</coordinates>
+        									</location></locations>
+						</movie></Document>

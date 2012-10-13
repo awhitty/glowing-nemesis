@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Deaths of Ian Stone</title>
+    						<poster>http://www.filmaps.com/posters/0906233953000000</poster>
+    						<locations><location>
+    											<place>Isle of Man, UK</place>
+    										<scene></scene>
+        									<coordinates>-4.39178,54.3061</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Disappearance of Alice Creed</title>
+    						<poster>http://www.filmaps.com/posters/1011142024000000</poster>
+    						<locations><location>
+    											<place>Ramsey, Isle of Man</place>
+    										<scene></scene>
+        									<coordinates>-4.39024,54.3246</coordinates>
+        									</location></locations>
+						</movie></Document>

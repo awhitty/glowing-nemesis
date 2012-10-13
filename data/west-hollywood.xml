@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lethal Weapon</title>
+    						<poster>http://www.filmaps.com/posters/0901201555000000</poster>
+    						<locations><location>
+    											<place>8431 Santa Monica Blvd., West Hollywood</place>
+    										<scene>Martin jumps from building with suicide attempter</scene>
+        									<coordinates>-118.374,34.091</coordinates>
+        									</location></locations>
+						</movie></Document>

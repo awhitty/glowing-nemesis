@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Brideshead Revisited</title>
+    						<poster>http://www.filmaps.com/posters/0910132943000000</poster>
+    						<locations><location>
+    											<place>Tatton Park, Knutsford, Cheshire, England, UK</place>
+    										<scene>interiors of Brideshead Castle and Marchmain House</scene>
+        									<coordinates>-2.3842,53.3304</coordinates>
+        									</location></locations>
+						</movie></Document>

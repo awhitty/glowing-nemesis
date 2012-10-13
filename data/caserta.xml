@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>star wars - episode II</title>
+    						<poster>http://www.filmaps.com/posters/0901070814000000</poster>
+    						<locations><location>
+    											<place>caserta</place>
+    										<scene>Palacio Reale</scene>
+        									<coordinates>14.3322,41.0754</coordinates>
+        									</location><location>
+    											<place>Palazzo Reale di Caserta, italia</place>
+    										<scene>The Naboo palace</scene>
+        									<coordinates>14.3274,41.0738</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>star wars - episode II</title>
+    						<poster>http://www.filmaps.com/posters/0901070814000000</poster>
+    						<locations><location>
+    											<place>caserta</place>
+    										<scene>Palacio Reale</scene>
+        									<coordinates>14.3322,41.0754</coordinates>
+        									</location><location>
+    											<place>Palazzo Reale di Caserta, italia</place>
+    										<scene>The Naboo palace</scene>
+        									<coordinates>14.3274,41.0738</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Star Wars - Episode I - The Phantom Menace</title>
+    						<poster>http://www.filmaps.com/posters/0901241911000000</poster>
+    						<locations><location>
+    											<place>Royal Palace, Caserta</place>
+    										<scene>Naboo Royal Palace</scene>
+        									<coordinates>14.3271,41.073</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Angels and Demons</title>
+    						<poster>http://www.filmaps.com/posters/0905184031000000</poster>
+    						<locations><location>
+    											<place>Royal Palace, Caserta, Campania, Italy</place>
+    										<scene></scene>
+        									<coordinates>14.3268,41.0733</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mission Impossible III</title>
+    						<poster>http://www.filmaps.com/posters/0905302927000000</poster>
+    						<locations><location>
+    											<place>Royal Palace, Caserta, Campania, Italy</place>
+    										<scene></scene>
+        									<coordinates>14.3267,41.0738</coordinates>
+        									</location></locations>
+						</movie></Document>

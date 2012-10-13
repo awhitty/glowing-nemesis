@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gandhi</title>
+    						<poster>http://www.filmaps.com/posters/1106082332000000</poster>
+    						<locations><location>
+    											<place>Patna, Bihar, India</place>
+    										<scene>Champaran farming riots</scene>
+        									<coordinates>85.1283,25.6126</coordinates>
+        									</location></locations>
+						</movie></Document>

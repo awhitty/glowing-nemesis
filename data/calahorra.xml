@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Cid</title>
+    						<poster>http://www.filmaps.com/posters/0902145108000000</poster>
+    						<locations><location>
+    											<place>Calahorra, españa</place>
+    										<scene></scene>
+        									<coordinates>-1.96505,42.3037</coordinates>
+        									</location></locations>
+						</movie></Document>

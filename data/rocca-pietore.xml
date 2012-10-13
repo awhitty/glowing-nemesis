@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Italian Job</title>
+    						<poster>http://www.filmaps.com/posters/0901194335000000</poster>
+    						<locations><location>
+    											<place>Passo Fedaia</place>
+    										<scene>Donald Sutherland is drowned and shot at the Lago Fedaia Dam</scene>
+        									<coordinates>11.8889,46.4535</coordinates>
+        									</location></locations>
+						</movie></Document>

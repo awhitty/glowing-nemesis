@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The World is Not Enough (007)</title>
+    						<poster>http://www.filmaps.com/posters/0911292937000000</poster>
+    						<locations><location>
+    											<place>Iparraguirre, Bilbao, Basque Country</place>
+    										<scene></scene>
+        									<coordinates>-2.93653,43.2688</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Lobo (2004)</title>
+    						<poster>http://www.filmaps.com/posters/0909272924000000</poster>
+    						<locations><location>
+    											<place>Bilbo, Euskadi</place>
+    										<scene></scene>
+        									<coordinates>-2.92344,43.256</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The World is Not Enough (007)</title>
+    						<poster>http://www.filmaps.com/posters/1002025148000000</poster>
+    						<locations><location>
+    											<place>Guggenheim, Bilbao</place>
+    										<scene>Pierce Brosnan huyendo de la policía vasca</scene>
+        									<coordinates>-2.93208,43.2693</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Derechos y deberes de la infancia y la adolescencia</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Artebi</place>
+    										<scene>Todas las escenas de la pelicula</scene>
+        									<coordinates>-2.94953,43.2688</coordinates>
+        									</location></locations>
+						</movie></Document>

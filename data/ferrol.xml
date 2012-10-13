@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Todo sobre mi madre</title>
+    						<poster>http://www.filmaps.com/posters/0901214355000000</poster>
+    						<locations><location>
+    											<place>Playa de Santa Comba, el Ferrol Galicia</place>
+    										<scene></scene>
+        									<coordinates>-8.29632,43.5564</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La muerte y la doncella</title>
+    						<poster>http://www.filmaps.com/posters/0909145032000000</poster>
+    						<locations><location>
+    											<place>Meirás, Ferrol, A Coruña, Galicia, Spain</place>
+    										<scene></scene>
+        									<coordinates>-8.22278,43.4883</coordinates>
+        									</location></locations>
+						</movie></Document>

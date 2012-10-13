@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bienvenue chez les Ch'tis</title>
+    						<poster>http://www.filmaps.com/posters/0901093021000000</poster>
+    						<locations><location>
+    											<place>Bergues, france</place>
+    										<scene>Many scenes of this excelent french film</scene>
+        									<coordinates>3.70571,50.0333</coordinates>
+        									</location></locations>
+						</movie></Document>

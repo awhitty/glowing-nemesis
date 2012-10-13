@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bridget Jones diary</title>
+    						<poster>http://www.filmaps.com/posters/0901080159000000</poster>
+    						<locations><location>
+    											<place>Liverpool Street Station, London</place>
+    										<scene></scene>
+        									<coordinates>-0.0829657,51.5174</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>shakespeare in love</title>
+    						<poster>http://www.filmaps.com/posters/0901134946000000</poster>
+    						<locations><location>
+    											<place>Smithfield, Holborn, London</place>
+    										<scene>St. Bartholomew the Great</scene>
+        									<coordinates>-0.103662,51.518</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>Leadenhall Market, london</place>
+    										<scene>Leadenhall Market - The Leaky Cauldron</scene>
+        									<coordinates>-0.0840997,51.5129</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Lawrence of Arabia</title>
+    						<poster>http://www.filmaps.com/posters/0901132817000000</poster>
+    						<locations><location>
+    											<place>Saint Paul's Cathedral</place>
+    										<scene>T.E. Lawrence's funeral</scene>
+        									<coordinates>-0.0995151,51.5137</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the elephant man</title>
+    						<poster>http://www.filmaps.com/posters/0904253739000000</poster>
+    						<locations><location>
+    											<place>liverpool street station, london</place>
+    										<scene>where Merrick arrives back in London after his escape</scene>
+        									<coordinates>-0.0830412,51.5175</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Deaths of Ian Stone</title>
+    						<poster>http://www.filmaps.com/posters/0906233953000000</poster>
+    						<locations><location>
+    											<place>Battersea Park, Battersea, London, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.148232,51.478</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Robin Hood: Prince of Thieves</title>
+    						<poster>http://www.filmaps.com/posters/0911040301000000</poster>
+    						<locations><location>
+    											<place>Church of St Bartholomew the Great, West Smithfield, City of London</place>
+    										<scene>Interiors of Nottingham Cathedral</scene>
+        									<coordinates>-0.0997004,51.5189</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>closer</title>
+    						<poster>http://www.filmaps.com/posters/0901161903000000</poster>
+    						<locations><location>
+    											<place>postman's park</place>
+    										<scene>Postman's Park</scene>
+        									<coordinates>-0.0975761,51.5167</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Basic Instinct 2</title>
+    						<poster>http://www.filmaps.com/posters/0911101355000000</poster>
+    						<locations><location>
+    											<place>30 St Mary Axe, London</place>
+    										<scene>Office of David Morrissey - Michael Glass</scene>
+        									<coordinates>-0.080832,51.5146</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock Holmes (2009)</title>
+    						<poster>http://www.filmaps.com/posters/0912102325000000</poster>
+    						<locations><location>
+    											<place>St. Paul's Cathedral, Ludgate Hill, London, UK</place>
+    										<scene>Near catherdral</scene>
+        									<coordinates>-0.0998211,51.5137</coordinates>
+        									</location><location>
+    											<place>College of arms, London, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.0987522,51.5121</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock Holmes (2009)</title>
+    						<poster>http://www.filmaps.com/posters/0912102325000000</poster>
+    						<locations><location>
+    											<place>St. Paul's Cathedral, Ludgate Hill, London, UK</place>
+    										<scene>Near catherdral</scene>
+        									<coordinates>-0.0998211,51.5137</coordinates>
+        									</location><location>
+    											<place>College of arms, London, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.0987522,51.5121</coordinates>
+        									</location></locations>
+						</movie></Document>

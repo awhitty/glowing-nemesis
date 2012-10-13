@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>To catch a thief</title>
+    						<poster>http://www.filmaps.com/posters/0911044959000000</poster>
+    						<locations><location>
+    											<place>Carlton hotel, Cannes, Alpes-Maritimes, France</place>
+    										<scene>Cary Grant and Grace Kelly on the beach of Carlton hotel in Cannes</scene>
+        									<coordinates>7.02689,43.5487</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>ronin</title>
+    						<poster>http://www.filmaps.com/posters/0908310349000000</poster>
+    						<locations><location>
+    											<place>Cannes, France</place>
+    										<scene>una escena</scene>
+        									<coordinates>7.01641,43.5521</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Femme Fatale</title>
+    						<poster>http://www.filmaps.com/posters/1111291751000000.jpg</poster>
+    						<locations><location>
+    											<place>Cannes</place>
+    										<scene>Cannes Film Festival palace</scene>
+        									<coordinates>7.01797,43.5511</coordinates>
+        									</location></locations>
+						</movie></Document>

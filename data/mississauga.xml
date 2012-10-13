@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>RED</title>
+    						<poster>http://www.filmaps.com/posters/1010243721000000</poster>
+    						<locations><location>
+    											<place>Mississauga, Ontario, Canada</place>
+    										<scene></scene>
+        									<coordinates>-79.6264,43.5486</coordinates>
+        									</location></locations>
+						</movie></Document>

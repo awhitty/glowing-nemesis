@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>O Pioneers!</title>
+    						<poster>http://www.filmaps.com/posters/0910052611000000</poster>
+    						<locations><location>
+    											<place>Johnstown, Nebraska</place>
+    										<scene></scene>
+        									<coordinates>-100.056,42.5706</coordinates>
+        									</location></locations>
+						</movie></Document>

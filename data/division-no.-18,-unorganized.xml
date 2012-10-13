@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hush</title>
+    						<poster>http://www.filmaps.com/posters/1001042942000000</poster>
+    						<locations><location>
+    											<place>b.c.canada</place>
+    										<scene>house</scene>
+        									<coordinates>-106.347,56.1302</coordinates>
+        									</location></locations>
+						</movie></Document>

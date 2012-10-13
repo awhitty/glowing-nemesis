@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The sound of music</title>
+    						<poster>http://www.filmaps.com/posters/0903240842000000</poster>
+    						<locations><location>
+    											<place>Obersalzberg, Bavaria, Germany</place>
+    										<scene>Mount Obersalzburg scenes</scene>
+        									<coordinates>13.033,47.6329</coordinates>
+        									</location></locations>
+						</movie></Document>

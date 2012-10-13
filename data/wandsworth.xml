@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Imaginarium of Dr Parnassus</title>
+    						<poster>http://www.filmaps.com/posters/0911100333000000</poster>
+    						<locations><location>
+    											<place>battersea power station</place>
+    										<scene></scene>
+        									<coordinates>-0.14324,51.4814</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Dark Knight</title>
+    						<poster>http://www.filmaps.com/posters/0901200012000000</poster>
+    						<locations><location>
+    											<place>Battersea Power Station</place>
+    										<scene>burnout warehouse, Rachel is tied to to chemical drums</scene>
+        									<coordinates>-0.143403,51.4818</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>i believe in you</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>battersea, london, </place>
+    										<scene></scene>
+        									<coordinates>-0.165545,51.472</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>clockwork orange</title>
+    						<poster>http://www.filmaps.com/posters/0911103823000000</poster>
+    						<locations><location>
+    											<place>Wandsworth Prison, Trinity Road, Wandsworth, London, England, UK</place>
+    										<scene>Parkmoor prison exterior</scene>
+        									<coordinates>-0.172645,51.4487</coordinates>
+        									</location></locations>
+						</movie></Document>

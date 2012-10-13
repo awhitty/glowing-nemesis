@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>My Blueberry Nights</title>
+    						<poster>http://www.filmaps.com/posters/0901172327000000</poster>
+    						<locations><location>
+    											<place>Ely, Nevada</place>
+    										<scene></scene>
+        									<coordinates>-114.882,39.2511</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The King's Speech</title>
+    						<poster>http://www.filmaps.com/posters/1102094956000000</poster>
+    						<locations><location>
+    											<place>Ely Cathedral, Ely, Cambridgeshire, UK</place>
+    										<scene></scene>
+        									<coordinates>0.262025,52.3985</coordinates>
+        									</location></locations>
+						</movie></Document>

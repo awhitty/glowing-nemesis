@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Adaptation</title>
+    						<poster>http://www.filmaps.com/posters/0907292436000000</poster>
+    						<locations><location>
+    											<place>Santa Barbara, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-119.692,34.4142</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sin compromiso (No Strings Attached)</title>
+    						<poster>http://www.filmaps.com/posters/1101255256000000</poster>
+    						<locations><location>
+    											<place>1260 Channel Dr, Santa Barbara, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-119.642,34.4167</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>It's complicated</title>
+    						<poster>http://www.filmaps.com/posters/1001074510000000</poster>
+    						<locations><location>
+    											<place>Casa Del Herrero, montecito, Santa Barbara, California</place>
+    										<scene>Jane's house, in the south of Santa Barbara</scene>
+        									<coordinates>-119.637,34.4359</coordinates>
+        									</location><location>
+    											<place>El Paseo, Santa Barbara, California, USA</place>
+    										<scene>Jane visita el Centro Medico aqui, situado en el Paseo de Santa Barbara</scene>
+        									<coordinates>-119.699,34.4206</coordinates>
+        									</location><location>
+    											<place>Anapamu Street and Anacapa, Santa Barbara, California, USA</place>
+    										<scene>The farmers market of Santa Barbara was filmed here</scene>
+        									<coordinates>-119.703,34.4244</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>It's complicated</title>
+    						<poster>http://www.filmaps.com/posters/1001074510000000</poster>
+    						<locations><location>
+    											<place>Casa Del Herrero, montecito, Santa Barbara, California</place>
+    										<scene>Jane's house, in the south of Santa Barbara</scene>
+        									<coordinates>-119.637,34.4359</coordinates>
+        									</location><location>
+    											<place>El Paseo, Santa Barbara, California, USA</place>
+    										<scene>Jane visita el Centro Medico aqui, situado en el Paseo de Santa Barbara</scene>
+        									<coordinates>-119.699,34.4206</coordinates>
+        									</location><location>
+    											<place>Anapamu Street and Anacapa, Santa Barbara, California, USA</place>
+    										<scene>The farmers market of Santa Barbara was filmed here</scene>
+        									<coordinates>-119.703,34.4244</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>It's complicated</title>
+    						<poster>http://www.filmaps.com/posters/1001074510000000</poster>
+    						<locations><location>
+    											<place>Casa Del Herrero, montecito, Santa Barbara, California</place>
+    										<scene>Jane's house, in the south of Santa Barbara</scene>
+        									<coordinates>-119.637,34.4359</coordinates>
+        									</location><location>
+    											<place>El Paseo, Santa Barbara, California, USA</place>
+    										<scene>Jane visita el Centro Medico aqui, situado en el Paseo de Santa Barbara</scene>
+        									<coordinates>-119.699,34.4206</coordinates>
+        									</location><location>
+    											<place>Anapamu Street and Anacapa, Santa Barbara, California, USA</place>
+    										<scene>The farmers market of Santa Barbara was filmed here</scene>
+        									<coordinates>-119.703,34.4244</coordinates>
+        									</location></locations>
+						</movie></Document>

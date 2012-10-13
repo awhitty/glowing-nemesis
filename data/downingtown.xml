@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the blob</title>
+    						<poster>http://www.filmaps.com/posters/0903175146000000</poster>
+    						<locations><location>
+    											<place>downingtown, pa</place>
+    										<scene>downingtown diner scene</scene>
+        									<coordinates>-75.7025,40.0065</coordinates>
+        									</location></locations>
+						</movie></Document>

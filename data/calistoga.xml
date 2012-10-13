@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Road</title>
+    						<poster>http://www.filmaps.com/posters/1003080112000000</poster>
+    						<locations><location>
+    											<place>mount st helen</place>
+    										<scene></scene>
+        									<coordinates>-122.634,38.6691</coordinates>
+        									</location></locations>
+						</movie></Document>

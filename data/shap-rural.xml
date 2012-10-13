@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Withnail & I</title>
+    						<poster>http://www.filmaps.com/posters/0910182326000000</poster>
+    						<locations><location>
+    											<place>Sleddale Hall, Shap, Cumbria, England, UK</place>
+    										<scene>Uncle Monty's Cottage</scene>
+        									<coordinates>-2.71135,54.4953</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Three Musketeers</title>
+    						<poster>http://www.filmaps.com/posters/0911030440000000</poster>
+    						<locations><location>
+    											<place>Hinterbrühl, Lower Austria, Austria</place>
+    										<scene></scene>
+        									<coordinates>16.2478,48.0869</coordinates>
+        									</location></locations>
+						</movie></Document>

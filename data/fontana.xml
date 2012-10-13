@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mission Impossible III</title>
+    						<poster>http://www.filmaps.com/posters/0905302927000000</poster>
+    						<locations><location>
+    											<place>Fontana, California, USA</place>
+    										<scene>Steel Mill</scene>
+        									<coordinates>-117.436,34.0706</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The bucket list</title>
+    						<poster>http://www.filmaps.com/posters/1201134128000000.jpg</poster>
+    						<locations><location>
+    											<place>9300  Cherry Avenue, Fontana, California, USA</place>
+    										<scene>Speedway</scene>
+        									<coordinates>-117.5,34.0891</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>enigma</title>
+    						<poster>http://www.filmaps.com/posters/0902252616000000</poster>
+    						<locations><location>
+    											<place>Oban, Argyll, Scotland</place>
+    										<scene></scene>
+        									<coordinates>-5.46982,56.4105</coordinates>
+        									</location></locations>
+						</movie></Document>

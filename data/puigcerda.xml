@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ficció</title>
+    						<poster>http://www.filmaps.com/posters/0902154255000000</poster>
+    						<locations><location>
+    											<place>Puigcerdà</place>
+    										<scene>.</scene>
+        									<coordinates>1.92777,42.4314</coordinates>
+        									</location></locations>
+						</movie></Document>

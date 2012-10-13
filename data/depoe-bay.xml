@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>One Flew Over the Cuckoo's Nest</title>
+    						<poster>http://www.filmaps.com/posters/0912150343000000</poster>
+    						<locations><location>
+    											<place>Depoe Bay, Oregon, USA</place>
+    										<scene></scene>
+        									<coordinates>-124.063,44.8081</coordinates>
+        									</location></locations>
+						</movie></Document>

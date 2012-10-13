@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Kabhi Khushi Kabhi Gham</title>
+    						<poster>http://www.filmaps.com/posters/0911105216000000</poster>
+    						<locations><location>
+    											<place>dubai</place>
+    										<scene></scene>
+        									<coordinates>55.3076,25.2712</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mission: Impossible - Ghost Protocol</title>
+    						<poster>http://www.filmaps.com/posters/1112155532000000.jpg</poster>
+    						<locations><location>
+    											<place>Burj Khalifa, Dubai</place>
+    										<scene>Tom Cruise hanging skyscraper scene</scene>
+        									<coordinates>55.2738,25.1969</coordinates>
+        									</location></locations>
+						</movie></Document>

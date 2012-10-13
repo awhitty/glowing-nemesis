@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The bucket list</title>
+    						<poster>http://www.filmaps.com/posters/1201134128000000.jpg</poster>
+    						<locations><location>
+    											<place>Jim Wallace Skydiving School - 2091 Goetz Road, Perris, California, USA</place>
+    										<scene>Sky diving scenes</scene>
+        									<coordinates>-117.224,33.7638</coordinates>
+        									</location></locations>
+						</movie></Document>

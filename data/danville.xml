@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Blues Brothers</title>
+    						<poster>http://www.filmaps.com/posters/0904014023000000</poster>
+    						<locations><location>
+    											<place>Danville, Illinois</place>
+    										<scene>Factory scenes</scene>
+        									<coordinates>-87.6257,40.1456</coordinates>
+        									</location></locations>
+						</movie></Document>

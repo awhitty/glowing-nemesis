@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>forrest gump</title>
+    						<poster>http://www.filmaps.com/posters/0902175100000000</poster>
+    						<locations><location>
+    											<place>Varnville, SC</place>
+    										<scene>The town of Greenbow, AL</scene>
+        									<coordinates>-81.0792,32.8504</coordinates>
+        									</location></locations>
+						</movie></Document>

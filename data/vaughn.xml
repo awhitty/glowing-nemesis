@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gamer</title>
+    						<poster>http://www.filmaps.com/posters/0909105726000000</poster>
+    						<locations><location>
+    											<place>Duke City BMX, Albuquerqe, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.032,34.9726</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Young Guns 1</title>
+    						<poster>http://www.filmaps.com/posters/0903212129000000</poster>
+    						<locations><location>
+    											<place>bonanza creek ranch </place>
+    										<scene></scene>
+        									<coordinates>-105.032,34.9728</coordinates>
+        									</location></locations>
+						</movie></Document>

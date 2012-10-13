@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jumper</title>
+    						<poster>http://www.filmaps.com/posters/0904181120000000</poster>
+    						<locations><location>
+    											<place>Praireville, Louisiana, USA</place>
+    										<scene></scene>
+        									<coordinates>-90.9721,30.303</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Revolutionary road</title>
+    						<poster>http://www.filmaps.com/posters/0901295811000000</poster>
+    						<locations><location>
+    											<place>Sasco beach Fairfield Ct.</place>
+    										<scene>beach scene</scene>
+        									<coordinates>-73.2792,41.1261</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Reservation Road</title>
+    						<poster>http://www.filmaps.com/posters/0911290623000000</poster>
+    						<locations><location>
+    											<place>Fairfield, Connecticut, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.2648,41.14</coordinates>
+        									</location></locations>
+						</movie></Document>

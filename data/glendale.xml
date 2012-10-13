@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>hannah montana</title>
+    						<poster>http://www.filmaps.com/posters/0905190432000000</poster>
+    						<locations><location>
+    											<place>216 N. Brand Boulevard, Glendale, California, USA</place>
+    										<scene>Alex Theatre</scene>
+        									<coordinates>-118.255,34.1491</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Superbad</title>
+    						<poster>http://www.filmaps.com/posters/0908084919000000</poster>
+    						<locations><location>
+    											<place>Glendale, California, USA</place>
+    										<scene>convenience store</scene>
+        									<coordinates>-118.232,34.1652</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Erin Brockovich</title>
+    						<poster>http://www.filmaps.com/posters/0901073445000000</poster>
+    						<locations><location>
+    											<place>Brand Blvd., Glendale, CA</place>
+    										<scene>New Masry office building at end of film</scene>
+        									<coordinates>-118.255,34.1532</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Memento</title>
+    						<poster>http://www.filmaps.com/posters/0912153003000000</poster>
+    						<locations><location>
+    											<place>Glendale, California, USA</place>
+    										<scene>restaurant</scene>
+        									<coordinates>-118.255,34.142</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Social Network</title>
+    						<poster>http://www.filmaps.com/posters/1010112827000000</poster>
+    						<locations><location>
+    											<place>Glendale, California, USA</place>
+    										<scene>Police station</scene>
+        									<coordinates>-118.256,34.1419</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Horrible Bosses</title>
+    						<poster>http://www.filmaps.com/posters/1107103921000000</poster>
+    						<locations><location>
+    											<place>Glendale, California, USA</place>
+    										<scene>car chase</scene>
+        									<coordinates>-118.253,34.1432</coordinates>
+        									</location></locations>
+						</movie></Document>

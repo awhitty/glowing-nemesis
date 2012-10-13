@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Troy</title>
+    						<poster>http://www.filmaps.com/posters/0901154028000000</poster>
+    						<locations><location>
+    											<place>Fort Ricasoli, Kalkara, Malta</place>
+    										<scene></scene>
+        									<coordinates>14.5273,35.8963</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>agora</title>
+    						<poster>http://www.filmaps.com/posters/0909104047000000</poster>
+    						<locations><location>
+    											<place>Fort Ricasoli, Kalkara, Malta</place>
+    										<scene></scene>
+        									<coordinates>14.5272,35.8963</coordinates>
+        									</location></locations>
+						</movie></Document>

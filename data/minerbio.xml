@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La casa dalle finestre che ridono</title>
+    						<poster>http://www.filmaps.com/posters/0910103524000000</poster>
+    						<locations><location>
+    											<place>minerbio</place>
+    										<scene>La casa del pittore</scene>
+        									<coordinates>11.4898,44.6244</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lo mejor de mi</title>
+    						<poster>http://www.filmaps.com/posters/1003015415000000</poster>
+    						<locations><location>
+    											<place>General de Catalunya</place>
+    										<scene>En el hospital</scene>
+        									<coordinates>2.04501,41.475</coordinates>
+        									</location></locations>
+						</movie></Document>

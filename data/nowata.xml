@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Possums</title>
+    						<poster>http://www.filmaps.com/posters/0912074942000000</poster>
+    						<locations><location>
+    											<place>Nowata, OK, USA</place>
+    										<scene>All of the Movie</scene>
+        									<coordinates>-95.6378,36.7008</coordinates>
+        									</location></locations>
+						</movie></Document>

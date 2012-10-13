@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Napoli Napoli Napoli</title>
+    						<poster>http://www.filmaps.com/posters/1002060631000000</poster>
+    						<locations><location>
+    											<place>via Pergolesi, Pozzuoli (Napoli - Italy)</place>
+    										<scene>Female Prison</scene>
+        									<coordinates>14.1219,40.8272</coordinates>
+        									</location></locations>
+						</movie></Document>

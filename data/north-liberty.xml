@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Offering</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>North Liberty, Iowa</place>
+    										<scene>Residence, strip mall</scene>
+        									<coordinates>-91.6077,41.741</coordinates>
+        									</location></locations>
+						</movie></Document>

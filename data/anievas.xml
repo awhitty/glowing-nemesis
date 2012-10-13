@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Los Cronocrimenes</title>
+    						<poster>http://www.filmaps.com/posters/0901272624000000</poster>
+    						<locations><location>
+    											<place>Cantabria</place>
+    										<scene>uauuuuuu</scene>
+        									<coordinates>-3.98767,43.183</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The others (Los Otros)</title>
+    						<poster>http://www.filmaps.com/posters/0901272457000000</poster>
+    						<locations><location>
+    											<place>Las Fraguas de Iguña en Cantabria- España</place>
+    										<scene>La casa y finca donde transcurre la pelicula.</scene>
+        									<coordinates>-3.98764,43.183</coordinates>
+        									</location></locations>
+						</movie></Document>

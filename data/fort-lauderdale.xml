@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hours</title>
+    						<poster>http://www.filmaps.com/posters/0906230352000000</poster>
+    						<locations><location>
+    											<place>Fort Lauderdale, Florida, USA</place>
+    										<scene></scene>
+        									<coordinates>-80.13,26.1356</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El cabo del miedo</title>
+    						<poster>http://www.filmaps.com/posters/1001152237000000</poster>
+    						<locations><location>
+    											<place>Fort Lauderdale, Florida, Estados unidos</place>
+    										<scene></scene>
+        									<coordinates>-80.1437,26.1226</coordinates>
+        									</location></locations>
+						</movie></Document>

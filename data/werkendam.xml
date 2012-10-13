@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Johnsons</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Biesbosch, Holland</place>
+    										<scene>The swamp scenes</scene>
+        									<coordinates>4.81476,51.761</coordinates>
+        									</location></locations>
+						</movie></Document>

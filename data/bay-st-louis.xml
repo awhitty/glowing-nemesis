@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The bad Lieutenant</title>
+    						<poster>http://www.filmaps.com/posters/1001090435000000</poster>
+    						<locations><location>
+    											<place>Bay St. Louis, Mississippi, USA</place>
+    										<scene></scene>
+        									<coordinates>-89.3336,30.3056</coordinates>
+        									</location></locations>
+						</movie></Document>

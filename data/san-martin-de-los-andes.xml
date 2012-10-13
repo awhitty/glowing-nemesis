@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La nave de los locos</title>
+    						<poster>http://www.filmaps.com/posters/1003143348000000</poster>
+    						<locations><location>
+    											<place>San Martín de los Andes, Neuquén, Argentina</place>
+    										<scene></scene>
+        									<coordinates>-71.354,-40.1549</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Snow White and the Huntsman</title>
+    						<poster>http://www.filmaps.com/posters/1206113244000000.jpg</poster>
+    						<locations><location>
+    											<place>Marloes Sands, Pembrokeshire, Wales, UK</place>
+    										<scene>scene in Marloes Sands</scene>
+        									<coordinates>-4.93935,51.8759</coordinates>
+        									</location></locations>
+						</movie></Document>

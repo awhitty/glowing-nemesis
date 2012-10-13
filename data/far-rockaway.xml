@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Extremely Loud & Incredibly Close</title>
+    						<poster>http://www.filmaps.com/posters/1202271603000000.jpg</poster>
+    						<locations><location>
+    											<place>Broad Channel Island, New York, USA</place>
+    										<scene>movie scene in Broad Channel</scene>
+        									<coordinates>-73.8215,40.6157</coordinates>
+        									</location></locations>
+						</movie></Document>

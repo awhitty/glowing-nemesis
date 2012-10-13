@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Informant !</title>
+    						<poster>http://www.filmaps.com/posters/0909272316000000</poster>
+    						<locations><location>
+    											<place>Decatur, Illinois</place>
+    										<scene></scene>
+        									<coordinates>-88.9546,39.8459</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Blind Side</title>
+    						<poster>http://www.filmaps.com/posters/0912060733000000</poster>
+    						<locations><location>
+    											<place>141 E. College Avenue, Decatur, Georgia, USA</place>
+    										<scene>Agnes Scott College scene</scene>
+        									<coordinates>-84.2954,33.7702</coordinates>
+        									</location></locations>
+						</movie></Document>

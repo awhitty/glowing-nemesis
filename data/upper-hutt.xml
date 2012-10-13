@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The lords of the rings</title>
+    						<poster>http://www.filmaps.com/posters/0901082858000000</poster>
+    						<locations><location>
+    											<place>Harcourt Park, Akatarawa</place>
+    										<scene></scene>
+        									<coordinates>175.094,-41.1019</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ex</title>
+    						<poster>http://www.filmaps.com/posters/0908113841000000</poster>
+    						<locations><location>
+    											<place>New Zealand</place>
+    										<scene></scene>
+        									<coordinates>175.16,-41.0023</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Lord of the Rings</title>
+    						<poster>http://www.filmaps.com/posters/1203091320000000.jpg</poster>
+    						<locations><location>
+    											<place>Kaitoke Regional Park, Wellington Region, New Zealand</place>
+    										<scene>Rivendell</scene>
+        									<coordinates>175.179,-41.0496</coordinates>
+        									</location></locations>
+						</movie></Document>

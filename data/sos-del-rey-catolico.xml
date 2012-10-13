@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>la vaquilla</title>
+    						<poster>http://www.filmaps.com/posters/0912163306000000</poster>
+    						<locations><location>
+    											<place>Castillo, Sos del Rey Católico</place>
+    										<scene>Paellada popular</scene>
+        									<coordinates>-1.21469,42.4982</coordinates>
+        									</location></locations>
+						</movie></Document>

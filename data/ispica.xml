@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Perduto Amor</title>
+    						<poster>http://www.filmaps.com/posters/1001303000000000</poster>
+    						<locations><location>
+    											<place>Loggiato del Sinatra, Ispica (Sicily - Italy)</place>
+    										<scene>Panoramica del loggiato con bambino che entra in chiesa.</scene>
+        									<coordinates>14.9109,36.7847</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Il Viaggio</title>
+    						<poster>http://www.filmaps.com/posters/1001293333000000</poster>
+    						<locations><location>
+    											<place>Loggiato di Ispica - Sicily Italy</place>
+    										<scene>Richard Burton (Cesare Braggi) leaves the child to school</scene>
+        									<coordinates>14.9109,36.7847</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Divorzio all'italiana</title>
+    						<poster>http://www.filmaps.com/posters/1001294348000000</poster>
+    						<locations><location>
+    											<place>Corso Garibaldi - Ispica - Sicilia Italy</place>
+    										<scene>Some scenes with Marcello Mastroianni</scene>
+        									<coordinates>14.9101,36.7873</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>enigma</title>
+    						<poster>http://www.filmaps.com/posters/0902252616000000</poster>
+    						<locations><location>
+    											<place>Amsterdam</place>
+    										<scene></scene>
+        									<coordinates>4.89108,52.3737</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>girl with a pearl earring</title>
+    						<poster>http://www.filmaps.com/posters/0902272006000000</poster>
+    						<locations><location>
+    											<place>Amsterdam</place>
+    										<scene></scene>
+        									<coordinates>4.89253,52.3731</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Oceans 12</title>
+    						<poster>http://www.filmaps.com/posters/0901303344000000</poster>
+    						<locations><location>
+    											<place>Handboogstraat 29 1012 XM Amsterdam</place>
+    										<scene>Coffeeshop scene</scene>
+        									<coordinates>4.89073,52.3674</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sweet Movie</title>
+    						<poster>http://www.filmaps.com/posters/0911132640000000</poster>
+    						<locations><location>
+    											<place>Amsterdam, Holland</place>
+    										<scene></scene>
+        									<coordinates>4.88918,52.3732</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kicks</title>
+    						<poster>http://www.filmaps.com/posters/0912060454000000</poster>
+    						<locations><location>
+    											<place>Amsterdam, Noord-Holland, Netherlands</place>
+    										<scene></scene>
+        									<coordinates>4.8912,52.3735</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Shouf shouf habibi!</title>
+    						<poster>http://www.filmaps.com/posters/0911133816000000</poster>
+    						<locations><location>
+    											<place>Amsterdam, Netherlands</place>
+    										<scene></scene>
+        									<coordinates>4.89234,52.3736</coordinates>
+        									</location></locations>
+						</movie></Document>

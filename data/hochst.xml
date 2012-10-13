@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Quantum of Solace</title>
+    						<poster>http://www.filmaps.com/posters/0901084408000000</poster>
+    						<locations><location>
+    											<place>Lake Constance, Austria</place>
+    										<scene>Lake Constance, between Schweiz, Deutschland and Austria</scene>
+        									<coordinates>9.61372,47.5116</coordinates>
+        									</location></locations>
+						</movie></Document>

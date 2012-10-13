@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>piano,solo</title>
+    						<poster>http://www.filmaps.com/posters/0910252435000000</poster>
+    						<locations><location>
+    											<place>Mombasa, Kenya</place>
+    										<scene></scene>
+        									<coordinates>39.673,-4.05288</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Inception</title>
+    						<poster>http://www.filmaps.com/posters/1007223648000000</poster>
+    						<locations><location>
+    											<place>mombasa, Kenya</place>
+    										<scene>trying to kill Leonardo Di Caprio in the streets of Mombasa, Kenya</scene>
+        									<coordinates>39.6741,-4.06038</coordinates>
+        									</location></locations>
+						</movie></Document>

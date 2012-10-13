@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sherlock Holmes: A Game of Shadows</title>
+    						<poster>http://www.filmaps.com/posters/1201092209000000.jpg</poster>
+    						<locations><location>
+    											<place>Triengen, Kanton Luzern, Switzerland</place>
+    										<scene>train scene</scene>
+        									<coordinates>8.07568,47.2396</coordinates>
+        									</location></locations>
+						</movie></Document>

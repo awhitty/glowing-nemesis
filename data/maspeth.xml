@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>brooklyn rules</title>
+    						<poster>http://www.filmaps.com/posters/0910214414000000</poster>
+    						<locations><location>
+    											<place>5626 Maspeth Ave Maspeth, NEW YORK, USA</place>
+    										<scene>Clinton Diner</scene>
+        									<coordinates>-73.9135,40.7231</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sleeper</title>
+    						<poster>http://www.filmaps.com/posters/1001141944000000</poster>
+    						<locations><location>
+    											<place>24501 Ski Hill Drive, Golden, Colorado, USA</place>
+    										<scene>mushroom shaped building</scene>
+        									<coordinates>-105.279,39.6993</coordinates>
+        									</location></locations>
+						</movie></Document>

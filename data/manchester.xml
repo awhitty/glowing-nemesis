@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the proposal</title>
+    						<poster>http://www.filmaps.com/posters/0906304409000000</poster>
+    						<locations><location>
+    											<place>5 Gales Point Road, Manchester MA</place>
+    										<scene>The Parent's House</scene>
+        									<coordinates>-70.7755,42.5608</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock Holmes (2009)</title>
+    						<poster>http://www.filmaps.com/posters/0912102325000000</poster>
+    						<locations><location>
+    											<place>Mangle Street, Manchester, Greater Manchester, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.23282,53.4807</coordinates>
+        									</location><location>
+    											<place>Little Lever Street, Manchester, Greater Manchester, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.23305,53.4824</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock Holmes (2009)</title>
+    						<poster>http://www.filmaps.com/posters/0912102325000000</poster>
+    						<locations><location>
+    											<place>Mangle Street, Manchester, Greater Manchester, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.23282,53.4807</coordinates>
+        									</location><location>
+    											<place>Little Lever Street, Manchester, Greater Manchester, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.23305,53.4824</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Captain America: The First Avenger</title>
+    						<poster>http://www.filmaps.com/posters/1009072657000000</poster>
+    						<locations><location>
+    											<place>Dale Street, Manchester</place>
+    										<scene>Set preparation work</scene>
+        									<coordinates>-2.23991,53.4835</coordinates>
+        									</location></locations>
+						</movie></Document>

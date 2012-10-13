@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Burn After Reading</title>
+    						<poster>http://www.filmaps.com/posters/0901222701000000</poster>
+    						<locations><location>
+    											<place>New Rochelle, New York, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.7848,40.9158</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fair Game</title>
+    						<poster>http://www.filmaps.com/posters/1011263723000000</poster>
+    						<locations><location>
+    											<place>New Rochelle, New York, USA</place>
+    										<scene></scene>
+        									<coordinates>-73.7824,40.9115</coordinates>
+        									</location></locations>
+						</movie></Document>

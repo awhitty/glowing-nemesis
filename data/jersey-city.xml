@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>To Wong Foo Thanks for Everything (Julie Newmar)</title>
+    						<poster>http://www.filmaps.com/posters/0910055352000000</poster>
+    						<locations><location>
+    											<place>Jersey City, New Jersey, USA</place>
+    										<scene>Canton Restaurant</scene>
+        									<coordinates>-74.0824,40.7201</coordinates>
+        									</location></locations>
+						</movie></Document>

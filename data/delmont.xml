@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ocean's Eleven</title>
+    						<poster>http://www.filmaps.com/posters/0901111243000000</poster>
+    						<locations><location>
+    											<place>East Jersey State Prision</place>
+    										<scene>Rahway State Penitentiary</scene>
+        									<coordinates>-74.9528,39.2353</coordinates>
+        									</location></locations>
+						</movie></Document>

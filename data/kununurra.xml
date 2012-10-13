@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Australia</title>
+    						<poster>http://www.filmaps.com/posters/0901220806000000</poster>
+    						<locations><location>
+    											<place>Carlton Hill, Kununurra</place>
+    										<scene>Faraway Downs scenes</scene>
+        									<coordinates>128.752,-15.5857</coordinates>
+        									</location></locations>
+						</movie></Document>

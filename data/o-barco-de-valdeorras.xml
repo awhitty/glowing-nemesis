@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Los lunes al sol</title>
+    						<poster>http://www.filmaps.com/posters/0902023339000000</poster>
+    						<locations><location>
+    											<place>O Barco, Vigo</place>
+    										<scene>Barco que cruza la ría de Vigo</scene>
+        									<coordinates>-8.74537,42.244</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pradolongo</title>
+    						<poster>http://www.filmaps.com/posters/0908141749000000</poster>
+    						<locations><location>
+    											<place>O barco de Valdeorras</place>
+    										<scene></scene>
+        									<coordinates>-6.98171,42.4157</coordinates>
+        									</location></locations>
+						</movie></Document>

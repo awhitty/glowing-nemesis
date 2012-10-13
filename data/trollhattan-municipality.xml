@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dogville</title>
+    						<poster>http://www.filmaps.com/posters/0912264042000000</poster>
+    						<locations><location>
+    											<place>Trollhättan, Västra Götalands län, Sweden</place>
+    										<scene></scene>
+        									<coordinates>12.2887,58.2835</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Newsmakers (Goryachie novosti)</title>
+    						<poster>http://www.filmaps.com/posters/1001022221000000</poster>
+    						<locations><location>
+    											<place>Trollhättan, Västra Götalands län, Sweden</place>
+    										<scene></scene>
+        									<coordinates>12.2844,58.284</coordinates>
+        									</location></locations>
+						</movie></Document>

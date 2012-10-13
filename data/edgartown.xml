@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jaws</title>
+    						<poster>http://www.filmaps.com/posters/0901184748000000</poster>
+    						<locations><location>
+    											<place>Sengekontacket Pond, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-70.5547,41.4195</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jaws II</title>
+    						<poster>http://www.filmaps.com/posters/0910042521000000</poster>
+    						<locations><location>
+    											<place>Edgartown, Martha's Vineyard, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-70.5166,41.3908</coordinates>
+        									</location><location>
+    											<place>Katama, Martha's Vineyard, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-70.5066,41.359</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jaws II</title>
+    						<poster>http://www.filmaps.com/posters/0910042521000000</poster>
+    						<locations><location>
+    											<place>Edgartown, Martha's Vineyard, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-70.5166,41.3908</coordinates>
+        									</location><location>
+    											<place>Katama, Martha's Vineyard, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-70.5066,41.359</coordinates>
+        									</location></locations>
+						</movie></Document>

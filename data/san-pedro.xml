@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Poltergeist</title>
+    						<poster>http://www.filmaps.com/posters/0901074353000000</poster>
+    						<locations><location>
+    											<place>4267 Roxbury Street, Os Angeles</place>
+    										<scene>The House</scene>
+        									<coordinates>-118.298,33.7125</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>50 First Dates</title>
+    						<poster>http://www.filmaps.com/posters/0901183845000000</poster>
+    						<locations><location>
+    											<place>Cabrillo Beach, San Pedro, Los Angeles</place>
+    										<scene></scene>
+        									<coordinates>-118.284,33.7101</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>dexter</title>
+    						<poster>http://www.filmaps.com/posters/0904203005000000</poster>
+    						<locations><location>
+    											<place>536 N. Palos Verdes Street, San Pedro, CA</place>
+    										<scene>Freebo's House</scene>
+        									<coordinates>-118.282,33.7476</coordinates>
+        									</location><location>
+    											<place>4034 S. Pacific Ave, San Pedro</place>
+    										<scene>Javier's Motel</scene>
+        									<coordinates>-118.288,33.7074</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>dexter</title>
+    						<poster>http://www.filmaps.com/posters/0904203005000000</poster>
+    						<locations><location>
+    											<place>536 N. Palos Verdes Street, San Pedro, CA</place>
+    										<scene>Freebo's House</scene>
+        									<coordinates>-118.282,33.7476</coordinates>
+        									</location><location>
+    											<place>4034 S. Pacific Ave, San Pedro</place>
+    										<scene>Javier's Motel</scene>
+        									<coordinates>-118.288,33.7074</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Usual Suspects</title>
+    						<poster>http://www.filmaps.com/posters/0912151340000000</poster>
+    						<locations><location>
+    											<place>San Pedro, Los Angeles, CA, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.293,33.7356</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Inception</title>
+    						<poster>http://www.filmaps.com/posters/1007223648000000</poster>
+    						<locations><location>
+    											<place>Spring Street, Downtown, LA, California</place>
+    										<scene></scene>
+        									<coordinates>-118.3,33.7152</coordinates>
+        									</location></locations>
+						</movie></Document>

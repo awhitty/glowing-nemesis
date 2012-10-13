@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>alatriste</title>
+    						<poster>http://www.filmaps.com/posters/0908141611000000</poster>
+    						<locations><location>
+    											<place>Uclés</place>
+    										<scene>Final battle</scene>
+        									<coordinates>-2.8622,39.982</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bridge of San Luis Rey</title>
+    						<poster>http://www.filmaps.com/posters/0904233418000000</poster>
+    						<locations><location>
+    											<place>Ucles</place>
+    										<scene>In the middle</scene>
+        									<coordinates>-2.86508,39.9799</coordinates>
+        									</location></locations>
+						</movie></Document>

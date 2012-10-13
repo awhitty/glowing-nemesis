@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>witness</title>
+    						<poster>http://www.filmaps.com/posters/0903193807000000</poster>
+    						<locations><location>
+    											<place>lancaster</place>
+    										<scene>Village where the boy leave</scene>
+        									<coordinates>-76.3019,40.0416</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Girl, Interrupted</title>
+    						<poster>http://www.filmaps.com/posters/0912272842000000</poster>
+    						<locations><location>
+    											<place>Lancaster, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-76.3053,40.0381</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fast Girl</title>
+    						<poster>http://www.filmaps.com/posters/1112251745000000.jpg</poster>
+    						<locations><location>
+    											<place>Lancaster, California</place>
+    										<scene>The city</scene>
+        									<coordinates>-118.154,34.6865</coordinates>
+        									</location></locations>
+						</movie></Document>

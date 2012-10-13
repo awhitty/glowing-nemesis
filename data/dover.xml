@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>28 weeks later</title>
+    						<poster>http://www.filmaps.com/posters/0909273345000000</poster>
+    						<locations><location>
+    											<place>Dover, Kent, UK</place>
+    										<scene>aerials images</scene>
+        									<coordinates>1.31138,51.1299</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Johnny English</title>
+    						<poster>http://www.filmaps.com/posters/0911152636000000</poster>
+    						<locations><location>
+    											<place>Dover, Kent, England, UK</place>
+    										<scene></scene>
+        									<coordinates>1.31102,51.1296</coordinates>
+        									</location></locations>
+						</movie></Document>

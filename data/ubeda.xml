@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El hombre que supo amar</title>
+    						<poster>http://www.filmaps.com/posters/0910013804000000</poster>
+    						<locations><location>
+    											<place>Cuesta del losal  Ubeda (Jaen)</place>
+    										<scene>Taller de alfarero</scene>
+        									<coordinates>-3.36642,38.0104</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La conjura del EScorial</title>
+    						<poster>http://www.filmaps.com/posters/0910014214000000</poster>
+    						<locations><location>
+    											<place>Pza María de Molina Ubeda (Jaen)</place>
+    										<scene>Llegada de la princesa de Eboli</scene>
+        									<coordinates>-3.36836,38.0079</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>alatriste</title>
+    						<poster>http://www.filmaps.com/posters/0908141611000000</poster>
+    						<locations><location>
+    											<place>Calle de Santa María, Úbeda, Jaén</place>
+    										<scene>Duelo final de Alatriste - Iglesia de Sta María</scene>
+        									<coordinates>-3.36832,38.0066</coordinates>
+        									</location></locations>
+						</movie></Document>

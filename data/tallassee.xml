@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Big Fish</title>
+    						<poster>http://www.filmaps.com/posters/0901271154000000</poster>
+    						<locations><location>
+    											<place>James Street, Tallassee, USA</place>
+    										<scene>Ed rescues the doggy from a fire</scene>
+        									<coordinates>-85.8968,32.5355</coordinates>
+        									</location></locations>
+						</movie></Document>

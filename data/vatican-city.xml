@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Angels and Demons</title>
+    						<poster>http://www.filmaps.com/posters/0905184031000000</poster>
+    						<locations><location>
+    											<place>St. Peter's Basilica, Rome, Lazio, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.4536,41.9023</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Angeles y Demonios</title>
+    						<poster>http://www.filmaps.com/posters/0905293349000000</poster>
+    						<locations><location>
+    											<place>Piazza San Pietro, Città del Vaticano, Italia</place>
+    										<scene></scene>
+        									<coordinates>12.457,41.9024</coordinates>
+        									</location><location>
+    											<place>Biblioteca Apostolica Vaticana, Roma</place>
+    										<scene></scene>
+        									<coordinates>12.4545,41.9047</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Angeles y Demonios</title>
+    						<poster>http://www.filmaps.com/posters/0905293349000000</poster>
+    						<locations><location>
+    											<place>Piazza San Pietro, Città del Vaticano, Italia</place>
+    										<scene></scene>
+        									<coordinates>12.457,41.9024</coordinates>
+        									</location><location>
+    											<place>Biblioteca Apostolica Vaticana, Roma</place>
+    										<scene></scene>
+        									<coordinates>12.4545,41.9047</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Godfather</title>
+    						<poster>http://www.filmaps.com/posters/0901072317000000</poster>
+    						<locations><location>
+    											<place>Vatican City, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.4536,41.9022</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mission Impossible III</title>
+    						<poster>http://www.filmaps.com/posters/0905302927000000</poster>
+    						<locations><location>
+    											<place>Vatican Museum, Vatican, Italy</place>
+    										<scene>inside Vatican Museum, Vatican City, Rome</scene>
+        									<coordinates>12.4544,41.9063</coordinates>
+        									</location></locations>
+						</movie></Document>

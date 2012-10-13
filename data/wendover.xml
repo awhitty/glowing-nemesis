@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Independence Day</title>
+    						<poster>http://www.filmaps.com/posters/0904152247000000</poster>
+    						<locations><location>
+    											<place>Wendover Airport, Utah, USA</place>
+    										<scene>Area 51 scenes</scene>
+        									<coordinates>-114.032,40.7201</coordinates>
+        									</location></locations>
+						</movie></Document>

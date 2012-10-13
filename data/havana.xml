@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Diarios de motocicleta</title>
+    						<poster>http://www.filmaps.com/posters/0901114213000000</poster>
+    						<locations><location>
+    											<place>Havana, cuba</place>
+    										<scene></scene>
+        									<coordinates>-82.3667,23.1326</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fresa y Chocolate</title>
+    						<poster>http://www.filmaps.com/posters/0911155847000000</poster>
+    						<locations><location>
+    											<place>Paladar "La Guarida" Concordia 418 Havana</place>
+    										<scene></scene>
+        									<coordinates>-82.3696,23.138</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Una rosa de Francia</title>
+    						<poster>http://www.filmaps.com/posters/1002241027000000</poster>
+    						<locations><location>
+    											<place>La  Habana</place>
+    										<scene></scene>
+        									<coordinates>-82.3666,23.1333</coordinates>
+        									</location></locations>
+						</movie></Document>

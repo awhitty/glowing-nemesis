@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title></title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations></locations>
+						</movie><movie>
+    						<title>calle mayor</title>
+    						<poster>http://www.filmaps.com/posters/0910065127000000</poster>
+    						<locations><location>
+    											<place>calle portales logroño</place>
+    										<scene>people is walking around</scene>
+        									<coordinates>-2.44756,42.4664</coordinates>
+        									</location><location>
+    											<place>plaza del mercado logroño</place>
+    										<scene>the main character meets the girl</scene>
+        									<coordinates>-2.44597,42.4667</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>calle mayor</title>
+    						<poster>http://www.filmaps.com/posters/0910065127000000</poster>
+    						<locations><location>
+    											<place>calle portales logroño</place>
+    										<scene>people is walking around</scene>
+        									<coordinates>-2.44756,42.4664</coordinates>
+        									</location><location>
+    											<place>plaza del mercado logroño</place>
+    										<scene>the main character meets the girl</scene>
+        									<coordinates>-2.44597,42.4667</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pasos</title>
+    						<poster>http://www.filmaps.com/posters/1105051722000000</poster>
+    						<locations><location>
+    											<place>Logroño, La Rioja</place>
+    										<scene></scene>
+        									<coordinates>-2.4463,42.4652</coordinates>
+        									</location></locations>
+						</movie></Document>

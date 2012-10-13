@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the reader</title>
+    						<poster>http://www.filmaps.com/posters/0903045647000000</poster>
+    						<locations><location>
+    											<place>Cologne, North Rhine - Westphalia, Germany</place>
+    										<scene></scene>
+        									<coordinates>6.95999,50.9407</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Antichrist</title>
+    						<poster>http://www.filmaps.com/posters/0908112701000000</poster>
+    						<locations><location>
+    											<place>Cologne, North Rhine, Germany</place>
+    										<scene></scene>
+        									<coordinates>6.9564,50.9415</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bang Boom Bang</title>
+    						<poster>http://www.filmaps.com/posters/0909273110000000</poster>
+    						<locations><location>
+    											<place>Cologne, North Rhine, Germany</place>
+    										<scene></scene>
+        									<coordinates>6.95646,50.9403</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La mujer del anarquista</title>
+    						<poster>http://www.filmaps.com/posters/0910202502000000</poster>
+    						<locations><location>
+    											<place>Cologne, Germany</place>
+    										<scene></scene>
+        									<coordinates>6.958,50.9399</coordinates>
+        									</location></locations>
+						</movie></Document>

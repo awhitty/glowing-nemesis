@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Dark Knight</title>
+    						<poster>http://www.filmaps.com/posters/0901200012000000</poster>
+    						<locations><location>
+    											<place>Central , Hong Kong </place>
+    										<scene>Batman in Two international finance centre rooftop</scene>
+        									<coordinates>114.161,22.2818</coordinates>
+        									</location><location>
+    											<place>Two international finance centre  , hong kong</place>
+    										<scene>Batman in Two international finance centre rooftop </scene>
+        									<coordinates>114.159,22.2852</coordinates>
+        									</location><location>
+    											<place>the center , hong kong</place>
+    										<scene>morgan freeman in the center </scene>
+        									<coordinates>114.155,22.2847</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Dark Knight</title>
+    						<poster>http://www.filmaps.com/posters/0901200012000000</poster>
+    						<locations><location>
+    											<place>Central , Hong Kong </place>
+    										<scene>Batman in Two international finance centre rooftop</scene>
+        									<coordinates>114.161,22.2818</coordinates>
+        									</location><location>
+    											<place>Two international finance centre  , hong kong</place>
+    										<scene>Batman in Two international finance centre rooftop </scene>
+        									<coordinates>114.159,22.2852</coordinates>
+        									</location><location>
+    											<place>the center , hong kong</place>
+    										<scene>morgan freeman in the center </scene>
+        									<coordinates>114.155,22.2847</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Dark Knight</title>
+    						<poster>http://www.filmaps.com/posters/0901200012000000</poster>
+    						<locations><location>
+    											<place>Central , Hong Kong </place>
+    										<scene>Batman in Two international finance centre rooftop</scene>
+        									<coordinates>114.161,22.2818</coordinates>
+        									</location><location>
+    											<place>Two international finance centre  , hong kong</place>
+    										<scene>Batman in Two international finance centre rooftop </scene>
+        									<coordinates>114.159,22.2852</coordinates>
+        									</location><location>
+    											<place>the center , hong kong</place>
+    										<scene>morgan freeman in the center </scene>
+        									<coordinates>114.155,22.2847</coordinates>
+        									</location></locations>
+						</movie></Document>

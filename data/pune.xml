@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gandhi</title>
+    						<poster>http://www.filmaps.com/posters/1106082332000000</poster>
+    						<locations><location>
+    											<place>Pune, Maharashtra, India</place>
+    										<scene>mperial theatre protest</scene>
+        									<coordinates>73.8568,18.5204</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Inception</title>
+    						<poster>http://www.filmaps.com/posters/1007223648000000</poster>
+    						<locations><location>
+    											<place>pune</place>
+    										<scene>is it really shot in pune?</scene>
+        									<coordinates>73.8566,18.5202</coordinates>
+        									</location></locations>
+						</movie></Document>

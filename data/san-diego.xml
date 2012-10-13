@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>CITIZEN KANE</title>
+    						<poster>http://www.filmaps.com/posters/0901135417000000</poster>
+    						<locations><location>
+    											<place>San Diego</place>
+    										<scene></scene>
+        									<coordinates>-117.164,32.7188</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Top Gun</title>
+    						<poster>http://www.filmaps.com/posters/0901220643000000</poster>
+    						<locations><location>
+    											<place>610 W. Market Street, San Diego, California, USA</place>
+    										<scene>Bar scene in Kansas City Barbeque</scene>
+        									<coordinates>-117.168,32.7114</coordinates>
+        									</location><location>
+    											<place>Miramar Naval Air Station, San Diego</place>
+    										<scene></scene>
+        									<coordinates>-117.142,32.8754</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Top Gun</title>
+    						<poster>http://www.filmaps.com/posters/0901220643000000</poster>
+    						<locations><location>
+    											<place>610 W. Market Street, San Diego, California, USA</place>
+    										<scene>Bar scene in Kansas City Barbeque</scene>
+        									<coordinates>-117.168,32.7114</coordinates>
+        									</location><location>
+    											<place>Miramar Naval Air Station, San Diego</place>
+    										<scene></scene>
+        									<coordinates>-117.142,32.8754</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pensacola: Wings of Gold</title>
+    						<poster>http://www.filmaps.com/posters/0910043820000000</poster>
+    						<locations><location>
+    											<place>Miramar Naval Air Station, San Diego, California</place>
+    										<scene></scene>
+        									<coordinates>-117.141,32.8683</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Almost Famous</title>
+    						<poster>http://www.filmaps.com/posters/0911190907000000</poster>
+    						<locations><location>
+    											<place>Ocean Beach, CA</place>
+    										<scene>Opening scene</scene>
+        									<coordinates>-117.253,32.747</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The scorpion king</title>
+    						<poster>http://www.filmaps.com/posters/1102204720000000</poster>
+    						<locations><location>
+    											<place>San Diego, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-117.157,32.7156</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Outsider (1961)</title>
+    						<poster>http://www.filmaps.com/posters/1102205618000000</poster>
+    						<locations><location>
+    											<place>San Diego, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-117.168,32.7113</coordinates>
+        									</location></locations>
+						</movie></Document>

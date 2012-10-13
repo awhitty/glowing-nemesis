@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Lord of the Rings</title>
+    						<poster>http://www.filmaps.com/posters/1203091320000000.jpg</poster>
+    						<locations><location>
+    											<place>Canterbury, New Zealand</place>
+    										<scene>Edoras</scene>
+        									<coordinates>171.164,-43.7543</coordinates>
+        									</location><location>
+    											<place>Mt. Potts Station, Erewhon, Canterbury, New Zealand</place>
+    										<scene>Edoras</scene>
+        									<coordinates>171.164,-43.7543</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Lord of the Rings</title>
+    						<poster>http://www.filmaps.com/posters/1203091320000000.jpg</poster>
+    						<locations><location>
+    											<place>Canterbury, New Zealand</place>
+    										<scene>Edoras</scene>
+        									<coordinates>171.164,-43.7543</coordinates>
+        									</location><location>
+    											<place>Mt. Potts Station, Erewhon, Canterbury, New Zealand</place>
+    										<scene>Edoras</scene>
+        									<coordinates>171.164,-43.7543</coordinates>
+        									</location></locations>
+						</movie></Document>

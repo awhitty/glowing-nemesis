@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>shakespeare in love</title>
+    						<poster>http://www.filmaps.com/posters/0901134946000000</poster>
+    						<locations><location>
+    											<place>Holkham Hall, Norfolk, England</place>
+    										<scene>Final scene in beach</scene>
+        									<coordinates>0.811615,52.9673</coordinates>
+        									</location></locations>
+						</movie></Document>

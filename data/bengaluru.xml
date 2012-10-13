@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Rambo</title>
+    						<poster>http://www.filmaps.com/posters/0903234345000000</poster>
+    						<locations><location>
+    											<place>Bangalore</place>
+    										<scene></scene>
+        									<coordinates>77.5944,12.9715</coordinates>
+        									</location></locations>
+						</movie></Document>

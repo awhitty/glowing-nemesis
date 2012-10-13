@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>eden lake</title>
+    						<poster>http://www.filmaps.com/posters/0903225723000000</poster>
+    						<locations><location>
+    											<place>Black Park, Iver Heath, Buckinghamshire, England, UK</place>
+    										<scene>Road to lake</scene>
+        									<coordinates>-0.553334,51.5406</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Stardust</title>
+    						<poster>http://www.filmaps.com/posters/0908043458000000</poster>
+    						<locations><location>
+    											<place>Black Park, Iver Heath, Buckinghamshire, UK</place>
+    										<scene>Tristan and Yvaine walk through the wood and Yvaine rides off on the unicorn</scene>
+        									<coordinates>-0.539999,51.5373</coordinates>
+        									</location></locations>
+						</movie></Document>

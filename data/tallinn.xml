@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Tallinn Põleb</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Tallinn</place>
+    										<scene>Kohtumine</scene>
+        									<coordinates>24.7547,59.439</coordinates>
+        									</location></locations>
+						</movie></Document>

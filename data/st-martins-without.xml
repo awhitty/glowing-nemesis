@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Elizabeth: The Golden Age</title>
+    						<poster>http://www.filmaps.com/posters/0911152125000000</poster>
+    						<locations><location>
+    											<place>Burghley House, Stamford, Lincolnshire, England, UK</place>
+    										<scene>John Dee's house exteriors, Paris street scene</scene>
+        									<coordinates>-0.452929,52.6426</coordinates>
+        									</location></locations>
+						</movie></Document>

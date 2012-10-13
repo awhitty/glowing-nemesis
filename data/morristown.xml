@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Prozac Nation</title>
+    						<poster>http://www.filmaps.com/posters/0912272614000000</poster>
+    						<locations><location>
+    											<place>2 Convent Road, Morris, New Jersey, USA</place>
+    										<scene>College of St. Elizabeth images</scene>
+        									<coordinates>-74.4449,40.7768</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>American Gangster</title>
+    						<poster>http://www.filmaps.com/posters/1110282511000000.jpg</poster>
+    						<locations><location>
+    											<place>National Guard Armories, 430 Western Avenue, Morristown, New Jersey, USA</place>
+    										<scene>Morgue scenes</scene>
+        									<coordinates>-74.5091,40.782</coordinates>
+        									</location></locations>
+						</movie></Document>

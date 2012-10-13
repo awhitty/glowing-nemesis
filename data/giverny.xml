@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Midnight in Paris</title>
+    						<poster>http://www.filmaps.com/posters/1110271155000000.jpg</poster>
+    						<locations><location>
+    											<place>Giverny, Eure, France</place>
+    										<scene>Monet's garden</scene>
+        									<coordinates>1.53322,49.0813</coordinates>
+        									</location></locations>
+						</movie></Document>

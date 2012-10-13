@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>"The Man who fell to Earth"</title>
+    						<poster>http://www.filmaps.com/posters/0911194709000000</poster>
+    						<locations><location>
+    											<place>Arizona</place>
+    										<scene></scene>
+        									<coordinates>-111.094,34.0492</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Thelma and Louise</title>
+    						<poster>http://www.filmaps.com/posters/0906133934000000</poster>
+    						<locations><location>
+    											<place>arizona</place>
+    										<scene>localització exteriors</scene>
+        									<coordinates>-111.094,34.0487</coordinates>
+        									</location></locations>
+						</movie></Document>

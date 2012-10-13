@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>viridiana</title>
+    						<poster>http://www.filmaps.com/posters/1102212902000000</poster>
+    						<locations><location>
+    											<place>Plaza de la constitucion, ciempozuelos</place>
+    										<scene>Escena donde Viridiana intenta coger un autobus. </scene>
+        									<coordinates>-3.61821,40.1595</coordinates>
+        									</location></locations>
+						</movie></Document>

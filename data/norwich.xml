@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Stardust</title>
+    						<poster>http://www.filmaps.com/posters/0908043458000000</poster>
+    						<locations><location>
+    											<place>Elm Hill, Norwich, Norfolk, UK</place>
+    										<scene>Stormhold streets and market scenes</scene>
+        									<coordinates>1.29734,52.632</coordinates>
+        									</location></locations>
+						</movie></Document>

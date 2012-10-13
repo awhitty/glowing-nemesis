@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Birds</title>
+    						<poster>http://www.filmaps.com/posters/0901225758000000</poster>
+    						<locations><location>
+    											<place>Colusa County, California</place>
+    										<scene></scene>
+        									<coordinates>-122.265,39.104</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Thelma and Louise</title>
+    						<poster>http://www.filmaps.com/posters/0906133934000000</poster>
+    						<locations><location>
+    											<place>grand canyon</place>
+    										<scene>exteriors</scene>
+        									<coordinates>-113.24,36.1143</coordinates>
+        									</location></locations>
+						</movie></Document>

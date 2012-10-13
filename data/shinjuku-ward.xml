@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Kill Bill</title>
+    						<poster>http://www.filmaps.com/posters/0901101957000000</poster>
+    						<locations><location>
+    											<place> Shinjuku, Tokyo, Japan</place>
+    										<scene></scene>
+        									<coordinates>139.703,35.6936</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jumper</title>
+    						<poster>http://www.filmaps.com/posters/0904181120000000</poster>
+    						<locations><location>
+    											<place>Tokyo, Japan</place>
+    										<scene></scene>
+        									<coordinates>139.692,35.6881</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>babel</title>
+    						<poster>http://www.filmaps.com/posters/0902152134000000</poster>
+    						<locations><location>
+    											<place>Shinjuku, Tokyo, Japan</place>
+    										<scene></scene>
+        									<coordinates>139.704,35.6936</coordinates>
+        									</location><location>
+    											<place>Tokyo Metropolis, Japan</place>
+    										<scene>Azabu Juban, Tokyo, Japan</scene>
+        									<coordinates>139.692,35.6895</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>babel</title>
+    						<poster>http://www.filmaps.com/posters/0902152134000000</poster>
+    						<locations><location>
+    											<place>Shinjuku, Tokyo, Japan</place>
+    										<scene></scene>
+        									<coordinates>139.704,35.6936</coordinates>
+        									</location><location>
+    											<place>Tokyo Metropolis, Japan</place>
+    										<scene>Azabu Juban, Tokyo, Japan</scene>
+        									<coordinates>139.692,35.6895</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Cove</title>
+    						<poster>http://www.filmaps.com/posters/0912104411000000</poster>
+    						<locations><location>
+    											<place>Tokyo, Japan</place>
+    										<scene></scene>
+        									<coordinates>139.688,35.6889</coordinates>
+        									</location></locations>
+						</movie></Document>

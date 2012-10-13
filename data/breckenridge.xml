@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dumb and Dumber</title>
+    						<poster>http://www.filmaps.com/posters/0902051117000000</poster>
+    						<locations><location>
+    											<place>breckingridge co</place>
+    										<scene>dumb and dumber</scene>
+        									<coordinates>-106.046,39.4793</coordinates>
+        									</location></locations>
+						</movie></Document>

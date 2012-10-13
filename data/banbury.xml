@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>shakespeare in love</title>
+    						<poster>http://www.filmaps.com/posters/0901134946000000</poster>
+    						<locations><location>
+    											<place>Broughton Castle, Banbury, Oxfordshire, England,</place>
+    										<scene>Great Hall, Middle Temple</scene>
+        									<coordinates>-1.33267,52.0632</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the blair witch project</title>
+    						<poster>http://www.filmaps.com/posters/0901091451000000</poster>
+    						<locations><location>
+    											<place>Wheaton, Maryland</place>
+    										<scene>Leaving Josh's House</scene>
+        									<coordinates>-77.0593,39.0392</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Notting Hill</title>
+    						<poster>http://www.filmaps.com/posters/0901124740000000</poster>
+    						<locations><location>
+    											<place>142 Portobello Road, London</place>
+    										<scene>Nicholls Antique Arcade</scene>
+        									<coordinates>-0.203812,51.5142</coordinates>
+        									</location><location>
+    											<place>Lansdowne Road, Notting Hill</place>
+    										<scene>Hugh takes a surprise date of the birthday party</scene>
+        									<coordinates>-0.207454,51.5101</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Notting Hill</title>
+    						<poster>http://www.filmaps.com/posters/0901124740000000</poster>
+    						<locations><location>
+    											<place>142 Portobello Road, London</place>
+    										<scene>Nicholls Antique Arcade</scene>
+        									<coordinates>-0.203812,51.5142</coordinates>
+        									</location><location>
+    											<place>Lansdowne Road, Notting Hill</place>
+    										<scene>Hugh takes a surprise date of the birthday party</scene>
+        									<coordinates>-0.207454,51.5101</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Italian Job (1969)</title>
+    						<poster>http://www.filmaps.com/posters/0910180005000000</poster>
+    						<locations><location>
+    											<place>Portobello Road, London</place>
+    										<scene></scene>
+        									<coordinates>-0.206165,51.5169</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Withnail & I</title>
+    						<poster>http://www.filmaps.com/posters/0910182326000000</poster>
+    						<locations><location>
+    											<place>Tavistock Crescent, Notting Hill, London</place>
+    										<scene></scene>
+        									<coordinates>-0.204216,51.5199</coordinates>
+        									</location><location>
+    											<place>Lancaster Road, Notting Hill, London, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.208864,51.517</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Withnail & I</title>
+    						<poster>http://www.filmaps.com/posters/0910182326000000</poster>
+    						<locations><location>
+    											<place>Tavistock Crescent, Notting Hill, London</place>
+    										<scene></scene>
+        									<coordinates>-0.204216,51.5199</coordinates>
+        									</location><location>
+    											<place>Lancaster Road, Notting Hill, London, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.208864,51.517</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock Holmes (2009)</title>
+    						<poster>http://www.filmaps.com/posters/0912102325000000</poster>
+    						<locations><location>
+    											<place>Brompton Cemetery, London, UK</place>
+    										<scene>Brompton Cementery scence</scene>
+        									<coordinates>-0.189329,51.4832</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The terminal</title>
+    						<poster>http://www.filmaps.com/posters/0901121303000000</poster>
+    						<locations><location>
+    											<place>Mirabel International Airport, Montreal</place>
+    										<scene>External scenes </scene>
+        									<coordinates>-74.031,45.6845</coordinates>
+        									</location></locations>
+						</movie></Document>

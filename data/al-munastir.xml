@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jesus of Nazareth </title>
+    						<poster>http://www.filmaps.com/posters/1105200616000000</poster>
+    						<locations><location>
+    											<place>Monastir, Tunisia</place>
+    										<scene></scene>
+        									<coordinates>10.8262,35.7771</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Life of Brian (1979)</title>
+    						<poster>http://www.filmaps.com/posters/1106045237000000</poster>
+    						<locations><location>
+    											<place>Ribat, Monastir, Tunisia</place>
+    										<scene>tower</scene>
+        									<coordinates>10.833,35.7762</coordinates>
+        									</location></locations>
+						</movie></Document>

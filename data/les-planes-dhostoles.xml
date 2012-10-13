@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Spanish Movie</title>
+    						<poster>http://www.filmaps.com/posters/0912125438000000</poster>
+    						<locations><location>
+    											<place>Les Planes d'Hostales, Girona</place>
+    										<scene></scene>
+        									<coordinates>2.54003,42.057</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>from prada to nada</title>
+    						<poster>http://www.filmaps.com/posters/1209022749000000.jpg</poster>
+    						<locations><location>
+    											<place>monterrey</place>
+    										<scene>su supuesta casa</scene>
+        									<coordinates>-100.386,25.6524</coordinates>
+        									</location></locations>
+						</movie></Document>

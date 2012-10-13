@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Six Days Seven Nights</title>
+    						<poster>http://www.filmaps.com/posters/0902010608000000</poster>
+    						<locations><location>
+    											<place>Kauai island, Hawaii</place>
+    										<scene>island scenes</scene>
+        									<coordinates>-159.658,22.1706</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Outbreak</title>
+    						<poster>http://www.filmaps.com/posters/0910315854000000</poster>
+    						<locations><location>
+    											<place>Kaua'i, Hawaii, USA</place>
+    										<scene></scene>
+        									<coordinates>-159.526,22.0964</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Avatar</title>
+    						<poster>http://www.filmaps.com/posters/0912143548000000</poster>
+    						<locations><location>
+    											<place>Kaua'i, Hawaii, USA</place>
+    										<scene>Rain forest</scene>
+        									<coordinates>-159.526,22.0964</coordinates>
+        									</location></locations>
+						</movie></Document>

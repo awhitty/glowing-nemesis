@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Blindness</title>
+    						<poster>http://www.filmaps.com/posters/1002111225000000</poster>
+    						<locations><location>
+    											<place>Montevideo, Uruguay</place>
+    										<scene></scene>
+        									<coordinates>-56.0673,-34.8942</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Miami Vice</title>
+    						<poster>http://www.filmaps.com/posters/1002111354000000</poster>
+    						<locations><location>
+    											<place>Montevideo, Uruguay</place>
+    										<scene></scene>
+        									<coordinates>-56.0668,-34.8991</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El noctámbulo</title>
+    						<poster>http://www.filmaps.com/posters/1204082957000000.jpg</poster>
+    						<locations><location>
+    											<place>Montevideo, República Oriental del Uruguay</place>
+    										<scene>Exteriores</scene>
+        									<coordinates>-56.1818,-34.8838</coordinates>
+        									</location></locations>
+						</movie></Document>

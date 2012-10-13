@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Casino Royale</title>
+    						<poster>http://www.filmaps.com/posters/0901091928000000</poster>
+    						<locations><location>
+    											<place>Karlovy Vary, Czech Republic</place>
+    										<scene>exterior Casino Royale</scene>
+        									<coordinates>12.8713,50.2323</coordinates>
+        									</location></locations>
+						</movie></Document>

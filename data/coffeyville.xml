@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>I am number four</title>
+    						<poster>http://www.filmaps.com/posters/1104090648000000</poster>
+    						<locations><location>
+    											<place>PA</place>
+    										<scene>Girl Falls off of Roof</scene>
+        									<coordinates>-95.7129,37.0903</coordinates>
+        									</location></locations>
+						</movie></Document>

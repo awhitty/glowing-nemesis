@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hot Rock</title>
+    						<poster>http://www.filmaps.com/posters/0911221203000000</poster>
+    						<locations><location>
+    											<place>In Nassau County Jail, East Meadow, NY</place>
+    										<scene></scene>
+        									<coordinates>-73.5531,40.7317</coordinates>
+        									</location></locations>
+						</movie></Document>

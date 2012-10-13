@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gone with the wind</title>
+    						<poster>http://www.filmaps.com/posters/0901135805000000</poster>
+    						<locations><location>
+    											<place>Calabasas, California, USA</place>
+    										<scene>Scarlett's oath. Gerald O'Hara's last ride</scene>
+        									<coordinates>-118.665,34.1332</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Donnie Darko</title>
+    						<poster>http://www.filmaps.com/posters/0909080748000000</poster>
+    						<locations><location>
+    											<place>Calabasas, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.665,34.1341</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Adventures of Robin Hood </title>
+    						<poster>http://www.filmaps.com/posters/0909125315000000</poster>
+    						<locations><location>
+    											<place>Calabasas, California, USA </place>
+    										<scene></scene>
+        									<coordinates>-118.666,34.1338</coordinates>
+        									</location></locations>
+						</movie></Document>

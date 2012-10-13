@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jerry Maguire</title>
+    						<poster>http://www.filmaps.com/posters/0901145622000000</poster>
+    						<locations><location>
+    											<place>Sun Devil Stadium, Tempe</place>
+    										<scene></scene>
+        									<coordinates>-111.933,33.4263</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>campus man</title>
+    						<poster>http://www.filmaps.com/posters/0903120954000000</poster>
+    						<locations><location>
+    											<place>Tempe, Arizona.</place>
+    										<scene>Pool Scene at the end of the movie</scene>
+        									<coordinates>-111.934,33.4239</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the great gatsby</title>
+    						<poster>http://www.filmaps.com/posters/0912234659000000</poster>
+    						<locations><location>
+    											<place>Hope Street, Bristol, Rhode Island, USA</place>
+    										<scene>Daisy's house when a child</scene>
+        									<coordinates>-71.2789,41.6842</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Skins</title>
+    						<poster>http://www.filmaps.com/posters/1103205350000000</poster>
+    						<locations><location>
+    											<place>park street bristok united kingdom</place>
+    										<scene>Freds skateboarding (series 3-1)</scene>
+        									<coordinates>-2.60256,51.4544</coordinates>
+        									</location><location>
+    											<place>Brandon Hill bristol united kingdom</place>
+    										<scene>Bench where Cassie tries to suicide</scene>
+        									<coordinates>-2.60356,51.4523</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Skins</title>
+    						<poster>http://www.filmaps.com/posters/1103205350000000</poster>
+    						<locations><location>
+    											<place>park street bristok united kingdom</place>
+    										<scene>Freds skateboarding (series 3-1)</scene>
+        									<coordinates>-2.60256,51.4544</coordinates>
+        									</location><location>
+    											<place>Brandon Hill bristol united kingdom</place>
+    										<scene>Bench where Cassie tries to suicide</scene>
+        									<coordinates>-2.60356,51.4523</coordinates>
+        									</location></locations>
+						</movie></Document>

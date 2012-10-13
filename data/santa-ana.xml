@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jerry Maguire</title>
+    						<poster>http://www.filmaps.com/posters/0901145622000000</poster>
+    						<locations><location>
+    											<place>John Wayne Airport, Santa Ana</place>
+    										<scene>Airport scene</scene>
+        									<coordinates>-117.86,33.6807</coordinates>
+        									</location></locations>
+						</movie></Document>

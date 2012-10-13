@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>Lacock abbey, uk</place>
+    										<scene>The Cloisters of the abbey in the Lacock village</scene>
+        									<coordinates>-2.1199,51.4146</coordinates>
+        									</location></locations>
+						</movie></Document>

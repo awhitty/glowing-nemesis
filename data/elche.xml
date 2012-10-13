@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>las aventuras del Baron Munchausen</title>
+    						<poster>http://www.filmaps.com/posters/0904245118000000</poster>
+    						<locations><location>
+    											<place>elchite</place>
+    										<scene>es Belchite</scene>
+        									<coordinates>-0.703132,38.2617</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Tacones lejanos</title>
+    						<poster>http://www.filmaps.com/posters/0909242401000000</poster>
+    						<locations><location>
+    											<place>Elche, Alicante, España</place>
+    										<scene></scene>
+        									<coordinates>-0.695032,38.267</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El misterio de Elche</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Elche, Valencia, España</place>
+    										<scene>La peli fue filmada por aqui...</scene>
+        									<coordinates>-0.698812,38.2657</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El corredor nocturno</title>
+    						<poster>http://www.filmaps.com/posters/1003061432000000</poster>
+    						<locations><location>
+    											<place>Elche, España</place>
+    										<scene></scene>
+        									<coordinates>-0.697299,38.2698</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pensacola: Wings of Gold</title>
+    						<poster>http://www.filmaps.com/posters/0910043820000000</poster>
+    						<locations><location>
+    											<place>Pensacola Naval Air Station, Pensacola, Florida, USA</place>
+    										<scene>"Pensacola: Wings of Gold" filmed some exteriors at the Pensacola Naval Air Station.</scene>
+        									<coordinates>-87.3163,30.3563</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Wings</title>
+    						<poster>http://www.filmaps.com/posters/0910043130000000</poster>
+    						<locations><location>
+    											<place>Pensacola, Florida</place>
+    										<scene></scene>
+        									<coordinates>-87.2125,30.4731</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jaws II</title>
+    						<poster>http://www.filmaps.com/posters/0910042521000000</poster>
+    						<locations><location>
+    											<place>Gulf Islands National Seashore, Florida</place>
+    										<scene></scene>
+        									<coordinates>-86.9665,30.3699</coordinates>
+        									</location></locations>
+						</movie></Document>

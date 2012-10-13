@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Training Day</title>
+    						<poster>http://www.filmaps.com/posters/0901081109000000</poster>
+    						<locations><location>
+    											<place>Croesus Avenue, Watts, Los Angeles</place>
+    										<scene> Imperial Courts Housing Project</scene>
+        									<coordinates>-118.234,33.9482</coordinates>
+        									</location></locations>
+						</movie></Document>

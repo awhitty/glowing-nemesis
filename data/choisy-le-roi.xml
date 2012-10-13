@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Villa Amalia</title>
+    						<poster>http://www.filmaps.com/posters/0906120637000000</poster>
+    						<locations><location>
+    											<place>Choisy-le-Roi, France</place>
+    										<scene>Appartament</scene>
+        									<coordinates>2.40883,48.7626</coordinates>
+        									</location></locations>
+						</movie></Document>

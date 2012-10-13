@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Italian Job</title>
+    						<poster>http://www.filmaps.com/posters/0901194335000000</poster>
+    						<locations><location>
+    											<place>Hansen Dam, San Fernando Valley, USA</place>
+    										<scene>A pursuit begins, with the good guys trying to escape to Union Station in their mini-Coopers, while Ed Norton chases them in a helicopter.</scene>
+        									<coordinates>-118.385,34.2603</coordinates>
+        									</location></locations>
+						</movie></Document>

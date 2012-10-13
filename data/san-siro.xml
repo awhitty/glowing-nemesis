@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Casino Royale</title>
+    						<poster>http://www.filmaps.com/posters/0901091928000000</poster>
+    						<locations><location>
+    											<place>46.039697,9.250789</place>
+    										<scene>Villa Gaeta. The last scene: The capture of Mr. White</scene>
+        									<coordinates>9.25054,46.0401</coordinates>
+        									</location></locations>
+						</movie></Document>

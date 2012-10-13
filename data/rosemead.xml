@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Fear and Loathing in Las Vegas</title>
+    						<poster>http://www.filmaps.com/posters/1001142829000000</poster>
+    						<locations><location>
+    											<place>Bahooka Family Restaurant, Rosemead, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.073,34.0803</coordinates>
+        									</location></locations>
+						</movie></Document>

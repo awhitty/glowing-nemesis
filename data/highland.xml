@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Highlander</title>
+    						<poster>http://www.filmaps.com/posters/0912313947000000</poster>
+    						<locations><location>
+    											<place>Eilean Donan Castle, Dornie, UK</place>
+    										<scene>Training figther scene in Scotland lands</scene>
+        									<coordinates>-5.51563,57.2736</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The World is Not Enough (007)</title>
+    						<poster>http://www.filmaps.com/posters/0911292937000000</poster>
+    						<locations><location>
+    											<place>Eilean Donan Castle, Dornie, UK</place>
+    										<scene></scene>
+        									<coordinates>-5.51588,57.2744</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Now, Voyager</title>
+    						<poster>http://www.filmaps.com/posters/0908060951000000</poster>
+    						<locations><location>
+    											<place>Lake Arrowhead, San Bernardino National Forest, USA</place>
+    										<scene></scene>
+        									<coordinates>-117.182,34.2516</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>Glenfinnan viaduct</place>
+    										<scene>the train</scene>
+        									<coordinates>-5.43121,56.8765</coordinates>
+        									</location><location>
+    											<place>loch shiel</place>
+    										<scene>the lake of Howarts</scene>
+        									<coordinates>-5.58456,56.7934</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>Glenfinnan viaduct</place>
+    										<scene>the train</scene>
+        									<coordinates>-5.43121,56.8765</coordinates>
+        									</location><location>
+    											<place>loch shiel</place>
+    										<scene>the lake of Howarts</scene>
+        									<coordinates>-5.58456,56.7934</coordinates>
+        									</location></locations>
+						</movie></Document>

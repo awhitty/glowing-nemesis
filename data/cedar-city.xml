@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Planet of the Apes</title>
+    						<poster>http://www.filmaps.com/posters/0902082603000000</poster>
+    						<locations><location>
+    											<place>Glen Canyon, Utah, USA</place>
+    										<scene></scene>
+        									<coordinates>-113.103,37.6737</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Union Pacific</title>
+    						<poster>http://www.filmaps.com/posters/0909184712000000</poster>
+    						<locations><location>
+    											<place>Cedar City, Utah, USA </place>
+    										<scene>Indian attack</scene>
+        									<coordinates>-113.089,37.6812</coordinates>
+        									</location><location>
+    											<place>Iron Spring, Cedar City, Utah, USA </place>
+    										<scene>Wyoming</scene>
+        									<coordinates>-113.118,37.7724</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Union Pacific</title>
+    						<poster>http://www.filmaps.com/posters/0909184712000000</poster>
+    						<locations><location>
+    											<place>Cedar City, Utah, USA </place>
+    										<scene>Indian attack</scene>
+        									<coordinates>-113.089,37.6812</coordinates>
+        									</location><location>
+    											<place>Iron Spring, Cedar City, Utah, USA </place>
+    										<scene>Wyoming</scene>
+        									<coordinates>-113.118,37.7724</coordinates>
+        									</location></locations>
+						</movie></Document>

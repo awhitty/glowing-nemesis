@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hope and Glory</title>
+    						<poster>http://www.filmaps.com/posters/0911114150000000</poster>
+    						<locations><location>
+    											<place>Croydon, Surrey, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.100488,51.3724</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Peep Show</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Croydon, London</place>
+    										<scene>Flat they share</scene>
+        									<coordinates>-0.100528,51.3725</coordinates>
+        									</location></locations>
+						</movie></Document>

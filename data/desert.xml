@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ace in the Hole</title>
+    						<poster>http://www.filmaps.com/posters/0909124818000000</poster>
+    						<locations><location>
+    											<place>New Mexico Desert, New Mexico, USA </place>
+    										<scene></scene>
+        									<coordinates>-106.19,32.2069</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Valkyrie</title>
+    						<poster>http://www.filmaps.com/posters/0909215507000000</poster>
+    						<locations><location>
+    											<place>Lucerne Valley, Mojave Desert, California</place>
+    										<scene>algunas escenas de aviones</scene>
+        									<coordinates>-115.314,35.5249</coordinates>
+        									</location></locations>
+						</movie></Document>

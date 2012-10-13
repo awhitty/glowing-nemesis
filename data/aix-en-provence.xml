@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Love Actually</title>
+    						<poster>http://www.filmaps.com/posters/0901081631000000</poster>
+    						<locations><location>
+    											<place>Aix-en-Provence, Bouches-du-Rhône, France</place>
+    										<scene>proposal</scene>
+        									<coordinates>5.45348,43.5246</coordinates>
+        									</location></locations>
+						</movie></Document>

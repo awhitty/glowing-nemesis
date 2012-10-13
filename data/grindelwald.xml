@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Star Wars Episode III: Revenge of the Sith</title>
+    						<poster>http://www.filmaps.com/posters/1110270715000000.jpg</poster>
+    						<locations><location>
+    											<place>Grindelwald, switzerland</place>
+    										<scene>For the backdrops on planet Alderaan, actual photography of the mountains of Grindelwald was digitally enhanced.</scene>
+        									<coordinates>8.03117,46.6247</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Villa Amalia</title>
+    						<poster>http://www.filmaps.com/posters/0906120637000000</poster>
+    						<locations><location>
+    											<place>CH 3801 Kleine Scheidegg Switzerland</place>
+    										<scene>Motel des Alpes</scene>
+        									<coordinates>7.96123,46.5862</coordinates>
+        									</location></locations>
+						</movie></Document>

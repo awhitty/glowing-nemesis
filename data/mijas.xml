@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Les bijoutiers du clair de lune </title>
+    						<poster>http://www.filmaps.com/posters/1101211548000000</poster>
+    						<locations><location>
+    											<place>Mijas Pueblo</place>
+    										<scene>calle San Sebastián, La Muralla</scene>
+        									<coordinates>-4.62509,36.563</coordinates>
+        									</location><location>
+    											<place>Mijas Pueblo (Málaga)</place>
+    										<scene>Plaza de Toros, La Muralla, Calle San Sebastián</scene>
+        									<coordinates>-4.62497,36.5628</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Les bijoutiers du clair de lune </title>
+    						<poster>http://www.filmaps.com/posters/1101211548000000</poster>
+    						<locations><location>
+    											<place>Mijas Pueblo</place>
+    										<scene>calle San Sebastián, La Muralla</scene>
+        									<coordinates>-4.62509,36.563</coordinates>
+        									</location><location>
+    											<place>Mijas Pueblo (Málaga)</place>
+    										<scene>Plaza de Toros, La Muralla, Calle San Sebastián</scene>
+        									<coordinates>-4.62497,36.5628</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>guns of darkness</title>
+    						<poster>http://www.filmaps.com/posters/1101212804000000</poster>
+    						<locations><location>
+    											<place>Mijas Pueblo (Málaga)</place>
+    										<scene></scene>
+        									<coordinates>-4.62505,36.563</coordinates>
+        									</location></locations>
+						</movie></Document>

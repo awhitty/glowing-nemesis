@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Slumdog Millionaire</title>
+    						<poster>http://www.filmaps.com/posters/0902074328000000</poster>
+    						<locations><location>
+    											<place>Agra, India</place>
+    										<scene>Jamal is a visitor guide in Taj Majal tourism area</scene>
+        									<coordinates>78.0093,27.1778</coordinates>
+        									</location><location>
+    											<place>taj majal, india</place>
+    										<scene>Jamal is a visitor guide in Taj Majal tourism area</scene>
+        									<coordinates>78.0421,27.1734</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Slumdog Millionaire</title>
+    						<poster>http://www.filmaps.com/posters/0902074328000000</poster>
+    						<locations><location>
+    											<place>Agra, India</place>
+    										<scene>Jamal is a visitor guide in Taj Majal tourism area</scene>
+        									<coordinates>78.0093,27.1778</coordinates>
+        									</location><location>
+    											<place>taj majal, india</place>
+    										<scene>Jamal is a visitor guide in Taj Majal tourism area</scene>
+        									<coordinates>78.0421,27.1734</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Fall</title>
+    						<poster>http://www.filmaps.com/posters/0903135750000000</poster>
+    						<locations><location>
+    											<place>Agra Fort, Agra, Uttar Pradesh, India</place>
+    										<scene>1:09:09 - Taj Mahal in Agra</scene>
+        									<coordinates>78.0334,27.1834</coordinates>
+        									</location></locations>
+						</movie></Document>

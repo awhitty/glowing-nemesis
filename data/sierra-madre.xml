@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Psycho 3</title>
+    						<poster>http://www.filmaps.com/posters/1103305426000000</poster>
+    						<locations><location>
+    											<place>Kresting Court Sierra Madre </place>
+    										<scene>The bar that Duke walks into.</scene>
+        									<coordinates>-118.052,34.1625</coordinates>
+        									</location></locations>
+						</movie></Document>

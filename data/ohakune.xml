@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The lords of the rings</title>
+    						<poster>http://www.filmaps.com/posters/0901082858000000</poster>
+    						<locations><location>
+    											<place>Tongariro National Park</place>
+    										<scene>3 volcanoes apears</scene>
+        									<coordinates>175.57,-39.2886</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the insider</title>
+    						<poster>http://www.filmaps.com/posters/0911194006000000</poster>
+    						<locations><location>
+    											<place>duPont Manual High School, Louisville, KY</place>
+    										<scene></scene>
+        									<coordinates>-85.7593,38.2541</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Stripes</title>
+    						<poster>http://www.filmaps.com/posters/0911194147000000</poster>
+    						<locations><location>
+    											<place>613 W. Main St, Louisville, ky</place>
+    										<scene>Opening Apartment Scene</scene>
+        									<coordinates>-85.76,38.2569</coordinates>
+        									</location></locations>
+						</movie></Document>

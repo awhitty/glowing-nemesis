@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the walker</title>
+    						<poster>http://www.filmaps.com/posters/0902253327000000</poster>
+    						<locations><location>
+    											<place>Isle of Man</place>
+    										<scene></scene>
+        									<coordinates>-4.54803,54.2361</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Owd Bob</title>
+    						<poster>http://www.filmaps.com/posters/0906235011000000</poster>
+    						<locations><location>
+    											<place>Isle of Man</place>
+    										<scene></scene>
+        									<coordinates>-4.5286,54.2421</coordinates>
+        									</location></locations>
+						</movie></Document>

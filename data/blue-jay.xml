@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>House M. D.</title>
+    						<poster>http://www.filmaps.com/posters/0901075337000000</poster>
+    						<locations><location>
+    											<place>lake arrrowhead resort, lake arrowhead, ca</place>
+    										<scene>Hotel with conference center</scene>
+        									<coordinates>-117.191,34.2519</coordinates>
+        									</location></locations>
+						</movie></Document>

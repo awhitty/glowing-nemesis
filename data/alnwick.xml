@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>Alnwick, uk</place>
+    										<scene>Alnwick Castle</scene>
+        									<coordinates>-1.7062,55.4156</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Robin Hood: Prince of Thieves</title>
+    						<poster>http://www.filmaps.com/posters/0911040301000000</poster>
+    						<locations><location>
+    											<place>Alnwick Castle, Alnwick, Northumberland, England, UK</place>
+    										<scene>Alnwick Castle</scene>
+        									<coordinates>-1.70658,55.4156</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Becket</title>
+    						<poster>http://www.filmaps.com/posters/1001313013000000</poster>
+    						<locations><location>
+    											<place>Alnwick, UK</place>
+    										<scene>castle scenes</scene>
+        									<coordinates>-1.70607,55.4148</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Monk Dawson</title>
+    						<poster>http://www.filmaps.com/posters/1108282004000000.jpg</poster>
+    						<locations><location>
+    											<place>Alnwick, Northumberland, England, UK</place>
+    										<scene>Alnwick Castle images</scene>
+        									<coordinates>-1.70625,55.4151</coordinates>
+        									</location></locations>
+						</movie></Document>

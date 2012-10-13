@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>2012</title>
+    						<poster>http://www.filmaps.com/posters/0910302858000000</poster>
+    						<locations><location>
+    											<place>Yellowstone National Park, WY, USA</place>
+    										<scene>part of Yellowstone Eruption scene</scene>
+        									<coordinates>-110.832,44.4576</coordinates>
+        									</location></locations>
+						</movie></Document>

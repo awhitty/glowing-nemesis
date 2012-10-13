@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Schindler's List</title>
+    						<poster>http://www.filmaps.com/posters/0901153412000000</poster>
+    						<locations><location>
+    											<place>Kraków, Poland</place>
+    										<scene></scene>
+        									<coordinates>19.9452,50.0645</coordinates>
+        									</location></locations>
+						</movie></Document>

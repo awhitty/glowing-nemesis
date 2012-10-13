@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Wild Wild West</title>
+    						<poster>http://www.filmaps.com/posters/0901203318000000</poster>
+    						<locations><location>
+    											<place>Galisteo, New Mexico</place>
+    										<scene>Cook Ranch</scene>
+        									<coordinates>-105.947,35.3954</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Legion</title>
+    						<poster>http://www.filmaps.com/posters/1002103321000000</poster>
+    						<locations><location>
+    											<place>Galisteo, New Mexico</place>
+    										<scene>Diner</scene>
+        									<coordinates>-105.946,35.3954</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Missing</title>
+    						<poster>http://www.filmaps.com/posters/0909062023000000</poster>
+    						<locations><location>
+    											<place>Cook Ranch, Galisteo, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.947,35.3957</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Save Me</title>
+    						<poster>http://www.filmaps.com/posters/0912131329000000</poster>
+    						<locations><location>
+    											<place>Galisteo, NM</place>
+    										<scene>Almost all of the Movie</scene>
+        									<coordinates>-105.946,35.3954</coordinates>
+        									</location></locations>
+						</movie></Document>

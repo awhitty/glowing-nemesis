@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>SERRALLONGA</title>
+    						<poster>http://www.filmaps.com/posters/0902230807000000</poster>
+    						<locations><location>
+    											<place>Tavertet, Barcelona</place>
+    										<scene>Les Baumes</scene>
+        									<coordinates>2.41397,41.9937</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La Habitación de Fermat</title>
+    						<poster>http://www.filmaps.com/posters/1201075132000000.jpg</poster>
+    						<locations><location>
+    											<place>Pantano de Sau </place>
+    										<scene>Embalse que cruzan en barca</scene>
+        									<coordinates>2.38,41.9782</coordinates>
+        									</location></locations>
+						</movie></Document>

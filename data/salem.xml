@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>One Flew Over the Cuckoo's Nest</title>
+    						<poster>http://www.filmaps.com/posters/0912150343000000</poster>
+    						<locations><location>
+    											<place>Oregon State Mental Hospital, 2600 Center Street NE, Salem, Oregon, USA</place>
+    										<scene></scene>
+        									<coordinates>-123.003,44.9419</coordinates>
+        									</location></locations>
+						</movie></Document>

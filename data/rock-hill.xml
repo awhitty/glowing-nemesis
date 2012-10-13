@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Patriot</title>
+    						<poster>http://www.filmaps.com/posters/0901150535000000</poster>
+    						<locations><location>
+    											<place>Rock Hill, South Carolina</place>
+    										<scene></scene>
+        									<coordinates>-81.0274,34.9364</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Asylum</title>
+    						<poster>http://www.filmaps.com/posters/1202013158000000.jpg</poster>
+    						<locations><location>
+    											<place>Rock Hill, SC</place>
+    										<scene>Asylum</scene>
+        									<coordinates>-81.0248,34.9246</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Taking Chances</title>
+    						<poster>http://www.filmaps.com/posters/1202013655000000.jpg</poster>
+    						<locations><location>
+    											<place>Rock Hill, SC</place>
+    										<scene>Taking Chances</scene>
+        									<coordinates>-81.0252,34.925</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Walker Payne</title>
+    						<poster>http://www.filmaps.com/posters/1202060603000000.jpg</poster>
+    						<locations><location>
+    											<place>Rock Hill, SC</place>
+    										<scene>Walker Payne</scene>
+        									<coordinates>-81.0251,34.9249</coordinates>
+        									</location></locations>
+						</movie></Document>

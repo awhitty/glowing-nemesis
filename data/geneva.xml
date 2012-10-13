@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Unbearable Lightness of Being</title>
+    						<poster>http://www.filmaps.com/posters/0908133429000000</poster>
+    						<locations><location>
+    											<place>Geneva, Canton de Genève, Switzerland</place>
+    										<scene></scene>
+        									<coordinates>6.14004,46.2039</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Syriana</title>
+    						<poster>http://www.filmaps.com/posters/1001100652000000</poster>
+    						<locations><location>
+    											<place>Quai Wilson 47, 1201 Genève, Switzerland</place>
+    										<scene>Hotel President Wilson scene</scene>
+        									<coordinates>6.15178,46.2144</coordinates>
+        									</location><location>
+    											<place>geneva, switzerland</place>
+    										<scene>This complex story contains a scene at the Hotel President Wilson, which was filmed in downtown Geneva.</scene>
+        									<coordinates>6.14253,46.1982</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Syriana</title>
+    						<poster>http://www.filmaps.com/posters/1001100652000000</poster>
+    						<locations><location>
+    											<place>Quai Wilson 47, 1201 Genève, Switzerland</place>
+    										<scene>Hotel President Wilson scene</scene>
+        									<coordinates>6.15178,46.2144</coordinates>
+        									</location><location>
+    											<place>geneva, switzerland</place>
+    										<scene>This complex story contains a scene at the Hotel President Wilson, which was filmed in downtown Geneva.</scene>
+        									<coordinates>6.14253,46.1982</coordinates>
+        									</location></locations>
+						</movie></Document>

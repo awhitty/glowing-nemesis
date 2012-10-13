@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Adventures of Robin Hood </title>
+    						<poster>http://www.filmaps.com/posters/0909125315000000</poster>
+    						<locations><location>
+    											<place>Manzanita Avenue, Chico, California, USA</place>
+    										<scene>Sherwood Forest scenes</scene>
+        									<coordinates>-121.818,39.7564</coordinates>
+        									</location></locations>
+						</movie></Document>

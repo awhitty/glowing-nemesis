@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The sound of music</title>
+    						<poster>http://www.filmaps.com/posters/0903240842000000</poster>
+    						<locations><location>
+    											<place>Schloss Leopoldskron, Salzburg, Austria</place>
+    										<scene>Lakeside scenes of Family Von Trapp's house</scene>
+        									<coordinates>13.0385,47.7884</coordinates>
+        									</location></locations>
+						</movie></Document>

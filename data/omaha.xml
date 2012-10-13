@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>About Schmidt</title>
+    						<poster>http://www.filmaps.com/posters/0907292039000000</poster>
+    						<locations><location>
+    											<place>Dundee, Nebraska, USA</place>
+    										<scene></scene>
+        									<coordinates>-95.9859,41.2684</coordinates>
+        									</location><location>
+    											<place>Millard, Nebraska, USA</place>
+    										<scene></scene>
+        									<coordinates>-96.1238,41.2103</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>About Schmidt</title>
+    						<poster>http://www.filmaps.com/posters/0907292039000000</poster>
+    						<locations><location>
+    											<place>Dundee, Nebraska, USA</place>
+    										<scene></scene>
+        									<coordinates>-95.9859,41.2684</coordinates>
+        									</location><location>
+    											<place>Millard, Nebraska, USA</place>
+    										<scene></scene>
+        									<coordinates>-96.1238,41.2103</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Citizen Ruth</title>
+    						<poster>http://www.filmaps.com/posters/1105234019000000</poster>
+    						<locations><location>
+    											<place>Dundee, Omaha, Nebraska</place>
+    										<scene>"Ruth" Laura Dern, is picked up by police for huffing paint. </scene>
+        									<coordinates>-95.9861,41.2682</coordinates>
+        									</location></locations>
+						</movie></Document>

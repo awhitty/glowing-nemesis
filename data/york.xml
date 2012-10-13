@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gospel Hill</title>
+    						<poster>http://www.filmaps.com/posters/1202010240000000.jpg</poster>
+    						<locations><location>
+    											<place>York, SC</place>
+    										<scene>Gospel Hill</scene>
+        									<coordinates>-81.2419,34.9944</coordinates>
+        									</location></locations>
+						</movie></Document>

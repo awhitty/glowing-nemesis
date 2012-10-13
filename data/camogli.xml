@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Genova</title>
+    						<poster>http://www.filmaps.com/posters/0905093111000000</poster>
+    						<locations><location>
+    											<place>Camogli, Genoa, Liguria, Italy</place>
+    										<scene></scene>
+        									<coordinates>9.15613,44.3487</coordinates>
+        									</location></locations>
+						</movie></Document>

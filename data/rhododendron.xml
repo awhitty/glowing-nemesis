@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>shining</title>
+    						<poster>http://www.filmaps.com/posters/0904035230000000</poster>
+    						<locations><location>
+    											<place>Timberline lodge</place>
+    										<scene>the overlook hotel</scene>
+        									<coordinates>-121.71,45.3311</coordinates>
+        									</location></locations>
+						</movie></Document>

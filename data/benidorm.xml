@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Asterix at the Olympic Games</title>
+    						<poster>http://www.filmaps.com/posters/0910164704000000</poster>
+    						<locations><location>
+    											<place>terra mitica, benidorm</place>
+    										<scene></scene>
+        									<coordinates>-0.158905,38.5617</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Préstamela esta noche</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Benidorm, Alicante, España</place>
+    										<scene></scene>
+        									<coordinates>-0.128993,38.5371</coordinates>
+        									</location></locations>
+						</movie></Document>

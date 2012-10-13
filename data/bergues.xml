@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bienvenidos al norte (francia)</title>
+    						<poster>http://www.filmaps.com/posters/0901290351000000</poster>
+    						<locations><location>
+    											<place>bergues, Nord-Pas de Calais</place>
+    										<scene>Pueblecito del norte de francia donde sucede la peli</scene>
+        									<coordinates>2.43278,50.9688</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bienvenue chez les Ch'tis</title>
+    						<poster>http://www.filmaps.com/posters/0901093021000000</poster>
+    						<locations><location>
+    											<place>bergues, Nord-Pas de Calais</place>
+    										<scene></scene>
+        									<coordinates>2.4328,50.9688</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Wild Wild West</title>
+    						<poster>http://www.filmaps.com/posters/0901203318000000</poster>
+    						<locations><location>
+    											<place>Lake Piru, California</place>
+    										<scene></scene>
+        									<coordinates>-118.75,34.4906</coordinates>
+        									</location></locations>
+						</movie></Document>

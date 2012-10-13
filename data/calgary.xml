@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Superman</title>
+    						<poster>http://www.filmaps.com/posters/0901154206000000</poster>
+    						<locations><location>
+    											<place>Calgary, Canada</place>
+    										<scene></scene>
+        									<coordinates>-114.062,51.0552</coordinates>
+        									</location></locations>
+						</movie></Document>

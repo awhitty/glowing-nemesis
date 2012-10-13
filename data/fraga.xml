@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jamón Jamón</title>
+    						<poster>http://www.filmaps.com/posters/0902155945000000</poster>
+    						<locations><location>
+    											<place>Fraga, Huesca</place>
+    										<scene>Bar de carretera</scene>
+        									<coordinates>0.267105,41.5158</coordinates>
+        									</location></locations>
+						</movie></Document>

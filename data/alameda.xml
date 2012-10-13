@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Pursuit of Happyness</title>
+    						<poster>http://www.filmaps.com/posters/0901092737000000</poster>
+    						<locations><location>
+    											<place>Alameda, California</place>
+    										<scene></scene>
+        									<coordinates>-122.276,37.7762</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>What dreams may come</title>
+    						<poster>http://www.filmaps.com/posters/0903052854000000</poster>
+    						<locations><location>
+    											<place>Alameda, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-122.278,37.7754</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the rainmaker</title>
+    						<poster>http://www.filmaps.com/posters/0908062337000000</poster>
+    						<locations><location>
+    											<place>Alameda, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-122.276,37.776</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Fireflies in the Garden</title>
+    						<poster>http://www.filmaps.com/posters/0903224256000000</poster>
+    						<locations><location>
+    											<place>Smithville, Texas</place>
+    										<scene></scene>
+        									<coordinates>-97.1468,30.0029</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>Leavesden Studios</place>
+    										<scene>Privet Drive Film Set</scene>
+        									<coordinates>-0.421128,51.691</coordinates>
+        									</location></locations>
+						</movie></Document>

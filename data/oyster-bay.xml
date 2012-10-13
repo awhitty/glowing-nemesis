@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Two weeks notice</title>
+    						<poster>http://www.filmaps.com/posters/1001244816000000</poster>
+    						<locations><location>
+    											<place>Muttontown Country Club, East Norwich, New York, USA</place>
+    										<scene>club and tennis scene</scene>
+        									<coordinates>-73.5549,40.8417</coordinates>
+        									</location></locations>
+						</movie></Document>

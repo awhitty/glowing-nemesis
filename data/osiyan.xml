@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Darjeeling Limited</title>
+    						<poster>http://www.filmaps.com/posters/1106082233000000</poster>
+    						<locations><location>
+    											<place>Osian, Rajasthan, India</place>
+    										<scene></scene>
+        									<coordinates>72.9101,26.7259</coordinates>
+        									</location></locations>
+						</movie></Document>

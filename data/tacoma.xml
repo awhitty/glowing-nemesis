@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>10 things i hate about you</title>
+    						<poster>http://www.filmaps.com/posters/0901283311000000</poster>
+    						<locations><location>
+    											<place>Exteriors in and around Tacoma, Washington</place>
+    										<scene>Stadium High School became "Verona High". </scene>
+        									<coordinates>-122.448,47.266</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>I Love You To Death</title>
+    						<poster>http://www.filmaps.com/posters/1011063417000000</poster>
+    						<locations><location>
+    											<place>Tacoma, Washington</place>
+    										<scene>Kline's girlfriend lived above the (now) "Tully's" between  St.Helens and  Broadway.</scene>
+        									<coordinates>-122.441,47.2557</coordinates>
+        									</location><location>
+    											<place>Tacoma, Washington</place>
+    										<scene>Kline's character's house near North 30th and North Junett St..</scene>
+        									<coordinates>-122.475,47.2747</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>I Love You To Death</title>
+    						<poster>http://www.filmaps.com/posters/1011063417000000</poster>
+    						<locations><location>
+    											<place>Tacoma, Washington</place>
+    										<scene>Kline's girlfriend lived above the (now) "Tully's" between  St.Helens and  Broadway.</scene>
+        									<coordinates>-122.441,47.2557</coordinates>
+        									</location><location>
+    											<place>Tacoma, Washington</place>
+    										<scene>Kline's character's house near North 30th and North Junett St..</scene>
+        									<coordinates>-122.475,47.2747</coordinates>
+        									</location></locations>
+						</movie></Document>

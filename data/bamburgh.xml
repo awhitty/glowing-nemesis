@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>macbeth 1971</title>
+    						<poster>http://www.filmaps.com/posters/0904161555000000</poster>
+    						<locations><location>
+    											<place>Bamburgh, Northumberland, NE69 7DF, UK</place>
+    										<scene>Cawdor Castle, Dunsinane</scene>
+        									<coordinates>-1.7176,55.6079</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Becket</title>
+    						<poster>http://www.filmaps.com/posters/1001313013000000</poster>
+    						<locations><location>
+    											<place>Bamburgh Beach, Bamburgh, UK</place>
+    										<scene>beach scenes</scene>
+        									<coordinates>-1.70541,55.6122</coordinates>
+        									</location><location>
+    											<place>Bamburgh Castle, Bamburgh, Northumberland, UK</place>
+    										<scene>other castle scenes</scene>
+        									<coordinates>-1.70999,55.609</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Becket</title>
+    						<poster>http://www.filmaps.com/posters/1001313013000000</poster>
+    						<locations><location>
+    											<place>Bamburgh Beach, Bamburgh, UK</place>
+    										<scene>beach scenes</scene>
+        									<coordinates>-1.70541,55.6122</coordinates>
+        									</location><location>
+    											<place>Bamburgh Castle, Bamburgh, Northumberland, UK</place>
+    										<scene>other castle scenes</scene>
+        									<coordinates>-1.70999,55.609</coordinates>
+        									</location></locations>
+						</movie></Document>

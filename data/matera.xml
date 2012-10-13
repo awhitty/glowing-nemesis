@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the passion</title>
+    						<poster>http://www.filmaps.com/posters/0901274429000000</poster>
+    						<locations><location>
+    											<place>belvedere, matera</place>
+    										<scene></scene>
+        									<coordinates>16.606,40.6688</coordinates>
+        									</location><location>
+    											<place>sassi, matera</place>
+    										<scene>what ?</scene>
+        									<coordinates>16.6107,40.6666</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the passion</title>
+    						<poster>http://www.filmaps.com/posters/0901274429000000</poster>
+    						<locations><location>
+    											<place>belvedere, matera</place>
+    										<scene></scene>
+        									<coordinates>16.606,40.6688</coordinates>
+        									</location><location>
+    											<place>sassi, matera</place>
+    										<scene>what ?</scene>
+        									<coordinates>16.6107,40.6666</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La Pasión de Cristo</title>
+    						<poster>http://www.filmaps.com/posters/0906050355000000</poster>
+    						<locations><location>
+    											<place>Matera, italia</place>
+    										<scene>setting for the crucifixion scene</scene>
+        									<coordinates>16.6067,40.6688</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La lupa</title>
+    						<poster>http://www.filmaps.com/posters/1011161930000000</poster>
+    						<locations><location>
+    											<place>Matera, Italia</place>
+    										<scene></scene>
+        									<coordinates>16.6105,40.6667</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Passion of the Christ</title>
+    						<poster>http://www.filmaps.com/posters/1105172815000000</poster>
+    						<locations><location>
+    											<place>Matera</place>
+    										<scene>Crucifixtion</scene>
+        									<coordinates>16.6163,40.6639</coordinates>
+        									</location></locations>
+						</movie></Document>

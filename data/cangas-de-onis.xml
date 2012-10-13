@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Volver a empezar</title>
+    						<poster>http://www.filmaps.com/posters/0910024505000000</poster>
+    						<locations><location>
+    											<place>Covadonga, Cangas de Onís, Asturias</place>
+    										<scene>En la Basílica de Covadonga</scene>
+        									<coordinates>-5.05422,43.3084</coordinates>
+        									</location></locations>
+						</movie></Document>

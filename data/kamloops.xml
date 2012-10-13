@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>2012</title>
+    						<poster>http://www.filmaps.com/posters/0910302858000000</poster>
+    						<locations><location>
+    											<place>Kamloops, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-120.339,50.6767</coordinates>
+        									</location></locations>
+						</movie></Document>

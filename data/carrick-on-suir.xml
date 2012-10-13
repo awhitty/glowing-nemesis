@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Barry Lyndon</title>
+    						<poster>http://www.filmaps.com/posters/0903174512000000</poster>
+    						<locations><location>
+    											<place>Carrick-on-Suir, County Tipperary, Ireland</place>
+    										<scene>Redmond Barry enlists in the army</scene>
+        									<coordinates>-7.41477,52.3467</coordinates>
+        									</location></locations>
+						</movie></Document>

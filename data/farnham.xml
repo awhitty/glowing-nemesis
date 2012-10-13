@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gladiator</title>
+    						<poster>http://www.filmaps.com/posters/0901134132000000</poster>
+    						<locations><location>
+    											<place>Farnham, Surrey, England, UK</place>
+    										<scene>Opening battle scenes</scene>
+        									<coordinates>-0.794749,51.2136</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Inkheart</title>
+    						<poster>http://www.filmaps.com/posters/0908191846000000</poster>
+    						<locations><location>
+    											<place>Bourne Woods, Farnham, Surrey, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.795927,51.2139</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Robin Hood (2010)</title>
+    						<poster>http://www.filmaps.com/posters/1005153445000000</poster>
+    						<locations><location>
+    											<place>Bourne Woods, Farnham, Surrey, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.773678,51.1923</coordinates>
+        									</location></locations>
+						</movie></Document>

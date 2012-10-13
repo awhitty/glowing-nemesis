@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hoosiers</title>
+    						<poster>http://www.filmaps.com/posters/1103302823000000</poster>
+    						<locations><location>
+    											<place>Butler University, Indianapolis</place>
+    										<scene>The scenes from the Indiana state backetball finals were filmed at Hinkle Fieldhouse, on the Campus of Butler University.</scene>
+        									<coordinates>-86.1711,39.8422</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Winning</title>
+    						<poster>http://www.filmaps.com/posters/1107133733000000</poster>
+    						<locations><location>
+    											<place>Indianapolis Motor Speedway, Indianapolis</place>
+    										<scene>Racing scenes from the Indy 500</scene>
+        									<coordinates>-86.2058,39.785</coordinates>
+        									</location></locations>
+						</movie></Document>

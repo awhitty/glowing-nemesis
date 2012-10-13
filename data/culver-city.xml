@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gone with the wind</title>
+    						<poster>http://www.filmaps.com/posters/0901135805000000</poster>
+    						<locations><location>
+    											<place>10202 W. Washington Blvd., Culver City, California, USA</place>
+    										<scene>Rhett teaching Bonnie to ride pony & Bonnie's last ride</scene>
+        									<coordinates>-118.4,34.0199</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Superbad</title>
+    						<poster>http://www.filmaps.com/posters/0908084919000000</poster>
+    						<locations><location>
+    											<place>294 Fox Hills Mall, Culver City, California, USA</place>
+    										<scene>Mall scene</scene>
+        									<coordinates>-118.395,33.9849</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pulse</title>
+    						<poster>http://www.filmaps.com/posters/0908131521000000</poster>
+    						<locations><location>
+    											<place>Los Angeles, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.383,33.9903</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>E.T.</title>
+    						<poster>http://www.filmaps.com/posters/0902034235000000</poster>
+    						<locations><location>
+    											<place>Culver City</place>
+    										<scene></scene>
+        									<coordinates>-118.396,34.0214</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>North By Northwest</title>
+    						<poster>http://www.filmaps.com/posters/0903215651000000</poster>
+    						<locations><location>
+    											<place>Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA </place>
+    										<scene></scene>
+        									<coordinates>-118.399,34.0199</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>airplane (aterriza como puedas)</title>
+    						<poster>http://www.filmaps.com/posters/1011295730000000</poster>
+    						<locations><location>
+    											<place>Culver City, California</place>
+    										<scene></scene>
+        									<coordinates>-118.396,34.0211</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Gran Lebowski</title>
+    						<poster>http://www.filmaps.com/posters/1201021457000000.jpg</poster>
+    						<locations><location>
+    											<place>Culver City, California, Estados Unidos</place>
+    										<scene>Scenes where the Corvette was damaged</scene>
+        									<coordinates>-118.396,34.0211</coordinates>
+        									</location><location>
+    											<place>Jefferson Blvd. at Duquesne Avenue, Culver City, California, Estados Unidos</place>
+    										<scene>The Dude gets kicked out of the taxi</scene>
+        									<coordinates>-118.388,34.0167</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Gran Lebowski</title>
+    						<poster>http://www.filmaps.com/posters/1201021457000000.jpg</poster>
+    						<locations><location>
+    											<place>Culver City, California, Estados Unidos</place>
+    										<scene>Scenes where the Corvette was damaged</scene>
+        									<coordinates>-118.396,34.0211</coordinates>
+        									</location><location>
+    											<place>Jefferson Blvd. at Duquesne Avenue, Culver City, California, Estados Unidos</place>
+    										<scene>The Dude gets kicked out of the taxi</scene>
+        									<coordinates>-118.388,34.0167</coordinates>
+        									</location></locations>
+						</movie></Document>

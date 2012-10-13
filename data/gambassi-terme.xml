@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gladiator</title>
+    						<poster>http://www.filmaps.com/posters/0901134132000000</poster>
+    						<locations><location>
+    											<place>tuscanny, italy</place>
+    										<scene>battle</scene>
+        									<coordinates>10.9772,43.5646</coordinates>
+        									</location></locations>
+						</movie></Document>

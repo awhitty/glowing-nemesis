@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Last Samurai (el último samurai)</title>
+    						<poster>http://www.filmaps.com/posters/0906255858000000</poster>
+    						<locations><location>
+    											<place>Mt. Shosha, Himeji</place>
+    										<scene>House of Ken Watanabe</scene>
+        									<coordinates>134.658,34.8896</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ran</title>
+    						<poster>http://www.filmaps.com/posters/1001290645000000</poster>
+    						<locations><location>
+    											<place>Himeji Castle, Himeji, Japan</place>
+    										<scene>Castle scenes</scene>
+        									<coordinates>134.694,34.8395</coordinates>
+        									</location></locations>
+						</movie></Document>

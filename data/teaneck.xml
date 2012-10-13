@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>meet joe black</title>
+    						<poster>http://www.filmaps.com/posters/0903165133000000</poster>
+    						<locations><location>
+    											<place>Teaneck, New Jersey, USA</place>
+    										<scene>tipical town in the movie</scene>
+        									<coordinates>-74.0111,40.893</coordinates>
+        									</location></locations>
+						</movie></Document>

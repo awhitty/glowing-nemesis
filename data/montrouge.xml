@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Paris</title>
+    						<poster>http://www.filmaps.com/posters/0901083301000000</poster>
+    						<locations><location>
+    											<place>Montrouge, Hauts-de-Seine, France</place>
+    										<scene></scene>
+        									<coordinates>2.31863,48.8188</coordinates>
+        									</location></locations>
+						</movie></Document>

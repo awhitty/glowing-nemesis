@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jaws</title>
+    						<poster>http://www.filmaps.com/posters/0901184748000000</poster>
+    						<locations><location>
+    											<place>Southern Ocean, South Australia, Australia</place>
+    										<scene></scene>
+        									<coordinates>120.339,-33.9475</coordinates>
+        									</location></locations>
+						</movie></Document>

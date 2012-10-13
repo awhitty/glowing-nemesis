@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mad Men</title>
+    						<poster>http://www.filmaps.com/posters/1012132703000000</poster>
+    						<locations><location>
+    											<place>7447 Firestone Blvd., Downey, CA 90241</place>
+    										<scene>Don Draper, Meg and children at California Diner</scene>
+        									<coordinates>-118.147,33.9478</coordinates>
+        									</location></locations>
+						</movie></Document>

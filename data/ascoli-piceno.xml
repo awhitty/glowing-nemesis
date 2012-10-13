@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>alfredo alfredo</title>
+    						<poster>http://www.filmaps.com/posters/0912041830000000</poster>
+    						<locations><location>
+    											<place>Piazza del Popolo, Ascoli Piceno, Italia</place>
+    										<scene>Dustin Hoffman walking</scene>
+        									<coordinates>13.575,42.8549</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>kandaswamy</title>
+    						<poster>http://www.filmaps.com/posters/0912042033000000</poster>
+    						<locations><location>
+    											<place>Teatro Ventidio Basso, Ascoli Piceno, Italia</place>
+    										<scene>actress singing allegra</scene>
+        									<coordinates>13.5749,42.8553</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>I delfini</title>
+    						<poster>http://www.filmaps.com/posters/0912043053000000</poster>
+    						<locations><location>
+    											<place>Ascoli Piceno, Italia</place>
+    										<scene>Claudia Cardinale nella sonnolenta provincia italiana</scene>
+        									<coordinates>13.575,42.8554</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>star wars - episode II</title>
+    						<poster>http://www.filmaps.com/posters/0901070814000000</poster>
+    						<locations><location>
+    											<place>villa balbianello, italy</place>
+    										<scene>Romance Anakin with princess in Lake Como</scene>
+        									<coordinates>9.2025,45.965</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>007 Casino Royale</title>
+    						<poster>http://www.filmaps.com/posters/0901091928000000</poster>
+    						<locations><location>
+    											<place>45.965395,9.202445</place>
+    										<scene>Villa Balbianello, James Bond convalesces after being tortured</scene>
+        									<coordinates>9.2016,45.9679</coordinates>
+        									</location></locations>
+						</movie></Document>

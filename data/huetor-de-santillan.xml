@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>indiana jones</title>
+    						<poster>http://www.filmaps.com/posters/1206102252000000.jpg</poster>
+    						<locations><location>
+    											<place>prado negro</place>
+    										<scene>jones hijo y padre en un sidecar  mirando panel indicativo de berlin</scene>
+        									<coordinates>-3.46393,37.3068</coordinates>
+        									</location></locations>
+						</movie></Document>

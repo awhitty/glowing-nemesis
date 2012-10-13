@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lady hawke</title>
+    						<poster>http://www.filmaps.com/posters/0904144846000000</poster>
+    						<locations><location>
+    											<place>Canale Monterano</place>
+    										<scene>Minor scenes</scene>
+        									<coordinates>12.0783,42.1335</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>il marchese del grillo</title>
+    						<poster>http://www.filmaps.com/posters/1105173256000000</poster>
+    						<locations><location>
+    											<place>Canale Monterano</place>
+    										<scene>Incontro con Don Bastiano</scene>
+        									<coordinates>12.0757,42.1335</coordinates>
+        									</location></locations>
+						</movie></Document>

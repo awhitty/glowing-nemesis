@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La ventana</title>
+    						<poster>http://www.filmaps.com/posters/0912060344000000</poster>
+    						<locations><location>
+    											<place>Bahía Blanca, Argentina</place>
+    										<scene></scene>
+        									<coordinates>-62.2689,-38.7101</coordinates>
+        									</location></locations>
+						</movie></Document>

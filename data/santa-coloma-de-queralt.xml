@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Spanish Movie</title>
+    						<poster>http://www.filmaps.com/posters/0912125438000000</poster>
+    						<locations><location>
+    											<place>Santa Coloma de Queralt, Tarragona</place>
+    										<scene></scene>
+        									<coordinates>1.38165,41.5307</coordinates>
+        									</location></locations>
+						</movie></Document>

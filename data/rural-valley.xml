@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Silence of the Lambs</title>
+    						<poster>http://www.filmaps.com/posters/0912151726000000</poster>
+    						<locations><location>
+    											<place>Rural Valley, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-79.3145,40.7992</coordinates>
+        									</location><location>
+    											<place>304 Main St W, Rural Valley, PA</place>
+    										<scene>Grieg Funeral Home Exterior</scene>
+        									<coordinates>-79.3234,40.8</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Silence of the Lambs</title>
+    						<poster>http://www.filmaps.com/posters/0912151726000000</poster>
+    						<locations><location>
+    											<place>Rural Valley, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-79.3145,40.7992</coordinates>
+        									</location><location>
+    											<place>304 Main St W, Rural Valley, PA</place>
+    										<scene>Grieg Funeral Home Exterior</scene>
+        									<coordinates>-79.3234,40.8</coordinates>
+        									</location></locations>
+						</movie></Document>

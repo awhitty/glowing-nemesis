@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Prison Break</title>
+    						<poster>http://www.filmaps.com/posters/0901210526000000</poster>
+    						<locations><location>
+    											<place>Frisco, Texas</place>
+    										<scene></scene>
+        									<coordinates>-96.7879,33.1531</coordinates>
+        									</location></locations>
+						</movie></Document>

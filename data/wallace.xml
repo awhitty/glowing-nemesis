@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dante's Peak</title>
+    						<poster>http://www.filmaps.com/posters/0908155142000000</poster>
+    						<locations><location>
+    											<place>Wallace, Idaho, USA</place>
+    										<scene>Town exteriors scenes</scene>
+        									<coordinates>-115.927,47.4739</coordinates>
+        									</location></locations>
+						</movie></Document>

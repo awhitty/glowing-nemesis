@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Cleopatra</title>
+    						<poster>http://www.filmaps.com/posters/0901155733000000</poster>
+    						<locations><location>
+    											<place>Egypt</place>
+    										<scene></scene>
+        									<coordinates>30.8027,26.8207</coordinates>
+        									</location></locations>
+						</movie></Document>

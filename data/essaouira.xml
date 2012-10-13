@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Rendition</title>
+    						<poster>http://www.filmaps.com/posters/0905010747000000</poster>
+    						<locations><location>
+    											<place>Essaouira, Morocco</place>
+    										<scene>harbour scene</scene>
+        									<coordinates>-9.76204,31.4984</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>alexander</title>
+    						<poster>http://www.filmaps.com/posters/0905240105000000</poster>
+    						<locations><location>
+    											<place>Essaouira, Morocco</place>
+    										<scene></scene>
+        									<coordinates>-9.76219,31.4986</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La mala educación</title>
+    						<poster>http://www.filmaps.com/posters/0910050727000000</poster>
+    						<locations><location>
+    											<place>Antiguos cines Tyris, en la avenida Reino de Valencia, en Valencia</place>
+    										<scene>Los protagonistas planean asesinar al hermano de uno de ellos y amante del otro.</scene>
+        									<coordinates>-0.372505,39.4645</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Tranvía a la Malvarrosa</title>
+    						<poster>http://www.filmaps.com/posters/0911243419000000</poster>
+    						<locations><location>
+    											<place>Valencia</place>
+    										<scene></scene>
+        									<coordinates>-0.324826,39.4666</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Todos a la cárcel</title>
+    						<poster>http://www.filmaps.com/posters/0911243857000000</poster>
+    						<locations><location>
+    											<place>Valencia, España</place>
+    										<scene></scene>
+        									<coordinates>-0.389071,39.4765</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dick and Jane</title>
+    						<poster>http://www.filmaps.com/posters/1101174858000000</poster>
+    						<locations><location>
+    											<place>Santa Clarita, CA</place>
+    										<scene></scene>
+        									<coordinates>-118.548,34.3944</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bad teacher</title>
+    						<poster>http://www.filmaps.com/posters/1107091647000000</poster>
+    						<locations><location>
+    											<place>Santa Clarita, CA, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.548,34.3947</coordinates>
+        									</location></locations>
+						</movie></Document>

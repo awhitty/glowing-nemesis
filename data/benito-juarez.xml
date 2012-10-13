@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Romeo + Juliet</title>
+    						<poster>http://www.filmaps.com/posters/0909241823000000</poster>
+    						<locations><location>
+    											<place>Gabriel Mancera, Ciudad de México</place>
+    										<scene>Tomas aéreas de la Iglesia, cuando Romeo entra a ver al padre y cuando se esconde después de matar a Tibaldo</scene>
+        									<coordinates>-99.1615,19.3966</coordinates>
+        									</location></locations>
+						</movie></Document>

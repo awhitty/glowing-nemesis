@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dumb and Dumber</title>
+    						<poster>http://www.filmaps.com/posters/0902051117000000</poster>
+    						<locations><location>
+    											<place>Salt Lake CIty, UT</place>
+    										<scene>The Salt Lake International Airport was used to film the airport scene when the breifcase is stolen</scene>
+        									<coordinates>-111.888,40.7716</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>high school musical 3</title>
+    						<poster>http://www.filmaps.com/posters/0912083444000000</poster>
+    						<locations><location>
+    											<place>salt lake city usa</place>
+    										<scene></scene>
+        									<coordinates>-111.891,40.761</coordinates>
+        									</location><location>
+    											<place>840 S 1300 E, Salt Lake City, Utah, USA</place>
+    										<scene>East High School</scene>
+        									<coordinates>-111.855,40.7509</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>high school musical 3</title>
+    						<poster>http://www.filmaps.com/posters/0912083444000000</poster>
+    						<locations><location>
+    											<place>salt lake city usa</place>
+    										<scene></scene>
+        									<coordinates>-111.891,40.761</coordinates>
+        									</location><location>
+    											<place>840 S 1300 E, Salt Lake City, Utah, USA</place>
+    										<scene>East High School</scene>
+        									<coordinates>-111.855,40.7509</coordinates>
+        									</location></locations>
+						</movie></Document>

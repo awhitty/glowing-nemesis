@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>papillon</title>
+    						<poster>http://www.filmaps.com/posters/0906250101000000</poster>
+    						<locations><location>
+    											<place>St Laurent du Maroni, French Guiana</place>
+    										<scene>closing sequence. Camp de la Transportation</scene>
+        									<coordinates>-54.0315,5.50064</coordinates>
+        									</location></locations>
+						</movie></Document>

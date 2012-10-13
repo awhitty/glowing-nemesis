@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gladiator</title>
+    						<poster>http://www.filmaps.com/posters/0901134132000000</poster>
+    						<locations><location>
+    											<place>Ait Benhaddou, Ouarzazate, Morocco</place>
+    										<scene>Gladitorial fight</scene>
+        									<coordinates>-7.12943,31.0482</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>alexander</title>
+    						<poster>http://www.filmaps.com/posters/0905240105000000</poster>
+    						<locations><location>
+    											<place>Ait Benhaddou, Morocco</place>
+    										<scene></scene>
+        									<coordinates>-7.13002,31.0474</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Jesus of Nazareth </title>
+    						<poster>http://www.filmaps.com/posters/1105200616000000</poster>
+    						<locations><location>
+    											<place>Ait Benhaddou, Ouarzazate, Morocco</place>
+    										<scene></scene>
+        									<coordinates>-7.12994,31.0473</coordinates>
+        									</location></locations>
+						</movie></Document>

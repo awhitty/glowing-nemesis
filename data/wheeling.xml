@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>super 8</title>
+    						<poster>http://www.filmaps.com/posters/1107051532000000</poster>
+    						<locations><location>
+    											<place>Wheeling Ohio County Airport, Ohio County, West Virginia, USA</place>
+    										<scene>Wheeling Ohio Airport</scene>
+        									<coordinates>-80.6419,40.1752</coordinates>
+        									</location></locations>
+						</movie></Document>

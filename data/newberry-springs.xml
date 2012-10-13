@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bagdad Cafe</title>
+    						<poster>http://www.filmaps.com/posters/0912271306000000</poster>
+    						<locations><location>
+    											<place>Newberry Springs, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-116.688,34.8275</coordinates>
+        									</location><location>
+    											<place>6548 National Trails Highway, Newberry Springs, California, USA</place>
+    										<scene>cafe</scene>
+        									<coordinates>-116.531,34.7996</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bagdad Cafe</title>
+    						<poster>http://www.filmaps.com/posters/0912271306000000</poster>
+    						<locations><location>
+    											<place>Newberry Springs, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-116.688,34.8275</coordinates>
+        									</location><location>
+    											<place>6548 National Trails Highway, Newberry Springs, California, USA</place>
+    										<scene>cafe</scene>
+        									<coordinates>-116.531,34.7996</coordinates>
+        									</location></locations>
+						</movie></Document>

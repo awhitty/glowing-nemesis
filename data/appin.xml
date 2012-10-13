@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Monty Python and the Holy Grail</title>
+    						<poster>http://www.filmaps.com/posters/1106042639000000</poster>
+    						<locations><location>
+    											<place>Castle Stalker, Appin, Argyll and Bute, Scotland</place>
+    										<scene>Castle of Aaaargh</scene>
+        									<coordinates>-5.35995,56.5627</coordinates>
+        									</location></locations>
+						</movie></Document>

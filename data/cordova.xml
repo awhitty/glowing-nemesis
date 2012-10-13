@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hable con ella</title>
+    						<poster>http://www.filmaps.com/posters/0901191012000000</poster>
+    						<locations><location>
+    											<place>cordoba</place>
+    										<scene>entrando en el Hotel</scene>
+        									<coordinates>-4.77887,37.8844</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Carmen</title>
+    						<poster>http://www.filmaps.com/posters/0912072306000000</poster>
+    						<locations><location>
+    											<place>Córdoba, Andalucía, España</place>
+    										<scene></scene>
+        									<coordinates>-4.77933,37.8777</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Entre Lobos</title>
+    						<poster>http://www.filmaps.com/posters/1011262740000000</poster>
+    						<locations><location>
+    											<place>Los Pedroches, Córdoba</place>
+    										<scene>lugar donde tuvieron los hechos </scene>
+        									<coordinates>-4.77352,37.9208</coordinates>
+        									</location><location>
+    											<place>Pedroches</place>
+    										<scene>.</scene>
+        									<coordinates>-4.77675,37.9202</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Entre Lobos</title>
+    						<poster>http://www.filmaps.com/posters/1011262740000000</poster>
+    						<locations><location>
+    											<place>Los Pedroches, Córdoba</place>
+    										<scene>lugar donde tuvieron los hechos </scene>
+        									<coordinates>-4.77352,37.9208</coordinates>
+        									</location><location>
+    											<place>Pedroches</place>
+    										<scene>.</scene>
+        									<coordinates>-4.77675,37.9202</coordinates>
+        									</location></locations>
+						</movie></Document>

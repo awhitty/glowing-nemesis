@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>clockwork orange</title>
+    						<poster>http://www.filmaps.com/posters/0911103823000000</poster>
+    						<locations><location>
+    											<place>West Norwood Library london</place>
+    										<scene></scene>
+        									<coordinates>-75.302,39.8906</coordinates>
+        									</location></locations>
+						</movie></Document>

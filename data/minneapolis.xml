@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>fargo</title>
+    						<poster>http://www.filmaps.com/posters/0902095036000000</poster>
+    						<locations><location>
+    											<place>7525 Wayzata Boulevard, St. Louis Park, Minnesota, USA</place>
+    										<scene>mierda</scene>
+        									<coordinates>-93.3754,44.9708</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>A Serious Man</title>
+    						<poster>http://www.filmaps.com/posters/1001084354000000</poster>
+    						<locations><location>
+    											<place>9700 France Ave S Minneapolis, MN, USA</place>
+    										<scene>Office scene (Normandale Community College)</scene>
+        									<coordinates>-93.3315,44.8294</coordinates>
+        									</location><location>
+    											<place>5034 Oliver Avenue North Minneapolis, MN</place>
+    										<scene>School</scene>
+        									<coordinates>-93.3078,45.0465</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>A Serious Man</title>
+    						<poster>http://www.filmaps.com/posters/1001084354000000</poster>
+    						<locations><location>
+    											<place>9700 France Ave S Minneapolis, MN, USA</place>
+    										<scene>Office scene (Normandale Community College)</scene>
+        									<coordinates>-93.3315,44.8294</coordinates>
+        									</location><location>
+    											<place>5034 Oliver Avenue North Minneapolis, MN</place>
+    										<scene>School</scene>
+        									<coordinates>-93.3078,45.0465</coordinates>
+        									</location></locations>
+						</movie></Document>

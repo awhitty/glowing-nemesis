@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>No Country for Old Men</title>
+    						<poster>http://www.filmaps.com/posters/0902094211000000</poster>
+    						<locations><location>
+    											<place>Piedras Negras, Coahuíla, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-100.523,28.7004</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>no es pais para viejos</title>
+    						<poster>http://www.filmaps.com/posters/0911210547000000</poster>
+    						<locations><location>
+    											<place>Piedras Negras, Coahuíla, México</place>
+    										<scene>.</scene>
+        									<coordinates>-100.525,28.698</coordinates>
+        									</location></locations>
+						</movie></Document>

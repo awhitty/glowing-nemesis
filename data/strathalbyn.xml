@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Picnic at Hanging Rock</title>
+    						<poster>http://www.filmaps.com/posters/0910183845000000</poster>
+    						<locations><location>
+    											<place>Albyn Terrace, Strathalbyn, South Australia, Australia</place>
+    										<scene>Woodend</scene>
+        									<coordinates>138.89,-35.2596</coordinates>
+        									</location></locations>
+						</movie></Document>

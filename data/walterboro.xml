@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Radio</title>
+    						<poster>http://www.filmaps.com/posters/1202013836000000.jpg</poster>
+    						<locations><location>
+    											<place>Walterboro, SC</place>
+    										<scene>Radio</scene>
+        									<coordinates>-80.667,32.9049</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ace Ventura: When Nature Calls</title>
+    						<poster>http://www.filmaps.com/posters/1202064803000000.jpg</poster>
+    						<locations><location>
+    											<place>Colleton, SC</place>
+    										<scene>Ace Ventura: When Nature Calls</scene>
+        									<coordinates>-80.7216,32.8241</coordinates>
+        									</location></locations>
+						</movie></Document>

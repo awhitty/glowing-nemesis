@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>En la tiniebla</title>
+    						<poster>http://www.filmaps.com/posters/0906204447000000</poster>
+    						<locations><location>
+    											<place>Morfa Nefyn, Wales, UK</place>
+    										<scene>Porthdinllaen village (English Porth Dinllaen)</scene>
+        									<coordinates>-4.56773,52.9432</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Half Light</title>
+    						<poster>http://www.filmaps.com/posters/0906201430000000</poster>
+    						<locations><location>
+    											<place>Morfa Nefyn, Wales, UK</place>
+    										<scene>Porthdinllaen village</scene>
+        									<coordinates>-4.56697,52.944</coordinates>
+        									</location></locations>
+						</movie></Document>

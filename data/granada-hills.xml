@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>E.T.</title>
+    						<poster>http://www.filmaps.com/posters/0902034235000000</poster>
+    						<locations><location>
+    											<place>Granada Hills, Los Angeles</place>
+    										<scene></scene>
+        									<coordinates>-118.524,34.2648</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>drive</title>
+    						<poster>http://www.filmaps.com/posters/1201041945000000.jpg</poster>
+    						<locations><location>
+    											<place>11000 Balboa Boulevard, Granada Hills</place>
+    										<scene>When we first see it, Shannon comes to Ninos Pizzeria to ask Bernie Rose (Albert Brooks) for $430,000 so Driver can have a race car. The restaurant is more an office for the menacing Nino (Ron Perlman) than a real eatery (they snack on Chinese food, not pizza).</scene>
+        									<coordinates>-118.502,34.2701</coordinates>
+        									</location></locations>
+						</movie></Document>

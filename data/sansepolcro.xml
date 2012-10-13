@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>under the tuscan sun</title>
+    						<poster>http://www.filmaps.com/posters/0906070831000000</poster>
+    						<locations><location>
+    											<place>Sansepolcro, Arezzo, Tuscany, Italy</place>
+    										<scene>Flag-Waving show</scene>
+        									<coordinates>12.1442,43.5755</coordinates>
+        									</location></locations>
+						</movie></Document>

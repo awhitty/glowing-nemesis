@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Casino Royale</title>
+    						<poster>http://www.filmaps.com/posters/0901091928000000</poster>
+    						<locations><location>
+    											<place>Prague, National Museum</place>
+    										<scene>Hotel in Venice</scene>
+        									<coordinates>14.43,50.0796</coordinates>
+        									</location></locations>
+						</movie></Document>

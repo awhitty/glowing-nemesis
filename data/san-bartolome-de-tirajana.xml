@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>por la senda mas dura</title>
+    						<poster>http://www.filmaps.com/posters/1002073113000000</poster>
+    						<locations><location>
+    											<place>gran canaria (España)</place>
+    										<scene>poblado inicio de pelicula  lee van cleef </scene>
+        									<coordinates>-15.5353,27.7868</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>ay ay sheriff</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>san bartolome de tirajana</place>
+    										<scene>poblado del oeste donde llega el capitan</scene>
+        									<coordinates>-15.5351,27.7868</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Der Stern von Afrika</title>
+    						<poster>http://www.filmaps.com/posters/1201215157000000.jpg</poster>
+    						<locations><location>
+    											<place>maspalomas</place>
+    										<scene>desierto donde aterriza las avones de guera</scene>
+        									<coordinates>-15.5791,27.7395</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>furia de titanes</title>
+    						<poster>http://www.filmaps.com/posters/1201215440000000.jpg</poster>
+    						<locations><location>
+    											<place>maspalomas</place>
+    										<scene>desierto donde el actor va en caballo</scene>
+        									<coordinates>-15.5771,27.7409</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ma mère</title>
+    						<poster>http://www.filmaps.com/posters/1201215921000000.jpg</poster>
+    						<locations><location>
+    											<place>playa del ingles</place>
+    										<scene>centro comercial donde se enamora</scene>
+        									<coordinates>-15.579,27.758</coordinates>
+        									</location></locations>
+						</movie></Document>

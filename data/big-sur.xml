@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Play Misty for Me</title>
+    						<poster>http://www.filmaps.com/posters/1012053915000000</poster>
+    						<locations><location>
+    											<place>Big Sur, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-121.784,36.2491</coordinates>
+        									</location></locations>
+						</movie></Document>

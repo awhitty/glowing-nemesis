@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>To Wong Foo Thanks for Everything (Julie Newmar)</title>
+    						<poster>http://www.filmaps.com/posters/0910055352000000</poster>
+    						<locations><location>
+    											<place>Loma, nebraska, usa</place>
+    										<scene>bar</scene>
+        									<coordinates>-96.9417,41.128</coordinates>
+        									</location></locations>
+						</movie></Document>

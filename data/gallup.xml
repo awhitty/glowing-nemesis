@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Superman</title>
+    						<poster>http://www.filmaps.com/posters/0901154206000000</poster>
+    						<locations><location>
+    											<place>Gallup, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-108.74,35.519</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ace in the Hole</title>
+    						<poster>http://www.filmaps.com/posters/0909124818000000</poster>
+    						<locations><location>
+    											<place>Gallup, New Mexico, USA </place>
+    										<scene></scene>
+        									<coordinates>-108.74,35.519</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Book of Eli</title>
+    						<poster>http://www.filmaps.com/posters/1009262109000000</poster>
+    						<locations><location>
+    											<place>Carrizozo, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.877,33.642</coordinates>
+        									</location></locations>
+						</movie></Document>

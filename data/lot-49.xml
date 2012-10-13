@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Anne of Green Gables</title>
+    						<poster>http://www.filmaps.com/posters/0902085749000000</poster>
+    						<locations><location>
+    											<place>Prince Edward Island, Canada</place>
+    										<scene></scene>
+        									<coordinates>-62.9161,46.2193</coordinates>
+        									</location></locations>
+						</movie></Document>

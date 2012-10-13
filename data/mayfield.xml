@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>In Country</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Mayfield, Kentucky</place>
+    										<scene>Most of this movie was shot in and around Mayfield Ky and the Graves County area.</scene>
+        									<coordinates>-88.6434,36.7382</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Elsker dig for evigt</title>
+    						<poster>http://www.filmaps.com/posters/0908195311000000</poster>
+    						<locations><location>
+    											<place>Rigshospitalet, Østerbro, Copenhagen, Denmark</place>
+    										<scene></scene>
+        									<coordinates>12.5678,55.6766</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Prince and Me</title>
+    						<poster>http://www.filmaps.com/posters/1111173458000000.jpg</poster>
+    						<locations><location>
+    											<place>Kopenhagen</place>
+    										<scene>Car race</scene>
+        									<coordinates>12.5685,55.6759</coordinates>
+        									</location><location>
+    											<place>Kopenhagen</place>
+    										<scene>Car race</scene>
+        									<coordinates>12.5685,55.6759</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Prince and Me</title>
+    						<poster>http://www.filmaps.com/posters/1111173458000000.jpg</poster>
+    						<locations><location>
+    											<place>Kopenhagen</place>
+    										<scene>Car race</scene>
+        									<coordinates>12.5685,55.6759</coordinates>
+        									</location><location>
+    											<place>Kopenhagen</place>
+    										<scene>Car race</scene>
+        									<coordinates>12.5685,55.6759</coordinates>
+        									</location></locations>
+						</movie></Document>

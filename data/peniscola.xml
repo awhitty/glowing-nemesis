@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Cid</title>
+    						<poster>http://www.filmaps.com/posters/0902145108000000</poster>
+    						<locations><location>
+    											<place>Peñíscola, Castellón</place>
+    										<scene></scene>
+        									<coordinates>0.402683,40.3601</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>paris tombuctu</title>
+    						<poster>http://www.filmaps.com/posters/0902155300000000</poster>
+    						<locations><location>
+    											<place>Peñíscola, Castellón</place>
+    										<scene></scene>
+        									<coordinates>0.40315,40.3606</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Calabuch</title>
+    						<poster>http://www.filmaps.com/posters/0902155549000000</poster>
+    						<locations><location>
+    											<place>Peñíscola, Castellón</place>
+    										<scene></scene>
+        									<coordinates>0.403109,40.3605</coordinates>
+        									</location></locations>
+						</movie></Document>

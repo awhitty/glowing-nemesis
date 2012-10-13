@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Due Date</title>
+    						<poster>http://www.filmaps.com/posters/1009222928000000</poster>
+    						<locations><location>
+    											<place>Gwinnett Medical Center, Lawrenceville, Georgia</place>
+    										<scene></scene>
+        									<coordinates>-84.0178,33.9636</coordinates>
+        									</location></locations>
+						</movie></Document>

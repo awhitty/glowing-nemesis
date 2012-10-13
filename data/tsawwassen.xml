@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>smallville</title>
+    						<poster>http://www.filmaps.com/posters/0910312656000000</poster>
+    						<locations><location>
+    											<place>Tsawwassen, Delta, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-123.097,49.0335</coordinates>
+        									</location></locations>
+						</movie></Document>

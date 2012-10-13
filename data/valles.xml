@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ermessenda</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Jardins del monestir, 1 Sant Cugat del Vallés</place>
+    										<scene>Monestir</scene>
+        									<coordinates>-0.556203,38.986</coordinates>
+        									</location></locations>
+						</movie></Document>

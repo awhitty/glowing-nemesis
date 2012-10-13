@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La vida es bella</title>
+    						<poster>http://www.filmaps.com/posters/0910301502000000</poster>
+    						<locations><location>
+    											<place>Montevarchi, Arezzo, Italia</place>
+    										<scene></scene>
+        									<coordinates>11.5696,43.5287</coordinates>
+        									</location></locations>
+						</movie></Document>

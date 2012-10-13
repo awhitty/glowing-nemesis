@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the door in the floor</title>
+    						<poster>http://www.filmaps.com/posters/0903144252000000</poster>
+    						<locations><location>
+    											<place>Sea Cliff, Long Island, New York</place>
+    										<scene>Book store and doctor's office</scene>
+        									<coordinates>-73.6454,40.845</coordinates>
+        									</location></locations>
+						</movie></Document>

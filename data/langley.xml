@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jennifer's body</title>
+    						<poster>http://www.filmaps.com/posters/0909273017000000</poster>
+    						<locations><location>
+    											<place>Langley, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.57,49.0736</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hush</title>
+    						<poster>http://www.filmaps.com/posters/1001042942000000</poster>
+    						<locations><location>
+    											<place>fort langley,b.c.canada</place>
+    										<scene>lunch at diner</scene>
+        									<coordinates>-122.58,49.1687</coordinates>
+        									</location><location>
+    											<place>langley,b.c.,canada</place>
+    										<scene></scene>
+        									<coordinates>-122.573,49.0732</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hush</title>
+    						<poster>http://www.filmaps.com/posters/1001042942000000</poster>
+    						<locations><location>
+    											<place>fort langley,b.c.canada</place>
+    										<scene>lunch at diner</scene>
+        									<coordinates>-122.58,49.1687</coordinates>
+        									</location><location>
+    											<place>langley,b.c.,canada</place>
+    										<scene></scene>
+        									<coordinates>-122.573,49.0732</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hurt Locker</title>
+    						<poster>http://www.filmaps.com/posters/0906160417000000</poster>
+    						<locations><location>
+    											<place>Langley, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-122.572,49.0728</coordinates>
+        									</location></locations>
+						</movie></Document>

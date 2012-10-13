@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>UN'OTTIMA ANNATA</title>
+    						<poster>http://www.filmaps.com/posters/0907300154000000</poster>
+    						<locations><location>
+    											<place>cucuron</place>
+    										<scene></scene>
+        									<coordinates>3.21487,44.4324</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>a good year</title>
+    						<poster>http://www.filmaps.com/posters/0912064106000000</poster>
+    						<locations><location>
+    											<place>la canourgue</place>
+    										<scene></scene>
+        									<coordinates>3.21419,44.4326</coordinates>
+        									</location></locations>
+						</movie></Document>

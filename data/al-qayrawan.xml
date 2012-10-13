@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Raiders of the Lost Ark</title>
+    						<poster>http://www.filmaps.com/posters/0911085012000000</poster>
+    						<locations><location>
+    											<place>Kairouan medina, Tunisia</place>
+    										<scene>Cairo / basket chase</scene>
+        									<coordinates>10.0989,35.6775</coordinates>
+        									</location></locations>
+						</movie></Document>

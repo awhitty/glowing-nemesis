@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Wind That Shakes The Barley</title>
+    						<poster>http://www.filmaps.com/posters/0912284523000000</poster>
+    						<locations><location>
+    											<place>Ballyvorney, County Cork, Ireland</place>
+    										<scene>ambush scene</scene>
+        									<coordinates>-9.1665,51.9454</coordinates>
+        									</location></locations>
+						</movie></Document>

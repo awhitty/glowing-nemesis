@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>uomini contro</title>
+    						<poster>http://www.filmaps.com/posters/0905072210000000</poster>
+    						<locations><location>
+    											<place>monti</place>
+    										<scene>battaglia di monte fior</scene>
+        									<coordinates>-91.637,42.3763</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Perfect STorm</title>
+    						<poster>http://www.filmaps.com/posters/0903170958000000</poster>
+    						<locations><location>
+    											<place>Dana Point, California</place>
+    										<scene>the beach</scene>
+        									<coordinates>-117.686,33.4616</coordinates>
+        									</location></locations>
+						</movie></Document>

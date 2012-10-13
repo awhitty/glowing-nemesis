@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Waterboy</title>
+    						<poster>http://www.filmaps.com/posters/1001122951000000</poster>
+    						<locations><location>
+    											<place>1610 W. Church Street, Orlando, Florida, USA</place>
+    										<scene>Site of Bourbon Bowl Game</scene>
+        									<coordinates>-81.4027,28.5393</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Letters to God</title>
+    						<poster>http://www.filmaps.com/posters/1006054149000000</poster>
+    						<locations><location>
+    											<place>Orlando, Florida, USA</place>
+    										<scene></scene>
+        									<coordinates>-81.379,28.5381</coordinates>
+        									</location></locations>
+						</movie></Document>

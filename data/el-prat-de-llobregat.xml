@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Vicky Cristina Barcelona</title>
+    						<poster>http://www.filmaps.com/posters/0901070345000000</poster>
+    						<locations><location>
+    											<place>Aeropuerto de Barcelona</place>
+    										<scene>Vicky y Cristina llegando a Barcelona</scene>
+        									<coordinates>2.07737,41.3036</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Anita no pierde el tren</title>
+    						<poster>http://www.filmaps.com/posters/0902152320000000</poster>
+    						<locations><location>
+    											<place>El Prat de Llobregat, Avenida Montserrat</place>
+    										<scene>Scenes related with the cinema.</scene>
+        									<coordinates>2.09541,41.326</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Machinist</title>
+    						<poster>http://www.filmaps.com/posters/0903024724000000</poster>
+    						<locations><location>
+    											<place>el prat, bercelona</place>
+    										<scene>The crossroad were Trevor has an accident</scene>
+        									<coordinates>2.0872,41.3168</coordinates>
+        									</location><location>
+    											<place>Barcelona, Spain</place>
+    										<scene>Departament of Police</scene>
+        									<coordinates>2.10364,41.3283</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Machinist</title>
+    						<poster>http://www.filmaps.com/posters/0903024724000000</poster>
+    						<locations><location>
+    											<place>el prat, bercelona</place>
+    										<scene>The crossroad were Trevor has an accident</scene>
+        									<coordinates>2.0872,41.3168</coordinates>
+        									</location><location>
+    											<place>Barcelona, Spain</place>
+    										<scene>Departament of Police</scene>
+        									<coordinates>2.10364,41.3283</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Red Lights (Luces Rojas)</title>
+    						<poster>http://www.filmaps.com/posters/1110255044000000.jpg</poster>
+    						<locations><location>
+    											<place>Estadio Cornella-El Prat , Cornellà, Catalunya</place>
+    										<scene>escena de lluvia</scene>
+        									<coordinates>2.07513,41.3465</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Maquinista</title>
+    						<poster>http://www.filmaps.com/posters/1205013442000000.jpg</poster>
+    						<locations><location>
+    											<place>carrer riu llobregat, el prat</place>
+    										<scene>Cruce donde ocurre la acción</scene>
+        									<coordinates>2.08715,41.3167</coordinates>
+        									</location></locations>
+						</movie></Document>

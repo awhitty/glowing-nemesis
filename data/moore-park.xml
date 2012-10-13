@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Australia</title>
+    						<poster>http://www.filmaps.com/posters/0901220806000000</poster>
+    						<locations><location>
+    											<place>Moore Park, Sydney</place>
+    										<scene></scene>
+        									<coordinates>151.22,-33.8935</coordinates>
+        									</location></locations>
+						</movie></Document>

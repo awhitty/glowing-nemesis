@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Saving Private Ryan</title>
+    						<poster>http://www.filmaps.com/posters/0901150215000000</poster>
+    						<locations><location>
+    											<place>Ballinesker, County Wexford, Ireland</place>
+    										<scene>Beach landings</scene>
+        									<coordinates>-6.36087,52.3949</coordinates>
+        									</location></locations>
+						</movie></Document>

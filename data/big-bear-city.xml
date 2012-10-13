@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Gone with the wind</title>
+    						<poster>http://www.filmaps.com/posters/0901135805000000</poster>
+    						<locations><location>
+    											<place>San Bernardino National Forest, California, USA</place>
+    										<scene>shantytown attack</scene>
+        									<coordinates>-117.076,34.2714</coordinates>
+        									</location></locations>
+						</movie></Document>

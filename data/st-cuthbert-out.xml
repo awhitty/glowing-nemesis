@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hot Fuzz</title>
+    						<poster>http://www.filmaps.com/posters/0911133336000000</poster>
+    						<locations><location>
+    											<place>Wells, Somerset</place>
+    										<scene>Sandford</scene>
+        									<coordinates>-2.64562,51.2094</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Elizabeth: The Golden Age</title>
+    						<poster>http://www.filmaps.com/posters/0911152125000000</poster>
+    						<locations><location>
+    											<place>Wells Cathedral, Wells, Somerset, UK</place>
+    										<scene>Whitehall Palace interiors</scene>
+        									<coordinates>-2.64312,51.2102</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Doctor Who</title>
+    						<poster>http://www.filmaps.com/posters/0911170000000000</poster>
+    						<locations><location>
+    											<place>Wookey Hole Caves, Somerset, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.67066,51.222</coordinates>
+        									</location><location>
+    											<place>Wells Cathedral, Somerset, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.64334,51.21</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Doctor Who</title>
+    						<poster>http://www.filmaps.com/posters/0911170000000000</poster>
+    						<locations><location>
+    											<place>Wookey Hole Caves, Somerset, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.67066,51.222</coordinates>
+        									</location><location>
+    											<place>Wells Cathedral, Somerset, UK</place>
+    										<scene></scene>
+        									<coordinates>-2.64334,51.21</coordinates>
+        									</location></locations>
+						</movie></Document>

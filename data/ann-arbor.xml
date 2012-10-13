@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jumper</title>
+    						<poster>http://www.filmaps.com/posters/0904181120000000</poster>
+    						<locations><location>
+    											<place>Ann Arbor, Michigan, USA</place>
+    										<scene></scene>
+        									<coordinates>-83.7331,42.2773</coordinates>
+        									</location></locations>
+						</movie></Document>

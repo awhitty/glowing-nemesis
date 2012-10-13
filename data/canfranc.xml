@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>En brazos de la mujer madura</title>
+    						<poster>http://www.filmaps.com/posters/0908042225000000</poster>
+    						<locations><location>
+    											<place>Estación de Canfranc, Huesca, Aragón</place>
+    										<scene></scene>
+        									<coordinates>-0.516521,42.7464</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Doctor Zhivago</title>
+    						<poster>http://www.filmaps.com/posters/0902261926000000</poster>
+    						<locations><location>
+    											<place>Estación Internacional de Canfranc</place>
+    										<scene></scene>
+        									<coordinates>-0.513868,42.7517</coordinates>
+        									</location></locations>
+						</movie></Document>

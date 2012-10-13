@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Eloïse</title>
+    						<poster>http://www.filmaps.com/posters/1004240009000000</poster>
+    						<locations><location>
+    											<place>Hospital General de Catalunya, Sant Cugat</place>
+    										<scene></scene>
+        									<coordinates>2.04205,41.4737</coordinates>
+        									</location></locations>
+						</movie></Document>

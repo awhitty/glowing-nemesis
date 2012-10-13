@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Fast Girl</title>
+    						<poster>http://www.filmaps.com/posters/1112251745000000.jpg</poster>
+    						<locations><location>
+    											<place>Willow Springs Raceway, California,</place>
+    										<scene>Circuito</scene>
+        									<coordinates>-118.265,34.8721</coordinates>
+        									</location></locations>
+						</movie></Document>

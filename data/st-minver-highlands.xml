@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Three Musketeers</title>
+    						<poster>http://www.filmaps.com/posters/0911030440000000</poster>
+    						<locations><location>
+    											<place>Polzeath, Cornwall, England, UK</place>
+    										<scene>The Rumps Point</scene>
+        									<coordinates>-4.92034,50.5923</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Oceans 12</title>
+    						<poster>http://www.filmaps.com/posters/0901303344000000</poster>
+    						<locations><location>
+    											<place>station, Haarlem, netherlands</place>
+    										<scene>The team leaving on the train to France</scene>
+        									<coordinates>4.63874,52.3881</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>De Passievrucht</title>
+    						<poster>http://www.filmaps.com/posters/0911131028000000</poster>
+    						<locations><location>
+    											<place>Villa Houtrust Haarlem</place>
+    										<scene>Vrouw bij de doker</scene>
+        									<coordinates>4.63755,52.3797</coordinates>
+        									</location><location>
+    											<place>Koningin Wilhelminalaan 16 Haarlem</place>
+    										<scene>Vrouw bij de dokter</scene>
+        									<coordinates>4.62517,52.3691</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>De Passievrucht</title>
+    						<poster>http://www.filmaps.com/posters/0911131028000000</poster>
+    						<locations><location>
+    											<place>Villa Houtrust Haarlem</place>
+    										<scene>Vrouw bij de doker</scene>
+        									<coordinates>4.63755,52.3797</coordinates>
+        									</location><location>
+    											<place>Koningin Wilhelminalaan 16 Haarlem</place>
+    										<scene>Vrouw bij de dokter</scene>
+        									<coordinates>4.62517,52.3691</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kicks</title>
+    						<poster>http://www.filmaps.com/posters/0912060454000000</poster>
+    						<locations><location>
+    											<place>Villa Houtrust Koningin Wilhelminalaan 16 Haarlem</place>
+    										<scene>http://www.kicksdefilm.nl/</scene>
+        									<coordinates>4.62489,52.3693</coordinates>
+        									</location></locations>
+						</movie></Document>

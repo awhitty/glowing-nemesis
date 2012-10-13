@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mercury Rising</title>
+    						<poster>http://www.filmaps.com/posters/1010255638000000</poster>
+    						<locations><location>
+    											<place>Sturgis, South Dakota, USA</place>
+    										<scene></scene>
+        									<coordinates>-103.509,44.4095</coordinates>
+        									</location></locations>
+						</movie></Document>

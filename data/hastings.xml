@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Monty Python and the Holy Grail</title>
+    						<poster>http://www.filmaps.com/posters/1106042639000000</poster>
+    						<locations><location>
+    											<place>Bodiam Castle, Bodiam, East Sussex</place>
+    										<scene>exterior shot of the Swamp King castle during "Tale of Sir Lancelot"</scene>
+        									<coordinates>0.543706,51.0023</coordinates>
+        									</location></locations>
+						</movie></Document>

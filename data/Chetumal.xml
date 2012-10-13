@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Alamar</title>
+    						<poster>http://www.filmaps.com/posters/1201035459000000.jpg</poster>
+    						<locations><location>
+    											<place>Banco Chinchorro, Yucatán, México</place>
+    										<scene>Donde transcurre la mayor parte de la película</scene>
+        									<coordinates>-87.3441,18.5734</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Death and the Maiden</title>
+    						<poster>http://www.filmaps.com/posters/0910084557000000</poster>
+    						<locations><location>
+    											<place>Valdoviño</place>
+    										<scene>All the Film (Outside scenes)</scene>
+        									<coordinates>-8.1819,43.6203</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Agallas</title>
+    						<poster>http://www.filmaps.com/posters/0909141427000000</poster>
+    						<locations><location>
+    											<place>acantilados de Valdoviño, A Coruña, España</place>
+    										<scene></scene>
+        									<coordinates>-8.14711,43.6216</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La muerte y la doncella</title>
+    						<poster>http://www.filmaps.com/posters/0909145032000000</poster>
+    						<locations><location>
+    											<place>Valdoviño, Galicia, España</place>
+    										<scene>acantilados</scene>
+        									<coordinates>-8.13997,43.6296</coordinates>
+        									</location></locations>
+						</movie></Document>

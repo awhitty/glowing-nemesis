@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Last of the Mohicans</title>
+    						<poster>http://www.filmaps.com/posters/0910044959000000</poster>
+    						<locations><location>
+    											<place>Wittenburg, Canada</place>
+    										<scene>Scene with a pinto horse</scene>
+        									<coordinates>-63.2329,45.0995</coordinates>
+        									</location></locations>
+						</movie></Document>

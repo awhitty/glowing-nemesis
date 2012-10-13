@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Star Wars</title>
+    						<poster>http://www.filmaps.com/posters/0911084443000000</poster>
+    						<locations><location>
+    											<place>Sidi Bouhlel, Tunisia</place>
+    										<scene>Jundland Wastes</scene>
+        									<coordinates>8.2815,34.0351</coordinates>
+        									</location></locations>
+						</movie></Document>

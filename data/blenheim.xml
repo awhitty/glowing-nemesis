@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Indiana Jones and the Last crusade</title>
+    						<poster>http://www.filmaps.com/posters/0901134936000000</poster>
+    						<locations><location>
+    											<place>Blenheim Palace, Woodstock, Oxfordshire, England</place>
+    										<scene>University where Indiana works</scene>
+        									<coordinates>-1.36131,51.8417</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hamlet</title>
+    						<poster>http://www.filmaps.com/posters/0901203111000000</poster>
+    						<locations><location>
+    											<place>Blenheim Palace, Woodstock</place>
+    										<scene></scene>
+        									<coordinates>-1.36108,51.8415</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Entrapment</title>
+    						<poster>http://www.filmaps.com/posters/0901255432000000</poster>
+    						<locations><location>
+    											<place>Blenheim Palace, Woodstock</place>
+    										<scene></scene>
+        									<coordinates>-1.36192,51.8422</coordinates>
+        									</location></locations>
+						</movie></Document>

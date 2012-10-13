@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Funny People</title>
+    						<poster>http://www.filmaps.com/posters/0908084349000000</poster>
+    						<locations><location>
+    											<place>Sausalito, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-122.485,37.8588</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Impact (1949)</title>
+    						<poster>http://www.filmaps.com/posters/0911194652000000</poster>
+    						<locations><location>
+    											<place>Sausalito, California</place>
+    										<scene>Brian Donlevy and Tony Barrett meet to arrange road trip</scene>
+        									<coordinates>-122.479,37.8559</coordinates>
+        									</location></locations>
+						</movie></Document>

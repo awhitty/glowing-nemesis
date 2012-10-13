@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Full Monty </title>
+    						<poster>http://www.filmaps.com/posters/0909184109000000</poster>
+    						<locations><location>
+    											<place>Meadowbank Road, Sheffield, South Yorkshire, England, UK </place>
+    										<scene>DAVE's house</scene>
+        									<coordinates>-1.3833,53.4311</coordinates>
+        									</location></locations>
+						</movie></Document>

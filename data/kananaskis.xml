@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Inception</title>
+    						<poster>http://www.filmaps.com/posters/1007223648000000</poster>
+    						<locations><location>
+    											<place>Kananaskis Village, Kananaskis Country, Canada</place>
+    										<scene>The mountain fortress was built on the top of a mountain at an abandoned ski hill in Kananaskis, Alberta.</scene>
+        									<coordinates>-115.069,51.0296</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Star Wars - Episode I - The Phantom Menace</title>
+    						<poster>http://www.filmaps.com/posters/0901241911000000</poster>
+    						<locations><location>
+    											<place>medenine, tunisia</place>
+    										<scene>Anakin's and Shmi's home</scene>
+        									<coordinates>10.492,33.3475</coordinates>
+        									</location></locations>
+						</movie></Document>

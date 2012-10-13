@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The sound of music</title>
+    						<poster>http://www.filmaps.com/posters/0903240842000000</poster>
+    						<locations><location>
+    											<place>Schloss Fuschl, Salzburg, Austria</place>
+    										<scene>Castle in opening scene</scene>
+        									<coordinates>13.2554,47.8085</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>sissi</title>
+    						<poster>http://www.filmaps.com/posters/0903241141000000</poster>
+    						<locations><location>
+    											<place>Schloss Fuschl, Fuschl, Salzburg, Austria </place>
+    										<scene></scene>
+        									<coordinates>13.255,47.8084</coordinates>
+        									</location></locations>
+						</movie></Document>

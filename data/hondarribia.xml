@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>papillon</title>
+    						<poster>http://www.filmaps.com/posters/0906250101000000</poster>
+    						<locations><location>
+    											<place>Hondarribia</place>
+    										<scene>Opening secuence, when prisioners are parading along their guards</scene>
+        									<coordinates>-1.79125,43.3623</coordinates>
+        									</location></locations>
+						</movie></Document>

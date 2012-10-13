@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The flock</title>
+    						<poster>http://www.filmaps.com/posters/1003260518000000</poster>
+    						<locations><location>
+    											<place>Bernalillo, New Mexico, USA </place>
+    										<scene></scene>
+        									<coordinates>-106.553,35.3009</coordinates>
+        									</location></locations>
+						</movie></Document>

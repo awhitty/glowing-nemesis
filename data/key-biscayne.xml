@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Marley and Me</title>
+    						<poster>http://www.filmaps.com/posters/0901265151000000</poster>
+    						<locations><location>
+    											<place>Shore Drive, Miami FL</place>
+    										<scene>John, Sebastian and Marley at a restaraunt</scene>
+        									<coordinates>-80.1562,25.7244</coordinates>
+        									</location></locations>
+						</movie></Document>

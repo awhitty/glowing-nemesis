@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La Caja (juan carlos falcon)</title>
+    						<poster>http://www.filmaps.com/posters/1111065523000000.jpg</poster>
+    						<locations><location>
+    											<place>cofete</place>
+    										<scene>cementerio</scene>
+        									<coordinates>-14.3887,28.1013</coordinates>
+        									</location><location>
+    											<place>puerto de la cruz fuerteventura</place>
+    										<scene>Pueblo</scene>
+        									<coordinates>-14.5002,28.0733</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La Caja (juan carlos falcon)</title>
+    						<poster>http://www.filmaps.com/posters/1111065523000000.jpg</poster>
+    						<locations><location>
+    											<place>cofete</place>
+    										<scene>cementerio</scene>
+        									<coordinates>-14.3887,28.1013</coordinates>
+        									</location><location>
+    											<place>puerto de la cruz fuerteventura</place>
+    										<scene>Pueblo</scene>
+        									<coordinates>-14.5002,28.0733</coordinates>
+        									</location></locations>
+						</movie></Document>

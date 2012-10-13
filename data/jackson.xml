@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Help</title>
+    						<poster>http://www.filmaps.com/posters/1202271745000000.jpg</poster>
+    						<locations><location>
+    											<place>Jackson, Mississippi, USA</place>
+    										<scene>movie scenes </scene>
+        									<coordinates>-90.1826,32.301</coordinates>
+        									</location></locations>
+						</movie></Document>

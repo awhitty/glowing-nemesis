@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Big</title>
+    						<poster>http://www.filmaps.com/posters/0911190508000000</poster>
+    						<locations><location>
+    											<place>Rye Playland</place>
+    										<scene>Zoltron scene, Amusment Park scene</scene>
+        									<coordinates>-73.6738,40.9662</coordinates>
+        									</location></locations>
+						</movie></Document>

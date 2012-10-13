@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Valkyrie</title>
+    						<poster>http://www.filmaps.com/posters/0909215507000000</poster>
+    						<locations><location>
+    											<place>Cougar Buttes, Lucerne Valley</place>
+    										<scene>escenas de los tanques en Africa</scene>
+        									<coordinates>-116.829,34.456</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Now, Voyager</title>
+    						<poster>http://www.filmaps.com/posters/0908060951000000</poster>
+    						<locations><location>
+    											<place>Big Bear Valley, San Bernardino National Forest, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-116.846,34.3514</coordinates>
+        									</location></locations>
+						</movie></Document>

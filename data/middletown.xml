@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dead Poets Society</title>
+    						<poster>http://www.filmaps.com/posters/1204143133000000.jpg</poster>
+    						<locations><location>
+    											<place>Everett Theatre - 47 West Main Street, Middletown, Delaware, USA</place>
+    										<scene>A Midsummer Night's Dream performance</scene>
+        									<coordinates>-75.7162,39.4495</coordinates>
+        									</location></locations>
+						</movie></Document>

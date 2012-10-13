@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>charro </title>
+    						<poster>http://www.filmaps.com/posters/0903124624000000</poster>
+    						<locations><location>
+    											<place>Apachie Junction Arizona</place>
+    										<scene>old west town -  movie studio that has mostly burned down since then</scene>
+        									<coordinates>-111.428,33.3739</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Have Gun Will Travel</title>
+    						<poster>http://www.filmaps.com/posters/0903120728000000</poster>
+    						<locations><location>
+    											<place>Apachie Junction Arizona</place>
+    										<scene>Some of the western TV series  Have Gun Will Travel with actor Richard Boone was filmed here in 1960</scene>
+        									<coordinates>-111.429,33.3742</coordinates>
+        									</location></locations>
+						</movie></Document>

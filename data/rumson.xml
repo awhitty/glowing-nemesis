@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>chasing amy</title>
+    						<poster>http://www.filmaps.com/posters/0902052231000000</poster>
+    						<locations><location>
+    											<place>9 Lafayette St., Rumson,nj</place>
+    										<scene>Holden and Alyssa fall in love on the swings</scene>
+        									<coordinates>-74.0122,40.3762</coordinates>
+        									</location></locations>
+						</movie></Document>

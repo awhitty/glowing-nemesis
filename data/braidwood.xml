@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Planes, Trains and Automobiles</title>
+    						<poster>http://www.filmaps.com/posters/1103303542000000</poster>
+    						<locations><location>
+    											<place>Braidwood Illinois</place>
+    										<scene>The hotel where the famous "those aren't pillows" scene takes place.</scene>
+        									<coordinates>-88.2448,41.2624</coordinates>
+        									</location></locations>
+						</movie></Document>

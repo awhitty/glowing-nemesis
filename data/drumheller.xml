@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Superman</title>
+    						<poster>http://www.filmaps.com/posters/0901154206000000</poster>
+    						<locations><location>
+    											<place>Drumheller, Canada</place>
+    										<scene></scene>
+        									<coordinates>-112.716,51.4619</coordinates>
+        									</location></locations>
+						</movie></Document>

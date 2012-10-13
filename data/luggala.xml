@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>King Arthur</title>
+    						<poster>http://www.filmaps.com/posters/0901074719000000</poster>
+    						<locations><location>
+    											<place>Luggala, County Wicklow, Ireland</place>
+    										<scene></scene>
+        									<coordinates>-6.25025,53.0952</coordinates>
+        									</location></locations>
+						</movie></Document>

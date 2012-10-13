@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bienvenue chez les Ch'tis</title>
+    						<poster>http://www.filmaps.com/posters/0901093021000000</poster>
+    						<locations><location>
+    											<place>Gare de Lille Flandres, Lille, Nord, France</place>
+    										<scene>waiting for Philippe and Julie to take them to Bergues</scene>
+        									<coordinates>3.0702,50.6371</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bienvenidos al norte (francia)</title>
+    						<poster>http://www.filmaps.com/posters/0901290351000000</poster>
+    						<locations><location>
+    											<place>Gare de Lille Flandres, Lille, Nord, France</place>
+    										<scene>escena esperando a Phillipe y Juliette</scene>
+        									<coordinates>3.07025,50.637</coordinates>
+        									</location></locations>
+						</movie></Document>

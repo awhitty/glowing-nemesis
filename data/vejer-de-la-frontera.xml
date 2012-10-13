@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Nothing Personal</title>
+    						<poster>http://www.filmaps.com/posters/1201083238000000.jpg</poster>
+    						<locations><location>
+    											<place>Vejer de la Frontera</place>
+    										<scene>The end</scene>
+        									<coordinates>-5.96303,36.2535</coordinates>
+        									</location></locations>
+						</movie></Document>

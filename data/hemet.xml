@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Seabiscuit</title>
+    						<poster>http://www.filmaps.com/posters/0907200308000000</poster>
+    						<locations><location>
+    											<place>Hemet, California, USA</place>
+    										<scene>Hemet Stock Farm</scene>
+        									<coordinates>-116.998,33.7375</coordinates>
+        									</location></locations>
+						</movie></Document>

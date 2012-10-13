@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Fall</title>
+    						<poster>http://www.filmaps.com/posters/0903135750000000</poster>
+    						<locations><location>
+    											<place>Cape Town, South Africa</place>
+    										<scene>Valkenberg Hospital in Cape Town</scene>
+        									<coordinates>18.422,-33.9162</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Rendition</title>
+    						<poster>http://www.filmaps.com/posters/0905010747000000</poster>
+    						<locations><location>
+    											<place>Cape Town, South Africa</place>
+    										<scene></scene>
+        									<coordinates>18.4196,-33.9156</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Forgiveness</title>
+    						<poster>http://www.filmaps.com/posters/0905011909000000</poster>
+    						<locations><location>
+    											<place>Cape Town, South Africa</place>
+    										<scene></scene>
+        									<coordinates>18.4103,-33.9113</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Last House On The Left</title>
+    						<poster>http://www.filmaps.com/posters/0908192010000000</poster>
+    						<locations><location>
+    											<place>Cape Town, South Africa</place>
+    										<scene></scene>
+        									<coordinates>18.4263,-33.9384</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Invictus</title>
+    						<poster>http://www.filmaps.com/posters/1001291531000000</poster>
+    						<locations><location>
+    											<place>Cape Town, South Africa</place>
+    										<scene></scene>
+        									<coordinates>18.4187,-33.922</coordinates>
+        									</location></locations>
+						</movie></Document>

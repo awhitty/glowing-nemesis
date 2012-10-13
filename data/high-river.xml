@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Superman</title>
+    						<poster>http://www.filmaps.com/posters/0901154206000000</poster>
+    						<locations><location>
+    											<place>High River, Canada</place>
+    										<scene></scene>
+        									<coordinates>-113.871,50.5811</coordinates>
+        									</location></locations>
+						</movie></Document>

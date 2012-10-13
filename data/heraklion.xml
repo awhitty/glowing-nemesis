@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>zorba</title>
+    						<poster>http://www.filmaps.com/posters/0905141235000000</poster>
+    						<locations><location>
+    											<place>Crete, Greece</place>
+    										<scene></scene>
+        									<coordinates>25.0962,35.3294</coordinates>
+        									</location></locations>
+						</movie></Document>

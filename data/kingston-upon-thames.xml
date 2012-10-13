@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>clockwork orange</title>
+    						<poster>http://www.filmaps.com/posters/0911103823000000</poster>
+    						<locations><location>
+    											<place>Kingston-upon-Thames, London, England, UK</place>
+    										<scene>Billyboy gang fight</scene>
+        									<coordinates>-0.300543,51.4125</coordinates>
+        									</location></locations>
+						</movie></Document>

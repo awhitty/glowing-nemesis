@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>CITIZEN KANE</title>
+    						<poster>http://www.filmaps.com/posters/0901135417000000</poster>
+    						<locations><location>
+    											<place>S. Grove Avenue, Pasadena, California, USA</place>
+    										<scene>Xanadu grounds</scene>
+        									<coordinates>-117.763,33.7314</coordinates>
+        									</location></locations>
+						</movie></Document>

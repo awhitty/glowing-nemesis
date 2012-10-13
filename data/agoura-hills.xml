@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Frankenstein (1931)</title>
+    						<poster>http://www.filmaps.com/posters/0909183728000000</poster>
+    						<locations><location>
+    											<place>Malibou Lake, Agoura, California, USA</place>
+    										<scene>creature and young girl by the lake scene</scene>
+        									<coordinates>-118.751,34.1046</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Union Pacific</title>
+    						<poster>http://www.filmaps.com/posters/0909184712000000</poster>
+    						<locations><location>
+    											<place>2813 Cornell Road, Agoura, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.751,34.1131</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Great Dictator</title>
+    						<poster>http://www.filmaps.com/posters/0910310607000000</poster>
+    						<locations><location>
+    											<place>Malibu Lake, California, USA</place>
+    										<scene>war scenes</scene>
+        									<coordinates>-118.756,34.1069</coordinates>
+        									</location><location>
+    											<place>Lake Vista Drive, Agoura Hills, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.765,34.1068</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Great Dictator</title>
+    						<poster>http://www.filmaps.com/posters/0910310607000000</poster>
+    						<locations><location>
+    											<place>Malibu Lake, California, USA</place>
+    										<scene>war scenes</scene>
+        									<coordinates>-118.756,34.1069</coordinates>
+        									</location><location>
+    											<place>Lake Vista Drive, Agoura Hills, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.765,34.1068</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>norbit</title>
+    						<poster>http://www.filmaps.com/posters/1001243059000000</poster>
+    						<locations><location>
+    											<place>Agoura, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.775,34.1366</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>BEAU GESTE</title>
+    						<poster>http://www.filmaps.com/posters/1010091630000000</poster>
+    						<locations><location>
+    											<place>Paramount Ranch, Agoura, California</place>
+    										<scene>Fort Said</scene>
+        									<coordinates>-118.754,34.1155</coordinates>
+        									</location></locations>
+						</movie></Document>

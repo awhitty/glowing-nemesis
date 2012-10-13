@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Longest Yard</title>
+    						<poster>http://www.filmaps.com/posters/1001185052000000</poster>
+    						<locations><location>
+    											<place>16007 Crenshaw Boulevard, Torrance, California, USA</place>
+    										<scene>stadium</scene>
+        									<coordinates>-118.331,33.8843</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Beverly Hills, 90210</title>
+    						<poster>http://www.filmaps.com/posters/1011112920000000</poster>
+    						<locations><location>
+    											<place>2200 W. Carson Street, Torrance, CA</place>
+    										<scene>West Beverly Hills High School</scene>
+        									<coordinates>-118.321,33.8313</coordinates>
+        									</location></locations>
+						</movie></Document>

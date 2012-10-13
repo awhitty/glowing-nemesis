@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Schtonk</title>
+    						<poster>http://www.filmaps.com/posters/0906173836000000</poster>
+    						<locations><location>
+    											<place>Fröndenberg, Bismarckstraße 1</place>
+    										<scene>Kriegsszene</scene>
+        									<coordinates>7.76868,51.4739</coordinates>
+        									</location></locations>
+						</movie></Document>

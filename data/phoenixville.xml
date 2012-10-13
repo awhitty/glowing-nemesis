@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the blob</title>
+    						<poster>http://www.filmaps.com/posters/0903175146000000</poster>
+    						<locations><location>
+    											<place>phoenixville. pa</place>
+    										<scene>colonial theater scene</scene>
+        									<coordinates>-75.5187,40.134</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the happening</title>
+    						<poster>http://www.filmaps.com/posters/0911190450000000</poster>
+    						<locations><location>
+    											<place>G-Lodge Diner - 1371 Valley Forge Road, Phoenixville, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-75.4995,40.1202</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lawrence of Arabia</title>
+    						<poster>http://www.filmaps.com/posters/0901132817000000</poster>
+    						<locations><location>
+    											<place>Chobham Common, Surrey, England</place>
+    										<scene>Lawrence falls off moto</scene>
+        									<coordinates>-0.541813,51.3628</coordinates>
+        									</location></locations>
+						</movie></Document>

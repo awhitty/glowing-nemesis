@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Bruc </title>
+    						<poster>http://www.filmaps.com/posters/1112132235000000.jpg</poster>
+    						<locations><location>
+    											<place>El Bruc</place>
+    										<scene>Montañas de Montserrat</scene>
+        									<coordinates>1.78028,41.5799</coordinates>
+        									</location></locations>
+						</movie></Document>

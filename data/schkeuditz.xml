@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Flightplan</title>
+    						<poster>http://www.filmaps.com/posters/0908031407000000</poster>
+    						<locations><location>
+    											<place>Leipzig/Halle Airport, Leipzig, Saxony, Germany</place>
+    										<scene>Leipzig/Halle Airport</scene>
+        									<coordinates>12.2203,51.4196</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Unknown</title>
+    						<poster>http://www.filmaps.com/posters/1102174116000000</poster>
+    						<locations><location>
+    											<place>Leipzig/Halle Airport, Leipzig, Saxony, Germany</place>
+    										<scene></scene>
+        									<coordinates>12.2195,51.4204</coordinates>
+        									</location></locations>
+						</movie></Document>

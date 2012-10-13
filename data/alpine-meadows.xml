@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>into the wild</title>
+    						<poster>http://www.filmaps.com/posters/0906270821000000</poster>
+    						<locations><location>
+    											<place>Lake Tahoe, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-120.148,39.1519</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>xxx</title>
+    						<poster>http://www.filmaps.com/posters/0902275620000000</poster>
+    						<locations><location>
+    											<place>Lake Tahoe, California, USA</place>
+    										<scene>its nice sharing..............</scene>
+        									<coordinates>-120.143,39.1572</coordinates>
+        									</location></locations>
+						</movie></Document>

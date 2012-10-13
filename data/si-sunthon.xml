@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Good Morning, Vietnam</title>
+    						<poster>http://www.filmaps.com/posters/0901253514000000</poster>
+    						<locations><location>
+    											<place>Phuket, Thailand</place>
+    										<scene>representa las imagenes de Siagon en Vietnam</scene>
+        									<coordinates>98.3305,7.98452</coordinates>
+        									</location></locations>
+						</movie></Document>

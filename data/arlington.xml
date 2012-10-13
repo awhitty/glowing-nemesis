@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>State of Play (La sombra del poder)</title>
+    						<poster>http://www.filmaps.com/posters/0911204123000000</poster>
+    						<locations><location>
+    											<place>Americana Hotel, 1400 Jefferson Davis Highway, Arlington, VA</place>
+    										<scene></scene>
+        									<coordinates>-77.0514,38.8601</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>JFK</title>
+    						<poster>http://www.filmaps.com/posters/0902073926000000</poster>
+    						<locations><location>
+    											<place>Arlington National Cemetery, Arlington, Virginia, USA</place>
+    										<scene></scene>
+        									<coordinates>-77.0705,38.8764</coordinates>
+        									</location></locations>
+						</movie></Document>

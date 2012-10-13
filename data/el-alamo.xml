@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>alatriste</title>
+    						<poster>http://www.filmaps.com/posters/0908141611000000</poster>
+    						<locations><location>
+    											<place>el alamo, madrid</place>
+    										<scene>trinchera de guerra y poblado holandes</scene>
+        									<coordinates>-3.97061,40.2364</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The others (Los Otros)</title>
+    						<poster>http://www.filmaps.com/posters/0901272457000000</poster>
+    						<locations><location>
+    											<place>el alamo, madrid</place>
+    										<scene>buardilla</scene>
+        									<coordinates>-3.9787,40.2328</coordinates>
+        									</location><location>
+    											<place>el alamo, madrid</place>
+    										<scene>bosque con niebla</scene>
+        									<coordinates>-3.969,40.2364</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The others (Los Otros)</title>
+    						<poster>http://www.filmaps.com/posters/0901272457000000</poster>
+    						<locations><location>
+    											<place>el alamo, madrid</place>
+    										<scene>buardilla</scene>
+        									<coordinates>-3.9787,40.2328</coordinates>
+        									</location><location>
+    											<place>el alamo, madrid</place>
+    										<scene>bosque con niebla</scene>
+        									<coordinates>-3.969,40.2364</coordinates>
+        									</location></locations>
+						</movie></Document>

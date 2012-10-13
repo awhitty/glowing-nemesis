@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the reader</title>
+    						<poster>http://www.filmaps.com/posters/0903045647000000</poster>
+    						<locations><location>
+    											<place>Lublin, Poland</place>
+    										<scene></scene>
+        									<coordinates>22.5685,51.2465</coordinates>
+        									</location></locations>
+						</movie></Document>

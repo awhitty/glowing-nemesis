@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Longest Day</title>
+    						<poster>http://www.filmaps.com/posters/1109203055000000.jpg</poster>
+    						<locations><location>
+    											<place>25 Avenue du Commandant Kieffer 14970 Bénouville, France</place>
+    										<scene>British paratroopers from the D Company of the 2nd Battalion captures the Pegasus bridge</scene>
+        									<coordinates>-0.273442,49.2422</coordinates>
+        									</location></locations>
+						</movie></Document>

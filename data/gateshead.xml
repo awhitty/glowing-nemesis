@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Get Carter</title>
+    						<poster>http://www.filmaps.com/posters/0911031505000000</poster>
+    						<locations><location>
+    											<place>Gateshead, Tyne, UK</place>
+    										<scene>car park scene</scene>
+        									<coordinates>-1.60161,54.9596</coordinates>
+        									</location></locations>
+						</movie></Document>

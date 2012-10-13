@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>shakespeare in love</title>
+    						<poster>http://www.filmaps.com/posters/0901134946000000</poster>
+    						<locations><location>
+    											<place>Barnes, London, England, UK</place>
+    										<scene>River Scenes</scene>
+        									<coordinates>-0.249488,51.4739</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Uninvited</title>
+    						<poster>http://www.filmaps.com/posters/0905084812000000</poster>
+    						<locations><location>
+    											<place>Steveston, Richmond, Canada</place>
+    										<scene></scene>
+        									<coordinates>-123.181,49.132</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mission Impossible III</title>
+    						<poster>http://www.filmaps.com/posters/0905302927000000</poster>
+    						<locations><location>
+    											<place>Dock Street, Richmond, Virginia, USA</place>
+    										<scene>scene where Ethan is driving black Mercedes CLK and swerves to avoid oncoming truck</scene>
+        									<coordinates>-77.4235,37.5285</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Cold Mountain </title>
+    						<poster>http://www.filmaps.com/posters/0908131850000000</poster>
+    						<locations><location>
+    											<place>Richmond, Virginia, USA</place>
+    										<scene>River where Veasey finds large saw</scene>
+        									<coordinates>-77.4337,37.5406</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Waiting Room</title>
+    						<poster>http://www.filmaps.com/posters/0911105408000000</poster>
+    						<locations><location>
+    											<place>Wandsworth Common</place>
+    										<scene>Most of it</scene>
+        									<coordinates>-0.25264,51.4684</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Finding Neverland</title>
+    						<poster>http://www.filmaps.com/posters/0911100141000000</poster>
+    						<locations><location>
+    											<place>Richmond Theatre, Richmond, Surrey, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.303739,51.462</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Sweetest Thing</title>
+    						<poster>http://www.filmaps.com/posters/1001223133000000</poster>
+    						<locations><location>
+    											<place>Point Richmond, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-122.389,37.9239</coordinates>
+        									</location></locations>
+						</movie></Document>

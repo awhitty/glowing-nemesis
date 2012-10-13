@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pulp Fiction</title>
+    						<poster>http://www.filmaps.com/posters/0901081656000000</poster>
+    						<locations><location>
+    											<place>Pacoima, usa</place>
+    										<scene>junkyard</scene>
+        									<coordinates>-118.427,34.2629</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Regreso al Futuro</title>
+    						<poster>http://www.filmaps.com/posters/0901180908000000</poster>
+    						<locations><location>
+    											<place>9303 Roslyndale Avenue at Sunburst Street, Pacoima, Los Angeles</place>
+    										<scene>exteriores de la casa de Marty</scene>
+        									<coordinates>-118.433,34.239</coordinates>
+        									</location></locations>
+						</movie></Document>

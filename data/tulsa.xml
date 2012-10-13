@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>UHF</title>
+    						<poster>http://www.filmaps.com/posters/0911120540000000</poster>
+    						<locations><location>
+    											<place>Tulsa OK Hardens Hamburgers</place>
+    										<scene>Big Edna's Hamburgers</scene>
+        									<coordinates>-95.993,36.1537</coordinates>
+        									</location><location>
+    											<place>Cheyenne & Archer, Tulsa</place>
+    										<scene>Karate Studio</scene>
+        									<coordinates>-95.9955,36.1565</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>UHF</title>
+    						<poster>http://www.filmaps.com/posters/0911120540000000</poster>
+    						<locations><location>
+    											<place>Tulsa OK Hardens Hamburgers</place>
+    										<scene>Big Edna's Hamburgers</scene>
+        									<coordinates>-95.993,36.1537</coordinates>
+        									</location><location>
+    											<place>Cheyenne & Archer, Tulsa</place>
+    										<scene>Karate Studio</scene>
+        									<coordinates>-95.9955,36.1565</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Outsiders</title>
+    						<poster>http://www.filmaps.com/posters/0911243321000000</poster>
+    						<locations><location>
+    											<place>Tulsa, Oklahoma</place>
+    										<scene>All of the Movie</scene>
+        									<coordinates>-95.9927,36.1539</coordinates>
+        									</location></locations>
+						</movie></Document>

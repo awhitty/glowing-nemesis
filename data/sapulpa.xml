@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Rumblefish</title>
+    						<poster>http://www.filmaps.com/posters/0911245505000000</poster>
+    						<locations><location>
+    											<place>Sapulpa, OK</place>
+    										<scene>Much of the Movie</scene>
+        									<coordinates>-96.1142,35.9987</coordinates>
+        									</location></locations>
+						</movie></Document>

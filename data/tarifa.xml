@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Solo quiero caminar</title>
+    						<poster>http://www.filmaps.com/posters/1111085253000000.jpg</poster>
+    						<locations><location>
+    											<place>azahara de los atunes</place>
+    										<scene>Escena del encuentro entre los protagonistas en un chalet de lujo en Azahara de los Atunes</scene>
+        									<coordinates>-5.8242,36.1061</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>alatriste</title>
+    						<poster>http://www.filmaps.com/posters/0908141611000000</poster>
+    						<locations><location>
+    											<place>Tarifa, Cadiz, España</place>
+    										<scene>Viggo Mortensen en Tarifa en escena con el barco</scene>
+        									<coordinates>-5.60732,36.0104</coordinates>
+        									</location></locations>
+						</movie></Document>

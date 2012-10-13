@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>city of angels</title>
+    						<poster>http://www.filmaps.com/posters/0906032954000000</poster>
+    						<locations><location>
+    											<place>Big Bear Lake, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-116.897,34.2438</coordinates>
+        									</location></locations>
+						</movie></Document>

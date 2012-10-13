@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Blues Brothers</title>
+    						<poster>http://www.filmaps.com/posters/0904014023000000</poster>
+    						<locations><location>
+    											<place>Stateville Prison - Joliet IL</place>
+    										<scene>Beginning scene where Elwood picks up Jake.</scene>
+        									<coordinates>-88.0924,41.5786</coordinates>
+        									</location></locations>
+						</movie></Document>

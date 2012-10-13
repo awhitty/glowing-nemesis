@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>bienvenido mister marshall</title>
+    						<poster>http://www.filmaps.com/posters/0902072347000000</poster>
+    						<locations><location>
+    											<place>Guadalix de la sierra</place>
+    										<scene>¡Bienvenido, Mr. Marshall!</scene>
+        									<coordinates>-3.6929,40.7846</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>¡Bienvenido, Mr. Marshall!</title>
+    						<poster>http://www.filmaps.com/posters/1202294045000000.jpg</poster>
+    						<locations><location>
+    											<place>Guadalix de la Sierra</place>
+    										<scene>Pepe Isbert y Manolo Morán en el balcón del Ayuntamiento.</scene>
+        									<coordinates>-3.69265,40.7849</coordinates>
+        									</location></locations>
+						</movie></Document>

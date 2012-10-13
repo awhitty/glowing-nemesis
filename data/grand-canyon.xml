@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>into the wild</title>
+    						<poster>http://www.filmaps.com/posters/0906270821000000</poster>
+    						<locations><location>
+    											<place>Grand Canyon National Park, Arizona, USA</place>
+    										<scene></scene>
+        									<coordinates>-112.103,36.0651</coordinates>
+        									</location></locations>
+						</movie></Document>

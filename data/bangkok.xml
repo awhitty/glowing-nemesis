@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Hangover Part II</title>
+    						<poster>http://www.filmaps.com/posters/1106234034000000</poster>
+    						<locations><location>
+    											<place>State Tower 1055/42 Silom Road | Bangrak, Bangkok 10500, Thailand </place>
+    										<scene>spectacular views from the rooftop restaurant at Lebua at State Tower in Bangkok</scene>
+        									<coordinates>100.517,13.7212</coordinates>
+        									</location><location>
+    											<place>Bangkok, Thailand</place>
+    										<scene></scene>
+        									<coordinates>100.476,13.7237</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Hangover Part II</title>
+    						<poster>http://www.filmaps.com/posters/1106234034000000</poster>
+    						<locations><location>
+    											<place>State Tower 1055/42 Silom Road | Bangrak, Bangkok 10500, Thailand </place>
+    										<scene>spectacular views from the rooftop restaurant at Lebua at State Tower in Bangkok</scene>
+        									<coordinates>100.517,13.7212</coordinates>
+        									</location><location>
+    											<place>Bangkok, Thailand</place>
+    										<scene></scene>
+        									<coordinates>100.476,13.7237</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Bangkok, Tailandia</place>
+    										<scene>Saigon, Vietnam</scene>
+        									<coordinates>100.665,13.8205</coordinates>
+        									</location><location>
+    											<place>Don Mueang International Airport, Bangkok, Tailandia</place>
+    										<scene>US airfield</scene>
+        									<coordinates>100.599,13.9138</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Bangkok, Tailandia</place>
+    										<scene>Saigon, Vietnam</scene>
+        									<coordinates>100.665,13.8205</coordinates>
+        									</location><location>
+    											<place>Don Mueang International Airport, Bangkok, Tailandia</place>
+    										<scene>US airfield</scene>
+        									<coordinates>100.599,13.9138</coordinates>
+        									</location></locations>
+						</movie></Document>

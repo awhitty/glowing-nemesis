@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Due Date</title>
+    						<poster>http://www.filmaps.com/posters/1009222928000000</poster>
+    						<locations><location>
+    											<place>Tuscaloosa, Alabama</place>
+    										<scene></scene>
+        									<coordinates>-87.5691,33.2098</coordinates>
+        									</location></locations>
+						</movie></Document>

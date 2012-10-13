@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Brideshead Revisited</title>
+    						<poster>http://www.filmaps.com/posters/0910132943000000</poster>
+    						<locations><location>
+    											<place>Levisham Station, Levisham, UK</place>
+    										<scene>Melton Carbury station</scene>
+        									<coordinates>-0.01172,51.4592</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>shaun of the dead</title>
+    						<poster>http://www.filmaps.com/posters/0911100625000000</poster>
+    						<locations><location>
+    											<place> Monson Road, New Cross</place>
+    										<scene>The Winchester Pub</scene>
+        									<coordinates>-0.0477885,51.4783</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Long Good Friday</title>
+    						<poster>http://www.filmaps.com/posters/0911150446000000</poster>
+    						<locations><location>
+    											<place>Lewisham, London, England, UK</place>
+    										<scene>swimming baths murder</scene>
+        									<coordinates>-0.0159644,51.4569</coordinates>
+        									</location></locations>
+						</movie></Document>

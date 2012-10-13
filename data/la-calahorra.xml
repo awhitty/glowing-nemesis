@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>C'era una volta il West</title>
+    						<poster>http://www.filmaps.com/posters/0910120710000000</poster>
+    						<locations><location>
+    											<place>La Calahorra, Granada, Andalucía, Spain</place>
+    										<scene></scene>
+        									<coordinates>-3.07171,37.1825</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>la muerte tenia un precio</title>
+    						<poster>http://www.filmaps.com/posters/0902252833000000</poster>
+    						<locations><location>
+    											<place>La Calahorra, Granada</place>
+    										<scene></scene>
+        									<coordinates>-3.06466,37.1812</coordinates>
+        									</location></locations>
+						</movie></Document>

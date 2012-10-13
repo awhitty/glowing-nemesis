@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>When Harry Met Sally</title>
+    						<poster>http://www.filmaps.com/posters/0901081325000000</poster>
+    						<locations><location>
+    											<place>Meadowlands Sports Complex, New York</place>
+    										<scene>Giants Stadium</scene>
+        									<coordinates>-74.0784,40.8121</coordinates>
+        									</location></locations>
+						</movie></Document>

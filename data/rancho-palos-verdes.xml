@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>50 First Dates</title>
+    						<poster>http://www.filmaps.com/posters/0901183845000000</poster>
+    						<locations><location>
+    											<place>One Ocean Trails Drive, Rancho Palos Verdes, California, USA</place>
+    										<scene>Ocean Trails Golf Club</scene>
+        									<coordinates>-118.349,33.73</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dick and Jane</title>
+    						<poster>http://www.filmaps.com/posters/1101174858000000</poster>
+    						<locations><location>
+    											<place>6610 Palos Verdes Drive South, Rancho Palos Verdes, CA</place>
+    										<scene></scene>
+        									<coordinates>-118.402,33.74</coordinates>
+        									</location></locations>
+						</movie></Document>

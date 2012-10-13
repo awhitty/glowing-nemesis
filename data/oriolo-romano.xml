@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>cinema paradiso</title>
+    						<poster>http://www.filmaps.com/posters/0901230832000000</poster>
+    						<locations><location>
+    											<place>oriolo romano lazio</place>
+    										<scene>paradiso</scene>
+        									<coordinates>12.1391,42.159</coordinates>
+        									</location></locations>
+						</movie></Document>

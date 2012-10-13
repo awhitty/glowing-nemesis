@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Field of Dreams</title>
+    						<poster>http://www.filmaps.com/posters/0911194542000000</poster>
+    						<locations><location>
+    											<place>Galena, Illinois, USA</place>
+    										<scene>night city street scene</scene>
+        									<coordinates>-90.4287,42.4164</coordinates>
+        									</location></locations>
+						</movie></Document>

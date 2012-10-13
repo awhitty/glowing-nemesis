@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>under fire</title>
+    						<poster>http://www.filmaps.com/posters/0911105535000000</poster>
+    						<locations><location>
+    											<place>Oaxaca, Mexico</place>
+    										<scene>Marcha encontra de los sandinistas</scene>
+        									<coordinates>-96.7197,17.0679</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>nacho libre</title>
+    						<poster>http://www.filmaps.com/posters/0911100124000000</poster>
+    						<locations><location>
+    											<place>oaxaca</place>
+    										<scene></scene>
+        									<coordinates>-96.724,17.0697</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Wind That Shakes The Barley</title>
+    						<poster>http://www.filmaps.com/posters/0912284523000000</poster>
+    						<locations><location>
+    											<place>Coolea, County Cork, Ireland</place>
+    										<scene>farm scenes</scene>
+        									<coordinates>-8.4077,52.0812</coordinates>
+        									</location></locations>
+						</movie></Document>

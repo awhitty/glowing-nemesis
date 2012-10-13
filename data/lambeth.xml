@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Bourne Ultimatum</title>
+    						<poster>http://www.filmaps.com/posters/0901192118000000</poster>
+    						<locations><location>
+    											<place>Waterloo Station, Waterloo, Londres</place>
+    										<scene></scene>
+        									<coordinates>-0.113393,51.5031</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>four weddings and a funeral</title>
+    						<poster>http://www.filmaps.com/posters/0902153527000000</poster>
+    						<locations><location>
+    											<place>Belvedere Rd, London</place>
+    										<scene>Where Carrie meets Charles brother</scene>
+        									<coordinates>-0.117928,51.5026</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>28 days later</title>
+    						<poster>http://www.filmaps.com/posters/0909273312000000</poster>
+    						<locations><location>
+    											<place>St. Thomas' Hospital, Lambeth, London</place>
+    										<scene>exteriors</scene>
+        									<coordinates>-0.118185,51.4996</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>closer</title>
+    						<poster>http://www.filmaps.com/posters/0901161903000000</poster>
+    						<locations><location>
+    											<place>London Aquarium, London</place>
+    										<scene>London Aquarium scene</scene>
+        									<coordinates>-0.118889,51.5019</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>clockwork orange</title>
+    						<poster>http://www.filmaps.com/posters/0911103823000000</poster>
+    						<locations><location>
+    											<place>1 norwwod high street west norwood library London SE27 9JX</place>
+    										<scene>The Minister's presentation to the media of Alex's 'cure' takes place at the Nettlefold Hall inside West Norwood Library.</scene>
+        									<coordinates>-0.102203,51.4361</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>nine (musical)</title>
+    						<poster>http://www.filmaps.com/posters/1001285056000000</poster>
+    						<locations><location>
+    											<place>waterloo, london</place>
+    										<scene></scene>
+        									<coordinates>-0.114508,51.5027</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>4.3.2.1</title>
+    						<poster>http://www.filmaps.com/posters/1101023443000000</poster>
+    						<locations><location>
+    											<place>London eye, london, uk</place>
+    										<scene></scene>
+        									<coordinates>-0.11923,51.5032</coordinates>
+        									</location></locations>
+						</movie></Document>

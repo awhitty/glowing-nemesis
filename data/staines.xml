@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Hamlet</title>
+    						<poster>http://www.filmaps.com/posters/0901203111000000</poster>
+    						<locations><location>
+    											<place>Shepperton, Surrey, England</place>
+    										<scene></scene>
+        									<coordinates>-0.448717,51.3958</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>flash gordon</title>
+    						<poster>http://www.filmaps.com/posters/0911203221000000</poster>
+    						<locations><location>
+    											<place>shepperton studios</place>
+    										<scene></scene>
+        									<coordinates>-0.463069,51.4078</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Informant !</title>
+    						<poster>http://www.filmaps.com/posters/0909272316000000</poster>
+    						<locations><location>
+    											<place>zurich, switzerland</place>
+    										<scene>A scene in this recent hit movie starring Matt Damon as whistleblower Mark Whitacre was filmed at the Limmatquai in downtown Zurich. Damon is seen walking past City Hall, but filming of this scene apparently required some 50 technicians and 90 extras!</scene>
+        									<coordinates>8.54974,47.3676</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the bourne identity</title>
+    						<poster>http://www.filmaps.com/posters/0902043528000000</poster>
+    						<locations><location>
+    											<place>Zurich, Switzerland</place>
+    										<scene>ason is in the embassy in Zurich.</scene>
+        									<coordinates>8.54983,47.3672</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Amadeus</title>
+    						<poster>http://www.filmaps.com/posters/0902105022000000</poster>
+    						<locations><location>
+    											<place>Kromeriz, Czech Republic</place>
+    										<scene>castle scenes</scene>
+        									<coordinates>17.3904,49.2992</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Immortal Beloved</title>
+    						<poster>http://www.filmaps.com/posters/0903184607000000</poster>
+    						<locations><location>
+    											<place>Kromeriz, Czech Republic</place>
+    										<scene></scene>
+        									<coordinates>17.3904,49.2992</coordinates>
+        									</location></locations>
+						</movie></Document>

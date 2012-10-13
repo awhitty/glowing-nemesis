@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Office</title>
+    						<poster>http://www.filmaps.com/posters/0901072626000000</poster>
+    						<locations><location>
+    											<place>Scranton, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-75.6643,41.4074</coordinates>
+        									</location></locations>
+						</movie></Document>

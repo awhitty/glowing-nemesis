@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Fall</title>
+    						<poster>http://www.filmaps.com/posters/0903135750000000</poster>
+    						<locations><location>
+    											<place>Jaipur, Rajasthan, India</place>
+    										<scene>Jantar Mantar</scene>
+        									<coordinates>75.8004,26.9051</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kamasutra a tale of love</title>
+    						<poster>http://www.filmaps.com/posters/1011092520000000</poster>
+    						<locations><location>
+    											<place>Jaipur, Rajasthan, India</place>
+    										<scene></scene>
+        									<coordinates>75.8168,26.9172</coordinates>
+        									</location><location>
+    											<place>jaipur</place>
+    										<scene>hawa mehal chajja</scene>
+        									<coordinates>75.8169,26.9171</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kamasutra a tale of love</title>
+    						<poster>http://www.filmaps.com/posters/1011092520000000</poster>
+    						<locations><location>
+    											<place>Jaipur, Rajasthan, India</place>
+    										<scene></scene>
+        									<coordinates>75.8168,26.9172</coordinates>
+        									</location><location>
+    											<place>jaipur</place>
+    										<scene>hawa mehal chajja</scene>
+        									<coordinates>75.8169,26.9171</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Eklavya</title>
+    						<poster>http://www.filmaps.com/posters/1106081757000000</poster>
+    						<locations><location>
+    											<place>Jaipur, Rajasthan, India</place>
+    										<scene></scene>
+        									<coordinates>75.817,26.917</coordinates>
+        									</location></locations>
+						</movie></Document>

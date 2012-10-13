@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>King Kong (2005)</title>
+    						<poster>http://www.filmaps.com/posters/0901143400000000</poster>
+    						<locations><location>
+    											<place>Hutt Valley, Wellington, New Zealand</place>
+    										<scene></scene>
+        									<coordinates>174.811,-41.2482</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Lovely Bones</title>
+    						<poster>http://www.filmaps.com/posters/0908133823000000</poster>
+    						<locations><location>
+    											<place>Camperdown Road, Miramar, Wellington, New Zealand</place>
+    										<scene></scene>
+        									<coordinates>174.827,-41.3067</coordinates>
+        									</location><location>
+    											<place>Wellington, New Zealand</place>
+    										<scene></scene>
+        									<coordinates>174.776,-41.2866</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Lovely Bones</title>
+    						<poster>http://www.filmaps.com/posters/0908133823000000</poster>
+    						<locations><location>
+    											<place>Camperdown Road, Miramar, Wellington, New Zealand</place>
+    										<scene></scene>
+        									<coordinates>174.827,-41.3067</coordinates>
+        									</location><location>
+    											<place>Wellington, New Zealand</place>
+    										<scene></scene>
+        									<coordinates>174.776,-41.2866</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>district 9</title>
+    						<poster>http://www.filmaps.com/posters/0909112738000000</poster>
+    						<locations><location>
+    											<place>Miramar, Wellington, New Zealand</place>
+    										<scene></scene>
+        									<coordinates>174.818,-41.3133</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>TINTIN</title>
+    						<poster>http://www.filmaps.com/posters/1110283550000000.jpg</poster>
+    						<locations><location>
+    											<place>Wellington, New Zealand</place>
+    										<scene>one of the fictitious location filmed in Wellington</scene>
+        									<coordinates>174.779,-41.2876</coordinates>
+        									</location></locations>
+						</movie></Document>

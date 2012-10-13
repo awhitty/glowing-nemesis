@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>An Affair to Remember </title>
+    						<poster>http://www.filmaps.com/posters/0909125619000000</poster>
+    						<locations><location>
+    											<place>Villefranche-sur-Mer, Alpes-Maritimes, France </place>
+    										<scene></scene>
+        									<coordinates>7.31034,43.7045</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>To catch a thief</title>
+    						<poster>http://www.filmaps.com/posters/0911044959000000</poster>
+    						<locations><location>
+    											<place>Villefranche-sur-Mer, Alpes-Maritimes, France</place>
+    										<scene></scene>
+        									<coordinates>7.31016,43.7043</coordinates>
+        									</location></locations>
+						</movie></Document>

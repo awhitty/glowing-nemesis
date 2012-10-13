@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>27 Dresses</title>
+    						<poster>http://www.filmaps.com/posters/0911290921000000</poster>
+    						<locations><location>
+    											<place>73 Richmond Street, Providence, Rhode Island, USA</place>
+    										<scene></scene>
+        									<coordinates>-71.4116,41.8206</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Siempre a tu lado (Hachiko)</title>
+    						<poster>http://www.filmaps.com/posters/1112244150000000.jpg</poster>
+    						<locations><location>
+    											<place>Columbus Theatre Arts Center, Providence, Rhode Island, EEUU</place>
+    										<scene>Dónde imparte clases de música Richard Gere</scene>
+        									<coordinates>-71.4129,41.8241</coordinates>
+        									</location></locations>
+						</movie></Document>

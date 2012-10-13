@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Italian Job (1969)</title>
+    						<poster>http://www.filmaps.com/posters/0910180005000000</poster>
+    						<locations><location>
+    											<place>Crystal Palace Park, London, UK</place>
+    										<scene>where the doors were well and truly blown off</scene>
+        									<coordinates>-0.0687555,51.4217</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Creation</title>
+    						<poster>http://www.filmaps.com/posters/0911134442000000</poster>
+    						<locations><location>
+    											<place>Down House, Biggin Hill, Kent, UK</place>
+    										<scene>Darwin's true-life house</scene>
+        									<coordinates>0.052928,51.3316</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Cinderella Man</title>
+    						<poster>http://www.filmaps.com/posters/0904215347000000</poster>
+    						<locations><location>
+    											<place>Hamilton, Ontario, Canada</place>
+    										<scene>dock scenes</scene>
+        									<coordinates>-79.8692,43.2569</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kick-Ass</title>
+    						<poster>http://www.filmaps.com/posters/1011015713000000</poster>
+    						<locations><location>
+    											<place>Charles Street, Hamilton, Ontario, Canada</place>
+    										<scene></scene>
+        									<coordinates>-79.7582,43.2197</coordinates>
+        									</location></locations>
+						</movie></Document>

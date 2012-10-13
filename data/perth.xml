@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Amazing Race</title>
+    						<poster>http://www.filmaps.com/posters/0901164442000000</poster>
+    						<locations><location>
+    											<place>Perth, Western Australia, Australia</place>
+    										<scene></scene>
+        									<coordinates>115.859,-31.9553</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>local hero</title>
+    						<poster>http://www.filmaps.com/posters/0902142049000000</poster>
+    						<locations><location>
+    											<place>Hilton, Highlands, Scotland, UK</place>
+    										<scene></scene>
+        									<coordinates>-4.20077,56.489</coordinates>
+        									</location></locations>
+						</movie></Document>

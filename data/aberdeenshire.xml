@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>local hero</title>
+    						<poster>http://www.filmaps.com/posters/0902142049000000</poster>
+    						<locations><location>
+    											<place>Pennan, Scotland</place>
+    										<scene></scene>
+        									<coordinates>-2.26206,57.6762</coordinates>
+        									</location><location>
+    											<place>Pole of Itlaw, Aberdeenshire, Scotland, UK</place>
+    										<scene>village shop</scene>
+        									<coordinates>-2.5401,57.5992</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>local hero</title>
+    						<poster>http://www.filmaps.com/posters/0902142049000000</poster>
+    						<locations><location>
+    											<place>Pennan, Scotland</place>
+    										<scene></scene>
+        									<coordinates>-2.26206,57.6762</coordinates>
+        									</location><location>
+    											<place>Pole of Itlaw, Aberdeenshire, Scotland, UK</place>
+    										<scene>village shop</scene>
+        									<coordinates>-2.5401,57.5992</coordinates>
+        									</location></locations>
+						</movie></Document>

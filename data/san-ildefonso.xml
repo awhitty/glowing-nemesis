@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Conan the barbarian</title>
+    						<poster>http://www.filmaps.com/posters/0902020732000000</poster>
+    						<locations><location>
+    											<place>Valsaín</place>
+    										<scene>Conan's Village</scene>
+        									<coordinates>-4.02766,40.8797</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>PATTON</title>
+    						<poster>http://www.filmaps.com/posters/0902150113000000</poster>
+    						<locations><location>
+    											<place>LA GRANJA DE SAN ILDEFONSO</place>
+    										<scene>PATTON ARRIVE TO MESSINA, SICILY</scene>
+        									<coordinates>-4.00423,40.8977</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Kingdom of Heaven</title>
+    						<poster>http://www.filmaps.com/posters/0901201241000000</poster>
+    						<locations><location>
+    											<place>san ildefonso, segovia</place>
+    										<scene>Emboscada junto al rio</scene>
+        									<coordinates>-4.02765,40.8607</coordinates>
+        									</location></locations>
+						</movie></Document>

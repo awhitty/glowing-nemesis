@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La vida es bella</title>
+    						<poster>http://www.filmaps.com/posters/0910301502000000</poster>
+    						<locations><location>
+    											<place>Arezzo, Italia</place>
+    										<scene></scene>
+        									<coordinates>11.8628,43.4714</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Life is Beautiful</title>
+    						<poster>http://www.filmaps.com/posters/1202031538000000.jpg</poster>
+    						<locations><location>
+    											<place>Arezzo</place>
+    										<scene>Maria....the key!!!!</scene>
+        									<coordinates>11.8838,43.4649</coordinates>
+        									</location></locations>
+						</movie></Document>

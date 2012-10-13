@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dorian Gray</title>
+    						<poster>http://www.filmaps.com/posters/0912021122000000</poster>
+    						<locations><location>
+    											<place>Ealing, London</place>
+    										<scene></scene>
+        									<coordinates>-0.30707,51.5088</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>An Education</title>
+    						<poster>http://www.filmaps.com/posters/1002021449000000</poster>
+    						<locations><location>
+    											<place>Ealing, London, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.303267,51.5126</coordinates>
+        									</location></locations>
+						</movie></Document>

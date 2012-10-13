@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El cazador de rober de niro</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Bowladrome Lanes - 56 State Street, Struthers, Ohio, Estados Unidos</place>
+    										<scene>Bowling alley</scene>
+        									<coordinates>-80.5899,41.057</coordinates>
+        									</location></locations>
+						</movie></Document>

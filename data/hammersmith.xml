@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Omen</title>
+    						<poster>http://www.filmaps.com/posters/1002083710000000</poster>
+    						<locations><location>
+    											<place>All Saints Church, Putney, London</place>
+    										<scene>Impaled priest</scene>
+        									<coordinates>-0.212023,51.4684</coordinates>
+        									</location></locations>
+						</movie></Document>

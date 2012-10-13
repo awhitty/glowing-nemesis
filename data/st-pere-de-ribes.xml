@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Cheetah Girls 2</title>
+    						<poster>http://www.filmaps.com/posters/0903263520000000</poster>
+    						<locations><location>
+    											<place>Sant Pere de Ribes</place>
+    										<scene></scene>
+        									<coordinates>1.74463,41.2452</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Little Ashes</title>
+    						<poster>http://www.filmaps.com/posters/0904024329000000</poster>
+    						<locations><location>
+    											<place>Sant Pere de Ribes</place>
+    										<scene></scene>
+        									<coordinates>1.77516,41.2588</coordinates>
+        									</location></locations>
+						</movie></Document>

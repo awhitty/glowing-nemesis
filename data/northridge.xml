@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>E.T.</title>
+    						<poster>http://www.filmaps.com/posters/0902034235000000</poster>
+    						<locations><location>
+    											<place>Northridge, Los Angeles, California, USA</place>
+    										<scene>Elliot with ET flying with bicycle</scene>
+        									<coordinates>-118.527,34.2475</coordinates>
+        									</location><location>
+    											<place>Northridge, Los Angeles</place>
+    										<scene>Elliot's neighbourhood</scene>
+        									<coordinates>-118.527,34.2472</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>E.T.</title>
+    						<poster>http://www.filmaps.com/posters/0902034235000000</poster>
+    						<locations><location>
+    											<place>Northridge, Los Angeles, California, USA</place>
+    										<scene>Elliot with ET flying with bicycle</scene>
+        									<coordinates>-118.527,34.2475</coordinates>
+        									</location><location>
+    											<place>Northridge, Los Angeles</place>
+    										<scene>Elliot's neighbourhood</scene>
+        									<coordinates>-118.527,34.2472</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Superbad</title>
+    						<poster>http://www.filmaps.com/posters/0908084919000000</poster>
+    						<locations><location>
+    											<place>18111 Nordhoff Street, Northridge, Los Angeles, California, USA</place>
+    										<scene>parking lot</scene>
+        									<coordinates>-118.528,34.2357</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>drive</title>
+    						<poster>http://www.filmaps.com/posters/1201041945000000.jpg</poster>
+    						<locations><location>
+    											<place>8400 Reseda Boulevard, Northridge</place>
+    										<scene>When hes not doing stunts for the movies, Driver is often under the hood at a garage owned by the weathered Shannon (Bryan Cranston). When Irene has her car towed to the garage, Shannon urges Driver to give Irene and Benicio a lift back to the apartment, as a tentative hint of romance begins to bloom.</scene>
+        									<coordinates>-118.536,34.2238</coordinates>
+        									</location></locations>
+						</movie></Document>

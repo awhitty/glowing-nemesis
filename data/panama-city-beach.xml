@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Truman Show</title>
+    						<poster>http://www.filmaps.com/posters/0904212952000000</poster>
+    						<locations><location>
+    											<place>Panama City, FL</place>
+    										<scene>Seaside resort, on I-98 about 30 miles east of Panama City toward Fort Walton Beach.</scene>
+        									<coordinates>-85.8506,30.2033</coordinates>
+        									</location></locations>
+						</movie></Document>

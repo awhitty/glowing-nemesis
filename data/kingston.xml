@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Dr. NO</title>
+    						<poster>http://www.filmaps.com/posters/0901154719000000</poster>
+    						<locations><location>
+    											<place>Kingston, Jamaica</place>
+    										<scene></scene>
+        									<coordinates>-76.7923,17.993</coordinates>
+        									</location><location>
+    											<place>King Street, Kingston, Jamaica</place>
+    										<scene>Three Blind Mice walking</scene>
+        									<coordinates>-76.7925,17.977</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dr. NO</title>
+    						<poster>http://www.filmaps.com/posters/0901154719000000</poster>
+    						<locations><location>
+    											<place>Kingston, Jamaica</place>
+    										<scene></scene>
+        									<coordinates>-76.7923,17.993</coordinates>
+        									</location><location>
+    											<place>King Street, Kingston, Jamaica</place>
+    										<scene>Three Blind Mice walking</scene>
+        									<coordinates>-76.7925,17.977</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Higher Ground</title>
+    						<poster>http://www.filmaps.com/posters/1108235849000000.jpg</poster>
+    						<locations><location>
+    											<place>Kingston, New York, USA</place>
+    										<scene>many scenes filmed in new york city</scene>
+        									<coordinates>-73.9975,41.9269</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Quick And The Dead</title>
+    						<poster>http://www.filmaps.com/posters/0903211829000000</poster>
+    						<locations><location>
+    											<place>Mescal, Arizona, USA</place>
+    										<scene></scene>
+        									<coordinates>-110.439,31.9669</coordinates>
+        									</location></locations>
+						</movie></Document>

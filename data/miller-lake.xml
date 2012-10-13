@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>En busca del fuego</title>
+    						<poster>http://www.filmaps.com/posters/1006295759000000</poster>
+    						<locations><location>
+    											<place>Bruce Peninsula National Park, Ontario, Canada</place>
+    										<scene></scene>
+        									<coordinates>-81.488,45.1656</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Eva</title>
+    						<poster>http://www.filmaps.com/posters/1111062807000000.jpg</poster>
+    						<locations><location>
+    											<place>Suiza</place>
+    										<scene>montañas nevadas</scene>
+        									<coordinates>8.22761,46.8181</coordinates>
+        									</location></locations>
+						</movie></Document>

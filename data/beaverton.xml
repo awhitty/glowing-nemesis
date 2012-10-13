@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>into the wild</title>
+    						<poster>http://www.filmaps.com/posters/0906270821000000</poster>
+    						<locations><location>
+    											<place>Beaverton, Oregon, USA</place>
+    										<scene></scene>
+        									<coordinates>-122.804,45.4867</coordinates>
+        									</location></locations>
+						</movie></Document>

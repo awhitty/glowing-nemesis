@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Good German</title>
+    						<poster>http://www.filmaps.com/posters/1001154704000000</poster>
+    						<locations><location>
+    											<place>1151 Oxford Road, San Marino, California, USA</place>
+    										<scene>Colonel Muller's office</scene>
+        									<coordinates>-118.11,34.1293</coordinates>
+        									</location></locations>
+						</movie></Document>

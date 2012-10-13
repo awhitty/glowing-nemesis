@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Curse of the Demon</title>
+    						<poster>http://www.filmaps.com/posters/0911091004000000</poster>
+    						<locations><location>
+    											<place>Stonehenge, UK</place>
+    										<scene>opening scene</scene>
+        									<coordinates>-1.82626,51.1791</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Nights in Rodanthe</title>
+    						<poster>http://www.filmaps.com/posters/0904021530000000</poster>
+    						<locations><location>
+    											<place>Southport, North Carolina, USA</place>
+    										<scene>historic Clarendon Avenue</scene>
+        									<coordinates>-78.0209,33.9248</coordinates>
+        									</location></locations>
+						</movie></Document>

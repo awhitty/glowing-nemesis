@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Layer Cake</title>
+    						<poster>http://www.filmaps.com/posters/0911155214000000</poster>
+    						<locations><location>
+    											<place>Isleworth, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.33878,51.4752</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Gosford Park</title>
+    						<poster>http://www.filmaps.com/posters/1001084009000000</poster>
+    						<locations><location>
+    											<place>Syon Park, London Rd, Brentford, UK</place>
+    										<scene>Syon House scene</scene>
+        									<coordinates>-0.312923,51.4786</coordinates>
+        									</location></locations>
+						</movie></Document>

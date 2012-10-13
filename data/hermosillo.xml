@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Beverly Hills Chihuahua</title>
+    						<poster>http://www.filmaps.com/posters/0906270624000000</poster>
+    						<locations><location>
+    											<place>Hermosillo, Sonora, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-110.953,29.0971</coordinates>
+        									</location></locations>
+						</movie></Document>

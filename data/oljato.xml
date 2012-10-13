@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Stagecoach</title>
+    						<poster>http://www.filmaps.com/posters/0911295122000000</poster>
+    						<locations><location>
+    											<place>Monument Valley</place>
+    										<scene></scene>
+        									<coordinates>-110.1,37</coordinates>
+        									</location></locations>
+						</movie></Document>

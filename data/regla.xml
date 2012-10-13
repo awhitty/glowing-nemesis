@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Una rosa de Francia</title>
+    						<poster>http://www.filmaps.com/posters/1002241027000000</poster>
+    						<locations><location>
+    											<place>Mariel </place>
+    										<scene></scene>
+        									<coordinates>-82.3538,23.0754</coordinates>
+        									</location></locations>
+						</movie></Document>

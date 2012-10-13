@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>el laberinto del fauno</title>
+    						<poster>http://www.filmaps.com/posters/0902100945000000</poster>
+    						<locations><location>
+    											<place>San Rafael, Segovia</place>
+    										<scene></scene>
+        									<coordinates>-4.19228,40.7123</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Marcelino pan y vino</title>
+    						<poster>http://www.filmaps.com/posters/1007222527000000</poster>
+    						<locations><location>
+    											<place>Ermita del Cristo del Caloco, El Espinar, Segovia</place>
+    										<scene></scene>
+        									<coordinates>-4.27106,40.7437</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>8 Citas</title>
+    						<poster>http://www.filmaps.com/posters/1202150610000000.jpg</poster>
+    						<locations><location>
+    											<place>Avenida de venecia  Los Angeles de San Rafael El espinar</place>
+    										<scene>Centro Termal L'Spa</scene>
+        									<coordinates>-4.21777,40.7823</coordinates>
+        									</location></locations>
+						</movie></Document>

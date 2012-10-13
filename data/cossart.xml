@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the village</title>
+    						<poster>http://www.filmaps.com/posters/0908311248000000</poster>
+    						<locations><location>
+    											<place>Cossart, Pennsylvania, USA</place>
+    										<scene></scene>
+        									<coordinates>-75.5976,39.8475</coordinates>
+        									</location></locations>
+						</movie></Document>

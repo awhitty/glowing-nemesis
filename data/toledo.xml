@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Manolito gafotas</title>
+    						<poster>http://www.filmaps.com/posters/0904024455000000</poster>
+    						<locations><location>
+    											<place>Toledo, españa</place>
+    										<scene></scene>
+        									<coordinates>-4.02425,39.8566</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>te doy mis ojos</title>
+    						<poster>http://www.filmaps.com/posters/0911143301000000</poster>
+    						<locations><location>
+    											<place>Toledo, España</place>
+    										<scene></scene>
+        									<coordinates>-4.02451,39.8567</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Cid</title>
+    						<poster>http://www.filmaps.com/posters/0902145108000000</poster>
+    						<locations><location>
+    											<place>Toledo, Castilla-La Mancha</place>
+    										<scene></scene>
+        									<coordinates>-4.02462,39.8566</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La piel que habito</title>
+    						<poster>http://www.filmaps.com/posters/1108301846000000.jpg</poster>
+    						<locations><location>
+    											<place>Toledo, España</place>
+    										<scene>en toledo</scene>
+        									<coordinates>-4.02346,39.8579</coordinates>
+        									</location></locations>
+						</movie></Document>

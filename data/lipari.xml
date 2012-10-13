@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Caro diario</title>
+    						<poster>http://www.filmaps.com/posters/0901184718000000</poster>
+    						<locations><location>
+    											<place>Lipari Island, Aeolian Islands, Messina</place>
+    										<scene></scene>
+        									<coordinates>14.9458,38.4881</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>L´Avventura</title>
+    						<poster>http://www.filmaps.com/posters/0910185111000000</poster>
+    						<locations><location>
+    											<place>Aeolian Islands, Messina, Sicily, Italy</place>
+    										<scene></scene>
+        									<coordinates>14.9269,38.4939</coordinates>
+        									</location><location>
+    											<place>Lisca Bianca Island, Aeolian Islands, Messina, Sicily, Italy</place>
+    										<scene></scene>
+        									<coordinates>14.9273,38.4936</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>L´Avventura</title>
+    						<poster>http://www.filmaps.com/posters/0910185111000000</poster>
+    						<locations><location>
+    											<place>Aeolian Islands, Messina, Sicily, Italy</place>
+    										<scene></scene>
+        									<coordinates>14.9269,38.4939</coordinates>
+        									</location><location>
+    											<place>Lisca Bianca Island, Aeolian Islands, Messina, Sicily, Italy</place>
+    										<scene></scene>
+        									<coordinates>14.9273,38.4936</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La meglio gioventù</title>
+    						<poster>http://www.filmaps.com/posters/1202051834000000.jpg</poster>
+    						<locations><location>
+    											<place>stromboli</place>
+    										<scene>le scene girate sull'isola sono tutte ambientate a Stromboli</scene>
+        									<coordinates>15.2396,38.8019</coordinates>
+        									</location></locations>
+						</movie></Document>

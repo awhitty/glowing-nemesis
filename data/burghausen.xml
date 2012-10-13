@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Three Musketeers (2011)</title>
+    						<poster>http://www.filmaps.com/posters/1110015129000000.jpg</poster>
+    						<locations><location>
+    											<place>Burghausen, Germany</place>
+    										<scene>another scenes</scene>
+        									<coordinates>12.8296,48.1728</coordinates>
+        									</location></locations>
+						</movie></Document>

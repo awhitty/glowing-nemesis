@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Grapes of Wrath</title>
+    						<poster>http://www.filmaps.com/posters/0903113528000000</poster>
+    						<locations><location>
+    											<place>Petrified Forest National Park, Arizona, USA</place>
+    										<scene></scene>
+        									<coordinates>-109.781,35.0662</coordinates>
+        									</location></locations>
+						</movie></Document>

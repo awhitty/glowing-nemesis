@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Graduate</title>
+    						<poster>http://www.filmaps.com/posters/0901131928000000</poster>
+    						<locations><location>
+    											<place>340 Royce Drive, Westwood</place>
+    										<scene>Royce Hall</scene>
+        									<coordinates>-122.454,37.692</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bullitt</title>
+    						<poster>http://www.filmaps.com/posters/0908141358000000</poster>
+    						<locations><location>
+    											<place>Daly City, California</place>
+    										<scene></scene>
+        									<coordinates>-122.473,37.6848</coordinates>
+        									</location></locations>
+						</movie></Document>

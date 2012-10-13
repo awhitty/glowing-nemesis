@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Nim's Island</title>
+    						<poster>http://www.filmaps.com/posters/0908033728000000</poster>
+    						<locations><location>
+    											<place>Port Douglas, Queensland, Australia</place>
+    										<scene></scene>
+        									<coordinates>145.462,-16.4822</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Pacific</title>
+    						<poster>http://www.filmaps.com/posters/1004174640000000</poster>
+    						<locations><location>
+    											<place>Port Douglas, Queensland, Australia</place>
+    										<scene></scene>
+        									<coordinates>145.466,-16.4841</coordinates>
+        									</location></locations>
+						</movie></Document>

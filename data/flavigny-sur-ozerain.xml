@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>chocolat</title>
+    						<poster>http://www.filmaps.com/posters/0902162352000000</poster>
+    						<locations><location>
+    											<place>Flavigny-sur-Ozerain</place>
+    										<scene>Church and main square of the village</scene>
+        									<coordinates>4.53124,47.512</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Final</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>el pont del diable, Tarragona</place>
+    										<scene></scene>
+        									<coordinates>1.24463,41.1259</coordinates>
+        									</location><location>
+    											<place>pont del diable, tarragona</place>
+    										<scene></scene>
+        									<coordinates>1.23912,41.1504</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Final</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>el pont del diable, Tarragona</place>
+    										<scene></scene>
+        									<coordinates>1.24463,41.1259</coordinates>
+        									</location><location>
+    											<place>pont del diable, tarragona</place>
+    										<scene></scene>
+        									<coordinates>1.23912,41.1504</coordinates>
+        									</location></locations>
+						</movie></Document>

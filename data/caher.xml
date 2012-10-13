@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Barry Lyndon</title>
+    						<poster>http://www.filmaps.com/posters/0903174512000000</poster>
+    						<locations><location>
+    											<place>Cahir Castle, County Tipperary, Ireland</place>
+    										<scene>German military encampment</scene>
+        									<coordinates>-7.9293,52.3763</coordinates>
+        									</location></locations>
+						</movie></Document>

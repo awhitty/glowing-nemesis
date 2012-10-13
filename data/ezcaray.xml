@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Sur</title>
+    						<poster>http://www.filmaps.com/posters/1105051450000000</poster>
+    						<locations><location>
+    											<place>Ezcaray, Logroño</place>
+    										<scene></scene>
+        									<coordinates>-3.01377,42.3259</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>alexander</title>
+    						<poster>http://www.filmaps.com/posters/0905240105000000</poster>
+    						<locations><location>
+    											<place>Udon Rachatani, Thailand</place>
+    										<scene></scene>
+        									<coordinates>105.22,15.0728</coordinates>
+        									</location></locations>
+						</movie></Document>

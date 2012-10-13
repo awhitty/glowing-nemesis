@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mi general</title>
+    						<poster>http://www.filmaps.com/posters/1003074656000000</poster>
+    						<locations><location>
+    											<place>Castelldefels, Barcelona, Spain</place>
+    										<scene></scene>
+        									<coordinates>1.97859,41.2792</coordinates>
+        									</location></locations>
+						</movie></Document>

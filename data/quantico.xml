@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Silence of the Lambs</title>
+    						<poster>http://www.filmaps.com/posters/0912151726000000</poster>
+    						<locations><location>
+    											<place>FBI Academy, Quantico, VA</place>
+    										<scene>FBI Training</scene>
+        									<coordinates>-77.4457,38.53</coordinates>
+        									</location></locations>
+						</movie></Document>

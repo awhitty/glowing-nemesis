@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>What dreams may come</title>
+    						<poster>http://www.filmaps.com/posters/0903052854000000</poster>
+    						<locations><location>
+    											<place>Piedmont, California</place>
+    										<scene></scene>
+        									<coordinates>-122.231,37.8243</coordinates>
+        									</location></locations>
+						</movie></Document>

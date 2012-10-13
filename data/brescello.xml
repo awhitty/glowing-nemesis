@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>don camillo</title>
+    						<poster>http://www.filmaps.com/posters/0908282623000000</poster>
+    						<locations><location>
+    											<place>brescello</place>
+    										<scene></scene>
+        									<coordinates>10.5158,44.901</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Il Compagno Don Camillo</title>
+    						<poster>http://www.filmaps.com/posters/0911121338000000</poster>
+    						<locations><location>
+    											<place>amitiville</place>
+    										<scene></scene>
+        									<coordinates>10.5158,44.901</coordinates>
+        									</location></locations>
+						</movie></Document>

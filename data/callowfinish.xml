@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Nothing Personal</title>
+    						<poster>http://www.filmaps.com/posters/1201083238000000.jpg</poster>
+    						<locations><location>
+    											<place>Connemara, County Galway, Ireland</place>
+    										<scene>Toda la acción</scene>
+        									<coordinates>-9.78006,53.3262</coordinates>
+        									</location></locations>
+						</movie></Document>

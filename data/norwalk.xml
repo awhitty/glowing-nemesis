@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Revolutionary road</title>
+    						<poster>http://www.filmaps.com/posters/0901295811000000</poster>
+    						<locations><location>
+    											<place>188 Richards Avenue, Norwalk, USA</place>
+    										<scene>Norwalk Community College</scene>
+        									<coordinates>-73.4526,41.1025</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The last song</title>
+    						<poster>http://www.filmaps.com/posters/0912063745000000</poster>
+    						<locations><location>
+    											<place>Tybee Island, Georgia, USA</place>
+    										<scene></scene>
+        									<coordinates>-80.8484,31.9883</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The last song</title>
+    						<poster>http://www.filmaps.com/posters/1004211819000000</poster>
+    						<locations><location>
+    											<place>Tybee Island, Ga</place>
+    										<scene>The pier and beach where the carnival was located</scene>
+        									<coordinates>-80.8465,31.9916</coordinates>
+        									</location></locations>
+						</movie></Document>

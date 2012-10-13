@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>star wars - episode II</title>
+    						<poster>http://www.filmaps.com/posters/0901070814000000</poster>
+    						<locations><location>
+    											<place>nefta</place>
+    										<scene>Chott el Jerid</scene>
+        									<coordinates>7.8776,33.8707</coordinates>
+        									</location></locations>
+						</movie></Document>

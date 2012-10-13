@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Being Human</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Barry Island, Barry, Wales</place>
+    										<scene>Season 3</scene>
+        									<coordinates>-3.28581,51.3975</coordinates>
+        									</location></locations>
+						</movie></Document>

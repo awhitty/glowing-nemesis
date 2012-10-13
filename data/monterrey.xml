@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The perfect game</title>
+    						<poster>http://www.filmaps.com/posters/0906270140000000</poster>
+    						<locations><location>
+    											<place>Monterrey, Nuevo León, Mexico</place>
+    										<scene></scene>
+        									<coordinates>-100.308,25.6711</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>from prada to nada</title>
+    						<poster>http://www.filmaps.com/posters/1209022749000000.jpg</poster>
+    						<locations><location>
+    											<place>monterrey</place>
+    										<scene>supuesta casa de mary</scene>
+        									<coordinates>-100.336,25.6721</coordinates>
+        									</location><location>
+    											<place>monterrey</place>
+    										<scene>es la casa de su tia aurelia @fptn&#8209;22.jpg</scene>
+        									<coordinates>-100.335,25.6737</coordinates>
+        									</location><location>
+    											<place> monterrey mexico</place>
+    										<scene>cuando choca mary</scene>
+        									<coordinates>-100.375,25.6584</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>from prada to nada</title>
+    						<poster>http://www.filmaps.com/posters/1209022749000000.jpg</poster>
+    						<locations><location>
+    											<place>monterrey</place>
+    										<scene>supuesta casa de mary</scene>
+        									<coordinates>-100.336,25.6721</coordinates>
+        									</location><location>
+    											<place>monterrey</place>
+    										<scene>es la casa de su tia aurelia @fptn&#8209;22.jpg</scene>
+        									<coordinates>-100.335,25.6737</coordinates>
+        									</location><location>
+    											<place> monterrey mexico</place>
+    										<scene>cuando choca mary</scene>
+        									<coordinates>-100.375,25.6584</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>from prada to nada</title>
+    						<poster>http://www.filmaps.com/posters/1209022749000000.jpg</poster>
+    						<locations><location>
+    											<place>monterrey</place>
+    										<scene>supuesta casa de mary</scene>
+        									<coordinates>-100.336,25.6721</coordinates>
+        									</location><location>
+    											<place>monterrey</place>
+    										<scene>es la casa de su tia aurelia @fptn&#8209;22.jpg</scene>
+        									<coordinates>-100.335,25.6737</coordinates>
+        									</location><location>
+    											<place> monterrey mexico</place>
+    										<scene>cuando choca mary</scene>
+        									<coordinates>-100.375,25.6584</coordinates>
+        									</location></locations>
+						</movie></Document>

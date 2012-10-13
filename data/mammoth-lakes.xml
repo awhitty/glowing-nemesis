@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Washington Square</title>
+    						<poster>http://www.filmaps.com/posters/1001161426000000</poster>
+    						<locations><location>
+    											<place>Minaret Summit, Sierra Nevada Mountains, California, USA</place>
+    										<scene>Alps scenes wa filmed here</scene>
+        									<coordinates>-119.061,37.6564</coordinates>
+        									</location></locations>
+						</movie></Document>

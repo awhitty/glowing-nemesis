@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>a good year</title>
+    						<poster>http://www.filmaps.com/posters/0912064106000000</poster>
+    						<locations><location>
+    											<place>Chateau les Eydins, Bonnieux, Vaucluse, France</place>
+    										<scene>Duflot's farmhouse</scene>
+        									<coordinates>5.31193,43.8297</coordinates>
+        									</location></locations>
+						</movie></Document>

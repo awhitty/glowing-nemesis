@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ventdelplà (TV serie)</title>
+    						<poster>http://www.filmaps.com/posters/1002065417000000</poster>
+    						<locations><location>
+    											<place>Breda, Girona</place>
+    										<scene>casa la Teresa Clarís</scene>
+        									<coordinates>2.55713,41.7487</coordinates>
+        									</location><location>
+    											<place>Brada, Girona</place>
+    										<scene>Bar Tramuntana (Ramiro i Marcela)</scene>
+        									<coordinates>2.5573,41.747</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ventdelplà (TV serie)</title>
+    						<poster>http://www.filmaps.com/posters/1002065417000000</poster>
+    						<locations><location>
+    											<place>Breda, Girona</place>
+    										<scene>casa la Teresa Clarís</scene>
+        									<coordinates>2.55713,41.7487</coordinates>
+        									</location><location>
+    											<place>Brada, Girona</place>
+    										<scene>Bar Tramuntana (Ramiro i Marcela)</scene>
+        									<coordinates>2.5573,41.747</coordinates>
+        									</location></locations>
+						</movie></Document>

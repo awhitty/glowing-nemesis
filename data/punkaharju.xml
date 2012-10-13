@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Doctor Zhivago</title>
+    						<poster>http://www.filmaps.com/posters/0902261926000000</poster>
+    						<locations><location>
+    											<place>Punkasalmi, Finland</place>
+    										<scene></scene>
+        									<coordinates>29.3874,61.7598</coordinates>
+        									</location></locations>
+						</movie></Document>

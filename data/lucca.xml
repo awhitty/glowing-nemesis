@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Rajapattai</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Lucca, Italy</place>
+    										<scene>Several</scene>
+        									<coordinates>10.5082,43.8433</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Arrivano i bersaglieri</title>
+    						<poster>http://www.filmaps.com/posters/1201224838000000.jpg</poster>
+    						<locations><location>
+    											<place>Lucca, italy</place>
+    										<scene>Various scenes</scene>
+        									<coordinates>10.5079,43.8431</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Il mio west</title>
+    						<poster>http://www.filmaps.com/posters/1201224946000000.jpg</poster>
+    						<locations><location>
+    											<place>Lucca, Italy</place>
+    										<scene>Main location</scene>
+        									<coordinates>10.508,43.843</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The China story</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Lucca, Italy</place>
+    										<scene>Many episodes</scene>
+        									<coordinates>10.5083,43.8427</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Portrait of a lady</title>
+    						<poster>http://www.filmaps.com/posters/1201224531000000.jpg</poster>
+    						<locations><location>
+    											<place>Lucca,Italy</place>
+    										<scene>Main location</scene>
+        									<coordinates>10.5083,43.8433</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>il marchese del grillo</title>
+    						<poster>http://www.filmaps.com/posters/1105173256000000</poster>
+    						<locations><location>
+    											<place>Lucca,Italy</place>
+    										<scene>Outside scenes</scene>
+        									<coordinates>10.5079,43.843</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Miracle at Sant'Anna</title>
+    						<poster>http://www.filmaps.com/posters/1201225523000000.jpg</poster>
+    						<locations><location>
+    											<place>Lucca, Italy</place>
+    										<scene>Several scenes</scene>
+        									<coordinates>10.5079,43.8431</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Un gioco da ragazze</title>
+    						<poster>http://www.filmaps.com/posters/1201220801000000.jpg</poster>
+    						<locations><location>
+    											<place>Lucca,Italy</place>
+    										<scene>Main location</scene>
+        									<coordinates>10.5082,43.8428</coordinates>
+        									</location></locations>
+						</movie></Document>

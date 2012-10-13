@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Les beaux gosses</title>
+    						<poster>http://www.filmaps.com/posters/1111292831000000.jpg</poster>
+    						<locations><location>
+    											<place>Rennes</place>
+    										<scene>Film tournée en grande partie à Rennes</scene>
+        									<coordinates>-1.68777,48.1131</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Loulou Graffiti</title>
+    						<poster>http://www.filmaps.com/posters/1111293525000000.jpg</poster>
+    						<locations><location>
+    											<place>Rennes</place>
+    										<scene>Une partie du film a été tournée à Rennes</scene>
+        									<coordinates>-1.68104,48.1105</coordinates>
+        									</location></locations>
+						</movie></Document>

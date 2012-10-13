@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>mighty ducks</title>
+    						<poster>http://www.filmaps.com/posters/0911135221000000</poster>
+    						<locations><location>
+    											<place>Saint Cloud, MN USA</place>
+    										<scene>Opening scene is in the Stearns County Courthouse</scene>
+        									<coordinates>-94.1625,45.5608</coordinates>
+        									</location></locations>
+						</movie></Document>

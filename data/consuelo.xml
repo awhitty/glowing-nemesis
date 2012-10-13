@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sugar</title>
+    						<poster>http://www.filmaps.com/posters/0906091512000000</poster>
+    						<locations><location>
+    											<place>Consuelo, Dominican Republic</place>
+    										<scene></scene>
+        									<coordinates>-69.2997,18.5641</coordinates>
+        									</location></locations>
+						</movie></Document>

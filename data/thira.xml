@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lara Croft Tomb Raider</title>
+    						<poster>http://www.filmaps.com/posters/0901103544000000</poster>
+    						<locations><location>
+    											<place>Santorini, Greece</place>
+    										<scene></scene>
+        									<coordinates>25.4313,36.4108</coordinates>
+        									</location></locations>
+						</movie></Document>

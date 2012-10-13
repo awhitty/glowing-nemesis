@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>My Life in Ruins</title>
+    						<poster>http://www.filmaps.com/posters/1002065315000000</poster>
+    						<locations><location>
+    											<place>Athens</place>
+    										<scene>Travel agency, where the bus departs from </scene>
+        									<coordinates>23.7168,37.9793</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Fugitive</title>
+    						<poster>http://www.filmaps.com/posters/0910182802000000</poster>
+    						<locations><location>
+    											<place>Cheoah Dam, Tapoco, North Carolina, USA</place>
+    										<scene>Dam scenes</scene>
+        									<coordinates>-83.9364,35.4482</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Villa Amalia</title>
+    						<poster>http://www.filmaps.com/posters/0906120637000000</poster>
+    						<locations><location>
+    											<place>Tienen, België</place>
+    										<scene>Train Station</scene>
+        									<coordinates>4.92642,50.8077</coordinates>
+        									</location></locations>
+						</movie></Document>

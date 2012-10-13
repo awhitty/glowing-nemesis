@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Day the Earth Stood Still</title>
+    						<poster>http://www.filmaps.com/posters/0903073026000000</poster>
+    						<locations><location>
+    											<place>Harbour Bridge, Sydney</place>
+    										<scene></scene>
+        									<coordinates>151.21,-33.8543</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mision Imposible II</title>
+    						<poster>http://www.filmaps.com/posters/0902151829000000</poster>
+    						<locations><location>
+    											<place>Dawes Point Park, Sidney, Australia</place>
+    										<scene>Final Scene</scene>
+        									<coordinates>151.21,-33.8553</coordinates>
+        									</location></locations>
+						</movie></Document>

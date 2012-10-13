@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>O Beijo da Mulher Aranha</title>
+    						<poster>http://www.filmaps.com/posters/1009063538000000</poster>
+    						<locations><location>
+    											<place>Vera Cruz, São Bernardo do Campo, SP</place>
+    										<scene>Molina and Arregui's cell</scene>
+        									<coordinates>-46.5569,-23.6912</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Lula: O Filho do Brasil</title>
+    						<poster>http://www.filmaps.com/posters/1109205725000000.jpg</poster>
+    						<locations><location>
+    											<place>Estádio Primeiro de Maio, São Bernardo do Campo, Brasil</place>
+    										<scene>Lula's speech for the Auto Workers</scene>
+        									<coordinates>-46.556,-23.7001</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Estranho Encontro </title>
+    						<poster>http://www.filmaps.com/posters/1111104558000000.jpg</poster>
+    						<locations><location>
+    											<place>Vera Cruz, São Bernardo do Campo, SP </place>
+    										<scene>Internal scenes</scene>
+        									<coordinates>-46.5569,-23.6917</coordinates>
+        									</location></locations>
+						</movie></Document>

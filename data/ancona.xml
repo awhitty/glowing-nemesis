@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>La stanza del figlio</title>
+    						<poster>http://www.filmaps.com/posters/0907130415000000</poster>
+    						<locations><location>
+    											<place>viale della vittoria, Ancona, Italy</place>
+    										<scene>when father and son are running / quando corrono padre e figlio</scene>
+        									<coordinates>13.5326,43.615</coordinates>
+        									</location><location>
+    											<place>via s. martino 2, Ancona; Italy</place>
+    										<scene>Moretti's walk with By This River by Brian Eno as background music / passeggiata di Moretti con sottofondo By This River di Brian Eno</scene>
+        									<coordinates>13.5127,43.6167</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La stanza del figlio</title>
+    						<poster>http://www.filmaps.com/posters/0907130415000000</poster>
+    						<locations><location>
+    											<place>viale della vittoria, Ancona, Italy</place>
+    										<scene>when father and son are running / quando corrono padre e figlio</scene>
+        									<coordinates>13.5326,43.615</coordinates>
+        									</location><location>
+    											<place>via s. martino 2, Ancona; Italy</place>
+    										<scene>Moretti's walk with By This River by Brian Eno as background music / passeggiata di Moretti con sottofondo By This River di Brian Eno</scene>
+        									<coordinates>13.5127,43.6167</coordinates>
+        									</location></locations>
+						</movie></Document>

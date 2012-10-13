@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mission Impossible III</title>
+    						<poster>http://www.filmaps.com/posters/0905302927000000</poster>
+    						<locations><location>
+    											<place>300 W Huntington Drive, Arcadia, California, USA</place>
+    										<scene>Methodist Hospital scene</scene>
+        									<coordinates>-118.043,34.1339</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Notorious (Hitchcock)</title>
+    						<poster>http://www.filmaps.com/posters/0906134955000000</poster>
+    						<locations><location>
+    											<place>285 West Huntington Drive, Arcadia, California, USA</place>
+    										<scene>Santa Anita Park images from movie</scene>
+        									<coordinates>-118.041,34.1359</coordinates>
+        									</location></locations>
+						</movie></Document>

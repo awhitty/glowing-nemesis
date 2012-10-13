@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jamón Jamón</title>
+    						<poster>http://www.filmaps.com/posters/0902155945000000</poster>
+    						<locations><location>
+    											<place>monegrillo</place>
+    										<scene></scene>
+        									<coordinates>-0.415821,41.6412</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>dirty dancing</title>
+    						<poster>http://www.filmaps.com/posters/0908151938000000</poster>
+    						<locations><location>
+    											<place>Asheville, North Carolina, USA</place>
+    										<scene></scene>
+        									<coordinates>-82.556,35.5822</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>hannibal</title>
+    						<poster>http://www.filmaps.com/posters/0907011638000000</poster>
+    						<locations><location>
+    											<place>Asheville, North Carolina, USA</place>
+    										<scene></scene>
+        									<coordinates>-82.5543,35.6012</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Richie Rich</title>
+    						<poster>http://www.filmaps.com/posters/0911193926000000</poster>
+    						<locations><location>
+    											<place>Asheville, NC</place>
+    										<scene>The Family Home was the Biltmore House</scene>
+        									<coordinates>-82.5543,35.6007</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Last of the Mohicans</title>
+    						<poster>http://www.filmaps.com/posters/0910044959000000</poster>
+    						<locations><location>
+    											<place>Asheville, NC</place>
+    										<scene>Meeting with the British soldiers</scene>
+        									<coordinates>-82.5537,35.6012</coordinates>
+        									</location></locations>
+						</movie></Document>

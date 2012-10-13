@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The beach</title>
+    						<poster>http://www.filmaps.com/posters/0901080950000000</poster>
+    						<locations><location>
+    											<place>Khao san Road, Bangkok</place>
+    										<scene>Chaos in Bangkok</scene>
+        									<coordinates>100.497,13.7589</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Patriot</title>
+    						<poster>http://www.filmaps.com/posters/0901150535000000</poster>
+    						<locations><location>
+    											<place>Charleston, South Carolina, USA</place>
+    										<scene></scene>
+        									<coordinates>-79.9414,32.7931</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Notebook</title>
+    						<poster>http://www.filmaps.com/posters/0911235222000000</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>Calhoun Mansion</scene>
+        									<coordinates>-79.9308,32.7767</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Scarlett (TV serie)</title>
+    						<poster>http://www.filmaps.com/posters/0912135458000000</poster>
+    						<locations><location>
+    											<place>20 S Battery, Charleston, SC, USA</place>
+    										<scene></scene>
+        									<coordinates>-79.9312,32.7705</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Little Red Wagon </title>
+    						<poster>http://www.filmaps.com/posters/1202015553000000.jpg</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>Little Red Wagon</scene>
+        									<coordinates>-79.9309,32.7766</coordinates>
+        									</location><location>
+    											<place>Charleston, SC</place>
+    										<scene>Little Red Wagon</scene>
+        									<coordinates>-79.9309,32.7766</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Little Red Wagon </title>
+    						<poster>http://www.filmaps.com/posters/1202015553000000.jpg</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>Little Red Wagon</scene>
+        									<coordinates>-79.9309,32.7766</coordinates>
+        									</location><location>
+    											<place>Charleston, SC</place>
+    										<scene>Little Red Wagon</scene>
+        									<coordinates>-79.9309,32.7766</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Dear John</title>
+    						<poster>http://www.filmaps.com/posters/1202015829000000.jpg</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>Dear John</scene>
+        									<coordinates>-79.9309,32.7765</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The New Daughter</title>
+    						<poster>http://www.filmaps.com/posters/1202010022000000.jpg</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>The New Daughter</scene>
+        									<coordinates>-79.9312,32.7769</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Cold Mountain </title>
+    						<poster>http://www.filmaps.com/posters/0908131850000000</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>Cold Mountain</scene>
+        									<coordinates>-79.9308,32.7764</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>O</title>
+    						<poster>http://www.filmaps.com/posters/1202061507000000.jpg</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>O</scene>
+        									<coordinates>-79.931,32.7765</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Ace Ventura: When Nature Calls</title>
+    						<poster>http://www.filmaps.com/posters/1202064803000000.jpg</poster>
+    						<locations><location>
+    											<place>Charleston, SC</place>
+    										<scene>Ace Ventura: When Nature Calls</scene>
+        									<coordinates>-79.9306,32.7763</coordinates>
+        									</location></locations>
+						</movie></Document>

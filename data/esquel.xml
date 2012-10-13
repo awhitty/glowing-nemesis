@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El profesor patagónico</title>
+    						<poster>http://www.filmaps.com/posters/1003073450000000</poster>
+    						<locations><location>
+    											<place>Esquel, Chubut, Argentina</place>
+    										<scene>Escuela donde daba clases Sandrini</scene>
+        									<coordinates>-71.32,-42.9204</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Vienen por el oro, vienen por todo</title>
+    						<poster>http://www.filmaps.com/posters/1201053245000000.jpg</poster>
+    						<locations><location>
+    											<place>Esquel, Chubut, Argentina</place>
+    										<scene>Desarrollo de la lucha contra la megaminería en la ciudad de Esquel, 2002/2003</scene>
+        									<coordinates>-71.3084,-42.9065</coordinates>
+        									</location></locations>
+						</movie></Document>

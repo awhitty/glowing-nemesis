@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Monty Python and the Holy Grail</title>
+    						<poster>http://www.filmaps.com/posters/1106042639000000</poster>
+    						<locations><location>
+    											<place>Doune Castle, Doune, Stirling, Scotland</place>
+    										<scene>Doune Castle - Arthur begins his quest for the Holy Grail</scene>
+        									<coordinates>-4.05167,56.1892</coordinates>
+        									</location></locations>
+						</movie></Document>

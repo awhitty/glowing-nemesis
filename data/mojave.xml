@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Casino</title>
+    						<poster>http://www.filmaps.com/posters/0906152553000000</poster>
+    						<locations><location>
+    											<place>Mojave, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.232,35.0393</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>SWAT</title>
+    						<poster>http://www.filmaps.com/posters/0909102602000000</poster>
+    						<locations><location>
+    											<place>airplane graveyard. mojave, ca</place>
+    										<scene>in which they attempt to rescue "hostages" from "hijackers"</scene>
+        									<coordinates>-118.145,35.0649</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Seven (se7en)</title>
+    						<poster>http://www.filmaps.com/posters/0901074003000000</poster>
+    						<locations><location>
+    											<place>Mojave, California, USA</place>
+    										<scene>Final scene in the desert</scene>
+        									<coordinates>-118.174,35.0526</coordinates>
+        									</location></locations>
+						</movie></Document>

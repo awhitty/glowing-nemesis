@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Big Fish</title>
+    						<poster>http://www.filmaps.com/posters/0901271154000000</poster>
+    						<locations><location>
+    											<place>Dicksonia Plantation, Highway 80, Lowndesboro, Alabama</place>
+    										<scene>The witch's house</scene>
+        									<coordinates>-86.5868,32.2694</coordinates>
+        									</location></locations>
+						</movie></Document>

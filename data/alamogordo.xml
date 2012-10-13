@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Jarhead</title>
+    						<poster>http://www.filmaps.com/posters/0911091127000000</poster>
+    						<locations><location>
+    											<place>White Sands National Monument, near, Alamogordo, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-106.299,32.7628</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Men Who Stare At Goats</title>
+    						<poster>http://www.filmaps.com/posters/0912061137000000</poster>
+    						<locations><location>
+    											<place>White Sands National Monument, near, Alamogordo, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-106.299,32.7625</coordinates>
+        									</location></locations>
+						</movie></Document>

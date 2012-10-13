@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The lords of the rings</title>
+    						<poster>http://www.filmaps.com/posters/0901082858000000</poster>
+    						<locations><location>
+    											<place>Manakau, Otaki</place>
+    										<scene>The Hobbits narrowly escape the ring wraiths by jumping onto the Brandywine River ferry</scene>
+        									<coordinates>175.214,-40.7324</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>XXY</title>
+    						<poster>http://www.filmaps.com/posters/1112021538000000.jpg</poster>
+    						<locations><location>
+    											<place>Piriápolis, Maldonado, Uruguay</place>
+    										<scene>escena de la peli</scene>
+        									<coordinates>-55.2688,-34.8646</coordinates>
+        									</location></locations>
+						</movie></Document>

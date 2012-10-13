@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Missing</title>
+    						<poster>http://www.filmaps.com/posters/0909062023000000</poster>
+    						<locations><location>
+    											<place>Santa Clara Pueblo, Santa Clara, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-106.09,35.9717</coordinates>
+        									</location></locations>
+						</movie></Document>

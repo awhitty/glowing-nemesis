@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pride and Prejudice</title>
+    						<poster>http://www.filmaps.com/posters/0902091209000000</poster>
+    						<locations><location>
+    											<place>Chatsworth House</place>
+    										<scene></scene>
+        									<coordinates>-88.3337,40.6482</coordinates>
+        									</location></locations>
+						</movie></Document>

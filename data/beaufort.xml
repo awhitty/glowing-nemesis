@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Great Santini</title>
+    						<poster>http://www.filmaps.com/posters/0910051702000000</poster>
+    						<locations><location>
+    											<place>Beaufort S.C.</place>
+    										<scene>Moving into the new house</scene>
+        									<coordinates>-80.6874,32.4262</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Undertow</title>
+    						<poster>http://www.filmaps.com/posters/1202060843000000.jpg</poster>
+    						<locations><location>
+    											<place>Beaufort, SC</place>
+    										<scene>Undertow</scene>
+        									<coordinates>-80.6697,32.4317</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>G.I. Jane</title>
+    						<poster>http://www.filmaps.com/posters/1202064438000000.jpg</poster>
+    						<locations><location>
+    											<place>Beaufort, SC</place>
+    										<scene>G.I. Jane</scene>
+        									<coordinates>-80.67,32.4314</coordinates>
+        									</location></locations>
+						</movie></Document>

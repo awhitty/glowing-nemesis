@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Zombieland</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Rutledge, Georgia, USA</place>
+    										<scene>Kemosabe casino & trading post</scene>
+        									<coordinates>-83.6124,33.626</coordinates>
+        									</location></locations>
+						</movie></Document>

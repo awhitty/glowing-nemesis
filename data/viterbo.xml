@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>maresciallo rocca</title>
+    						<poster>http://www.filmaps.com/posters/0903133123000000</poster>
+    						<locations><location>
+    											<place>viterbo</place>
+    										<scene>gigi proietti in maresciallo rocca</scene>
+        									<coordinates>12.105,42.4172</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Australia</title>
+    						<poster>http://www.filmaps.com/posters/0901220806000000</poster>
+    						<locations><location>
+    											<place>52 Vaucluse Rd, Vaucluse, Sydney</place>
+    										<scene>Darwin Government House</scene>
+        									<coordinates>151.268,-33.8555</coordinates>
+        									</location></locations>
+						</movie></Document>

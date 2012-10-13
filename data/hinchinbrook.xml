@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Nim's Island</title>
+    						<poster>http://www.filmaps.com/posters/0908033728000000</poster>
+    						<locations><location>
+    											<place>Hinchinbrook Island, Queensland, Australia</place>
+    										<scene></scene>
+        									<coordinates>146.288,-18.3323</coordinates>
+        									</location></locations>
+						</movie></Document>

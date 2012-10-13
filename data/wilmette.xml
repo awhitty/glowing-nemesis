@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Home Alone</title>
+    						<poster>http://www.filmaps.com/posters/0901081136000000</poster>
+    						<locations><location>
+    											<place>Central and 11th st, wilmette il</place>
+    										<scene>Kevin runs inside the church</scene>
+        									<coordinates>-87.705,42.0765</coordinates>
+        									</location></locations>
+						</movie></Document>

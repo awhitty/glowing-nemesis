@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mad Max: Fury Road</title>
+    						<poster>http://www.filmaps.com/posters/0902083901000000</poster>
+    						<locations><location>
+    											<place>Broken Hill, Victoria, Australia</place>
+    										<scene></scene>
+        									<coordinates>141.457,-31.9854</coordinates>
+        									</location></locations>
+						</movie></Document>

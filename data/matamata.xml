@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The lords of the rings</title>
+    						<poster>http://www.filmaps.com/posters/0901082858000000</poster>
+    						<locations><location>
+    											<place>501 Buckland Road, Matamata, New Zealand</place>
+    										<scene>hobbiton location</scene>
+        									<coordinates>175.684,-37.8812</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Lord of the Rings</title>
+    						<poster>http://www.filmaps.com/posters/1203091320000000.jpg</poster>
+    						<locations><location>
+    											<place>Hinuera Valley, Matamata, Waikato, New Zealand</place>
+    										<scene>Hobbiton</scene>
+        									<coordinates>175.757,-37.8553</coordinates>
+        									</location></locations>
+						</movie></Document>

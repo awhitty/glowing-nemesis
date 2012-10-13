@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>scream</title>
+    						<poster>http://www.filmaps.com/posters/0911055805000000</poster>
+    						<locations><location>
+    											<place>Calistoga Road, Santa Rosa, CA, USA</place>
+    										<scene>Sidney's house</scene>
+        									<coordinates>-122.652,38.5082</coordinates>
+        									</location></locations>
+						</movie></Document>

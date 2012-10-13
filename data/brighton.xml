@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Quadrophenia</title>
+    						<poster>http://www.filmaps.com/posters/0911243540000000</poster>
+    						<locations><location>
+    											<place>Brighton</place>
+    										<scene>Fight between Mods and Rockers</scene>
+        									<coordinates>-0.136683,50.8198</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Angus, thongs and perfect snogging</title>
+    						<poster>http://www.filmaps.com/posters/1001203648000000</poster>
+    						<locations><location>
+    											<place>Eastbourne, England</place>
+    										<scene></scene>
+        									<coordinates>-0.136322,50.82</coordinates>
+        									</location><location>
+    											<place>Eastbourne, England. Brighton, England.</place>
+    										<scene></scene>
+        									<coordinates>-0.11347,50.8403</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Angus, thongs and perfect snogging</title>
+    						<poster>http://www.filmaps.com/posters/1001203648000000</poster>
+    						<locations><location>
+    											<place>Eastbourne, England</place>
+    										<scene></scene>
+        									<coordinates>-0.136322,50.82</coordinates>
+        									</location><location>
+    											<place>Eastbourne, England. Brighton, England.</place>
+    										<scene></scene>
+        									<coordinates>-0.11347,50.8403</coordinates>
+        									</location></locations>
+						</movie></Document>

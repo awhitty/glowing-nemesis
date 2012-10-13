@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Back to the Future</title>
+    						<poster>http://www.filmaps.com/posters/0901283538000000</poster>
+    						<locations><location>
+    											<place>1600 Azusa Ave. Ste 321A, City of Industry, CA 91748</place>
+    										<scene>Twin Pines Mall in the first movie in the mall's parking lot.</scene>
+        									<coordinates>-117.928,33.9935</coordinates>
+        									</location></locations>
+						</movie></Document>

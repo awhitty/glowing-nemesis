@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>What dreams may come</title>
+    						<poster>http://www.filmaps.com/posters/0903052854000000</poster>
+    						<locations><location>
+    											<place>Niagara Falls, New York</place>
+    										<scene></scene>
+        									<coordinates>-79.0631,43.088</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Superman II</title>
+    						<poster>http://www.filmaps.com/posters/0903050018000000</poster>
+    						<locations><location>
+    											<place>Niagara falls, Canada</place>
+    										<scene>where Superman saves the boy falling into falls was filmed at the Table Rock complex</scene>
+        									<coordinates>-79.0783,43.0792</coordinates>
+        									</location></locations>
+						</movie></Document>

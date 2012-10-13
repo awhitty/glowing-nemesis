@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Barry Lyndon</title>
+    						<poster>http://www.filmaps.com/posters/0903174512000000</poster>
+    						<locations><location>
+    											<place>Dunrobin Castle, Sutherland, Scotland, UK</place>
+    										<scene>more exteriors scenes</scene>
+        									<coordinates>-3.9451,57.9823</coordinates>
+        									</location></locations>
+						</movie></Document>

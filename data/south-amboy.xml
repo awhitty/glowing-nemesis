@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Coyote Ugly ( El bar Coyote)</title>
+    						<poster>http://www.filmaps.com/posters/1202140803000000.jpg</poster>
+    						<locations><location>
+    											<place>South Amboy, New Jersey, USA</place>
+    										<scene>Pizzeria in the begginer's film</scene>
+        									<coordinates>-74.28,40.4832</coordinates>
+        									</location></locations>
+						</movie></Document>

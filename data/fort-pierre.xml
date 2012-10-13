@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>bailando con lobos</title>
+    						<poster>http://www.filmaps.com/posters/0902253910000000</poster>
+    						<locations><location>
+    											<place>Fort Pierre, South Dakota</place>
+    										<scene>buffalo scenes</scene>
+        									<coordinates>-100.38,44.3633</coordinates>
+        									</location></locations>
+						</movie></Document>

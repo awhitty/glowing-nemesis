@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Star Wars - Episode I - The Phantom Menace</title>
+    						<poster>http://www.filmaps.com/posters/0901241911000000</poster>
+    						<locations><location>
+    											<place>Ksar Hedada, Tunisia</place>
+    										<scene>Slave Quarters</scene>
+        									<coordinates>10.3137,33.1005</coordinates>
+        									</location></locations>
+						</movie></Document>

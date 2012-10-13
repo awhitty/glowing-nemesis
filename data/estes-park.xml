@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the shining</title>
+    						<poster>http://www.filmaps.com/posters/0910043938000000</poster>
+    						<locations><location>
+    											<place>Estes park Colorado</place>
+    										<scene>Jack Nicholson at Stanley Hotel</scene>
+        									<coordinates>-105.528,40.3721</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Uninvited</title>
+    						<poster>http://www.filmaps.com/posters/0905084812000000</poster>
+    						<locations><location>
+    											<place>Bowen Island, British Columbia, Canada</place>
+    										<scene></scene>
+        									<coordinates>-123.338,49.3799</coordinates>
+        									</location></locations>
+						</movie></Document>

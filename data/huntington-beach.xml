@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>SWAT</title>
+    						<poster>http://www.filmaps.com/posters/0909102602000000</poster>
+    						<locations><location>
+    											<place>401 Pacific Coast Hwy, Huntington Beach, CA</place>
+    										<scene>The scenes where 'Jim Street' (Colin Farrell) is exercising on the beach (after he's quit S.W.A.T.) appear to have been filmed along the Huntington Beach- Sunset Beach coastal area</scene>
+        									<coordinates>-118.005,33.6566</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Marmaduke</title>
+    						<poster>http://www.filmaps.com/posters/1006054911000000</poster>
+    						<locations><location>
+    											<place>Huntington Beach, Ca, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.004,33.6576</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>2012</title>
+    						<poster>http://www.filmaps.com/posters/0910302858000000</poster>
+    						<locations><location>
+    											<place>Intersection of PCH and 6th St. in Huntington Beach, California</place>
+    										<scene>the faultline crack runs down the street to the beach with onlookers just standing watching in disbelief.</scene>
+        									<coordinates>-117.999,33.6602</coordinates>
+        									</location></locations>
+						</movie></Document>

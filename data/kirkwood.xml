@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>How I Got Lost</title>
+    						<poster>http://www.filmaps.com/posters/0911060901000000</poster>
+    						<locations><location>
+    											<place>Kirkwood, Missouri, USA</place>
+    										<scene></scene>
+        									<coordinates>-90.4087,38.5827</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>No Country for Old Men</title>
+    						<poster>http://www.filmaps.com/posters/0902094211000000</poster>
+    						<locations><location>
+    											<place>1600 Saint Michaels Drive, Santa Fe, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.975,35.66</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>3:10 to Yuma</title>
+    						<poster>http://www.filmaps.com/posters/0902105903000000</poster>
+    						<locations><location>
+    											<place>Bonanza Creek Lane, Santa Fe, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-106.071,35.4934</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>chisum</title>
+    						<poster>http://www.filmaps.com/posters/0902182539000000</poster>
+    						<locations><location>
+    											<place>105 Rancho Alegre Road, Santa Fe, New Mexico, USA</place>
+    										<scene>Eaves Movie Ranch</scene>
+        									<coordinates>-106.085,35.4861</coordinates>
+        									</location><location>
+    											<place>Santa Fe, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.938,35.6818</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>chisum</title>
+    						<poster>http://www.filmaps.com/posters/0902182539000000</poster>
+    						<locations><location>
+    											<place>105 Rancho Alegre Road, Santa Fe, New Mexico, USA</place>
+    										<scene>Eaves Movie Ranch</scene>
+        									<coordinates>-106.085,35.4861</coordinates>
+        									</location><location>
+    											<place>Santa Fe, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.938,35.6818</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Young Guns 1</title>
+    						<poster>http://www.filmaps.com/posters/0903212129000000</poster>
+    						<locations><location>
+    											<place>Cerrillos, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-106.157,35.4587</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Missing</title>
+    						<poster>http://www.filmaps.com/posters/0909062023000000</poster>
+    						<locations><location>
+    											<place>15 Bonanza Creek Lane, Santa Fe, New Mexico, USA</place>
+    										<scene>Bonanza Creek Ranch</scene>
+        									<coordinates>-106.068,35.4931</coordinates>
+        									</location><location>
+    											<place>334 Los Pinos Road, Santa Fe, New Mexico, USA</place>
+    										<scene>Rancho de las Golondrinas</scene>
+        									<coordinates>-106.101,35.5869</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Missing</title>
+    						<poster>http://www.filmaps.com/posters/0909062023000000</poster>
+    						<locations><location>
+    											<place>15 Bonanza Creek Lane, Santa Fe, New Mexico, USA</place>
+    										<scene>Bonanza Creek Ranch</scene>
+        									<coordinates>-106.068,35.4931</coordinates>
+        									</location><location>
+    											<place>334 Los Pinos Road, Santa Fe, New Mexico, USA</place>
+    										<scene>Rancho de las Golondrinas</scene>
+        									<coordinates>-106.101,35.5869</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Book of Eli</title>
+    						<poster>http://www.filmaps.com/posters/1009262109000000</poster>
+    						<locations><location>
+    											<place>Santa Fe, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.938,35.6873</coordinates>
+        									</location><location>
+    											<place>Route 14, Santa Fe, New Mexico, USA</place>
+    										<scene>New Mexico State Penitentiary</scene>
+        									<coordinates>-106.051,35.5629</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Book of Eli</title>
+    						<poster>http://www.filmaps.com/posters/1009262109000000</poster>
+    						<locations><location>
+    											<place>Santa Fe, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-105.938,35.6873</coordinates>
+        									</location><location>
+    											<place>Route 14, Santa Fe, New Mexico, USA</place>
+    										<scene>New Mexico State Penitentiary</scene>
+        									<coordinates>-106.051,35.5629</coordinates>
+        									</location></locations>
+						</movie></Document>

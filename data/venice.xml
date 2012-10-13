@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Casino Royale</title>
+    						<poster>http://www.filmaps.com/posters/0901091928000000</poster>
+    						<locations><location>
+    											<place>Venecia</place>
+    										<scene>James Bond in Venice</scene>
+        									<coordinates>12.3383,45.4341</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>007 From Russia with Love</title>
+    						<poster>http://www.filmaps.com/posters/0901092222000000</poster>
+    						<locations><location>
+    											<place>venice</place>
+    										<scene>the end scene</scene>
+        									<coordinates>12.3312,45.4314</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Moonraker (007)</title>
+    						<poster>http://www.filmaps.com/posters/0901092438000000</poster>
+    						<locations><location>
+    											<place>Venice, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3388,45.4343</coordinates>
+        									</location><location>
+    											<place>Grand Canal, Venice, Veneto, Italy</place>
+    										<scene>Bond gondola chase</scene>
+        									<coordinates>12.3356,45.4315</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Pane e tulipani</title>
+    						<poster>http://www.filmaps.com/posters/0901092519000000</poster>
+    						<locations><location>
+    											<place>venice, italia</place>
+    										<scene></scene>
+        									<coordinates>12.3357,45.4376</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Wings of the Dove</title>
+    						<poster>http://www.filmaps.com/posters/0901092631000000</poster>
+    						<locations><location>
+    											<place>Venice, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3313,45.4356</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mort a Venezia</title>
+    						<poster>http://www.filmaps.com/posters/0901092801000000</poster>
+    						<locations><location>
+    											<place>Venezia, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3291,45.435</coordinates>
+        									</location><location>
+    											<place>Campiello dei Calegheri, Venice, Veneto, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3327,45.4332</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mort a Venezia</title>
+    						<poster>http://www.filmaps.com/posters/0901092801000000</poster>
+    						<locations><location>
+    											<place>Venezia, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3291,45.435</coordinates>
+        									</location><location>
+    											<place>Campiello dei Calegheri, Venice, Veneto, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3327,45.4332</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Don't Look Now</title>
+    						<poster>http://www.filmaps.com/posters/0901124918000000</poster>
+    						<locations><location>
+    											<place>Castello 4110, Riva degli Schiavoni</place>
+    										<scene>The Lobby and the exteriors of Sutherland and Christie's hotel</scene>
+        									<coordinates>12.3476,45.4337</coordinates>
+        									</location><location>
+    											<place>San Marco 1459, Venice</place>
+    										<scene>Bauer Grunwald</scene>
+        									<coordinates>12.3362,45.4342</coordinates>
+        									</location><location>
+    											<place>Calle di Mezzo, Venice</place>
+    										<scene>The narrow Canal</scene>
+        									<coordinates>12.3428,45.4369</coordinates>
+        									</location><location>
+    											<place>Ponte Scalzi, Venice</place>
+    										<scene>Restaurante Roma, which Jhon and Laura meet 2 sisters</scene>
+        									<coordinates>12.3228,45.4414</coordinates>
+        									</location><location>
+    											<place>San Marco 1936, Venice</place>
+    										<scene>The sister's hotel: La Fenice et des Artistes</scene>
+        									<coordinates>12.3338,45.4338</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Don't Look Now</title>
+    						<poster>http://www.filmaps.com/posters/0901124918000000</poster>
+    						<locations><location>
+    											<place>Castello 4110, Riva degli Schiavoni</place>
+    										<scene>The Lobby and the exteriors of Sutherland and Christie's hotel</scene>
+        									<coordinates>12.3476,45.4337</coordinates>
+        									</location><location>
+    											<place>San Marco 1459, Venice</place>
+    										<scene>Bauer Grunwald</scene>
+        									<coordinates>12.3362,45.4342</coordinates>
+        									</location><location>
+    											<place>Calle di Mezzo, Venice</place>
+    										<scene>The narrow Canal</scene>
+        									<coordinates>12.3428,45.4369</coordinates>
+        									</location><location>
+    											<place>Ponte Scalzi, Venice</place>
+    										<scene>Restaurante Roma, which Jhon and Laura meet 2 sisters</scene>
+        									<coordinates>12.3228,45.4414</coordinates>
+        									</location><location>
+    											<place>San Marco 1936, Venice</place>
+    										<scene>The sister's hotel: La Fenice et des Artistes</scene>
+        									<coordinates>12.3338,45.4338</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Don't Look Now</title>
+    						<poster>http://www.filmaps.com/posters/0901124918000000</poster>
+    						<locations><location>
+    											<place>Castello 4110, Riva degli Schiavoni</place>
+    										<scene>The Lobby and the exteriors of Sutherland and Christie's hotel</scene>
+        									<coordinates>12.3476,45.4337</coordinates>
+        									</location><location>
+    											<place>San Marco 1459, Venice</place>
+    										<scene>Bauer Grunwald</scene>
+        									<coordinates>12.3362,45.4342</coordinates>
+        									</location><location>
+    											<place>Calle di Mezzo, Venice</place>
+    										<scene>The narrow Canal</scene>
+        									<coordinates>12.3428,45.4369</coordinates>
+        									</location><location>
+    											<place>Ponte Scalzi, Venice</place>
+    										<scene>Restaurante Roma, which Jhon and Laura meet 2 sisters</scene>
+        									<coordinates>12.3228,45.4414</coordinates>
+        									</location><location>
+    											<place>San Marco 1936, Venice</place>
+    										<scene>The sister's hotel: La Fenice et des Artistes</scene>
+        									<coordinates>12.3338,45.4338</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Don't Look Now</title>
+    						<poster>http://www.filmaps.com/posters/0901124918000000</poster>
+    						<locations><location>
+    											<place>Castello 4110, Riva degli Schiavoni</place>
+    										<scene>The Lobby and the exteriors of Sutherland and Christie's hotel</scene>
+        									<coordinates>12.3476,45.4337</coordinates>
+        									</location><location>
+    											<place>San Marco 1459, Venice</place>
+    										<scene>Bauer Grunwald</scene>
+        									<coordinates>12.3362,45.4342</coordinates>
+        									</location><location>
+    											<place>Calle di Mezzo, Venice</place>
+    										<scene>The narrow Canal</scene>
+        									<coordinates>12.3428,45.4369</coordinates>
+        									</location><location>
+    											<place>Ponte Scalzi, Venice</place>
+    										<scene>Restaurante Roma, which Jhon and Laura meet 2 sisters</scene>
+        									<coordinates>12.3228,45.4414</coordinates>
+        									</location><location>
+    											<place>San Marco 1936, Venice</place>
+    										<scene>The sister's hotel: La Fenice et des Artistes</scene>
+        									<coordinates>12.3338,45.4338</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Don't Look Now</title>
+    						<poster>http://www.filmaps.com/posters/0901124918000000</poster>
+    						<locations><location>
+    											<place>Castello 4110, Riva degli Schiavoni</place>
+    										<scene>The Lobby and the exteriors of Sutherland and Christie's hotel</scene>
+        									<coordinates>12.3476,45.4337</coordinates>
+        									</location><location>
+    											<place>San Marco 1459, Venice</place>
+    										<scene>Bauer Grunwald</scene>
+        									<coordinates>12.3362,45.4342</coordinates>
+        									</location><location>
+    											<place>Calle di Mezzo, Venice</place>
+    										<scene>The narrow Canal</scene>
+        									<coordinates>12.3428,45.4369</coordinates>
+        									</location><location>
+    											<place>Ponte Scalzi, Venice</place>
+    										<scene>Restaurante Roma, which Jhon and Laura meet 2 sisters</scene>
+        									<coordinates>12.3228,45.4414</coordinates>
+        									</location><location>
+    											<place>San Marco 1936, Venice</place>
+    										<scene>The sister's hotel: La Fenice et des Artistes</scene>
+        									<coordinates>12.3338,45.4338</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Indiana Jones and the Last crusade</title>
+    						<poster>http://www.filmaps.com/posters/0901134936000000</poster>
+    						<locations><location>
+    											<place>Venice, Italy</place>
+    										<scene>Venice Scenes</scene>
+        									<coordinates>12.3359,45.4348</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Italian Job</title>
+    						<poster>http://www.filmaps.com/posters/0901194335000000</poster>
+    						<locations><location>
+    											<place>St. Mark's Square, Venice, Veneto, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3388,45.4343</coordinates>
+        									</location><location>
+    											<place>Campo San Barnaba, Venice, Italy </place>
+    										<scene>yatch persecution in Venice canals</scene>
+        									<coordinates>12.3248,45.4333</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Italian Job</title>
+    						<poster>http://www.filmaps.com/posters/0901194335000000</poster>
+    						<locations><location>
+    											<place>St. Mark's Square, Venice, Veneto, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3388,45.4343</coordinates>
+        									</location><location>
+    											<place>Campo San Barnaba, Venice, Italy </place>
+    										<scene>yatch persecution in Venice canals</scene>
+        									<coordinates>12.3248,45.4333</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Birds</title>
+    						<poster>http://www.filmaps.com/posters/0901225758000000</poster>
+    						<locations><location>
+    											<place>Venice, Los Angeles</place>
+    										<scene>Venice Canals</scene>
+        									<coordinates>-118.463,33.9887</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The English Patient</title>
+    						<poster>http://www.filmaps.com/posters/0902253657000000</poster>
+    						<locations><location>
+    											<place>Lungomare Marconi 41, Lido, Venice</place>
+    										<scene>Grand Hotel des Bains images</scene>
+        									<coordinates>12.3653,45.4036</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>gomorra</title>
+    						<poster>http://www.filmaps.com/posters/0903153742000000</poster>
+    						<locations><location>
+    											<place>venice, italia</place>
+    										<scene></scene>
+        									<coordinates>12.3355,45.4373</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>NIGHTMARE ON ELM STREET</title>
+    						<poster>http://www.filmaps.com/posters/0904194228000000</poster>
+    						<locations><location>
+    											<place>Venice Beach, Venice, Los Angeles, California, USA</place>
+    										<scene>scene where actors Johnny Depp and Heather Langenkamp are on the bridge over a canal</scene>
+        									<coordinates>-118.466,33.984</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Talented Mr. Ripley</title>
+    						<poster>http://www.filmaps.com/posters/0901242857000000</poster>
+    						<locations><location>
+    											<place>Piazza San Marco, Venice, Italia</place>
+    										<scene>Caffè Florian scene,  Caffè Florian scene,  where Marge lets on that she thinks something fishy</scene>
+        									<coordinates>12.3385,45.4343</coordinates>
+        									</location><location>
+    											<place>San Marco 2159, Venecia 30124, Italia</place>
+    										<scene>Hotel Europa & Regina, the Mr. Greenleaf's hotel in Venice</scene>
+        									<coordinates>12.3358,45.432</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Talented Mr. Ripley</title>
+    						<poster>http://www.filmaps.com/posters/0901242857000000</poster>
+    						<locations><location>
+    											<place>Piazza San Marco, Venice, Italia</place>
+    										<scene>Caffè Florian scene,  Caffè Florian scene,  where Marge lets on that she thinks something fishy</scene>
+        									<coordinates>12.3385,45.4343</coordinates>
+        									</location><location>
+    											<place>San Marco 2159, Venecia 30124, Italia</place>
+    										<scene>Hotel Europa & Regina, the Mr. Greenleaf's hotel in Venice</scene>
+        									<coordinates>12.3358,45.432</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Qué Les Pasa A Los Hombres</title>
+    						<poster>http://www.filmaps.com/posters/0909140813000000</poster>
+    						<locations><location>
+    											<place>Venice, Los Angeles, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.474,33.9869</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>muerte en venecia</title>
+    						<poster>http://www.filmaps.com/posters/0910043243000000</poster>
+    						<locations><location>
+    											<place>Plaza San Marcos, Venecia, Italia</place>
+    										<scene>Banco</scene>
+        									<coordinates>12.3378,45.434</coordinates>
+        									</location><location>
+    											<place>Lungomare Marconi 41, Lido, Venecia</place>
+    										<scene>Grand Hotel des Bains</scene>
+        									<coordinates>12.3654,45.4035</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>muerte en venecia</title>
+    						<poster>http://www.filmaps.com/posters/0910043243000000</poster>
+    						<locations><location>
+    											<place>Plaza San Marcos, Venecia, Italia</place>
+    										<scene>Banco</scene>
+        									<coordinates>12.3378,45.434</coordinates>
+        									</location><location>
+    											<place>Lungomare Marconi 41, Lido, Venecia</place>
+    										<scene>Grand Hotel des Bains</scene>
+        									<coordinates>12.3654,45.4035</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Moonraker (007)</title>
+    						<poster>http://www.filmaps.com/posters/0901092438000000</poster>
+    						<locations><location>
+    											<place>Venice, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3388,45.4343</coordinates>
+        									</location><location>
+    											<place>Grand Canal, Venice, Veneto, Italy</place>
+    										<scene>Bond gondola chase</scene>
+        									<coordinates>12.3356,45.4315</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Amazing Race</title>
+    						<poster>http://www.filmaps.com/posters/0901164442000000</poster>
+    						<locations><location>
+    											<place>Stazione Ferroviaría di Venezia Santa Lucia, Fondamenta Santa Lucia, Venice, Veneto, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.321,45.4402</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Merchant of Venice</title>
+    						<poster>http://www.filmaps.com/posters/0910132730000000</poster>
+    						<locations><location>
+    											<place>Venice, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3414,45.4336</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Brideshead Revisited</title>
+    						<poster>http://www.filmaps.com/posters/0910132943000000</poster>
+    						<locations><location>
+    											<place>Palazzi Barbaro, Venice, Italy</place>
+    										<scene>Palazzi Barbaro</scene>
+        									<coordinates>12.3299,45.4316</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Casanova</title>
+    						<poster>http://www.filmaps.com/posters/0910134318000000</poster>
+    						<locations><location>
+    											<place>Venice, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.3388,45.4326</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Summertime</title>
+    						<poster>http://www.filmaps.com/posters/0910134847000000</poster>
+    						<locations><location>
+    											<place>Piazza San Marco, Venice, Italy</place>
+    										<scene>Katharine Hepburn stay in hotel near Piazza San Marco</scene>
+        									<coordinates>12.3391,45.4348</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Il Viaggio</title>
+    						<poster>http://www.filmaps.com/posters/1001293333000000</poster>
+    						<locations><location>
+    											<place>Riva degli Schiavoni, 4196, 30122 Venezia, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.342,45.4339</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>only you (sólo tú)</title>
+    						<poster>http://www.filmaps.com/posters/0905012023000000</poster>
+    						<locations><location>
+    											<place>Venice, Veneto, Italy</place>
+    										<scene></scene>
+        									<coordinates>12.341,45.4355</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The tourist</title>
+    						<poster>http://www.filmaps.com/posters/1101084722000000</poster>
+    						<locations><location>
+    											<place>Venezia, Italia</place>
+    										<scene>Hotels</scene>
+        									<coordinates>12.33,45.4314</coordinates>
+        									</location><location>
+    											<place> Venecia </place>
+    										<scene>Train Station in Venice</scene>
+        									<coordinates>12.3181,45.4429</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The tourist</title>
+    						<poster>http://www.filmaps.com/posters/1101084722000000</poster>
+    						<locations><location>
+    											<place>Venezia, Italia</place>
+    										<scene>Hotels</scene>
+        									<coordinates>12.33,45.4314</coordinates>
+        									</location><location>
+    											<place> Venecia </place>
+    										<scene>Train Station in Venice</scene>
+        									<coordinates>12.3181,45.4429</coordinates>
+        									</location></locations>
+						</movie></Document>

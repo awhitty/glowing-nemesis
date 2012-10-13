@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Accion mutante</title>
+    						<poster>http://www.filmaps.com/posters/1007040229000000</poster>
+    						<locations><location>
+    											<place>castilldeterra bardenas</place>
+    										<scene>Todas las escenas que se desarrollan en la luna fueron rodadas en las bardenas</scene>
+        									<coordinates>-1.59955,42.179</coordinates>
+        									</location></locations>
+						</movie></Document>

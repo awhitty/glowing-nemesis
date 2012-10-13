@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Interview with the Vampire</title>
+    						<poster>http://www.filmaps.com/posters/1204144224000000.jpg</poster>
+    						<locations><location>
+    											<place>Golden Gate Bridge, San Francisco</place>
+    										<scene>Lestat making a sudden reappearance as Malloy drives across the bridge</scene>
+        									<coordinates>-122.478,37.8166</coordinates>
+        									</location></locations>
+						</movie></Document>

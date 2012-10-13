@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Matrix</title>
+    						<poster>http://www.filmaps.com/posters/0901120951000000</poster>
+    						<locations><location>
+    											<place>1 Martin Place, Sydney</place>
+    										<scene>buildings around. Now is the Westin Hotel</scene>
+        									<coordinates>151.208,-33.8675</coordinates>
+        									</location><location>
+    											<place>1 Market Street, Sydney</place>
+    										<scene>The spectacular helicopter crash is in British Telecom Tower</scene>
+        									<coordinates>151.205,-33.8712</coordinates>
+        									</location><location>
+    											<place>Martin Place, Sydney</place>
+    										<scene>The woman in red</scene>
+        									<coordinates>151.21,-33.8679</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Matrix</title>
+    						<poster>http://www.filmaps.com/posters/0901120951000000</poster>
+    						<locations><location>
+    											<place>1 Martin Place, Sydney</place>
+    										<scene>buildings around. Now is the Westin Hotel</scene>
+        									<coordinates>151.208,-33.8675</coordinates>
+        									</location><location>
+    											<place>1 Market Street, Sydney</place>
+    										<scene>The spectacular helicopter crash is in British Telecom Tower</scene>
+        									<coordinates>151.205,-33.8712</coordinates>
+        									</location><location>
+    											<place>Martin Place, Sydney</place>
+    										<scene>The woman in red</scene>
+        									<coordinates>151.21,-33.8679</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mision Imposible II</title>
+    						<poster>http://www.filmaps.com/posters/0902151829000000</poster>
+    						<locations><location>
+    											<place>Bay, Sydney</place>
+    										<scene>Mul</scene>
+        									<coordinates>151.207,-33.8669</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Independence Day</title>
+    						<poster>http://www.filmaps.com/posters/0904152247000000</poster>
+    						<locations><location>
+    											<place>Sydney, New South Wales, Australia</place>
+    										<scene></scene>
+        									<coordinates>151.206,-33.8674</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Matrix</title>
+    						<poster>http://www.filmaps.com/posters/0901120951000000</poster>
+    						<locations><location>
+    											<place>1 Martin Place, Sydney</place>
+    										<scene>buildings around. Now is the Westin Hotel</scene>
+        									<coordinates>151.208,-33.8675</coordinates>
+        									</location><location>
+    											<place>1 Market Street, Sydney</place>
+    										<scene>The spectacular helicopter crash is in British Telecom Tower</scene>
+        									<coordinates>151.205,-33.8712</coordinates>
+        									</location><location>
+    											<place>Martin Place, Sydney</place>
+    										<scene>The woman in red</scene>
+        									<coordinates>151.21,-33.8679</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Moulin Rouge</title>
+    						<poster>http://www.filmaps.com/posters/1010033054000000</poster>
+    						<locations><location>
+    											<place>Sydney, New South Wales, Australia</place>
+    										<scene></scene>
+        									<coordinates>151.211,-33.8645</coordinates>
+        									</location></locations>
+						</movie></Document>

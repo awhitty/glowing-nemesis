@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Psycho</title>
+    						<poster>http://www.filmaps.com/posters/0912152216000000</poster>
+    						<locations><location>
+    											<place>Route 99 of the Fresno-Bakersfield Highway, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-120.795,37.4469</coordinates>
+        									</location></locations>
+						</movie></Document>

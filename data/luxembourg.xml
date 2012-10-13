@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>girl with a pearl earring</title>
+    						<poster>http://www.filmaps.com/posters/0902272006000000</poster>
+    						<locations><location>
+    											<place>Luxembourg</place>
+    										<scene></scene>
+        									<coordinates>6.12041,49.6303</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>9</title>
+    						<poster>http://www.filmaps.com/posters/0909163224000000</poster>
+    						<locations><location>
+    											<place>Luxembourg, Luxembourg</place>
+    										<scene></scene>
+        									<coordinates>6.12943,49.6102</coordinates>
+        									</location></locations>
+						</movie></Document>

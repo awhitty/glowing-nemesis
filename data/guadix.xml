@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Indiana Jones and the Last crusade</title>
+    						<poster>http://www.filmaps.com/posters/0901134936000000</poster>
+    						<locations><location>
+    											<place>Guadix, Granada, Andalucía</place>
+    										<scene>Desert scenes</scene>
+        									<coordinates>-3.146,37.2953</coordinates>
+        									</location><location>
+    											<place>Guadix Granada</place>
+    										<scene>Llegada del Tren a Iskandum</scene>
+        									<coordinates>-3.13457,37.3004</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>la muerte tenia un precio</title>
+    						<poster>http://www.filmaps.com/posters/0902252833000000</poster>
+    						<locations><location>
+    											<place>Guadix, Granada, Andalucía</place>
+    										<scene>secuencia en la que aparece el tren</scene>
+        									<coordinates>-3.13466,37.3005</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Indiana Jones and the Last crusade</title>
+    						<poster>http://www.filmaps.com/posters/0901134936000000</poster>
+    						<locations><location>
+    											<place>Guadix, Granada, Andalucía</place>
+    										<scene>Desert scenes</scene>
+        									<coordinates>-3.146,37.2953</coordinates>
+        									</location><location>
+    											<place>Guadix Granada</place>
+    										<scene>Llegada del Tren a Iskandum</scene>
+        									<coordinates>-3.13457,37.3004</coordinates>
+        									</location></locations>
+						</movie></Document>

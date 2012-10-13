@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Angel Caido</title>
+    						<poster>http://www.filmaps.com/posters/0908072522000000</poster>
+    						<locations><location>
+    											<place>Mapimi, Durango, mexico</place>
+    										<scene>En el puente de ojuela en Mapimi Durango</scene>
+        									<coordinates>-103.852,25.8336</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Cristiada (2011)
+</title>
+    						<poster>http://www.filmaps.com/posters/1203090905000000.jpg</poster>
+    						<locations><location>
+    											<place>victoria de DURANGO, DURANGO, MEXICO</place>
+    										<scene>Puente de Ojuela</scene>
+        									<coordinates>-103.846,25.8352</coordinates>
+        									</location></locations>
+						</movie></Document>

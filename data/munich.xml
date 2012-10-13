@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Suspiria</title>
+    						<poster>http://www.filmaps.com/posters/0901152145000000</poster>
+    						<locations><location>
+    											<place>BMW Building, Munich, Bavaria, Germany</place>
+    										<scene></scene>
+        									<coordinates>11.56,48.1769</coordinates>
+        									</location><location>
+    											<place>Hofbrauhaus, Munich, Germany</place>
+    										<scene>scene in Hofbrauhaus Platzl </scene>
+        									<coordinates>11.5801,48.1379</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Great Escape</title>
+    						<poster>http://www.filmaps.com/posters/1108270158000000.jpg</poster>
+    						<locations><location>
+    											<place>Munich Railway Line, Bavaria, Germany</place>
+    										<scene>Railway scene</scene>
+        									<coordinates>11.4802,48.1591</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Suspiria</title>
+    						<poster>http://www.filmaps.com/posters/0901152145000000</poster>
+    						<locations><location>
+    											<place>BMW Building, Munich, Bavaria, Germany</place>
+    										<scene></scene>
+        									<coordinates>11.56,48.1769</coordinates>
+        									</location><location>
+    											<place>Hofbrauhaus, Munich, Germany</place>
+    										<scene>scene in Hofbrauhaus Platzl </scene>
+        									<coordinates>11.5801,48.1379</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Hundimiento (Der Untergang)</title>
+    						<poster>http://www.filmaps.com/posters/0902155425000000</poster>
+    						<locations><location>
+    											<place>Munich, Bavaria, Germany</place>
+    										<scene>Munich scenes</scene>
+        									<coordinates>11.5791,48.1383</coordinates>
+        									</location></locations>
+						</movie></Document>

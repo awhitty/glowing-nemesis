@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Home Alone 2: Lost In New York</title>
+    						<poster>http://www.filmaps.com/posters/0902102635000000</poster>
+    						<locations><location>
+    											<place>LaGuardia Airport, New York</place>
+    										<scene>Kevin's arrival to NYC</scene>
+        									<coordinates>-73.8729,40.778</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Usual Suspects</title>
+    						<poster>http://www.filmaps.com/posters/0912151340000000</poster>
+    						<locations><location>
+    											<place>Jackson Heights, Queens, New York City</place>
+    										<scene>New York's Finest Taxi Service Scenes</scene>
+        									<coordinates>-73.8855,40.7558</coordinates>
+        									</location></locations>
+						</movie></Document>

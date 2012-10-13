@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Untouchables</title>
+    						<poster>http://www.filmaps.com/posters/0901141128000000</poster>
+    						<locations><location>
+    											<place>Great Falls, Montana, USA</place>
+    										<scene>bridge where Ness intercepts shipment of Canadian whiskey</scene>
+        									<coordinates>-111.311,47.5066</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Thunderbolt and Lightfoot</title>
+    						<poster>http://www.filmaps.com/posters/0904045854000000</poster>
+    						<locations><location>
+    											<place>Great Falls, Montana</place>
+    										<scene></scene>
+        									<coordinates>-111.306,47.5066</coordinates>
+        									</location></locations>
+						</movie></Document>

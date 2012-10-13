@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sunshine</title>
+    						<poster>http://www.filmaps.com/posters/0902274423000000</poster>
+    						<locations><location>
+    											<place>Sydney, Australia</place>
+    										<scene>Sydney Opera House</scene>
+        									<coordinates>151.215,-33.8573</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Day the Earth Stood Still</title>
+    						<poster>http://www.filmaps.com/posters/0903073026000000</poster>
+    						<locations><location>
+    											<place>The rocks, Sydney</place>
+    										<scene>Opera House scene</scene>
+        									<coordinates>151.215,-33.8578</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Grease</title>
+    						<poster>http://www.filmaps.com/posters/0903134537000000</poster>
+    						<locations><location>
+    											<place>6020 Miles Avenue, Huntington Park, California, USA</place>
+    										<scene>Classroom and big dance scenes in Huntington Park High School</scene>
+        									<coordinates>-118.219,33.9867</coordinates>
+        									</location></locations>
+						</movie></Document>

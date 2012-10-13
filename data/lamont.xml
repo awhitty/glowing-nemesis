@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Grapes of Wrath</title>
+    						<poster>http://www.filmaps.com/posters/0903113528000000</poster>
+    						<locations><location>
+    											<place>Lamont, California, USA</place>
+    										<scene>Weedpatch Migrant camp</scene>
+        									<coordinates>-118.914,35.2668</coordinates>
+        									</location></locations>
+						</movie></Document>

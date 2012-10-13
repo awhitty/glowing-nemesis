@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Avatar</title>
+    						<poster>http://www.filmaps.com/posters/0912143548000000</poster>
+    						<locations><location>
+    											<place>Hamakua Coast, Hawaii, USA</place>
+    										<scene>avatar</scene>
+        									<coordinates>-155.09,19.7977</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>50 First Dates</title>
+    						<poster>http://www.filmaps.com/posters/0901183845000000</poster>
+    						<locations><location>
+    											<place>Honolulu, Hawaii</place>
+    										<scene>first kiss</scene>
+        									<coordinates>-157.822,21.2918</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Tora! Tora! Tora!</title>
+    						<poster>http://www.filmaps.com/posters/0902115302000000</poster>
+    						<locations><location>
+    											<place>Pearl Harbor, Hawai</place>
+    										<scene></scene>
+        									<coordinates>-157.967,21.3188</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Informant !</title>
+    						<poster>http://www.filmaps.com/posters/0909272316000000</poster>
+    						<locations><location>
+    											<place>O'ahu, Hawaii, USA</place>
+    										<scene></scene>
+        									<coordinates>-157.823,21.277</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Lost (Perdidos)</title>
+    						<poster>http://www.filmaps.com/posters/0901075612000000</poster>
+    						<locations><location>
+    											<place>Ala Moana Beach Park, Honolulu</place>
+    										<scene>beach where Hurley and Libby had their picnic (Everybody Loves Hugo, Ep. 6×12)</scene>
+        									<coordinates>-157.854,21.2906</coordinates>
+        									</location><location>
+    											<place>1001 Bishop St., Honolulu, Hawaii</place>
+    										<scene>Pauahi Tower, building where Claire went to visit the adoption agency, and where Desmond introduced her to his lawyer - The Last Recruit, Ep. 6×13</scene>
+        									<coordinates>-157.861,21.309</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Lost (Perdidos)</title>
+    						<poster>http://www.filmaps.com/posters/0901075612000000</poster>
+    						<locations><location>
+    											<place>Ala Moana Beach Park, Honolulu</place>
+    										<scene>beach where Hurley and Libby had their picnic (Everybody Loves Hugo, Ep. 6×12)</scene>
+        									<coordinates>-157.854,21.2906</coordinates>
+        									</location><location>
+    											<place>1001 Bishop St., Honolulu, Hawaii</place>
+    										<scene>Pauahi Tower, building where Claire went to visit the adoption agency, and where Desmond introduced her to his lawyer - The Last Recruit, Ep. 6×13</scene>
+        									<coordinates>-157.861,21.309</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Descendants</title>
+    						<poster>http://www.filmaps.com/posters/1201244720000000.jpg</poster>
+    						<locations><location>
+    											<place>Honolulu, O'ahu, Hawaii, USA</place>
+    										<scene>many scenes in O'ahu island</scene>
+        									<coordinates>-157.851,21.2901</coordinates>
+        									</location></locations>
+						</movie></Document>

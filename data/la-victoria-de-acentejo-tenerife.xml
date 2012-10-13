@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Eva</title>
+    						<poster>http://www.filmaps.com/posters/1111062807000000.jpg</poster>
+    						<locations><location>
+    											<place>Tenerife</place>
+    										<scene>Playa </scene>
+        									<coordinates>-16.6292,28.2914</coordinates>
+        									</location></locations>
+						</movie></Document>

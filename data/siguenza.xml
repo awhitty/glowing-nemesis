@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>juana la loca</title>
+    						<poster>http://www.filmaps.com/posters/0904104635000000</poster>
+    						<locations><location>
+    											<place>Sigüenza, Guadalajara, Castilla-La Mancha, españa</place>
+    										<scene></scene>
+        									<coordinates>-2.64213,41.0697</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>la pasion turca</title>
+    						<poster>http://www.filmaps.com/posters/0911123316000000</poster>
+    						<locations><location>
+    											<place>Sigüenza, Guadalajara, Castilla-La Mancha, España</place>
+    										<scene></scene>
+        									<coordinates>-2.64224,41.0696</coordinates>
+        									</location></locations>
+						</movie></Document>

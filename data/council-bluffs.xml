@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>About Schmidt</title>
+    						<poster>http://www.filmaps.com/posters/0907292039000000</poster>
+    						<locations><location>
+    											<place>Council Bluffs, Iowa, USA</place>
+    										<scene>opening scene</scene>
+        									<coordinates>-95.8791,41.2392</coordinates>
+        									</location></locations>
+						</movie></Document>

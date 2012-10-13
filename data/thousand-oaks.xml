@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Spartacus</title>
+    						<poster>http://www.filmaps.com/posters/0901153649000000</poster>
+    						<locations><location>
+    											<place>Thousand Oaks, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.869,34.1999</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Click </title>
+    						<poster>http://www.filmaps.com/posters/0908100627000000</poster>
+    						<locations><location>
+    											<place>Thousand Oaks, California, USA</place>
+    										<scene></scene>
+        									<coordinates>-118.869,34.1998</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Adventures of Robin Hood </title>
+    						<poster>http://www.filmaps.com/posters/0909125315000000</poster>
+    						<locations><location>
+    											<place>Lake Sherwood, California, USA </place>
+    										<scene></scene>
+        									<coordinates>-118.871,34.1393</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Thelma and Louise</title>
+    						<poster>http://www.filmaps.com/posters/0906133934000000</poster>
+    						<locations><location>
+    											<place>dupar thousand oaks</place>
+    										<scene>lloc de treball Louise</scene>
+        									<coordinates>-118.837,34.1703</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>elvis and annabelle</title>
+    						<poster>http://www.filmaps.com/posters/1003041217000000</poster>
+    						<locations><location>
+    											<place>thousand oaks</place>
+    										<scene>elvis on motorbike</scene>
+        									<coordinates>-118.838,34.1706</coordinates>
+        									</location></locations>
+						</movie></Document>

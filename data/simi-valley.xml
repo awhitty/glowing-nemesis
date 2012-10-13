@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>North By Northwest</title>
+    						<poster>http://www.filmaps.com/posters/0903215651000000</poster>
+    						<locations><location>
+    											<place>Simi Valley, CA</place>
+    										<scene>Closing scene of train entering tunnel</scene>
+        									<coordinates>-118.737,34.2724</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Poltergeist</title>
+    						<poster>http://www.filmaps.com/posters/0901074353000000</poster>
+    						<locations><location>
+    											<place>4267 Roxbury St. Simi Valley, CA </place>
+    										<scene>poltergeist</scene>
+        									<coordinates>-118.697,34.3013</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Fort Bravo</title>
+    						<poster>http://www.filmaps.com/posters/1105313454000000</poster>
+    						<locations><location>
+    											<place>Simi Valley, CA</place>
+    										<scene></scene>
+        									<coordinates>-118.782,34.2696</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>El Gran Lebowski</title>
+    						<poster>http://www.filmaps.com/posters/1201021457000000.jpg</poster>
+    						<locations><location>
+    											<place>Simi Valley, California, Estados Unidos</place>
+    										<scene>External scenes</scene>
+        									<coordinates>-118.782,34.2696</coordinates>
+        									</location></locations>
+						</movie></Document>

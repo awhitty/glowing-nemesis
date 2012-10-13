@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Sunshine</title>
+    						<poster>http://www.filmaps.com/posters/0902274423000000</poster>
+    						<locations><location>
+    											<place>Stockholm</place>
+    										<scene></scene>
+        									<coordinates>18.0646,59.3329</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>uomini che odiano le donne</title>
+    						<poster>http://www.filmaps.com/posters/0907302721000000</poster>
+    						<locations><location>
+    											<place>lundagatan, sodermalm</place>
+    										<scene>Lisbeth Salander's first house</scene>
+        									<coordinates>18.0446,59.3186</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Män Som Hatar Kvinnor (Men Who Hate Women):Millenium 1</title>
+    						<poster>http://www.filmaps.com/posters/0908114628000000</poster>
+    						<locations><location>
+    											<place>Lundagatan, Södermalm, Stockholm, Stockholms län, Sweden</place>
+    										<scene>Scene with the man on fire in the car</scene>
+        									<coordinates>18.0449,59.3183</coordinates>
+        									</location><location>
+    											<place>Götgatan, Södermalm, Stockholm, Stockholms län, Sweden</place>
+    										<scene></scene>
+        									<coordinates>18.0741,59.3132</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Män Som Hatar Kvinnor (Men Who Hate Women):Millenium 1</title>
+    						<poster>http://www.filmaps.com/posters/0908114628000000</poster>
+    						<locations><location>
+    											<place>Lundagatan, Södermalm, Stockholm, Stockholms län, Sweden</place>
+    										<scene>Scene with the man on fire in the car</scene>
+        									<coordinates>18.0449,59.3183</coordinates>
+        									</location><location>
+    											<place>Götgatan, Södermalm, Stockholm, Stockholms län, Sweden</place>
+    										<scene></scene>
+        									<coordinates>18.0741,59.3132</coordinates>
+        									</location></locations>
+						</movie></Document>

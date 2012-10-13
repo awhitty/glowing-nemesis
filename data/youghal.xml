@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>moby dick</title>
+    						<poster>http://www.filmaps.com/posters/1001092833000000</poster>
+    						<locations><location>
+    											<place>Market House, Market Square, Youghal, Ireland</place>
+    										<scene>harbour: New Bedford</scene>
+        									<coordinates>-7.84622,51.9531</coordinates>
+        									</location></locations>
+						</movie></Document>

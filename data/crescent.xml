@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Silence of the Lambs</title>
+    						<poster>http://www.filmaps.com/posters/0912151726000000</poster>
+    						<locations><location>
+    											<place>Glenwillard, Pennsylvania, USA</place>
+    										<scene>Bimmel house in Belvedere</scene>
+        									<coordinates>-80.224,40.5595</coordinates>
+        									</location></locations>
+						</movie></Document>

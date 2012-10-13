@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>chacal</title>
+    						<poster>http://www.filmaps.com/posters/0905264811000000</poster>
+    						<locations><location>
+    											<place>Porvoo, Finland</place>
+    										<scene></scene>
+        									<coordinates>25.6648,60.393</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Billion Dollar Brain</title>
+    						<poster>http://www.filmaps.com/posters/1001155730000000</poster>
+    						<locations><location>
+    											<place>Porvoo</place>
+    										<scene>Riga scenes</scene>
+        									<coordinates>25.6644,60.3927</coordinates>
+        									</location></locations>
+						</movie></Document>

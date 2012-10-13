@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Ace in the Hole</title>
+    						<poster>http://www.filmaps.com/posters/0909124818000000</poster>
+    						<locations><location>
+    											<place>Laguna, New Mexico, USA </place>
+    										<scene></scene>
+        									<coordinates>-107.425,35.0456</coordinates>
+        									</location></locations>
+						</movie></Document>

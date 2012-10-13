@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>esta casa es una ruina</title>
+    						<poster>http://www.filmaps.com/posters/0909192555000000</poster>
+    						<locations><location>
+    											<place>Lattingtown, Long Island, New York</place>
+    										<scene></scene>
+        									<coordinates>-73.6006,40.8915</coordinates>
+        									</location></locations>
+						</movie></Document>

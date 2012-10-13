@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>new moon</title>
+    						<poster>http://www.filmaps.com/posters/0906131804000000</poster>
+    						<locations><location>
+    											<place>Montepulciano, Italy</place>
+    										<scene>The movie will be shooting in Montepulciano, instead of Volterra</scene>
+        									<coordinates>11.7823,43.0929</coordinates>
+        									</location><location>
+    											<place>Montepulciano, Italy</place>
+    										<scene></scene>
+        									<coordinates>11.7826,43.0927</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>bajo el sol de la toscana</title>
+    						<poster>http://www.filmaps.com/posters/0906052352000000</poster>
+    						<locations><location>
+    											<place>Montepulciano, Siena, Tuscany, Italy</place>
+    										<scene>leaving Cortona/wedding</scene>
+        									<coordinates>11.7825,43.0928</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>new moon</title>
+    						<poster>http://www.filmaps.com/posters/0906131804000000</poster>
+    						<locations><location>
+    											<place>Montepulciano, Italy</place>
+    										<scene>The movie will be shooting in Montepulciano, instead of Volterra</scene>
+        									<coordinates>11.7823,43.0929</coordinates>
+        									</location><location>
+    											<place>Montepulciano, Italy</place>
+    										<scene></scene>
+        									<coordinates>11.7826,43.0927</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>under the tuscan sun</title>
+    						<poster>http://www.filmaps.com/posters/0906070831000000</poster>
+    						<locations><location>
+    											<place>Montepulciano, Italia</place>
+    										<scene>Flag waving scene was filmed in Montepulciano in the Piazza next to Via Ricci across from the well</scene>
+        									<coordinates>11.7822,43.0927</coordinates>
+        									</location><location>
+    											<place>Via dei Filosofi, Montepulciano, Toscana, Italia</place>
+    										<scene>Leaving Cortona wedding</scene>
+        									<coordinates>11.7785,43.0901</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>under the tuscan sun</title>
+    						<poster>http://www.filmaps.com/posters/0906070831000000</poster>
+    						<locations><location>
+    											<place>Montepulciano, Italia</place>
+    										<scene>Flag waving scene was filmed in Montepulciano in the Piazza next to Via Ricci across from the well</scene>
+        									<coordinates>11.7822,43.0927</coordinates>
+        									</location><location>
+    											<place>Via dei Filosofi, Montepulciano, Toscana, Italia</place>
+    										<scene>Leaving Cortona wedding</scene>
+        									<coordinates>11.7785,43.0901</coordinates>
+        									</location></locations>
+						</movie></Document>

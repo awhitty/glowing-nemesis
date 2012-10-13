@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Good, the Bad and the Ugly</title>
+    						<poster>http://www.filmaps.com/posters/0912073943000000</poster>
+    						<locations><location>
+    											<place>Carazo, Burgos</place>
+    										<scene>The cementery</scene>
+        									<coordinates>-3.35373,41.9697</coordinates>
+        									</location></locations>
+						</movie></Document>

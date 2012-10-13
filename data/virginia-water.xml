@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>As You Like It</title>
+    						<poster>http://www.filmaps.com/posters/0910243746000000</poster>
+    						<locations><location>
+    											<place>Virginia Water, Surrey, England, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.560819,51.402</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Robin Hood (2010)</title>
+    						<poster>http://www.filmaps.com/posters/1005153445000000</poster>
+    						<locations><location>
+    											<place>Virginia Water, Surrey, UK</place>
+    										<scene>Boat Scenes</scene>
+        									<coordinates>-0.561054,51.3996</coordinates>
+        									</location></locations>
+						</movie></Document>

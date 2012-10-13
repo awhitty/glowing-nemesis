@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Missing</title>
+    						<poster>http://www.filmaps.com/posters/0909062023000000</poster>
+    						<locations><location>
+    											<place>Zia Pueblo, New Mexico</place>
+    										<scene></scene>
+        									<coordinates>-106.724,35.5065</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Men Who Stare At Goats</title>
+    						<poster>http://www.filmaps.com/posters/0912061137000000</poster>
+    						<locations><location>
+    											<place>Zia Pueblo, New Mexico, USA</place>
+    										<scene></scene>
+        									<coordinates>-106.721,35.5072</coordinates>
+        									</location></locations>
+						</movie></Document>

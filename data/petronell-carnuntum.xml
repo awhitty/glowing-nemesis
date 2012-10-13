@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Three Musketeers</title>
+    						<poster>http://www.filmaps.com/posters/0911030440000000</poster>
+    						<locations><location>
+    											<place>Schloss Petronell, Petronell-Carnuntum, Lower Austria, Austria</place>
+    										<scene>Castle Petronell</scene>
+        									<coordinates>16.8606,48.1165</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Island</title>
+    						<poster>http://www.filmaps.com/posters/0902215822000000</poster>
+    						<locations><location>
+    											<place>Detroit, Michigan</place>
+    										<scene>Ewan McGregor and Scarlett Johansson in a futuristic view of  'Los Angeles' on the Michael Bay film 'The Island'</scene>
+        									<coordinates>-83.046,42.3302</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Up In The Air</title>
+    						<poster>http://www.filmaps.com/posters/1001073809000000</poster>
+    						<locations><location>
+    											<place>Detroit Metropolitan Wayne County Airport, Michigan, USA</place>
+    										<scene></scene>
+        									<coordinates>-83.3566,42.2076</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>gran torino</title>
+    						<poster>http://www.filmaps.com/posters/0906012453000000</poster>
+    						<locations><location>
+    											<place>Full-screen 13140 Charlevoix St., Detroit, MI 48215</place>
+    										<scene>The "Spook Scene" - "What the hell are you spooks up to?" Walt rescues Sue</scene>
+        									<coordinates>-82.957,42.3803</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>8 Mile</title>
+    						<poster>http://www.filmaps.com/posters/1011025220000000</poster>
+    						<locations><location>
+    											<place>Detroit, MI</place>
+    										<scene></scene>
+        									<coordinates>-83.046,42.3312</coordinates>
+        									</location><location>
+    											<place> 2121 Cass Ave. Detroit MI</place>
+    										<scene>Chin Tiki Club</scene>
+        									<coordinates>-83.0555,42.3365</coordinates>
+        									</location><location>
+    											<place>Clifford & Griswold Streets Detroit MI</place>
+    										<scene>The Shelter</scene>
+        									<coordinates>-83.0503,42.3344</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>8 Mile</title>
+    						<poster>http://www.filmaps.com/posters/1011025220000000</poster>
+    						<locations><location>
+    											<place>Detroit, MI</place>
+    										<scene></scene>
+        									<coordinates>-83.046,42.3312</coordinates>
+        									</location><location>
+    											<place> 2121 Cass Ave. Detroit MI</place>
+    										<scene>Chin Tiki Club</scene>
+        									<coordinates>-83.0555,42.3365</coordinates>
+        									</location><location>
+    											<place>Clifford & Griswold Streets Detroit MI</place>
+    										<scene>The Shelter</scene>
+        									<coordinates>-83.0503,42.3344</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>8 Mile</title>
+    						<poster>http://www.filmaps.com/posters/1011025220000000</poster>
+    						<locations><location>
+    											<place>Detroit, MI</place>
+    										<scene></scene>
+        									<coordinates>-83.046,42.3312</coordinates>
+        									</location><location>
+    											<place> 2121 Cass Ave. Detroit MI</place>
+    										<scene>Chin Tiki Club</scene>
+        									<coordinates>-83.0555,42.3365</coordinates>
+        									</location><location>
+    											<place>Clifford & Griswold Streets Detroit MI</place>
+    										<scene>The Shelter</scene>
+        									<coordinates>-83.0503,42.3344</coordinates>
+        									</location></locations>
+						</movie></Document>

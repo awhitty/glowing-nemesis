@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Star Trek IV: The Voyage Home</title>
+    						<poster>http://www.filmaps.com/posters/1109203844000000.jpg</poster>
+    						<locations><location>
+    											<place>Monterey Bay Aquarium 886 Cannery Row, Monterey, CA 93940</place>
+    										<scene>The Cetacean Institute scenes</scene>
+        									<coordinates>-121.902,36.6186</coordinates>
+        									</location></locations>
+						</movie></Document>

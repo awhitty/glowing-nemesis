@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Quantum of Solace</title>
+    						<poster>http://www.filmaps.com/posters/0901084408000000</poster>
+    						<locations><location>
+    											<place>siena</place>
+    										<scene>underground escape...during the Palio</scene>
+        									<coordinates>11.3317,43.3184</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Reservation Road</title>
+    						<poster>http://www.filmaps.com/posters/0911290623000000</poster>
+    						<locations><location>
+    											<place>822 Lake Avenue, Bristol, Connecticut, USA</place>
+    										<scene>Lake Compounce Family Theme Park</scene>
+        									<coordinates>-72.9217,41.6413</coordinates>
+        									</location></locations>
+						</movie></Document>

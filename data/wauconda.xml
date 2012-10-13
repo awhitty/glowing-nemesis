@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Blues Brothers</title>
+    						<poster>http://www.filmaps.com/posters/0904014023000000</poster>
+    						<locations><location>
+    											<place>Bangs Lake, Wauconda, Illinois, USA</place>
+    										<scene>beach scene</scene>
+        									<coordinates>-88.1431,42.2633</coordinates>
+        									</location></locations>
+						</movie></Document>

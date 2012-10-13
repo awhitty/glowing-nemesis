@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>E.T.</title>
+    						<poster>http://www.filmaps.com/posters/0902034235000000</poster>
+    						<locations><location>
+    											<place>Crescent City, California, USA</place>
+    										<scene>E.T. forest</scene>
+        									<coordinates>-124.198,41.7583</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Patterson-Gimlin Bigfoot Footage</title>
+    						<poster>http://www.filmaps.com/posters/1107071330000000</poster>
+    						<locations><location>
+    											<place> 41°26'24.47"N, 123°42'6.21"W</place>
+    										<scene>Patterson-Gimlin Bigfoot Footage</scene>
+        									<coordinates>-123.702,41.4399</coordinates>
+        									</location></locations>
+						</movie></Document>

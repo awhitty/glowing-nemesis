@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Psycho</title>
+    						<poster>http://www.filmaps.com/posters/0912152216000000</poster>
+    						<locations><location>
+    											<place>Gorman, California, USA</place>
+    										<scene>establishing shot of Marion's car parked by the side of road</scene>
+        									<coordinates>-118.853,34.796</coordinates>
+        									</location></locations>
+						</movie></Document>

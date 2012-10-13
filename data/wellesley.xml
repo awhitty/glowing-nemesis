@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Mona Lisa Smile</title>
+    						<poster>http://www.filmaps.com/posters/0908020449000000</poster>
+    						<locations><location>
+    											<place>Wellesley College, Wellesley, Massachuesetts</place>
+    										<scene>All outdoor scenes were shot here. </scene>
+        									<coordinates>-71.3023,42.2938</coordinates>
+        									</location></locations>
+						</movie></Document>

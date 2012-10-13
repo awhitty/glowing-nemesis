@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Quantum of Solace</title>
+    						<poster>http://www.filmaps.com/posters/0901084408000000</poster>
+    						<locations><location>
+    											<place>Lago di Garda, Italia</place>
+    										<scene>Inseguimento</scene>
+        									<coordinates>10.7257,45.5216</coordinates>
+        									</location></locations>
+						</movie></Document>

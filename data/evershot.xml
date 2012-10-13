@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>emma</title>
+    						<poster>http://www.filmaps.com/posters/1001233229000000</poster>
+    						<locations><location>
+    											<place>Evershot, Dorset, UK</place>
+    										<scene>Highbury village</scene>
+        									<coordinates>-2.60515,50.8388</coordinates>
+        									</location></locations>
+						</movie></Document>

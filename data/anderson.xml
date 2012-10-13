@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Leatherheads</title>
+    						<poster>http://www.filmaps.com/posters/1202013413000000.jpg</poster>
+    						<locations><location>
+    											<place>Anderson, SC</place>
+    										<scene>Leatherheads</scene>
+        									<coordinates>-82.6502,34.5035</coordinates>
+        									</location></locations>
+						</movie></Document>

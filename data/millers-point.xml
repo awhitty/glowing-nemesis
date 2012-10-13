@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Matrix</title>
+    						<poster>http://www.filmaps.com/posters/0901120951000000</poster>
+    						<locations><location>
+    											<place>Miller's Point, Sydney</place>
+    										<scene>Images from futuristic city</scene>
+        									<coordinates>151.204,-33.8583</coordinates>
+        									</location></locations>
+						</movie></Document>

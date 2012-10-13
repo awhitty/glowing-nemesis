@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Constant Gardener</title>
+    						<poster>http://www.filmaps.com/posters/0911155929000000</poster>
+    						<locations><location>
+    											<place>Lokichogio Airport, Kenya</place>
+    										<scene>Kenya Airport scene</scene>
+        									<coordinates>34.3487,4.20358</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>puerto escondido</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Milan</place>
+    										<scene></scene>
+        									<coordinates>9.18804,45.4636</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>miracolo a milano</title>
+    						<poster>http://www.filmaps.com/posters/0911201308000000</poster>
+    						<locations><location>
+    											<place>Milan, Italy</place>
+    										<scene></scene>
+        									<coordinates>9.18825,45.4638</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>banditi a milano</title>
+    						<poster>http://www.filmaps.com/posters/1001153647000000</poster>
+    						<locations><location>
+    											<place>Milan, Lombardia, Italy</place>
+    										<scene></scene>
+        									<coordinates>9.18702,45.4647</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>nine (musical)</title>
+    						<poster>http://www.filmaps.com/posters/1001285056000000</poster>
+    						<locations><location>
+    											<place>milan, italy</place>
+    										<scene></scene>
+        									<coordinates>9.18801,45.4636</coordinates>
+        									</location></locations>
+						</movie></Document>

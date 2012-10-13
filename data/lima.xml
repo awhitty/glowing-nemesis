@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Amazing Race</title>
+    						<poster>http://www.filmaps.com/posters/0901164442000000</poster>
+    						<locations><location>
+    											<place>Plaza de Armas, Lima, Peru</place>
+    										<scene></scene>
+        									<coordinates>-76.9188,-12.0261</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La Teta Asustada</title>
+    						<poster>http://www.filmaps.com/posters/1002042228000000</poster>
+    						<locations><location>
+    											<place> la molina manchay, Peru</place>
+    										<scene>El pueblo dóde</scene>
+        									<coordinates>-76.8668,-12.1665</coordinates>
+        									</location><location>
+    											<place>-12º 05' 08.16", -76º 52' 42.28"</place>
+    										<scene>escaleras</scene>
+        									<coordinates>-76.8777,-12.0851</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La Teta Asustada</title>
+    						<poster>http://www.filmaps.com/posters/1002042228000000</poster>
+    						<locations><location>
+    											<place> la molina manchay, Peru</place>
+    										<scene>El pueblo dóde</scene>
+        									<coordinates>-76.8668,-12.1665</coordinates>
+        									</location><location>
+    											<place>-12º 05' 08.16", -76º 52' 42.28"</place>
+    										<scene>escaleras</scene>
+        									<coordinates>-76.8777,-12.0851</coordinates>
+        									</location></locations>
+						</movie></Document>

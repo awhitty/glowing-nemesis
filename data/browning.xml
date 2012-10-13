@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>the shining</title>
+    						<poster>http://www.filmaps.com/posters/0910043938000000</poster>
+    						<locations><location>
+    											<place>Going-to-the-Sun Road, Glacier National Park, Montana, USA</place>
+    										<scene>Opening scenes: aerial shots</scene>
+        									<coordinates>-113.653,48.6779</coordinates>
+        									</location></locations>
+						</movie></Document>

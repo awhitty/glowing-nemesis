@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Chungking Express</title>
+    						<poster>http://www.filmaps.com/posters/0901185154000000</poster>
+    						<locations><location>
+    											<place>Chungking Mansions</place>
+    										<scene>Much of the first part of the movie is set here</scene>
+        									<coordinates>114.173,22.2965</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Titanic</title>
+    						<poster>http://www.filmaps.com/posters/0901151839000000</poster>
+    						<locations><location>
+    											<place>Cork, Irleland</place>
+    										<scene>Queenstown</scene>
+        									<coordinates>-8.46382,51.8991</coordinates>
+        									</location></locations>
+						</movie></Document>

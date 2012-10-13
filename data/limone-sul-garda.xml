@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>007 Quantum of Solace</title>
+    						<poster>http://www.filmaps.com/posters/0901084408000000</poster>
+    						<locations><location>
+    											<place>Lake Garda, Italy</place>
+    										<scene>Aston Martin's persecution behind Garda Lake in Italy </scene>
+        									<coordinates>10.7838,45.8</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Lisbon Story</title>
+    						<poster>http://www.filmaps.com/posters/0903054918000000</poster>
+    						<locations><location>
+    											<place>Frankfurt/Main, Hesse, Germany</place>
+    										<scene></scene>
+        									<coordinates>8.57092,50.0486</coordinates>
+        									</location></locations>
+						</movie></Document>

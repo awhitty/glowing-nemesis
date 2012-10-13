@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>L´Avventura</title>
+    						<poster>http://www.filmaps.com/posters/0910185111000000</poster>
+    						<locations><location>
+    											<place>Piazza San Domenico 5, Taormina, Messina, Sicily, Italy</place>
+    										<scene></scene>
+        									<coordinates>15.2886,37.8531</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>the big blue</title>
+    						<poster>http://www.filmaps.com/posters/0911131231000000</poster>
+    						<locations><location>
+    											<place>taormina, Sicily</place>
+    										<scene></scene>
+        									<coordinates>15.288,37.8529</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mighty Aphrodite</title>
+    						<poster>http://www.filmaps.com/posters/1107192004000000</poster>
+    						<locations><location>
+    											<place>Via Teatro Greco, 40, Taormina</place>
+    										<scene></scene>
+        									<coordinates>15.2922,37.8524</coordinates>
+        									</location></locations>
+						</movie></Document>

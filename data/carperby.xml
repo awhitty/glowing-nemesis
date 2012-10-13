@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Robin Hood: Prince of Thieves</title>
+    						<poster>http://www.filmaps.com/posters/0911040301000000</poster>
+    						<locations><location>
+    											<place>Aysgarth Falls, Aysgarth, UK&#8206;</place>
+    										<scene>Where Robin fights Little John</scene>
+        									<coordinates>-1.98216,54.2937</coordinates>
+        									</location></locations>
+						</movie></Document>

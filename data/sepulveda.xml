@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>There Be Dragons</title>
+    						<poster>http://www.filmaps.com/posters/1001204120000000</poster>
+    						<locations><location>
+    											<place>Sepúlveda(Segovia)</place>
+    										<scene>Sobre Escrivá de Balaguer </scene>
+        									<coordinates>-3.74889,41.2973</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>La Señora</title>
+    						<poster>http://www.filmaps.com/posters/1001204446000000</poster>
+    						<locations><location>
+    											<place>Sepúlveda(Segovia)</place>
+    										<scene>Serie La Señora</scene>
+        									<coordinates>-3.74893,41.2973</coordinates>
+        									</location></locations>
+						</movie></Document>

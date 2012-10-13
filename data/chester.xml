@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Patriot</title>
+    						<poster>http://www.filmaps.com/posters/0901150535000000</poster>
+    						<locations><location>
+    											<place>Lowrys, South Carolina</place>
+    										<scene>Battle of Camden, Benjamin Martin's farm and town of Pembroke</scene>
+        									<coordinates>-81.2378,34.8041</coordinates>
+        									</location></locations>
+						</movie></Document>

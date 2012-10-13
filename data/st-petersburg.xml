@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>El Hundimiento (Der Untergang)</title>
+    						<poster>http://www.filmaps.com/posters/0902155425000000</poster>
+    						<locations><location>
+    											<place>St. Petersburg, Russia</place>
+    										<scene>s</scene>
+        									<coordinates>30.3155,59.9387</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>goldeneye (007)</title>
+    						<poster>http://www.filmaps.com/posters/0904260902000000</poster>
+    						<locations><location>
+    											<place>St. Isaac's Cathedral, St. Petersburg, Russia</place>
+    										<scene>Headquarters</scene>
+        									<coordinates>30.3061,59.9343</coordinates>
+        									</location><location>
+    											<place>Vasilevsky Island, St. Petersburg, Russia</place>
+    										<scene>St. Petersburg scene</scene>
+        									<coordinates>30.2509,59.9419</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>goldeneye (007)</title>
+    						<poster>http://www.filmaps.com/posters/0904260902000000</poster>
+    						<locations><location>
+    											<place>St. Isaac's Cathedral, St. Petersburg, Russia</place>
+    										<scene>Headquarters</scene>
+        									<coordinates>30.3061,59.9343</coordinates>
+        									</location><location>
+    											<place>Vasilevsky Island, St. Petersburg, Russia</place>
+    										<scene>St. Petersburg scene</scene>
+        									<coordinates>30.2509,59.9419</coordinates>
+        									</location></locations>
+						</movie></Document>

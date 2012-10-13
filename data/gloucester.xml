@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>moonlight mile</title>
+    						<poster>http://www.filmaps.com/posters/0909240723000000</poster>
+    						<locations><location>
+    											<place>Gloucester, Massachusetts, USA</place>
+    										<scene></scene>
+        									<coordinates>-70.6902,42.6256</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Harry Potter</title>
+    						<poster>http://www.filmaps.com/posters/0901074858000000</poster>
+    						<locations><location>
+    											<place>glouchester  uk</place>
+    										<scene>inside Howards</scene>
+        									<coordinates>-2.2484,51.867</coordinates>
+        									</location></locations>
+						</movie></Document>

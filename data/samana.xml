@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Pirates of the Caribbean</title>
+    						<poster>http://www.filmaps.com/posters/0911222944000000</poster>
+    						<locations><location>
+    											<place>Samana, Dominican Republic</place>
+    										<scene></scene>
+        									<coordinates>-69.334,19.2091</coordinates>
+        									</location></locations>
+						</movie></Document>

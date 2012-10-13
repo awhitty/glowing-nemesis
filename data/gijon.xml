@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Volver a empezar</title>
+    						<poster>http://www.filmaps.com/posters/0910024505000000</poster>
+    						<locations><location>
+    											<place>Estadio El Molinón, Gijón</place>
+    										<scene>En el partido de fútbol, con el Sporting de Gijón</scene>
+        									<coordinates>-5.63738,43.5361</coordinates>
+        									</location><location>
+    											<place>Plazoleta de Jovellanos detras del Hotel Asturias</place>
+    										<scene>Antonio Ferrandis se despide de Encarna Paso marchandose en coche yo tenia 13 años lo recuerdo como si fuese hoy</scene>
+        									<coordinates>-5.66204,43.5456</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Volver a empezar</title>
+    						<poster>http://www.filmaps.com/posters/0910024505000000</poster>
+    						<locations><location>
+    											<place>Estadio El Molinón, Gijón</place>
+    										<scene>En el partido de fútbol, con el Sporting de Gijón</scene>
+        									<coordinates>-5.63738,43.5361</coordinates>
+        									</location><location>
+    											<place>Plazoleta de Jovellanos detras del Hotel Asturias</place>
+    										<scene>Antonio Ferrandis se despide de Encarna Paso marchandose en coche yo tenia 13 años lo recuerdo como si fuese hoy</scene>
+        									<coordinates>-5.66204,43.5456</coordinates>
+        									</location></locations>
+						</movie></Document>

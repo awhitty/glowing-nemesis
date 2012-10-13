@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Wild Wild West</title>
+    						<poster>http://www.filmaps.com/posters/0901203318000000</poster>
+    						<locations><location>
+    											<place>Chama River, Abiquiu, New Mexico, usa</place>
+    										<scene></scene>
+        									<coordinates>-106.297,36.214</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Missing</title>
+    						<poster>http://www.filmaps.com/posters/0909062023000000</poster>
+    						<locations><location>
+    											<place>Ghost Ranch, Abiquiu, New Mexico</place>
+    										<scene></scene>
+        									<coordinates>-106.319,36.209</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>3:10 to Yuma</title>
+    						<poster>http://www.filmaps.com/posters/0902105903000000</poster>
+    						<locations><location>
+    											<place>Ghost Ranch, Abiquiu, NM 87510, USA</place>
+    										<scene>Ghost Ranch</scene>
+        									<coordinates>-106.488,36.3027</coordinates>
+        									</location></locations>
+						</movie></Document>

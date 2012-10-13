@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Armageddon</title>
+    						<poster>http://www.filmaps.com/posters/0901100924000000</poster>
+    						<locations><location>
+    											<place>shangai</place>
+    										<scene>establishing shots</scene>
+        									<coordinates>121.475,31.2265</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>empire of the sun</title>
+    						<poster>http://www.filmaps.com/posters/0903130255000000</poster>
+    						<locations><location>
+    											<place>Shanghai, China</place>
+    										<scene></scene>
+        									<coordinates>121.476,31.2241</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mission Impossible III</title>
+    						<poster>http://www.filmaps.com/posters/0905302927000000</poster>
+    						<locations><location>
+    											<place>Xitang, China</place>
+    										<scene>canals scenes</scene>
+        									<coordinates>121.241,31.2618</coordinates>
+        									</location><location>
+    											<place>Shanghai, China</place>
+    										<scene></scene>
+        									<coordinates>121.499,31.2409</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Mission Impossible III</title>
+    						<poster>http://www.filmaps.com/posters/0905302927000000</poster>
+    						<locations><location>
+    											<place>Xitang, China</place>
+    										<scene>canals scenes</scene>
+        									<coordinates>121.241,31.2618</coordinates>
+        									</location><location>
+    											<place>Shanghai, China</place>
+    										<scene></scene>
+        									<coordinates>121.499,31.2409</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>John Rabe</title>
+    						<poster>http://www.filmaps.com/posters/0909033049000000</poster>
+    						<locations><location>
+    											<place>Shanghai, China</place>
+    										<scene></scene>
+        									<coordinates>121.479,31.2225</coordinates>
+        									</location></locations>
+						</movie></Document>

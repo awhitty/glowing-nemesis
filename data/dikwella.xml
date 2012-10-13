@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Emden Men</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Dickwella</place>
+    										<scene>Coconut Plantations for Cocos Island</scene>
+        									<coordinates>80.6949,5.97147</coordinates>
+        									</location></locations>
+						</movie></Document>

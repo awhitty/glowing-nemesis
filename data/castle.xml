@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Twin Towns</title>
+    						<poster>http://www.filmaps.com/posters/0904024028000000</poster>
+    						<locations><location>
+    											<place>Swamsea, UK</place>
+    										<scene></scene>
+        									<coordinates>-3.94637,51.6207</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sherlock (BBC serie)</title>
+    						<poster>http://www.filmaps.com/posters/1011213953000000</poster>
+    						<locations><location>
+    											<place>Cardiff, UK</place>
+    										<scene></scene>
+        									<coordinates>-3.17955,51.4802</coordinates>
+        									</location></locations>
+						</movie></Document>

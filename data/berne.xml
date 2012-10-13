@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>James Bond: Goldfinger</title>
+    						<poster>http://www.filmaps.com/posters/1110275834000000.jpg</poster>
+    						<locations><location>
+    											<place>bern, switzerland</place>
+    										<scene>In this action-packed James Bond flick, our favorite British spy chases Goldfingers Rolls Royce through the Swiss Alps near Andermatt, which is a located close to the capital of Berne.</scene>
+        									<coordinates>7.44437,46.9477</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Die Herbstzeitlosen</title>
+    						<poster>http://www.filmaps.com/posters/</poster>
+    						<locations><location>
+    											<place>Berna</place>
+    										<scene>Marktgasse</scene>
+        									<coordinates>7.44657,46.947</coordinates>
+        									</location></locations>
+						</movie></Document>

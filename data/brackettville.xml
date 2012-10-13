@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Alamo (1960)</title>
+    						<poster>http://www.filmaps.com/posters/1010053834000000</poster>
+    						<locations><location>
+    											<place>Happy Shahan Ranch (Alamo Village), Brackettville, Texas</place>
+    										<scene>All Alamo and San Antonio exterios</scene>
+        									<coordinates>-100.395,29.4279</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Lord of the Rings</title>
+    						<poster>http://www.filmaps.com/posters/1203091320000000.jpg</poster>
+    						<locations><location>
+    											<place>National Park, Tongariro</place>
+    										<scene>Mordor</scene>
+        									<coordinates>175.561,-39.1948</coordinates>
+        									</location></locations>
+						</movie></Document>

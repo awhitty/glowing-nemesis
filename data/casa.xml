@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Casablanca</title>
+    						<poster>http://www.filmaps.com/posters/0901135607000000</poster>
+    						<locations><location>
+    											<place>casablanca</place>
+    										<scene></scene>
+        									<coordinates>-7.6089,33.5889</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Sex and the City 2</title>
+    						<poster>http://www.filmaps.com/posters/1006052348000000</poster>
+    						<locations><location>
+    											<place>Moroco</place>
+    										<scene></scene>
+        									<coordinates>-7.66022,33.562</coordinates>
+        									</location></locations>
+						</movie></Document>

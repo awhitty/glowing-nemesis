@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>halloween</title>
+    						<poster>http://www.filmaps.com/posters/0902183845000000</poster>
+    						<locations><location>
+    											<place>110 W. McLean Street, Alhambra, California, USA</place>
+    										<scene>Tommy Doyle's school</scene>
+        									<coordinates>-118.133,34.1015</coordinates>
+        									</location></locations>
+						</movie></Document>

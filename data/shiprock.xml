@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Transformers</title>
+    						<poster>http://www.filmaps.com/posters/0911195255000000</poster>
+    						<locations><location>
+    											<place>Shiprock, New Mexico, USA</place>
+    										<scene>Shiprock Peak</scene>
+        									<coordinates>-108.687,36.7858</coordinates>
+        									</location></locations>
+						</movie></Document>

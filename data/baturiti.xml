@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>The Fall</title>
+    						<poster>http://www.filmaps.com/posters/0903135750000000</poster>
+    						<locations><location>
+    											<place>Bali, Indonesia</place>
+    										<scene>Tegallalang Rice Terrace in Ubud</scene>
+        									<coordinates>115.189,-8.40967</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Eat Pray Love</title>
+    						<poster>http://www.filmaps.com/posters/1011010043000000</poster>
+    						<locations><location>
+    											<place>bali, indonesia</place>
+    										<scene></scene>
+        									<coordinates>115.189,-8.40928</coordinates>
+        									</location></locations>
+						</movie></Document>

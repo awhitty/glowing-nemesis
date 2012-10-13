@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Love Actually</title>
+    						<poster>http://www.filmaps.com/posters/0901081631000000</poster>
+    						<locations><location>
+    											<place>Heathrow Airport</place>
+    										<scene></scene>
+        									<coordinates>-0.458143,51.4704</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bend It Like Beckham</title>
+    						<poster>http://www.filmaps.com/posters/0911195407000000</poster>
+    						<locations><location>
+    											<place>Barra Hall Park, Hayes</place>
+    										<scene>Keira Knightley and Parminda Nagra play football in the park</scene>
+        									<coordinates>-0.423548,51.5177</coordinates>
+        									</location><location>
+    											<place>Beaconsfield Road, Southall</place>
+    										<scene>Hounslow Harriers' ground</scene>
+        									<coordinates>-0.395256,51.5088</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Bend It Like Beckham</title>
+    						<poster>http://www.filmaps.com/posters/0911195407000000</poster>
+    						<locations><location>
+    											<place>Barra Hall Park, Hayes</place>
+    										<scene>Keira Knightley and Parminda Nagra play football in the park</scene>
+        									<coordinates>-0.423548,51.5177</coordinates>
+        									</location><location>
+    											<place>Beaconsfield Road, Southall</place>
+    										<scene>Hounslow Harriers' ground</scene>
+        									<coordinates>-0.395256,51.5088</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hope and Glory</title>
+    						<poster>http://www.filmaps.com/posters/0911114150000000</poster>
+    						<locations><location>
+    											<place>The Vine Inn, Hillingdon</place>
+    										<scene>Bill's Dad signs up</scene>
+        									<coordinates>-0.460026,51.5356</coordinates>
+        									</location><location>
+    											<place>Middlesex, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.416947,51.5003</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Hope and Glory</title>
+    						<poster>http://www.filmaps.com/posters/0911114150000000</poster>
+    						<locations><location>
+    											<place>The Vine Inn, Hillingdon</place>
+    										<scene>Bill's Dad signs up</scene>
+        									<coordinates>-0.460026,51.5356</coordinates>
+        									</location><location>
+    											<place>Middlesex, UK</place>
+    										<scene></scene>
+        									<coordinates>-0.416947,51.5003</coordinates>
+        									</location></locations>
+						</movie></Document>

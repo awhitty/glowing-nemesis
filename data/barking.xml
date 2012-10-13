@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>harry brown</title>
+    						<poster>http://www.filmaps.com/posters/0912070300000000</poster>
+    						<locations><location>
+    											<place>A12, Eastern Avenue West, Dagenham,</place>
+    										<scene>The underpass where the gang meet</scene>
+        									<coordinates>0.137711,51.5811</coordinates>
+        									</location></locations>
+						</movie></Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Thunderbolt and Lightfoot</title>
+    						<poster>http://www.filmaps.com/posters/0904045854000000</poster>
+    						<locations><location>
+    											<place>Fort Benton, Montana, USA</place>
+    										<scene></scene>
+        									<coordinates>-110.67,47.8232</coordinates>
+        									</location></locations>
+						</movie></Document>

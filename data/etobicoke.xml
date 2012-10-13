@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Chloe</title>
+    						<poster>http://www.filmaps.com/posters/1007284512000000</poster>
+    						<locations><location>
+    											<place>Ontario College of Art and Design, 100 McCaul Street at Dundas Street, Toronto, Ontario, Canada</place>
+    										<scene>Outside</scene>
+        									<coordinates>-79.5347,43.6412</coordinates>
+        									</location></locations>
+						</movie></Document>

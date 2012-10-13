@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Document><movie>
+    						<title>Revolutionary road</title>
+    						<poster>http://www.filmaps.com/posters/0901295811000000</poster>
+    						<locations><location>
+    											<place>Greenwich, Connecticut</place>
+    										<scene></scene>
+        									<coordinates>-73.63,41.0393</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>28 days later</title>
+    						<poster>http://www.filmaps.com/posters/0909273312000000</poster>
+    						<locations><location>
+    											<place>Blackwall Tunnel, London</place>
+    										<scene></scene>
+        									<coordinates>0.0040019,51.4953</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>harry brown</title>
+    						<poster>http://www.filmaps.com/posters/0912070300000000</poster>
+    						<locations><location>
+    											<place>Woolwich Cemetary, Camdale Road</place>
+    										<scene></scene>
+        									<coordinates>-0.0104142,51.4785</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>Highlander</title>
+    						<poster>http://www.filmaps.com/posters/0912313947000000</poster>
+    						<locations><location>
+    											<place>Greenwich, London, England, UK</place>
+    										<scene>Scene where McCloud saves young Rachel from the Nazi</scene>
+        									<coordinates>-0.0107102,51.4788</coordinates>
+        									</location></locations>
+						</movie><movie>
+    						<title>The Golden Compass</title>
+    						<poster>http://www.filmaps.com/posters/1001043701000000</poster>
+    						<locations><location>
+    											<place>Old Royal Naval </place>
+    										<scene></scene>
+        									<coordinates>-0.00610471,51.4829</coordinates>
+        									</location></locations>
+						</movie></Document>
