@@ -12,5 +12,4 @@ class Location(models.Model):
     movie = models.ForeignKey(Movie)
 
     def __unicode__(self):
-    	return self.movie.name
-    
+    	return "%s (%f, %f)" % (self.movie.name, self.latitude, self.longitude)

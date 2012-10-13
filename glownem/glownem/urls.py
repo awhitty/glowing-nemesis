@@ -13,6 +13,8 @@ urlpatterns = patterns('',
     url(r'^$', 'views.home', name='home'),
     # url(r'^glownem/', include('glownem.foo.urls')),
 
+	url(r'^location/(?P<lat>-?\d+\.\d+),(?P<dx>\d+\.\d+)/(?P<long>-?\d+\.\d+),(?P<dy>\d+\.\d+)/$', 'movies.views.location'),
+
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
 
