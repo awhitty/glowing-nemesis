@@ -9,7 +9,6 @@
     <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
     <script type="text/javascript">
       $(function() {
-        $('#map-canvas').hide()
       })
       var map
       function initialize() {
@@ -30,8 +29,11 @@
       function setupMap(position) { 
 
         map.setCenter(new google.maps.LatLng(position.coords.latitude, position.coords.longitude));
-        $('#map-canvas').fadeIn();
-        google.maps.event.addListener(map, 'center_changed', refreshMarkers());
+        google.maps.event.addListener(map, 'dragend', function() {refreshMarkers()});
+      }
+
+      function refreshMarkers() {
+        
       }
 
 
@@ -51,7 +53,14 @@
       </div>
       <ul id="markers">
         <li>
-          Hi
+          {# <i class="big-icon icon-map-marker"></i> #}
+          <h3>Movie Title</h3>
+          <p class="muted">Menlo Park, CA</p>
+        </li>
+        <li>
+          {# <i class="big-icon icon-map-marker"></i> #}
+          <h3>Movie Title</h3>
+          <p class="muted">Menlo Park, CA</p>
         </li>
       </ul>
     </div>
